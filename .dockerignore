@@ -1,0 +1,9 @@
+.venv
+.git
+.env
+.env.*
+data
+.pytest_cache
+__pycache__
+*.pyc
+bench/report.json
