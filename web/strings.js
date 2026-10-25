@@ -17,7 +17,7 @@ window.STRINGS = {
     source_unavailable: "Source unavailable",
   },
   sentLine: "Sent to",
-  receivedOld: "received the old value.",
+  receivedOld: "received the old deadline.",
   correctionPrepared: "Correction prepared.",
   correctionDraft: "Correction draft (nothing is sent automatically)",
   approve: "Approve correction",

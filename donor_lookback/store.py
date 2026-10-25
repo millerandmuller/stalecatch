@@ -338,6 +338,12 @@ class Store:
         row = self._one("SELECT id FROM runs ORDER BY rowid DESC LIMIT 1")
         return self.get_run(row["id"]) if row else None
 
+    def latest_run_with_change(self) -> Optional[dict]:
+        """The most recent run that turned a donor red. The receipt shown on the board belongs to it, so a later quiet check
+        does not replace the Nano-versus-Ultra numbers."""
+        row = self._one("SELECT run_id FROM run_events WHERE step='donor_red' ORDER BY seq DESC LIMIT 1")
+        return self.get_run(row["run_id"]) if row else None
+
     def log_event(self, run_id: str, step: str, detail: str = "") -> None:
         with self.tx() as c:
             c.execute("INSERT INTO run_events(run_id,ts,step,detail) VALUES (?,?,?,?)",

@@ -71,3 +71,14 @@ def test_approve_and_reset(client):
     assert c.post("/api/demo/reset").json()["products"] == 5
     assert c.get("/api/state").json()["products"][0]["correction_approved"] == 0
     assert c.post("/api/products/nope/approve").status_code == 404
+
+
+def test_state_keeps_the_receipt_of_the_run_that_changed_something(client):
+    c, env = client
+    c.post("/api/demo/edit", json={"deadline": "October 28, 2026"})
+    env.web.state["funder_deadline"] = "October 28, 2026"
+    wait_done(c, c.post("/api/check/run").json()["run_id"])
+    wait_done(c, c.post("/api/check/run").json()["run_id"])  # quiet second check
+    st = c.get("/api/state").json()
+    assert st["run"]["id"] != st["headline_run"]["id"]
+    assert st["receipt"]["ultra"]["calls"] == 4 and st["headline_run"]["summary"]["changed"] == 1

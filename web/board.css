@@ -66,3 +66,7 @@ th, td { text-align: left; padding: 5px 8px; border-bottom: 1px solid var(--line
 td a { color: var(--accent); word-break: break-all; }
 @media (max-width: 900px) { .board { grid-template-columns: 1fr; } }
 @media (prefers-reduced-motion: reduce) { .card { transition: none; } }
+
+.warn { color: var(--red); font-weight: 600; }
+.miss { color: var(--red); font-weight: 600; }
+#benchBody table { font-size: 12px; }

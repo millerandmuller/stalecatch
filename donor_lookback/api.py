@@ -54,10 +54,12 @@ def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_
         products = svc.store.list_products()
         recipients = sorted((p for p in products if p["sent"]), key=lambda p: (AFFECTED.get(p["status"], 9), p["id"]))
         run = svc.store.latest_run()
+        headline = svc.store.latest_run_with_change() or run
         return {"donors": donors, "products": products, "recipients": recipients,
                 "demo_page": demo_pages.load_state(svc.settings.demo_state_path),
                 "run": run, "running": cur["run_id"] is not None and run_lock.locked(),
-                "receipt": build_receipt(svc.store, svc.settings, run["id"]) if run else None}
+                "headline_run": headline,
+                "receipt": build_receipt(svc.store, svc.settings, headline["id"]) if headline else None}
 
     @app.get("/api/run/{run_id}/events")
     def events(run_id: str, after: int = 0):

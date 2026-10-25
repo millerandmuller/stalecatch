@@ -55,3 +55,12 @@ def test_lookback_puts_sent_first():
     s.derive(parents=[d["id"]], kind="calendar", content="cal")
     m = s.derive(parents=[d["id"]], kind="message", content="msg", sent=True, recipient="Sam")
     assert s.lookback(d["id"])["sent_first"][0]["id"] == m["id"]
+
+
+def test_latest_run_with_change_survives_a_later_quiet_run():
+    st = Store(":memory:")
+    first, second = st.start_run("a"), st.start_run("b")
+    st.log_event(first, "donor_red", "changed")
+    st.log_event(second, "unchanged", "quiet")
+    assert st.latest_run()["id"] == second and st.latest_run_with_change()["id"] == first
+    assert Store(":memory:").latest_run_with_change() is None
