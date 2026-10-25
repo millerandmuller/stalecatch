@@ -368,6 +368,11 @@ async function showBench() {
     const r = await api("/api/bench");
     const sum = r.summary, meta = r.meta || {};
     if (meta.subtitle) body.append(h("p", "sub", meta.subtitle));
+    if ((r.tiles || []).length) {
+      const tiles = h("div", "proof-tiles");
+      for (const t of r.tiles) tiles.append(rcCard(t.label, t.value, t.note));
+      body.append(tiles);
+    }
     body.append(h("p", "sub", `Real changes found: quick scan alone ${sum.nano_recall}/${sum.changed_pairs}, with deep review ${sum.confirmed_recall}/${sum.changed_pairs} (same cycle changed: ${sum.verdict_changed}, ${S.nextCycle.toLowerCase()}: ${sum.verdict_superseded}). Controls compared: ${sum.controls_compared}/${sum.unchanged_pairs}; false alarms on them: quick scan alone ${sum.nano_false_alarms}, after deep review ${sum.false_alarms}. Cost $${sum.total_usd.toFixed(4)}. Misses are listed first.`));
     const wrap = h("div", "table-wrap"), t = h("table"), head = h("tr");
     for (const c of ["Page", "What changed", "Result", "Quick scan", "Changed", S.nextCycle, "Unchanged", "Snapshots"]) head.append(h("th", "", c));

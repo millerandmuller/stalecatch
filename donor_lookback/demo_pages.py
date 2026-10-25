@@ -74,10 +74,25 @@ def page_lines(slug: str, state: dict) -> list[str]:
     return PAGES[slug]["lines"](state)
 
 
+# One small stylesheet so the pages read as a foundation's site on camera. It adds no text (the extractor skips <head>), and the
+# header band is the existing <h1>/<h2>, so the page text the seed excerpts and the recorded run depend on stays word for word.
+PAGE_CSS = """
+body { margin: 0; background: #faf8f4; color: #2b2a28; font: 16px/1.65 Georgia, 'Times New Roman', serif; }
+.demo-banner { background: #fff4c2; color: #4a3b00; padding: 8px 16px; font: 14px/1.4 -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; text-align: center; border-bottom: 1px solid #e6d58a; }
+header { background: #20443c; color: #f4f1ea; padding: 28px 16px 22px; }
+header > div, main { max-width: 640px; margin: 0 auto; }
+h1 { margin: 0; font-size: 28px; line-height: 1.2; letter-spacing: .01em; }
+h2 { margin: 6px 0 0; font-size: 17px; font-weight: normal; color: #cfe0d8; }
+main { padding: 28px 16px 56px; }
+main p { margin: 0 0 18px; }
+"""
+
+
 def render_html(slug: str, state: dict) -> str:
     page = PAGES[slug]
     lines = page_lines(slug, state)
     body = "".join(f"<p>{html.escape(ln)}</p>" for ln in lines[2:])
-    return (f"<!doctype html><html lang='en'><head><meta charset='utf-8'><title>{page['title']}</title></head><body>"
-            f"<div style='background:#fff4c2;padding:8px;font:14px sans-serif'>{BANNER}</div>"
-            f"<h1>{html.escape(lines[0])}</h1><h2>{html.escape(lines[1])}</h2>{body}</body></html>")
+    return (f"<!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width, initial-scale=1'>"
+            f"<title>{page['title']}</title><style>{PAGE_CSS}</style></head><body>"
+            f"<div class='demo-banner'>{BANNER}</div>"
+            f"<header><div><h1>{html.escape(lines[0])}</h1><h2>{html.escape(lines[1])}</h2></div></header><main>{body}</main></body></html>")

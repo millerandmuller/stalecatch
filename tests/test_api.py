@@ -141,3 +141,21 @@ def test_no_cap_outside_judge_mode(env):
 def test_index_answers_head_requests(client):
     c, _ = client
     assert c.head("/").status_code == 200 and c.get("/").status_code == 200
+
+
+def test_demo_pages_are_styled_banner_first_and_text_unchanged(client):
+    import json
+    from donor_lookback import demo_pages
+    from donor_lookback.config import ROOT
+    from donor_lookback.textutil import html_to_text
+    c, _ = client
+    seed = json.loads((ROOT / "seed" / "seed_data.json").read_text())
+    for slug in ("funder", "control"):
+        html = c.get(f"/demo/{slug}").text
+        assert "<style>" in html
+        body = html[html.index("<body>") + 6:]
+        assert body.startswith("<div class='demo-banner'>" + demo_pages.BANNER)  # the DEMO banner is the first visible element
+        text = html_to_text(html)
+        assert text.splitlines() == [demo_pages.BANNER] + demo_pages.page_lines(slug, demo_pages.DEFAULT_STATE)  # styling added no words
+        for d in (d for d in seed["donors"] if d["slug"] == slug):
+            assert d["match"] in text

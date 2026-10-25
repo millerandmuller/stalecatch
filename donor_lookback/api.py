@@ -14,6 +14,7 @@ from pydantic import BaseModel
 from . import demo_pages
 from .config import ROOT
 from .gateway import GatewayError, redact
+from .proof_tiles import proof_tiles
 from .receipt import build_receipt
 from .runner import run_check
 from .seed import edit_funder_deadline, reset_demo
@@ -158,7 +159,8 @@ def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_
     def bench():
         if not bench_report_path.exists():
             raise HTTPException(404, "No bench report yet. Run: python -m bench.run_bench")
-        return json.loads(bench_report_path.read_text())
+        report = json.loads(bench_report_path.read_text())
+        return {**report, "tiles": proof_tiles(report)}
 
     @app.get("/demo/{slug}", response_class=HTMLResponse)
     def demo_page(slug: str):

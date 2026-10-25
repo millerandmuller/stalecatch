@@ -139,3 +139,50 @@ def test_resummarize_rebuilds_the_headline_without_model_calls():
     assert out["rows"][0]["label"] == "new label" and out["rows"][0]["verified"] is False
     assert out["summary"]["changed_pairs"] == 0 and out["meta"]["subtitle"] == "0 real"
     assert out["summary"]["total_usd"] == 0.5
+
+
+def _tile_report(tmp_path, **summary):
+    import json
+    base = {"confirmed_recall": 17, "changed_pairs": 18, "nano_false_alarms": 8, "false_alarms": 1, "controls_compared": 10, "total_usd": 0.17082486}
+    path = tmp_path / "report.json"
+    path.write_text(json.dumps({"summary": {**base, **summary}, "rows": [{}] * 32, "meta": {}}))
+    return path
+
+
+def _bench_tiles(env, path):
+    from fastapi.testclient import TestClient
+    from donor_lookback.api import create_app
+    from donor_lookback.services import Services
+    svc = Services(env.settings, env.store, env.gateway, env.web)
+    return [t["text"] for t in TestClient(create_app(svc, bench_report_path=path)).get("/api/bench").json()["tiles"]]
+
+
+def test_proof_tiles_are_built_from_the_summary_fields(env, tmp_path):
+    assert _bench_tiles(env, _tile_report(tmp_path)) == [
+        "Real changes found: 17 of 18",
+        "False alarms on 10 controls: 8 → 1 after deep review",
+        "Cost for 32 pages: $0.17"]
+
+
+def test_proof_tiles_follow_the_summary_so_nothing_is_hard_coded(env, tmp_path):
+    changed = _tile_report(tmp_path, confirmed_recall=9, changed_pairs=12, nano_false_alarms=5, false_alarms=2, controls_compared=7, total_usd=0.5)
+    assert _bench_tiles(env, changed) == [
+        "Real changes found: 9 of 12",
+        "False alarms on 7 controls: 5 → 2 after deep review",
+        "Cost for 32 pages: $0.50"]
+
+
+def test_proof_tiles_are_empty_when_the_report_is_incomplete(env, tmp_path):
+    import json
+    path = tmp_path / "partial.json"
+    path.write_text(json.dumps({"summary": {"changed_pairs": 18}, "rows": []}))
+    assert _bench_tiles(env, path) == []
+
+
+def test_committed_bench_report_yields_the_three_tiles(env):
+    from pathlib import Path
+    path = Path(__file__).resolve().parent.parent / "bench" / "report.json"
+    assert _bench_tiles(env, path) == [
+        "Real changes found: 17 of 18",
+        "False alarms on 10 controls: 8 → 1 after deep review",
+        "Cost for 32 pages: $0.17"]
