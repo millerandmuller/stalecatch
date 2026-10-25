@@ -1,1 +1,1 @@
-"""Donor Lookback: assistant memory with a donor record for every fact."""
+"""StaleCatch (package donor_lookback): assistant memory with a source record for every fact."""

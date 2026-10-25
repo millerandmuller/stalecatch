@@ -73,14 +73,37 @@ def _extract_donor(gateway: Gateway, settings: Settings, before: str, field: str
     return None
 
 
+def pair_flags(pair: dict) -> dict:
+    """Pair attributes that travel into the report rows (the board and the headline read them)."""
+    flags = {"verified": pair.get("verified", True)}
+    for key in ("scope", "note", "listing_page"):
+        if pair.get(key):
+            flags[f"pair_{key}" if key == "note" else key] = pair[key]
+    return flags
+
+
+def load_pairs(path: Path) -> tuple[dict, list[dict]]:
+    """The pairs file is {"meta": {...}, "pairs": [...]}; a bare list (older files) is accepted."""
+    data = json.loads(Path(path).read_text())
+    return (data.get("meta", {}), data["pairs"]) if isinstance(data, dict) else ({}, data)
+
+
+def report_meta(meta: dict, summary: dict) -> dict:
+    """Text the board shows above the table; N is the number of verified real changes the headline counts."""
+    out = dict(meta)
+    if out.get("subtitle"):
+        out["subtitle"] = out["subtitle"].replace("{n}", str(summary["changed_pairs"]))
+    return out
+
+
 def run_pairs(pairs: list[dict], gateway: Gateway, settings: Settings, store: Store,
-              fetch: Callable[[str], str] = fetch_snapshot) -> dict:
+              fetch: Callable[[str], str] = fetch_snapshot, meta: Optional[dict] = None) -> dict:
     run_id = store.start_run("bench")
     rows = []
     for pair in pairs:
         row = {"label": pair["label"], "url": pair["url"], "before_url": pair["before_snapshot"],
                "after_url": pair["after_snapshot"], "changed": bool(pair["changed"]), "field": pair.get("field", ""), "what_changed": pair.get("what_changed", ""),
-               "expected_verdict": pair.get("expected_verdict", ""),
+               "expected_verdict": pair.get("expected_verdict", ""), **pair_flags(pair),
                "nano_verdict": "error", "final_verdict": "error", "note": ""}
         try:
             before, after = fetch(pair["before_snapshot"]), fetch(pair["after_snapshot"])
@@ -101,11 +124,28 @@ def run_pairs(pairs: list[dict], gateway: Gateway, settings: Settings, store: St
         except Exception as exc:  # noqa: BLE001 - one bad snapshot must not sink the report; it is shown as an error row
             row["note"] = f"{type(exc).__name__}: {exc}"
         rows.append(row)
-    return {"rows": rows, "summary": summarize(rows, build_receipt(store, settings, run_id))}
+    summary = summarize(rows, build_receipt(store, settings, run_id))
+    return {"meta": report_meta(meta or {}, summary), "rows": rows, "summary": summary}
+
+
+def resummarize(report: dict, pairs: list[dict], meta: dict) -> dict:
+    """Rebuild the headline from the stored rows (no model calls), after pair attributes such as `verified` changed."""
+    by_key = {(p["url"], p["before_snapshot"]): p for p in pairs}
+    rows = []
+    for row in report["rows"]:
+        pair = by_key[(row["url"], row["before_url"])]
+        row = {k: v for k, v in row.items() if k not in ("verified", "scope", "pair_note", "listing_page")}
+        row.update(label=pair["label"], what_changed=pair.get("what_changed", row.get("what_changed", "")), **pair_flags(pair))
+        rows.append(row)
+    summary = summarize(rows, report["summary"]["receipt"])
+    return {"meta": report_meta(meta, summary), "rows": rows, "summary": summary}
 
 
 def summarize(rows: list[dict], receipt: dict) -> dict:
-    changed = [r for r in rows if r["changed"]]
+    # The headline counts verified real changes only; an unverified pair is still run and listed (summary["unverified"]).
+    changed = [r for r in rows if r["changed"] and r.get("verified", True)]
+    unverified = [{"label": r["label"], "nano_verdict": r["nano_verdict"], "final_verdict": r["final_verdict"]}
+                  for r in rows if r["changed"] and not r.get("verified", True)]
     unchanged = [r for r in rows if not r["changed"]]
     return {
         "changed_pairs": len(changed), "unchanged_pairs": len(unchanged),
@@ -123,6 +163,7 @@ def summarize(rows: list[dict], receipt: dict) -> dict:
         "controls_compared": sum(not r.get("no_donor") for r in unchanged),
         "no_donor": [r["label"] for r in rows if r.get("no_donor")],  # pairs the models never compared; shown, never hidden
         "misses": [r["label"] for r in changed if r["final_verdict"] not in ALERTS],
+        "unverified": unverified,
         "total_usd": receipt["total_usd"], "receipt": receipt,
     }
 
@@ -131,8 +172,15 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--pairs", default=str(HERE / "archive_pairs.json"))
     ap.add_argument("--out", default=str(HERE / "report.json"))
+    ap.add_argument("--resummarize", action="store_true",
+                    help="rebuild the headline of the existing report from its stored rows and the pairs file (no model calls)")
     args = ap.parse_args()
-    pairs = json.loads(Path(args.pairs).read_text())
+    meta, pairs = load_pairs(Path(args.pairs))
+    if args.resummarize:
+        out = Path(args.out)
+        out.write_text(json.dumps(resummarize(json.loads(out.read_text()), pairs, meta), indent=2))
+        print(f"Rebuilt the headline of {out.name} from its stored rows.")
+        return
     if not Path(args.out).resolve().parent.is_dir():
         raise SystemExit(f"Output directory does not exist: {Path(args.out).resolve().parent}")
     load_dotenv()
@@ -140,7 +188,7 @@ def main() -> None:
     if not (settings.base_url and settings.api_key):
         raise SystemExit("Token Factory is not configured: set TOKEN_FACTORY_BASE_URL and TOKEN_FACTORY_API_KEY (or fill .env).")
     store = Store(":memory:")
-    report = run_pairs(pairs, Gateway(settings, recorder=store.log_call), settings, store, fetch=cached_fetch)
+    report = run_pairs(pairs, Gateway(settings, recorder=store.log_call), settings, store, fetch=cached_fetch, meta=meta)
     s = report["summary"]
     out = Path(args.out)
     if s["errors"]:
@@ -152,6 +200,8 @@ def main() -> None:
           f"false alarms {s['false_alarms']}/{s['unchanged_pairs']} | errors {s['errors']} | ${s['total_usd']:.4f}")
     for m in s["misses"]:
         print("MISS:", m)
+    for u in s["unverified"]:
+        print("UNVERIFIED (not in the headline):", u["label"], u["nano_verdict"], u["final_verdict"])
     for n in s["no_donor"]:
         print("NOT COMPARED (no usable excerpt on the before page):", n)
     if s["errors"]:

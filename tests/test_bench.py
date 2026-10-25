@@ -105,3 +105,37 @@ def test_summary_counts_pairs_the_models_never_compared():
             {"label": "u2", "changed": False, "nano_verdict": "unchanged", "final_verdict": "unchanged"}]
     s = summarize(rows, {"total_usd": 0.0})
     assert (s["changes_compared"], s["controls_compared"], s["no_donor"]) == (0, 1, ["c1", "u1"])
+
+
+def test_unverified_change_is_run_and_listed_but_not_in_the_headline():
+    rows = [{"label": "ok", "changed": True, "nano_verdict": "changed", "final_verdict": "changed", "verified": True},
+            {"label": "maybe", "changed": True, "nano_verdict": "changed", "final_verdict": "changed", "verified": False},
+            {"label": "c", "changed": False, "nano_verdict": "unchanged", "final_verdict": "unchanged"}]
+    s = summarize(rows, {"total_usd": 0.0})
+    assert (s["changed_pairs"], s["nano_recall"], s["confirmed_recall"]) == (1, 1, 1)
+    assert s["unverified"] == [{"label": "maybe", "nano_verdict": "changed", "final_verdict": "changed"}]
+
+
+def test_pairs_file_loads_with_meta_and_as_a_bare_list(tmp_path):
+    import json
+    from bench.run_bench import load_pairs, pair_flags
+    f = tmp_path / "p.json"
+    f.write_text(json.dumps({"meta": {"subtitle": "{n} changes"}, "pairs": [{"label": "a"}]}))
+    assert load_pairs(f) == ({"subtitle": "{n} changes"}, [{"label": "a"}])
+    f.write_text(json.dumps([{"label": "b"}]))
+    assert load_pairs(f) == ({}, [{"label": "b"}])
+    assert pair_flags({"verified": False, "scope": "NIH-wide notice", "note": "n", "listing_page": True}) == \
+        {"verified": False, "scope": "NIH-wide notice", "pair_note": "n", "listing_page": True}
+    assert pair_flags({}) == {"verified": True}
+
+
+def test_resummarize_rebuilds_the_headline_without_model_calls():
+    from bench.run_bench import resummarize
+    report = {"rows": [{"label": "old", "url": "u", "before_url": "b", "changed": True, "nano_verdict": "changed",
+                        "final_verdict": "superseded", "what_changed": "x"}],
+              "summary": {"receipt": {"total_usd": 0.5}}}
+    pairs = [{"label": "new label", "url": "u", "before_snapshot": "b", "verified": False, "what_changed": "y"}]
+    out = resummarize(report, pairs, {"subtitle": "{n} real"})
+    assert out["rows"][0]["label"] == "new label" and out["rows"][0]["verified"] is False
+    assert out["summary"]["changed_pairs"] == 0 and out["meta"]["subtitle"] == "0 real"
+    assert out["summary"]["total_usd"] == 0.5
