@@ -36,6 +36,7 @@ window.STRINGS = {
   running: "Checking sources…",
   demoNote: "Seed data is curated. The funder pages are our own labeled demo pages, not real funders. Measured numbers come from the API's usage fields.",
   notConfigured: "Live checks need Token Factory credentials on this server. The recorded run still replays.",
+  liveCapReached: "Live checks used up for today, the replay shows a real run.",
   diffOld: "Before",
   diffNew: "After",
   fetched: "fetched",

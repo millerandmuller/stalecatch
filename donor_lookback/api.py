@@ -2,6 +2,7 @@
 import json
 import threading
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -21,6 +22,7 @@ from .store import NotFoundError
 
 WEB_DIR = ROOT / "web"
 DATA_DIR = ROOT / "data"
+CAP_MESSAGE = "Live checks used up for today, the replay shows a real run."
 AFFECTED = {"quarantined": 0, "rederived": 1, "source_unavailable": 2, "released": 3}
 
 
@@ -37,6 +39,15 @@ def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_
     recorded_run_path = recorded_run_path or DATA_DIR / "recorded_run.json"
     bench_report_path = bench_report_path or ROOT / "bench" / "report.json"
 
+    def today_utc() -> str:
+        return datetime.now(timezone.utc).date().isoformat()
+
+    def live_runs_left() -> Optional[int]:
+        """Judge mode only: how many of today's shared live runs remain (None when there is no cap)."""
+        if not judge_mode:
+            return None
+        return max(0, svc.settings.live_runs_per_day - svc.store.live_runs_used(today_utc()))
+
     def live_ready() -> bool:
         s = svc.settings
         return bool(s.base_url and s.api_key) or svc.gateway._client is not None
@@ -45,7 +56,7 @@ def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_
     def config():
         s = svc.settings
         return {"judge_mode": judge_mode, "dev_fake": dev_fake, "live_ready": live_ready(), "models": {"nano": s.nano.model_id, "ultra": s.ultra.model_id},
-                "has_recorded_run": recorded_run_path.exists(), "has_bench": bench_report_path.exists(),
+                "live_runs_left": live_runs_left(), "has_recorded_run": recorded_run_path.exists(), "has_bench": bench_report_path.exists(),
                 "tavily": bool(s.tavily_api_key)}
 
     @app.get("/api/state")
@@ -75,6 +86,9 @@ def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_
             raise HTTPException(429, f"Live check is rate limited in judge mode. Try again in {int(wait) + 1}s.")
         if not run_lock.acquire(blocking=False):
             raise HTTPException(409, "A check is already running.")
+        if judge_mode and not svc.store.claim_live_run(today_utc(), svc.settings.live_runs_per_day):
+            run_lock.release()
+            raise HTTPException(429, CAP_MESSAGE)
         try:
             run_id = svc.store.start_run("board")
         except Exception:

@@ -76,6 +76,10 @@ CREATE TABLE IF NOT EXISTS model_calls (
   usd REAL NOT NULL,
   ok INTEGER NOT NULL DEFAULT 1
 );
+CREATE TABLE IF NOT EXISTS live_quota (
+  day TEXT PRIMARY KEY,
+  used INTEGER NOT NULL DEFAULT 0
+);
 """
 
 
@@ -328,6 +332,19 @@ class Store:
         with self.tx() as c:
             c.execute("INSERT INTO runs(id,trigger,started_at) VALUES (?,?,?)", (rid, trigger, now_iso()))
         return rid
+
+    def live_runs_used(self, day: str) -> int:
+        row = self._one("SELECT used FROM live_quota WHERE day=?", (day,))
+        return row["used"] if row else 0
+
+    def claim_live_run(self, day: str, cap: int) -> bool:
+        """Take one of the day's live-run slots; False once `cap` are gone. Kept out of reset_all so a demo reset cannot refill it."""
+        with self.tx() as c:
+            row = c.execute("SELECT used FROM live_quota WHERE day=?", (day,)).fetchone()
+            if (row["used"] if row else 0) >= cap:
+                return False
+            c.execute("INSERT INTO live_quota(day, used) VALUES (?, 1) ON CONFLICT(day) DO UPDATE SET used = used + 1", (day,))
+            return True
 
     def finish_run(self, run_id: str, *, complete: bool, summary: dict) -> None:
         with self.tx() as c:

@@ -234,9 +234,11 @@ function render() {
   renderCounts();
   renderRecord();
   renderReceipt();
-  $("runBtn").disabled = state.running || !config.live_ready;
-  $("runBtn").title = config.live_ready ? "" : S.notConfigured;
-  $("demoNote").textContent = S.demoNote + (config.live_ready ? "" : " " + S.notConfigured);
+  const capped = config.live_runs_left === 0;
+  const note = !config.live_ready ? S.notConfigured : capped ? S.liveCapReached : "";
+  $("runBtn").disabled = state.running || !config.live_ready || capped;
+  $("runBtn").title = note;
+  $("demoNote").textContent = S.demoNote + (note ? " " + note : "");
 }
 
 // Friendly one-line ticker for each run event: [text, dot colour, phase label].
@@ -289,6 +291,7 @@ function tickEvent(e) {
 
 async function refresh() {
   state = await api("/api/state");
+  if (config && config.judge_mode) config = await api("/api/config");  // the shared daily live-run count changes under us
   render();
 }
 
