@@ -1,0 +1,29 @@
+{
+  "note": "Curated demo seed (GEMOCKT/KURATIERT). Donors point at our own labeled demo pages; the products are what an assistant would have built from them.",
+  "donors": [
+    {
+      "id": "donor_funder", "slug": "funder", "label": "Example Community Foundation: Small Grants (demo page)",
+      "claim": "The 2026 Small Grants application is due at 5:00 PM Pacific on November 12, 2026.",
+      "match": "Applications for the 2026 Small Grants round are due by", "days_ago": 21
+    },
+    {
+      "id": "donor_control", "slug": "control", "label": "Example Regional Arts Council: Travel Grants (demo page)",
+      "claim": "The Travel Grants application is due at 5:00 PM Eastern on December 3, 2026.",
+      "match": "Applications for Travel Grants are due by", "days_ago": 14
+    }
+  ],
+  "products": [
+    {"id": "prod_cal", "parents": ["donor_funder"], "kind": "calendar", "title": "Calendar: Small Grants deadline",
+     "content": "Nov 12, 2026, 5:00 PM PT: Example Community Foundation Small Grants application due."},
+    {"id": "prod_plan", "parents": ["prod_cal"], "kind": "plan", "title": "Plan: Small Grants work-back",
+     "content": "Work back from the Nov 12 deadline: final draft by Nov 5, budget sign-off by Nov 7, submit by Nov 11 to leave a day of margin."},
+    {"id": "prod_msg", "parents": ["donor_funder"], "kind": "message", "title": "Message to Sam: deadline",
+     "content": "Hi Sam, quick heads-up: the Small Grants application is due Nov 12 at 5:00 PM Pacific. I will have the draft to you by Nov 5.",
+     "sent": true, "recipient": "Sam (colleague)"},
+    {"id": "prod_ctl_cal", "parents": ["donor_control"], "kind": "calendar", "title": "Calendar: Travel Grants deadline",
+     "content": "Dec 3, 2026, 5:00 PM ET: Example Regional Arts Council Travel Grants application due."},
+    {"id": "prod_ctl_msg", "parents": ["donor_control"], "kind": "message", "title": "Message to Priya: Travel Grants",
+     "content": "Hi Priya, the Travel Grants application is due Dec 3 at 5:00 PM Eastern. Send me your portfolio link by Nov 20.",
+     "sent": true, "recipient": "Priya (client)"}
+  ]
+}
