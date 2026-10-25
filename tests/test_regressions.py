@@ -1,5 +1,6 @@
 """Regression tests: one per defect found in review of the check pipeline, store, gateway, fetcher and API."""
 import json
+from pathlib import Path
 from types import SimpleNamespace
 
 import pytest
@@ -330,3 +331,32 @@ def test_chat_json_gives_up_after_one_retry(env):
     env.models.chat.completions.create = lambda model, messages, **kw: _resp("not json at all")
     with pytest.raises(GatewayError):
         env.gateway.chat_json("nano", "s", "u", purpose="x")
+
+
+def test_replay_frames_stop_when_reset_or_run_takes_the_board_back(tmp_path):
+    """A replay must not paint frames after Reset or Run (web/replay.js)."""
+    import shutil
+    import subprocess
+    node = shutil.which("node")
+    if not node:
+        import pytest
+        pytest.skip("node not installed")
+    script = tmp_path / "t.js"
+    web = Path(__file__).resolve().parent.parent / "web" / "replay.js"
+    script.write_text(f"""
+const {{ createReplay, playFrames }} = require({json.dumps(str(web))});
+(async () => {{
+  const replay = createReplay(), shown = [];
+  const mine = replay.start();
+  const done = playFrames([1, 2, 3, 4], replay, mine, (f) => shown.push(f), async () => {{
+    if (shown.length === 2) replay.stop();        // Reset or Run clicked mid-replay
+  }});
+  const finished = await done;
+  // a second replay started after the stop owns the board again; the first stays dead
+  const second = replay.start();
+  const ok2 = await playFrames([9], replay, second, (f) => shown.push(f), async () => {{}});
+  console.log(JSON.stringify({{ finished, shown, ok2, firstOwns: replay.owns(mine) }}));
+}})();
+""")
+    out = json.loads(subprocess.run([node, str(script)], capture_output=True, text=True, check=True).stdout)
+    assert out == {"finished": False, "shown": [1, 2, 9], "ok2": True, "firstOwns": False}

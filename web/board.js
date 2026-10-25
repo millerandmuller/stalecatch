@@ -2,7 +2,8 @@
 const S = window.STRINGS;
 const $ = (id) => document.getElementById(id);
 
-let replaying = false, state = null, config = null, selectedDonor = null, polling = null, lastEventSeq = 0, activeRunId = null;
+const replay = createReplay();
+let state = null, config = null, selectedDonor = null, polling = null, lastEventSeq = 0, activeRunId = null;
 
 function h(tag, cls, text) {
   const el = document.createElement(tag);
@@ -300,7 +301,7 @@ async function refresh() {
 async function poll() {
   clearTimeout(polling);
   try {
-    if (replaying) { polling = setTimeout(poll, 4000); return; }  // never overwrite a replayed frame with live state
+    if (replay.isActive()) { polling = setTimeout(poll, 4000); return; }  // never overwrite a replayed frame with live state
     if (activeRunId) {
       const ev = await api(`/api/run/${activeRunId}/events?after=${lastEventSeq}`);
       for (const e of ev.events) { lastEventSeq = e.seq; tickEvent(e); }
@@ -319,7 +320,7 @@ async function poll() {
 }
 
 async function runCheck() {
-  replaying = false;
+  replay.stop();
   try {
     const { run_id } = await api("/api/check/run", { method: "POST" });
     activeRunId = run_id; lastEventSeq = 0; setTicker(S.running, "amber", "quick scan · nano"); poll();
@@ -335,7 +336,7 @@ async function editPage() {
 }
 
 async function resetDemo() {
-  replaying = false;  // leave a finished replay so the live board updates again
+  replay.stop();  // a replay in flight or finished gives the board back to live state
   try { await api("/api/demo/reset", { method: "POST" }); selectedDonor = null; setTicker("Demo reset to the seed.", "", "idle"); await refresh(); }
   catch (err) { setTicker(err.message, "red", "error"); }
 }
@@ -415,20 +416,20 @@ async function showBench() {
 }
 
 async function replayRecorded() {
-  replaying = true;
+  const mine = replay.start();
   try {
     const rec = await api("/api/recorded-run");
+    if (!replay.owns(mine)) return;
     setTicker(`Replaying a recorded run from ${rec.recorded_at.slice(0, 10)} (${rec.models.nano} + ${rec.models.ultra}). Read-only.`, "amber", "replay");
-    for (const frame of rec.frames) {
+    const finished = await playFrames(rec.frames, replay, mine, (frame) => {
       state = frame.state;
       const red = state.donors.find((d) => d.state === "changed");
       selectedDonor = red ? red.id : selectedDonor;
       render();
       if (frame.event) tickEvent(frame.event);
-      await new Promise((r) => setTimeout(r, frame.hold_ms || 900));
-    }
-    setTicker(heroLine() || "Recorded run finished.", "red", "recorded run");  // stays on screen; reload returns to the live board
-  } catch (err) { replaying = false; setTicker(err.message, "red", "error"); }
+    }, (ms) => new Promise((r) => setTimeout(r, ms)));
+    if (finished) setTicker(heroLine() || "Recorded run finished.", "red", "recorded run");  // stays on screen; Reset or Run returns to the live board
+  } catch (err) { if (replay.owns(mine)) { replay.stop(); setTicker(err.message, "red", "error"); } }
 }
 
 async function init() {
