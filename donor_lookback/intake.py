@@ -1,4 +1,5 @@
 """F3 Intake: fetch the URL, Nano extracts claim + verbatim excerpt, store a donor."""
+import re
 from typing import Optional
 
 from .config import Settings
@@ -6,7 +7,7 @@ from .fetcher import Fetcher
 from .gateway import Gateway, GatewayError
 from .prompts import INTAKE_SYSTEM
 from .store import Store, now_iso
-from .textutil import is_verbatim, relevant_window
+from .textutil import DATE_IN_TEXT, is_verbatim, relevant_window
 
 INTAKE_SCHEMA = {
     "type": "object",
@@ -27,6 +28,17 @@ class IntakeError(RuntimeError):
     pass
 
 
+def excerpt_problem(claim: str, excerpt: str, page_text: str) -> str:
+    """Why an extracted excerpt cannot be stored as a donor, or "" when it can. Shared by intake and the bench."""
+    if not (claim and excerpt):
+        return "claim or excerpt was empty."
+    if not is_verbatim(excerpt, page_text):
+        return "it was not a verbatim substring of the page."
+    if not DATE_IN_TEXT.search(excerpt):
+        return "it contains no date; copy the line that states the date itself (label and date lines together)."
+    return ""
+
+
 def intake_url(store: Store, gateway: Gateway, fetcher: Fetcher, settings: Settings, url: str,
                label: Optional[str] = None, run_id: Optional[str] = None) -> dict:
     page = fetcher.fetch(url)
@@ -42,10 +54,10 @@ def intake_url(store: Store, gateway: Gateway, fetcher: Fetcher, settings: Setti
         except GatewayError as exc:
             raise IntakeError(str(exc)) from exc
         excerpt, claim = str(out.get("excerpt", "")).strip(), str(out.get("claim", "")).strip()
-        if claim and excerpt and is_verbatim(excerpt, page.text):
+        last_problem = excerpt_problem(claim, excerpt, page.text)
+        if not last_problem:
             donor = store.add_donor(url=url, claim=claim, excerpt=excerpt, label=label,
                                     fetched_at=now_iso(), fetch_via=page.via)
             donor["date_fields"] = out.get("date_fields", [])
             return donor
-        last_problem = "it was not a verbatim substring of the page." if claim and excerpt else "claim or excerpt was empty."
     raise IntakeError(f"No verbatim excerpt could be extracted from {url} ({last_problem})")

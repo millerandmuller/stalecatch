@@ -51,20 +51,38 @@ def _tokens(text: str) -> set[str]:
     return {t for t in re.findall(r"[a-z0-9]+", text.lower()) if len(t) > 2}
 
 
+MONTHS = r"(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?"
+# a four-digit year, a day-month pair in either order, or a numeric date; "5:00 PM" is not a date
+DATE_IN_TEXT = re.compile(rf"(?i)\b(?:19|20)\d{{2}}\b|\b{MONTHS}\s+\d{{1,2}}\b|\b\d{{1,2}}\s+{MONTHS}|\b\d{{1,2}}/\d{{1,2}}/\d{{2,4}}\b")
+
+
 def relevant_window(page_text: str, excerpt: str, limit: int) -> str:
-    """Keep the page whole if it fits; otherwise keep the lines most similar to the excerpt, in page order."""
+    """Keep the page whole if it fits; otherwise keep the lines most similar to the excerpt, in page order.
+    Lines that carry a date rank higher, and so does the block around one: grant pages often put a bare date under a label
+    (a flattened table), the date line shares no words with the question, and a model quotes across a gap it cannot see.
+    Runs of kept lines that were not adjacent on the page are separated by a [...] line."""
     if len(page_text) <= limit:
         return page_text
     want = _tokens(excerpt)
     lines = page_text.split("\n")
-    scored = sorted(range(len(lines)), key=lambda i: -len(want & _tokens(lines[i])))
+    dated = [bool(DATE_IN_TEXT.search(ln)) for ln in lines]
+    near_dated = [any(dated[max(0, i - 12):i + 13]) for i in range(len(lines))]
+
+    def score(i: int) -> float:
+        return len(want & _tokens(lines[i])) + (2 if dated[i] else 0) + (1.5 if near_dated[i] else 0)
     keep, used = set(), 0
-    for i in scored:
+    for i in sorted(range(len(lines)), key=lambda i: -score(i)):
         if used + len(lines[i]) + 1 > limit:
             continue
         keep.add(i)
         used += len(lines[i]) + 1
-    return "\n".join(lines[i] for i in sorted(keep))
+    out, prev = [], None
+    for i in sorted(keep):
+        if prev is not None and i != prev + 1:
+            out.append("[...]")
+        out.append(lines[i])
+        prev = i
+    return "\n".join(out)
 
 
 _STOP = {"the", "are", "and", "for", "with", "from", "that", "this", "will", "can", "you", "our", "your", "all", "any", "has", "was", "not"}

@@ -172,3 +172,42 @@ def test_reset_restores_seed(env):
     assert out["donors"] == 2 and out["products"] == 5
     assert all(p["status"] == "released" for p in env.store.list_products())
     assert env.store.calls() == []
+
+
+def test_intake_rejects_a_dateless_excerpt_and_retries_with_the_reason(env):
+    s = Store(":memory:")
+    real = env.models._create
+    prompts = []
+
+    def create(model, messages, **kw):
+        prompts.append(messages[-1]["content"])
+        if len(prompts) == 1:  # a verbatim sentence about the deadline that states no date
+            page = messages[-1]["content"].split("PAGE TEXT:\n", 1)[1]
+            page_line = next(l for l in page.split("\n") if l.strip() and not any(c.isdigit() for c in l))
+            from tests.fakes import _resp
+            return _resp({"claim": "c", "excerpt": page_line.strip(), "date_fields": []})
+        return real(model, messages, **kw)
+    env.models.chat.completions.create = create
+    d = intake_url(s, env.gateway, env.web, env.settings, FUNDER)
+    assert any(c.isdigit() for c in d["excerpt"])
+    assert len(prompts) == 2 and "contains no date" in prompts[1]
+
+
+def test_excerpt_problem_wants_a_date_not_just_a_digit():
+    from donor_lookback.intake import excerpt_problem
+    page = "Due by 5:00 PM local time. Deadline: November 12, 2026. Rolling from 3 March."
+    assert "no date" in excerpt_problem("c", "Due by 5:00 PM local time.", page)
+    assert excerpt_problem("c", "Deadline: November 12, 2026.", page) == ""
+    assert excerpt_problem("c", "Rolling from 3 March.", page) == ""
+    assert "verbatim" in excerpt_problem("c", "Deadline: May 5, 2026.", page)
+    assert "empty" in excerpt_problem("", "x", page)
+
+
+def test_relevant_window_keeps_bare_date_lines_on_a_long_page():
+    from donor_lookback.textutil import relevant_window
+    def filler(a, b):
+        return "\n".join(f"Application due statement number {i} about the deadline for applicants." for i in range(a, b))
+    page = filler(0, 300) + "\nKey Dates\nApplication Due Dates\nJuly 19, 2022\n" + filler(300, 600)
+    window = relevant_window(page, "application due date", 3000)
+    assert "Application Due Dates\nJuly 19, 2022" in window and len(window) <= 3100  # the label stays next to its date
+    assert "[...]" in window  # a gap is marked, so a model cannot quote across it

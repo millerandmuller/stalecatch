@@ -6,6 +6,19 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 
+def load_dotenv(path: Path = ROOT / ".env") -> None:
+    """Fill os.environ from a KEY=VALUE file without overriding variables that are already set (CLI commands call this;
+    the board's serve.sh and the container get their environment from the shell instead)."""
+    if not path.exists():
+        return
+    for line in path.read_text().splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+
+
 def _env(name: str, default: str = "") -> str:
     return os.environ.get(name, default)
 

@@ -6,6 +6,8 @@ INTAKE_SYSTEM = (
     "excerpt = the exact sentence or line copied CHARACTER FOR CHARACTER from the page that states it (never paraphrase). "
     "The excerpt must contain the actual date or value itself, not only a sentence about it. When a page puts a label such as "
     "'Application Due Date(s)' on one line and the date on the next line, copy the label and the date lines together; "
+    "never copy across a [...] marker, which only shows that lines were left out: if a date stands alone, copy that single line "
+    "and name its label in claim; "
     "date_fields = list of {field, value} for each date or eligibility value in the excerpt. "
     'JSON shape: {"claim": str, "excerpt": str, "date_fields": [{"field": str, "value": str}]}'
 )
