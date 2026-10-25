@@ -2,11 +2,13 @@
 
 Protocol (the Wayback Machine refuses bursts):
   plan   one CDX call per URL (5 s apart) -> picks ONE pair of captures per page, 14-150 days apart, different content digest
+  notices  like plan, but the pair straddles an official notice: last capture before the notice date, first capture after it
   fetch  fetches only those two snapshots per page, 15 s between requests, exponential backoff on refusal, disk cache
 A fetched pair is labeled by what its date lines show: 'changed' (date lines differ) or 'unchanged' (same date lines, different
 markup). A human reviews every printed pair before it goes into bench/archive_pairs.json.
 
    python scripts/curate_pairs.py plan  urls.txt  plan.json
+   python scripts/curate_pairs.py notices notices.json plan.json
    python scripts/curate_pairs.py fetch plan.json candidates.json
 """
 import argparse
@@ -82,6 +84,36 @@ def cmd_plan(urls_file: str, out: str) -> None:
     print(f"planned {len(plan)} pairs", file=sys.stderr)
 
 
+def straddle(rows: list[list[str]], notice_date: str, window_days: int = 400):
+    """Last capture before the notice and first capture after it, each within window_days of the notice."""
+    day = datetime.strptime(notice_date, "%Y-%m-%d")
+    before = [r[0] for r in rows if 0 < (day - datetime.strptime(r[0], "%Y%m%d%H%M%S")).days <= window_days]
+    after = [r[0] for r in rows if 0 <= (datetime.strptime(r[0], "%Y%m%d%H%M%S") - day).days <= window_days]
+    return (before[-1], after[0]) if before and after else None
+
+
+def cmd_notices(notices_file: str, out: str) -> None:
+    plan = []
+    for item in json.loads(Path(notices_file).read_text()):
+        url = item["page_url"]
+        try:
+            r = polite_get(CDX, params={"url": url, "output": "json", "fl": "timestamp,digest", "filter": "statuscode:200",
+                                        "collapse": "digest", "limit": 4000})
+            rows = r.json()[1:]
+        except Exception as exc:  # noqa: BLE001
+            print(f"# {url}: {exc}", file=sys.stderr)
+            continue
+        finally:
+            time.sleep(5)
+        pair = straddle(rows, item["notice_date"])
+        print(f"{url}: {len(rows)} distinct captures -> {pair}", file=sys.stderr)
+        if pair:
+            plan.append({"url": url, "before": pair[0], "after": pair[1], "notice_url": item["notice_url"],
+                         "notice_date": item["notice_date"], "notice_change": item["change"]})
+    Path(out).write_text(json.dumps(plan, indent=1))
+    print(f"planned {len(plan)} pairs", file=sys.stderr)
+
+
 def snapshot_text(url: str, stamp: str) -> tuple[str, bool]:
     """Returns (text, fetched_from_network). Cached on disk so a rerun never refetches."""
     key = hashlib.sha1(f"{stamp}|{url}".encode()).hexdigest()
@@ -96,8 +128,19 @@ def snapshot_text(url: str, stamp: str) -> tuple[str, bool]:
     return text, True
 
 
+BARE_DATE = re.compile(rf"(?i)^({MONTH}\.? \d{{1,2}}, \d{{4}}|\d{{1,2}}/\d{{1,2}}/\d{{2,4}})$")
+KEY_DATES = re.compile(r"(?i)key dates|due date|deadline|target date")
+
+
 def date_lines(text: str) -> list[str]:
-    return sorted({re.sub(r"\s+", " ", ln).strip() for ln in text.split("\n") if DATE_LINE.search(ln) and len(ln) < 400})
+    """Lines that state a deadline with its date, plus bare date lines in the 40 lines after a 'Key Dates' / 'Due Date' label
+    (NIH Guide pages put the label and the date on separate lines)."""
+    lines = [re.sub(r"\s+", " ", ln).strip() for ln in text.split("\n")]
+    found = {ln for ln in lines if DATE_LINE.search(ln) and len(ln) < 400}
+    for i, ln in enumerate(lines):
+        if KEY_DATES.search(ln) and len(ln) < 120:
+            found.update(f"{ln} :: {nxt}" for nxt in lines[i + 1:i + 41] if BARE_DATE.match(nxt))
+    return sorted(found)
 
 
 def cmd_fetch(plan_file: str, out: str) -> None:
@@ -127,11 +170,11 @@ def cmd_fetch(plan_file: str, out: str) -> None:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["plan", "fetch"])
+    ap.add_argument("cmd", choices=["plan", "notices", "fetch"])
     ap.add_argument("src")
     ap.add_argument("out")
     args = ap.parse_args()
-    (cmd_plan if args.cmd == "plan" else cmd_fetch)(args.src, args.out)
+    {"plan": cmd_plan, "notices": cmd_notices, "fetch": cmd_fetch}[args.cmd](args.src, args.out)
 
 
 if __name__ == "__main__":

@@ -2,7 +2,9 @@
 Nano alone vs. Nano + Ultra confirm: recall on real changes, false alarms on unchanged pages, cost from usage fields.
 Run: python -m bench.run_bench [--pairs bench/archive_pairs.json] [--out bench/report.json]"""
 import argparse
+import hashlib
 import json
+import time
 from pathlib import Path
 from typing import Callable, Optional
 
@@ -38,6 +40,20 @@ def fetch_snapshot(url: str, http: Optional[httpx.Client] = None) -> str:
     return html_to_text(r.text) if "html" in ctype else r.text
 
 
+def cached_fetch(snapshot_url: str) -> str:
+    """Snapshot text from the shared disk cache (data/wayback_cache, same key as scripts/curate_pairs.py); on a miss one polite
+    network fetch, then cached. Keeps a rerun from hitting the Internet Archive again."""
+    stamp, original = snapshot_url.split("/web/", 1)[1].split("/", 1)
+    cache = HERE.parent / "data" / "wayback_cache" / (hashlib.sha1(f"{stamp}|{original}".encode()).hexdigest() + ".txt")
+    if cache.exists():
+        return cache.read_text()
+    time.sleep(15)
+    text = fetch_snapshot(snapshot_url)
+    cache.parent.mkdir(parents=True, exist_ok=True)
+    cache.write_text(text)
+    return text
+
+
 def _extract_donor(gateway: Gateway, settings: Settings, before: str, field: str, run_id: str) -> Optional[dict]:
     window = relevant_window(before, field or "deadline due date", settings.page_char_limit)
     hint = f" Focus on: {field}." if field else " Focus on the application deadline."
@@ -56,6 +72,7 @@ def run_pairs(pairs: list[dict], gateway: Gateway, settings: Settings, store: St
     for pair in pairs:
         row = {"label": pair["label"], "url": pair["url"], "before_url": pair["before_snapshot"],
                "after_url": pair["after_snapshot"], "changed": bool(pair["changed"]), "field": pair.get("field", ""), "what_changed": pair.get("what_changed", ""),
+               "expected_verdict": pair.get("expected_verdict", ""),
                "nano_verdict": "error", "final_verdict": "error", "note": ""}
         try:
             before, after = fetch(pair["before_snapshot"]), fetch(pair["after_snapshot"])
@@ -90,7 +107,7 @@ def summarize(rows: list[dict], receipt: dict) -> dict:
         "verdict_superseded": sum(r["final_verdict"] == "superseded" for r in changed),
         "nano_false_alarms": sum(r["nano_verdict"] == "changed" for r in unchanged),
         "false_alarms": sum(r["final_verdict"] in ALERTS for r in unchanged),
-        "errors": sum(r["nano_verdict"] == "error" for r in rows),
+        "errors": sum("error" in (r["nano_verdict"], r["final_verdict"]) for r in rows),
         "misses": [r["label"] for r in changed if r["final_verdict"] not in ALERTS],
         "total_usd": receipt["total_usd"], "receipt": receipt,
     }
@@ -104,7 +121,7 @@ def main() -> None:
     pairs = json.loads(Path(args.pairs).read_text())
     settings = get_settings()
     store = Store(":memory:")
-    report = run_pairs(pairs, Gateway(settings, recorder=store.log_call), settings, store)
+    report = run_pairs(pairs, Gateway(settings, recorder=store.log_call), settings, store, fetch=cached_fetch)
     Path(args.out).write_text(json.dumps(report, indent=2))
     s = report["summary"]
     print(f"Nano alone {s['nano_recall']}/{s['changed_pairs']} | Nano+Ultra {s['confirmed_recall']}/{s['changed_pairs']} "

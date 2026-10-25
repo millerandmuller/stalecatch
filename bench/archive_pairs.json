@@ -6,7 +6,8 @@
   "after_snapshot": "https://web.archive.org/web/20170830102243/https://www.neh.gov/grants/odh/digital-humanities-advancement-grants",
   "changed": true,
   "field": "receipt deadline",
-  "what_changed": "receipt deadline Jan 11, 2017 became Jan 16, 2018 (next year's cycle)"
+  "what_changed": "receipt deadline Jan 11, 2017 became Jan 16, 2018 (next year's cycle)",
+  "expected_verdict": "superseded"
  },
  {
   "label": "Marshall Scholarship: page moved from the 2020 competition (30 September 2019) to the 2021 competition (28 September 2020)",
@@ -15,7 +16,8 @@
   "after_snapshot": "https://web.archive.org/web/20200607102431/https://www.marshallscholarship.org/apply/",
   "changed": true,
   "field": "application deadline",
-  "what_changed": "yearly rollover of the competition deadline"
+  "what_changed": "yearly rollover of the competition deadline",
+  "expected_verdict": "superseded"
  },
  {
   "label": "NSF program 503144: full proposal deadline July 20, 2015 became January 12, 2016",
@@ -24,114 +26,327 @@
   "after_snapshot": "https://web.archive.org/web/20150826101303/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144",
   "changed": true,
   "field": "application deadline",
-  "what_changed": "next cycle's deadline replaced the past one"
+  "what_changed": "next cycle's deadline replaced the past one",
+  "expected_verdict": "superseded"
  },
  {
-  "label": "VCCA residency: same deadlines listed, wording and layout only",
-  "url": "https://www.vcca.com/apply",
-  "before_snapshot": "https://web.archive.org/web/20220329025201/https://www.vcca.com/apply",
-  "after_snapshot": "https://web.archive.org/web/20220518065801/https://www.vcca.com/apply",
-  "changed": false,
-  "field": "application deadline",
-  "what_changed": "nothing: Application Deadline May 15, 2022 is on both pages (my first label was wrong; Ultra caught it)"
- },
- {
-  "label": "NSF program 503489: full proposal deadline Feb 4, 2013 line removed after it passed",
-  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503489",
-  "before_snapshot": "https://web.archive.org/web/20130128090946/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503489",
-  "after_snapshot": "https://web.archive.org/web/20130326112656/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503489",
+  "label": "NIH RFA-RM-20-016: due date Nov 24, 2020 became Dec 18, 2020",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-20-016.html",
+  "before_snapshot": "https://web.archive.org/web/20200731193624/https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-20-016.html",
+  "after_snapshot": "https://web.archive.org/web/20201119154348/https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-20-016.html",
   "changed": true,
-  "field": "application deadline",
-  "what_changed": "deadline removed after passing"
+  "field": "application due date",
+  "what_changed": "due date Nov 24, 2020 became Dec 18, 2020",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-RM-21-009.html",
+  "notice_date": "2020-11-18"
  },
  {
-  "label": "Unchanged deadline lines: www.gatescambridge.org/apply/",
-  "url": "https://www.gatescambridge.org/apply/",
-  "before_snapshot": "https://web.archive.org/web/20121215114906/https://www.gatescambridge.org/apply/",
-  "after_snapshot": "https://web.archive.org/web/20130211141200/https://www.gatescambridge.org/apply/",
+  "label": "NIH RFA-RM-13-016: due date Mar 18, 2014 became Apr 2, 2014",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-13-016.html",
+  "before_snapshot": "https://web.archive.org/web/20131231093704/https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-13-016.html",
+  "after_snapshot": "https://web.archive.org/web/20140209074056/https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-13-016.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Mar 18, 2014 became Apr 2, 2014",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-RM-14-003.html",
+  "notice_date": "2014-01-10"
+ },
+ {
+  "label": "NIH RFA-EB-17-002: due date Jan 20, 2017 became Feb 1, 2017",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-EB-17-002.html",
+  "before_snapshot": "https://web.archive.org/web/20161115120706/https://grants.nih.gov/grants/guide/rfa-files/RFA-EB-17-002.html",
+  "after_snapshot": "https://web.archive.org/web/20170101130913/https://grants.nih.gov/grants/guide/rfa-files/RFA-EB-17-002.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Jan 20, 2017 became Feb 1, 2017",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-EB-16-014.html",
+  "notice_date": "2016-12-22"
+ },
+ {
+  "label": "NIH RFA-RM-22-016: due date Jul 19, 2022 became Nov 10, 2022",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-016.html",
+  "before_snapshot": "https://web.archive.org/web/20220521233603/https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-016.html",
+  "after_snapshot": "https://web.archive.org/web/20220711100919/https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-016.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Jul 19, 2022 became Nov 10, 2022",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-RM-22-018.html",
+  "notice_date": "2022-07-06"
+ },
+ {
+  "label": "NIH RFA-MH-22-175: due date Mar 18, 2022 became Apr 19, 2022",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-22-175.html",
+  "before_snapshot": "https://web.archive.org/web/20220121191358/https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-22-175.html",
+  "after_snapshot": "https://web.archive.org/web/20220217071035/https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-22-175.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Mar 18, 2022 became Apr 19, 2022",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-22-160.html",
+  "notice_date": "2022-02-08"
+ },
+ {
+  "label": "NIH RFA-HL-13-008: due date Sep 19, 2012 became Oct 19, 2012",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HL-13-008.html",
+  "before_snapshot": "https://web.archive.org/web/20120811004027/https://grants.nih.gov/grants/guide/rfa-files/RFA-HL-13-008.html",
+  "after_snapshot": "https://web.archive.org/web/20120921113229/https://grants.nih.gov/grants/guide/rfa-files/RFA-HL-13-008.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Sep 19, 2012 became Oct 19, 2012",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-HL-12-156.html",
+  "notice_date": "2012-09-17"
+ },
+ {
+  "label": "NIH RFA-RM-12-005: due date Oct 29, 2012 became Oct 31, 2012",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-12-005.html",
+  "before_snapshot": "https://web.archive.org/web/20120828000926/https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-12-005.html",
+  "after_snapshot": "https://web.archive.org/web/20121027105635/https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-12-005.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Oct 29, 2012 became Oct 31, 2012",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-13-005.html",
+  "notice_date": "2012-10-26"
+ },
+ {
+  "label": "NIH RFA-NS-13-003: due date Jun 8, 2012 became Oct 8, 2012",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-13-003.html",
+  "before_snapshot": "https://web.archive.org/web/20120307185627/https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-13-003.html",
+  "after_snapshot": "https://web.archive.org/web/20120427103147/https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-13-003.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Jun 8, 2012 became Oct 8, 2012",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-12-014.html",
+  "notice_date": "2012-04-19"
+ },
+ {
+  "label": "NIH RFA-DK-12-511: due date Mar 15, 2013 became Apr 3, 2013",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-12-511.html",
+  "before_snapshot": "https://web.archive.org/web/20121231140040/https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-12-511.html",
+  "after_snapshot": "https://web.archive.org/web/20130305032835/https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-12-511.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Mar 15, 2013 became Apr 3, 2013",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-DK-13-004.html",
+  "notice_date": "2013-02-08"
+ },
+ {
+  "label": "NIH RFA-HD-19-018: non-AIDS due date Aug 9, 2018 became Sep 13, 2018",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HD-19-018.html",
+  "before_snapshot": "https://web.archive.org/web/20180518162150/https://grants.nih.gov/grants/guide/rfa-files/RFA-HD-19-018.html",
+  "after_snapshot": "https://web.archive.org/web/20190110170551/https://grants.nih.gov/grants/guide/rfa-files/RFA-HD-19-018.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "non-AIDS due date Aug 9, 2018 became Sep 13, 2018",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-HD-18-015.html",
+  "notice_date": "2018-07-26"
+ },
+ {
+  "label": "NIH RFA-ES-15-004: due date Mar 17, 2015 became Apr 1, 2015",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-15-004.html",
+  "before_snapshot": "https://web.archive.org/web/20150221161633/https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-15-004.html",
+  "after_snapshot": "https://web.archive.org/web/20150315023006/https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-15-004.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Mar 17, 2015 became Apr 1, 2015",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-ES-15-015.html",
+  "notice_date": "2015-03-09"
+ },
+ {
+  "label": "NIH RFA-MH-14-217: due date Mar 13, 2014 became Mar 27, 2014",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-14-217.html",
+  "before_snapshot": "https://web.archive.org/web/20140209080426/https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-14-217.html",
+  "after_snapshot": "https://web.archive.org/web/20140307005115/https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-14-217.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Mar 13, 2014 became Mar 27, 2014",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-14-010.html",
+  "notice_date": "2014-03-05"
+ },
+ {
+  "label": "NIH RFA-RM-14-006: due date Dec 16, 2014 became Dec 19, 2014",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-14-006.html",
+  "before_snapshot": "https://web.archive.org/web/20141005032339/https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-14-006.html",
+  "after_snapshot": "https://web.archive.org/web/20150105025512/https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-14-006.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Dec 16, 2014 became Dec 19, 2014",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-040.html",
+  "notice_date": "2014-12-12"
+ },
+ {
+  "label": "NIH RFA-ES-14-010: due date Jan 9, 2015 became Jan 13, 2015",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-14-010.html",
+  "before_snapshot": "https://web.archive.org/web/20141108090456/https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-14-010.html",
+  "after_snapshot": "https://web.archive.org/web/20141210214428/https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-14-010.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "due date Jan 9, 2015 became Jan 13, 2015",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-ES-15-005.html",
+  "notice_date": "2014-12-01"
+ },
+ {
+  "label": "NIH RFA-HG-14-009: third due date Apr 1, 2016 replaced by Sep 18, 2015",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-14-009.html",
+  "before_snapshot": "https://web.archive.org/web/20150309132909/https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-14-009.html",
+  "after_snapshot": "https://web.archive.org/web/20150905060157/https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-14-009.html",
+  "changed": true,
+  "field": "application due date",
+  "what_changed": "third due date Apr 1, 2016 replaced by Sep 18, 2015",
+  "expected_verdict": "changed",
+  "notice": "https://grants.nih.gov/grants/guide/notice-files/NOT-HG-15-023.html",
+  "notice_date": "2015-04-03"
+ },
+ {
+  "label": "NSF 17-565 (program 5467): full proposal deadline Aug 9, 2017 became Sep 5, 2017",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5467",
+  "before_snapshot": "https://web.archive.org/web/20170529084323/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5467",
+  "after_snapshot": "https://web.archive.org/web/20170628155541/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5467",
+  "changed": true,
+  "field": "full proposal deadline",
+  "what_changed": "deadline Aug 9, 2017 became Sep 5, 2017 (found when a sampled control turned out to differ; no notice checked)",
+  "expected_verdict": "changed"
+ },
+ {
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=504793",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504793",
+  "before_snapshot": "https://web.archive.org/web/20130116093724/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504793",
+  "after_snapshot": "https://web.archive.org/web/20130302064351/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504793",
   "changed": false,
   "field": "application deadline",
-  "what_changed": "nothing: same date lines, only markup or other text differs"
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
  },
  {
-  "label": "Unchanged deadline lines: www.schwarzmanscholars.org/admissions/",
-  "url": "https://www.schwarzmanscholars.org/admissions/",
-  "before_snapshot": "https://web.archive.org/web/20230928203831/https://www.schwarzmanscholars.org/admissions/",
-  "after_snapshot": "https://web.archive.org/web/20231015052504/https://www.schwarzmanscholars.org/admissions/",
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
+  "before_snapshot": "https://web.archive.org/web/20170509193023/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
+  "after_snapshot": "https://web.archive.org/web/20170606120552/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
   "changed": false,
   "field": "application deadline",
-  "what_changed": "nothing: same date lines, only markup or other text differs"
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
  },
  {
-  "label": "Unchanged deadline lines: www.imls.gov/grants/available/national-leadership-grants-lib",
-  "url": "https://www.imls.gov/grants/available/national-leadership-grants-libraries",
-  "before_snapshot": "https://web.archive.org/web/20231002112513/https://www.imls.gov/grants/available/national-leadership-grants-libraries",
-  "after_snapshot": "https://web.archive.org/web/20231206122112/https://www.imls.gov/grants/available/national-leadership-grants-libraries",
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=505854",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505854",
+  "before_snapshot": "https://web.archive.org/web/20201212082524/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505854",
+  "after_snapshot": "https://web.archive.org/web/20201226083359/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505854",
   "changed": false,
   "field": "application deadline",
-  "what_changed": "nothing: same date lines, only markup or other text differs"
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
  },
  {
-  "label": "Unchanged deadline lines: www.soros.org/grants",
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
+  "before_snapshot": "https://web.archive.org/web/20160706205849/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
+  "after_snapshot": "https://web.archive.org/web/20160906220235/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
+  "changed": false,
+  "field": "application deadline",
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
+ },
+ {
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
+  "before_snapshot": "https://web.archive.org/web/20210122210323/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
+  "after_snapshot": "https://web.archive.org/web/20210226202746/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
+  "changed": false,
+  "field": "application deadline",
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
+ },
+ {
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
+  "before_snapshot": "https://web.archive.org/web/20170502131927/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
+  "after_snapshot": "https://web.archive.org/web/20170605044757/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
+  "changed": false,
+  "field": "application deadline",
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
+ },
+ {
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
+  "before_snapshot": "https://web.archive.org/web/20200520163316/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
+  "after_snapshot": "https://web.archive.org/web/20200929210719/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
+  "changed": false,
+  "field": "application deadline",
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
+ },
+ {
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
+  "before_snapshot": "https://web.archive.org/web/20240304002759/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
+  "after_snapshot": "https://web.archive.org/web/20240319031348/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
+  "changed": false,
+  "field": "application deadline",
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
+ },
+ {
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5147",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5147",
+  "before_snapshot": "https://web.archive.org/web/20150526000621/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5147",
+  "after_snapshot": "https://web.archive.org/web/20150721100508/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5147",
+  "changed": false,
+  "field": "application deadline",
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
+ },
+ {
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
+  "before_snapshot": "https://web.archive.org/web/20160305091235/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
+  "after_snapshot": "https://web.archive.org/web/20160429073655/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
+  "changed": false,
+  "field": "application deadline",
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
+ },
+ {
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
+  "before_snapshot": "https://web.archive.org/web/20200921103236/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
+  "after_snapshot": "https://web.archive.org/web/20201017212427/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
+  "changed": false,
+  "field": "application deadline",
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
+ },
+ {
+  "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
+  "before_snapshot": "https://web.archive.org/web/20121023195452/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
+  "after_snapshot": "https://web.archive.org/web/20121126044705/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
+  "changed": false,
+  "field": "application deadline",
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
+ },
+ {
+  "label": "Control (same date lines): www.soros.org/grants",
   "url": "https://www.soros.org/grants",
   "before_snapshot": "https://web.archive.org/web/20050318011716/https://www.soros.org/grants",
   "after_snapshot": "https://web.archive.org/web/20050405192203/https://www.soros.org/grants",
   "changed": false,
   "field": "application deadline",
-  "what_changed": "nothing: same date lines, only markup or other text differs"
- },
- {
-  "label": "Unchanged deadline lines: opensocietyfoundations.org/grants",
-  "url": "https://opensocietyfoundations.org/grants",
-  "before_snapshot": "https://web.archive.org/web/20231218214950/https://opensocietyfoundations.org/grants",
-  "after_snapshot": "https://web.archive.org/web/20240104094704/https://opensocietyfoundations.org/grants",
-  "changed": false,
-  "field": "application deadline",
-  "what_changed": "nothing: same date lines, only markup or other text differs"
- },
- {
-  "label": "Unchanged deadline lines: www.yaddo.org/apply/",
-  "url": "https://www.yaddo.org/apply/",
-  "before_snapshot": "https://web.archive.org/web/20230607054113/https://www.yaddo.org/apply/",
-  "after_snapshot": "https://web.archive.org/web/20230711073124/https://www.yaddo.org/apply/",
-  "changed": false,
-  "field": "application deadline",
-  "what_changed": "nothing: same date lines, only markup or other text differs"
- },
- {
-  "label": "Unchanged deadline lines: www.creative-capital.org/creative-capital-awards/",
-  "url": "https://www.creative-capital.org/creative-capital-awards/",
-  "before_snapshot": "https://web.archive.org/web/20241109010240/https://www.creative-capital.org/creative-capital-awards/",
-  "after_snapshot": "https://web.archive.org/web/20241203171453/https://www.creative-capital.org/creative-capital-awards/",
-  "changed": false,
-  "field": "application deadline",
-  "what_changed": "nothing: same date lines, only markup or other text differs"
- },
- {
-  "label": "Unchanged deadline lines: erc.europa.eu/apply-grant/advanced-grant",
-  "url": "https://erc.europa.eu/apply-grant/advanced-grant",
-  "before_snapshot": "https://web.archive.org/web/20250225120353/https://erc.europa.eu/apply-grant/advanced-grant",
-  "after_snapshot": "https://web.archive.org/web/20250402035136/https://erc.europa.eu/apply-grant/advanced-grant",
-  "changed": false,
-  "field": "application deadline",
-  "what_changed": "nothing: same date lines, only markup or other text differs"
- },
- {
-  "label": "Unchanged deadline lines: www.ukri.org/opportunity/",
-  "url": "https://www.ukri.org/opportunity/",
-  "before_snapshot": "https://web.archive.org/web/20210822115118/https://www.ukri.org/opportunity/",
-  "after_snapshot": "https://web.archive.org/web/20210915165853/https://www.ukri.org/opportunity/",
-  "changed": false,
-  "field": "application deadline",
-  "what_changed": "nothing: same date lines, only markup or other text differs"
- },
- {
-  "label": "Unchanged deadline lines: www.nsf.gov/funding/pgm_summ.jsp?pims_id=13699",
-  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13699",
-  "before_snapshot": "https://web.archive.org/web/20150621112644/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13699",
-  "after_snapshot": "https://web.archive.org/web/20150831144836/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13699",
-  "changed": false,
-  "field": "application deadline",
-  "what_changed": "nothing: same date lines, only markup or other text differs"
+  "what_changed": "nothing: same date lines on both snapshots",
+  "expected_verdict": "unchanged"
  }
 ]
