@@ -196,3 +196,5 @@ dialog form { margin-top: 14px; }
 @media (max-width: 1100px) { .board { grid-template-columns: 1fr; } .receipt { grid-template-columns: 1fr 1fr; } .page { padding: 18px 16px; } }
 @media (max-width: 640px) { .receipt { grid-template-columns: 1fr; } .diff { grid-template-columns: 1fr; } .headline h1 { font-size: 32px; } }
 @media (prefers-reduced-motion: reduce) { .card, .rule { transition: none; } }
+
+.card .told { font-size: 13px; color: var(--muted); margin: 0 0 8px; }

@@ -32,7 +32,7 @@ Nightly check (Nebius Serverless Job) --> re-fetch (Tavily) --> Nano compares --
 
 - `donor_lookback/store.py`: `derive` rejects calls without parents in code, not by prompt; the graph walk is a recursive SQL query.
 - `donor_lookback/watch.py`, `cascade.py`, `runner.py`: Nano compare, Ultra confirm of every alarm, quarantine, Ultra re-derive of only the quarantined products.
-- `donor_lookback/dates.py`: reads dates in a text and checks every re-derived date against the new deadline. An update that lands after it (or says an earlier date "still stands") is retried once with the reason and otherwise leaves the run incomplete, never silently stored. A sent message's old dates may be quoted only to replace them ("not Nov 12", "instead of Nov 3").
+- `donor_lookback/dates.py`: reads dates in a text and checks every re-derived date: it must fall after today and on or before the new deadline. An update outside that window (or one that says an earlier date "still stands") is retried once with the reason and otherwise leaves the run incomplete, never silently stored. A sent message's old dates may be quoted only to replace them ("not Nov 12", "instead of Nov 3").
 - `donor_lookback/mcp_server.py`: the memory MCP server (`python -m donor_lookback.mcp_server`, Streamable HTTP on port 8765).
 - `donor_lookback/gateway.py`: the only module that talks to Token Factory; models, base URL and prices live in `config.py`.
 - `donor_lookback/agent.py`: fallback agent loop (tool calling on Nano with the same memory tools) in case Hermes cannot be made reliable.

@@ -114,6 +114,15 @@ function productCard(p) {
   return c;
 }
 
+// "Nov 19": the first date the sent message states, i.e. the deadline it passed on.
+const oldValueOf = (p) => shortDate(p.sent_content || p.content);
+const sentOn = (p) => (p.sent_at ? new Date(p.sent_at).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" }) : "");
+function toldLine(p, affected) {
+  const value = oldValueOf(p), on = sentOn(p);
+  const parts = [affected ? `${p.recipient || "Recipient"} ${S.receivedOld.replace(/\.$/, "")}${value ? ` (${value})` : ""}` : `${p.recipient || "Recipient"} was told${value ? ` ${value}` : ""}`];
+  return parts[0] + (on ? ` on ${on}.` : ".");
+}
+
 function recipientName(p) { return (p.recipient || "Recipient").replace(/\s*\(.*$/, ""); }
 
 function recipientCard(p, first) {
@@ -122,12 +131,13 @@ function recipientCard(p, first) {
   const c = h("div", `card ${tone}`);  // red while the message went out with the old deadline, amber while on hold, green once the correction is approved
   c.dataset.id = p.id;
   c.append(h("span", "rule"));
-  if (affected && first) c.append(h("div", "recip-lead", `${recipientName(p)} ${S.receivedOld} ${S.correctionPrepared}`));
+  if (affected && first) c.append(h("div", "recip-lead", `${toldLine(p, true)} ${S.correctionPrepared}`));
   const top = h("div", "card-top");
   const stateLabel = p.status === "source_unavailable" ? S.productState.source_unavailable
     : !affected ? S.productState.released : (p.correction_approved ? S.correctionApproved : (p.status === "quarantined" ? S.productState.quarantined : S.sentWithOld));
   top.append(h("div", "kind", p.recipient || "recipient"), chip(affected && p.status === "rederived" && !p.correction_approved ? "" : "", stateLabel, affected ? (p.status === "quarantined" ? "half" : "full") : ""));
   c.append(top, h("div", "title", p.title));
+  if (!(affected && first)) c.append(h("div", "told", toldLine(p, affected)));
   c.append(h("div", "body mono", p.sent_content || p.content));
   if (p.correction_draft) {
     const dr = h("div", "draft");
@@ -271,7 +281,7 @@ function setTicker(text, dot, phase) {
 let heroShown = false;
 function tickEvent(e) {
   if (e.step === "start") heroShown = false;
-  if (e.step === "done" && heroShown) return;  // the closing line stays on the hero moment, not on the cost summary
+  if (heroShown && e.step !== "error") return;  // after the hero moment later events (other sources, the cost summary) do not replace it
   const [t, dot, ph] = tickerFor(e.step, e.detail || "");
   if (e.step === "sent_rises") { heroShown = true; setTicker(heroLine() || t, dot, ph); return; }
   setTicker(friendly(t), dot, ph);
