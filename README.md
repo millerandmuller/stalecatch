@@ -49,28 +49,32 @@ Measured numbers (receipt for a full reveal, archive bench results) are filled i
 
 **Result of the last run (19 real changes, 13 controls):**
 
-| | Found / flagged |
+| | Result |
 |---|---|
-| Real changes found by Nano alone | 18 / 19 |
-| Real changes found by Nano + Ultra | 18 / 19 (15 as "changed", 3 as "superseded by a newer cycle") |
-| False alarms on 13 controls, Nano alone | 4 / 13 |
-| False alarms on 13 controls, after Ultra's second look | 0 / 13 |
-| Cost for all 32 pairs | $0.13 |
+| Real changes compared by the models | 18 of 19 (one page gave no usable dated excerpt, see below) |
+| Real changes found by Nano alone | 18 of 19 |
+| Real changes found by Nano + Ultra | 18 of 19 (15 as "changed", 3 as "superseded by a newer cycle") |
+| Controls compared by the models | 10 of 13 (three gave no usable dated excerpt) |
+| False alarms among the compared controls, Nano alone | 8 of 10 |
+| False alarms among the compared controls, after Ultra's second look | 1 of 10 |
+| Cost for all 32 pairs | $0.17 |
 
-Across the several runs made while the intake step was being fixed, Nano + Ultra found 16 to 18 of 19 and the false alarms after Ultra ranged from 0 to 2 (temperature 0 does not make these models repeatable), so read the table as one measured sample.
+**What "not compared" means.** For a pair, the model first has to quote a dated line from the *before* page. When it cannot produce a line that appears verbatim on the page and states a date, no donor is stored and Nano and Ultra never see the pair. Such pairs are listed in the report (`no_donor`), counted as misses when they are real changes, and left out of the false-alarm denominator when they are controls. In the last run this hit `RFA-RM-22-016` (a real change, counted as a miss) and the controls `pims_id=5228`, `5741` and `504793` (archived NSF pages whose text names a "Due Dates" heading but no date). An earlier run printed "0 false alarms on 13 controls", which overstated the test: only 10 controls were ever compared.
 
-**The one miss** is `RFA-MH-22-175` (due date Mar 18 became Apr 19, 2022). The NIH page lays its "Key Dates" out as a table whose cells flatten to separate lines, so the labels and the dates are far apart in the text. Intake could not produce a verbatim excerpt that contains the date (it needs a real date, not just "5:00 PM"), so no donor was stored and the pair counts as a miss. An earlier miss of the same kind (`RFA-RM-22-016`) was fixed by keeping date lines and their surrounding block in the text window sent to the model.
+**The one false alarm** after Ultra is `ukri.org/opportunity/`, a rotating listing of many funding calls rather than one program page. Ultra judged that the stored line had been replaced by a newer set of calls ("superseded"). That is a defensible reading of a listing page, and it is counted as a false alarm here.
 
-**Verdict labels:** each pair carries an `expected_verdict`. The three yearly rollovers (NEH, Marshall, NSF 503144) are expected as "superseded" and came back that way. The summary lists any pair whose verdict differs from its expected one (`verdict_differs_from_expected`); in the last run that is only the miss above.
+**Run-to-run variance is large.** Temperature 0 does not make these models repeatable. Over the runs made while the intake step was being fixed, Nano + Ultra found 16 to 18 of 19, and the pairs that ended as "not compared" or as a miss changed from run to run (`RFA-MH-22-175` was a miss in earlier runs and was found in the last one). Nano alone raises many false alarms on unchanged pages (4 to 8 per run); Ultra's second look removes almost all of them, which is the argument for the two tiers. Read every number here as one measured sample, not a guarantee.
+
+**Verdict labels:** each pair carries an `expected_verdict`. The three yearly rollovers (NEH, Marshall, NSF 503144) are expected as "superseded" and came back that way. The summary lists any pair whose verdict differs from its expected one (`verdict_differs_from_expected`).
 
 **How the pairs were selected:**
 - *Changes (19):* hand-picked from official NIH Guide notices that extend or move the application due date of one funding opportunity. 43 notices from 2012 to 2023 were collected; 34 had archived captures on both sides of the notice date. For each, the last capture before the notice date and the first capture after it were fetched, and the due date was read off both archived pages by hand. 15 pairs qualified because the archived page shows a different due date after the notice. The rest were dropped because the archived "after" page did not yet show the change, the page had expired, or the notice only moved open or expiration dates. No qualified pair was left out for being hard for the models. Added to the 15: three yearly rollovers found earlier by hand (NEH, Marshall Scholarship, NSF 503144) and one NSF pair (program 5467, deadline Aug 9 to Sep 5, 2017) that surfaced when a sampled control turned out to contain a real change. No NSF extension announcements were searched; the NSF pairs are program pages that happened to change.
-- *Controls (13):* `bench/control_pool.json` lists 40 archived grant-program pages (31 NSF program pages plus Gates Cambridge, Schwarzman, IMLS, Soros, Open Society, Yaddo, Creative Capital, ERC and UKRI) whose deadline lines are the same on two snapshots 14 to 150 days apart. The controls are `random.Random(11).shuffle(sorted(pool))[:13]`; that gave 12 NSF pages and one soros.org page. The pool was rechecked with the improved date detection after one control proved to be a real change; that pair moved to the changes list and the draw was repeated. Controls were otherwise not reviewed one by one.
+- *Controls (13):* `bench/control_pool.json` lists 40 archived grant pages (31 NSF program pages plus Gates Cambridge, Schwarzman, IMLS, Soros, Open Society, Yaddo, Creative Capital, ERC and UKRI) whose deadline lines are the same on two snapshots 14 to 150 days apart. The controls are `random.Random(11).shuffle(eligible pool)[:13]`, where eligible means the page states a labelled deadline with a date on both snapshots (`states_deadline_date_on_both` in the pool file, 24 of 40). The draw was repeated three times, and each repeat came after looking at results, so it is described here: the first pool used a looser date detector and hid a real change (NSF 5467, moved to the changes list); the second let the verb 'may' count as the month May, which admitted pages with no deadline date. Controls were not reviewed one by one beyond that.
 - *Limits:* 19 changes is a small sample; the NIH pairs are mostly short extensions of one cycle; one person read the due dates by hand. `scripts/curate_pairs.py` (`plan`, `notices`, `fetch`) reproduces the candidate search; it makes one Internet Archive index call per page and fetches two snapshots 15 s apart, with backoff on refusal.
 
 ## Judge mode and the recorded run
 
-`JUDGE_MODE=1 scripts/serve.sh` runs the board read-only for visitors: the live "Run tonight's check now" button is rate limited and the **Replay recorded run** button plays `data/recorded_run.json`, a real run captured with `scripts/record_run.py` (it refuses simulated models). The replay ends on the finished state: red donor, three re-derived products, the sent message in row 1 with its correction draft.
+`JUDGE_MODE=1 scripts/serve.sh` runs the board read-only for visitors: the live "Run tonight's check now" button is rate limited and the **Replay recorded run** button plays `data/recorded_run.json`, a real run captured with `scripts/record_run.py` (it refuses simulated models). The replay ends on the finished state and stays there (reload to leave it): red donor with its old and new excerpt open, three re-derived products, the sent message in row 1 with its correction draft. That last frame is also the Cold Open.
 
 ## Limits
 

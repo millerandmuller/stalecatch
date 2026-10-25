@@ -1,10 +1,16 @@
+Skip to main content
 National Science Foundation - Where Discoveries Begin
+search
+toggle menu
 Contact
 Help
-Skip to main content
+Search
+search
+Search
+search
 NSB
 NSB
-✕
+close✕
 Research Areas
 Biological Sciences (BIO)
 Computer and Information Science and Engineering (CISE)
@@ -19,6 +25,7 @@ Social, Behavioral and Economic Sciences (SBE)
 Related Links
 Interdisciplinary Research
 NSF Organization List
+Responsible and Ethical Conduct of Research
 Staff Directory
 Understanding NSF Research
 Funding
@@ -31,7 +38,7 @@ Policies and Procedures
 Preparing Proposals
 Recent Opportunities
 Transformative Research
-Related Links
+Funding Related Links
 Proposal and Award Policies and Procedures Guide (PAPPG)
 Research.gov
 FastLane
@@ -62,7 +69,7 @@ News
 All News
 For News Media
 Multimedia Gallery
-NSF Director's Newsletter
+News Archive
 Search News
 Special Reports
 Speeches and Lectures
@@ -72,7 +79,7 @@ Events
 About NSF
 About NSF
 Broadening Participation/Diversity
-Budget
+Budget and Performance
 Career Opportunities
 Contracting Opportunities
 History
@@ -82,7 +89,8 @@ NSF Toolkit
 Office of Diversity and Inclusion
 Organization List
 Partners
-Performance Assessment Information
+Remote Participant Support
+Responsible and Ethical Conduct of Research
 Staff Directory
 Transparency and Accountability
 Visit NSF
@@ -102,46 +110,56 @@ Funding
 Email
 Print
 Share
-Division of Computer and Network Systems
-NSF/Intel Partnership on Information-Centric Networking in Wireless Edge Networks
-(ICN-WEN)
+Division of Mathematical Sciences
+Research Training Groups in the Mathematical Sciences
+(RTG)
 CONTACTS
 Name
 Email
 Phone
 Room
-David
-Corman
-dcorman@nsf.gov
-(703) 292-8950
-Darleen
-L.
-Fisher
-dlfisher@nsf.gov
-(703) 292-8950
-Thyagarajan
-Nandagopal
-tnandago@nsf.gov
-(703) 292-8950
+Swatee
+Naik
+snaik@nsf.gov
+(703) 292-4876
+Pawel
+J.
+Hitczenko
+phitczen@nsf.gov
+(703) 292-5330
+Eun Heui
+Kim
+eukim@nsf.gov
+(703) 292-2091
+Michelle
+A.
+Manes
+mmanes@nsf.gov
+(703) 292-4870
 PROGRAM GUIDELINES
 Solicitation
-16-586
+20-608
 Important Information for Proposers
-A revised version of the NSF Proposal & Award Policies & Procedures Guide (PAPPG) (NSF 17-1), is
-effective for proposals submitted, or due, on or after January 30, 2017. Please be advised that, depending
-on the specified due date, the guidelines contained in NSF 17-1 may apply to proposals submitted in response to this
+A revised version of the NSF Proposal & Award Policies & Procedures Guide (PAPPG) (NSF 20-1), is
+effective for proposals submitted, or due, on or after June 1, 2020. Please be advised that, depending
+on the specified due date, the guidelines contained in NSF 20-1 may apply to proposals submitted in response to this
 funding opportunity.
+DUE DATES
+Full Proposal Deadline Date
+June 1, 2021
+First Tuesday in June, Annually Thereafter
 SYNOPSIS
-Next-generation wireless networks, utilizing a wide swath of wireless spectrum and an array of novel technologies in the wired and wireless domains, are on the cusp of unleashing a broadband revolution with promised peak bit rates of tens of gigabits per second and latencies of less than a millisecond. Such innovations will make possible a new set of applications such as autonomous vehicles, industrial robotics, tactile Internet applications, virtual and augmented reality, and dense Internet of Things (IoT) deployments. A key requirement of these applications is fast information response time that is invariant as a function of the bandwidth demanded, users/devices supported, and data generated, of which low-latency wireless access time is only one component. Intrinsic security, seamless mobility, scalable content caching, and discovery/distribution services are also essential for such applications.
-This solicitation seeks unique data network architectures featuring an information plane using an Information-Centric Networking (ICN) approach and addressing discovery, movement, delivery, management, and protection of information within a network, along with the abstraction of an underlying communication plane creating opportunities for new efficiencies and optimizations across communications technologies that could also address latency and scale requirements.
+The long-range goal of the Research Training Groups in the Mathematical Sciences (RTG) program is to strengthen the nation's scientific competitiveness by increasing the number of well-prepared U.S. citizens, nationals, and permanent residents who pursue careers in the mathematical sciences, be they in academia, government, or industry. The RTG program supports efforts to improve research training by involving undergraduate students, graduate students, postdoctoral associates, and faculty members in structured research groups pursuing coherent research programs. Research groups supported by RTG must include vertically-integrated activities that span the entire spectrum of educational levels from undergraduates through postdoctoral associates.
 RELATED URLS
-ICN-WEN Webinar - July 28, 2016 - Presentation, Audio and Transcript are here!
+RTG Program Workshop Report (November 2018)
 What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
 Map of Recent Awards Made Through This Program
+News
+Events
 National Science Foundation
 Research.gov
-News
-All News
+News and Gallery
+Media Inquiries
 Multimedia Gallery
 Funding & Awards
 A-Z Index of Funding Opportunities
@@ -150,14 +168,13 @@ Award Search
 Proposal & Award Policies Procedures Guide (PAPPG)
 Recently Announced Funding Opportunities
 Upcoming Funding Opportunity Due Dates
-Document Library &
-About NSF
+Document Library
+& About NSF
 Document Library
 About NSF
 Careers
 Staff Directory
 About Services
-Application Submission
 ACM$ (Award Cash Management Service)
 Notifications & Requests
 Project Reports
@@ -169,11 +186,9 @@ Research Spending & Results
 Contact
 Contact Help Desk
 Feedback
-Text Only Version
-View Mobile Site
 Facebook
 Twitter
-LinkedIn
+Instagram
 YouTube
 See all NSF social media
 Website Policies
@@ -186,5 +201,6 @@ USA.gov
 Accessibility
 Plain Language
 Contact
+Help
 Research.gov
-National Science Foundation, 4201 Wilson Boulevard, Arlington, Virginia 22230, USA Tel: (703) 292-5111, FIRS: (800) 877-8339 | TDD: (800) 281-8749
+National Science Foundation, 2415 Eisenhower Avenue, Alexandria, Virginia 22314, USA Tel: (703) 292-5111, FIRS: (800) 877-8339 | TDD: (800) 281-8749

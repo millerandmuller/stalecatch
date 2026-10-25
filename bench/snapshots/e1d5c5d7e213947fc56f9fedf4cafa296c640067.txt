@@ -1,0 +1,238 @@
+Quick Links
+Research Areas
+Biological Sciences
+Computer & Information Science & Engineering
+Cyberinfrastructure
+Education and Human Resources
+Engineering
+Environmental Research & Education
+Geosciences
+Integrative Activities
+International Science & Engineering
+Mathematical & Physical Sciences
+Polar Programs
+Social, Behavioral & Economic Sciences
+Learning Resources
+Film, TV, Exhibits & More!
+Slideshows & Photo Galleries
+Classroom Resources
+Funding for Research on Learning in Formal & Informal Settings
+Funding & Awards
+Funding Info
+Search Funding Opportunities
+Browse Funding Opportunities A-Z
+Recent Funding Opportunities
+How to Prepare a Funding Proposal
+Grant Proposal Guide
+Submit a Proposal to FastLane
+Award Info
+Managing Awards
+Award & Administration Guide
+Search Awards
+Award Statistics (Budget Internet Info System)
+News & Discoveries
+Recent News
+Recent Discoveries
+Multimedia Gallery
+Special Reports
+Contact Us
+Staff Directory
+Organization List
+Visit NSF
+Work at NSF
+Do Business with NSF
+Press
+Inspector General Hotline
+How Do I …?
+The National Science Foundation
+4201 Wilson Boulevard, Arlington,
+Virginia 22230, USA
+Tel: (703) 292-5111
+FIRS: (800) 877-8339
+TDD: (800) 281-8749
+Home
+Funding
+Search Funding Opportunities
+Browse Opportunities A-Z
+Recent Opportunities
+Due Dates
+Preparing Proposals
+Policies & Procedures
+Merit Review
+Interdisciplinary Research
+Transformative Research
+About Funding
+Awards
+About Awards
+Managing Awards
+Policies & Procedures
+Award Conditions
+Search Awards
+Presidential & Honorary Awards
+Award Statistics (Budget Internet Info System)
+Discoveries
+Discoveries Home
+Arctic & Antarctic
+Astronomy & Space
+Biology
+Chemistry & Materials
+Computing
+Earth & Environmental Science
+Education
+Engineering
+Mathematics
+Nanoscience
+People & Society
+Physics
+Search Discoveries
+About Discoveries
+News
+News Home
+For News Media
+Multimedia Gallery
+Special Reports
+News from the Field
+Research Overviews
+Speeches & Lectures
+NSF Current Newsletter
+NSF-Wide Investments
+News Archive
+Search News
+Publications
+Publications Home
+Search Publications
+Obtaining Publications
+Statistics
+Statistics Home
+Search Statistics
+About Statistics
+About NSF
+About NSF
+History
+Visit NSF
+Contact NSF
+Staff Directory
+Organization List
+Career Opportunities
+Contracting Opportunities
+NSF & Congress
+Budget
+Performance Assessment Info
+Partners
+Broadening Participation/Diversity
+Office of Diversity & Inclusion
+Fastlane
+Funding
+Find Funding
+A-Z
+Index of Funding Opportunities
+Recent
+Funding Opportunities
+Upcoming
+Due Dates
+Advanced
+Funding Search
+Interdisciplinary Research
+How to Prepare Your Proposal
+About Funding
+Proposals and Awards
+Proposal and Award Policies and Procedures Guide
+Introduction
+Proposal
+Preparation and Submission
+Grant
+Proposal Guide
+Grants.gov
+Application Guide
+Award and
+Administration
+Award and
+Administration Guide
+Award Conditions
+Other Types of Proposals
+Merit Review
+NSF
+Outreach
+Policy
+Office
+Related
+Division of Chemical, Bioengineering, Environmental, and Transport Systems
+General & Age-Related Disabilities Engineering (GARDE)
+CONTACTS
+Name
+Email
+Phone
+Room
+Ted
+A.
+Conway
+tconway@nsf.gov
+(703) 292-7091
+565 S
+PROGRAM GUIDELINES
+Apply to PD 13-5342 as follows:
+For full proposals submitted via FastLane:
+standard Grant Proposal Guidelines apply.
+For full proposals submitted via Grants.gov:
+NSF Grants.gov Application Guide; A Guide for the Preparation and Submission of NSF Applications via Grants.gov Guidelines apply
+(Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at:
+http://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide)
+Important Notice to Proposers
+A revised version of the NSF Proposal & Award Policies & Procedures Guide (PAPPG), NSF 13-1, was issued on October 4, 2012 and is effective for proposals submitted, or due, on or after January 14, 2013. Please be advised that, depending on the specified due date, the guidelines contained in NSF 13-1 may apply to proposals submitted in response to this funding opportunity.
+Please be aware that significant changes have been made to the PAPPG to implement revised merit review criteria based on the National Science Board (NSB) report, National Science Foundation's Merit Review Criteria: Review and Revisions. While the two merit review criteria remain unchanged (Intellectual Merit and Broader Impacts), guidance has been provided to clarify and improve the function of the criteria. Changes will affect the project summary and project description sections of proposals. Annual and final reports also will be affected.
+A by-chapter summary of this and other significant changes is provided at the beginning of both the Grant Proposal Guide and the Award & Administration Guide.
+DUE DATES
+Full Proposal Window: August 15, 2013
+-
+September 17, 2013
+SYNOPSIS
+The General & Age Related Disabilities Engineering (GARDE) program supports research that will lead to the development of new technologies, devices, or software for persons with disabilities. Research may be supported that is directed to the characterization, restoration, and/or substitution of human functional ability or cognition, or to the interaction of persons with disabilities and their environment. Areas of particular recent interest are disability-related research in neuroscience/neuroengineering and rehabilitation robotics. Emphasis is placed on significant advancement of fundamental engineering and scientific knowledge and not on incremental improvements. Proposals should advance discovery or innovation beyond the frontiers of current knowledge in disability-related research. Applicants are encouraged to contact the Program Director prior to submitting a proposal.
+Undergraduate Engineering Design Projects are also supported, especially those that provide prototype "custom-designed" devices or software for persons with disabilities. The education of undergraduate engineering students is enhanced through Undergraduate Engineering Design Projects' awards supported by the GARDE program.
+Characteristics of undergraduate engineering design projects to aid persons with disabilities include:
+The primary goal of this activity is to provide a meaningful design experience for the engineering student that will directly aid a specific individual with a disability. Undergraduate student engineers or engineering technology students develop prototype "custom-designed" devices and software in this regard.
+The PI and the students work with institutions providing care or education for individuals with disabilities.
+The proposal must include a short description of ten possible design projects. These projects should be suitable for an undergraduate student, or a small team of students, to complete in about one year. The proposal should include a letter of support from an appropriate administrator of an institution providing care or education to individuals with disabilities. The letter should certify that the institution and the university will work cooperatively on the design projects.
+The PI provides an annual report that includes a description of the successfully completed design projects during the previous academic year. Each PI is expected to implement a high percentage of projects each year. It is also expected that the projects will contain appropriate levels of quantitative engineering analysis.
+The duration of unsolicited awards is generally one to three years. The average annual award size for the program is $80,000. Proposals requesting a substantially higher amount than this, without prior consultation with the Program Director, may be returned without review. Small equipment proposals of less than $100,000 will also be considered and may be submitted during the annual proposal submission window.
+For the GARDE program, the duration of Undergraduate Engineering Design Projects is three to five years. The average annual award size is $25,000. Any proposal received outside the submission window will be returned without review.
+Innovative proposals outside of these specific interest areas can be considered. However, prior to submission, it is recommended that the PI contact the Program Director to avoid the possibility of the proposal being returned without review.
+Additional Program Information - 5342: (e.g., Areas of Research, Research Highlights, Conferences and Workshops, Program Director Information, etc.)
+---------------------------------------------------------------------------------------------------
+INFORMATION COMMON TO MOST CBET PROGRAMS
+Proposals should address the novelty and/or potentially transformative nature http://www.nsf.gov/about/transformative_research/faq.jsp of the concept being proposed, compared to previous work in the field. Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and /or industry of success in the research. The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal.
+Proposals submitted to this program are subject to the scope of the program's description and the availability of funds. Decisions about particular proposals are often very difficult to make and factors other than reviewer comments and ratings enter into the decision. Maintaining appropriate balance among subfields, the availability of other funding, the total amount of funds available to the program, and general Foundation policies and priorities are also important decision factors.
+Faculty Early Career Development (CAREER) program proposals are strongly encouraged. Award duration is five years. The submission deadline for Engineering CAREER proposals is in July every year. Please see the following URL for more information: http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214
+Proposals for Conferences, Workshops, and Supplements: Proposals involving these activities should ideally be submitted during the regular annual proposal window. PIs are strongly encouraged to discuss their requests with the Program Director before submission of the proposal.
+Grants for Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER) are also considered when appropriate. Please note that proposals of these types must be discussed with the Program Director before submission. Further details are available in the Proposal and Award Policies and Procedures Guide (PAPPG) download.
+Unsolicited proposals received outside of the Announced Proposal Window dates will be returned without review.
+.
+THIS PROGRAM IS PART OF
+Biomedical Engineering and Engineering Healthcare
+What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
+Map of Recent Awards Made Through This Program
+News
+Take our Customer Satisfaction Survey
+Funding
+Awards
+Discoveries
+News
+Publications
+Statistics
+About NSF
+Fastlane
+Research.gov
+USA.gov
+National Science Board
+Recovery Act
+Budget and Performance
+Annual Financial Report
+Web Policies and Important Links
+Privacy
+FOIA
+NO FEAR Act
+Inspector General
+Webmaster Contact
+Site Map
+The National Science Foundation, 4201 Wilson Boulevard, Arlington, Virginia 22230, USA
+Tel: (703) 292-5111, FIRS: (800) 877-8339 | TDD: (800) 281-8749
+Text Only Version

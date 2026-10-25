@@ -86,7 +86,8 @@ def run_pairs(pairs: list[dict], gateway: Gateway, settings: Settings, store: St
             before, after = fetch(pair["before_snapshot"]), fetch(pair["after_snapshot"])
             donor = _extract_donor(gateway, settings, before, pair.get("field", ""), run_id)
             if donor is None:
-                row["note"] = "no verbatim excerpt on the before page (counted as a miss on changed pairs)"
+                row["note"] = "no usable dated excerpt on the before page (counted as a miss on changed pairs)"
+                row["no_donor"] = True
                 row["nano_verdict"] = row["final_verdict"] = "unchanged"
             else:
                 alarm = nano_compare(gateway, settings, donor, after, run_id)
@@ -118,6 +119,9 @@ def summarize(rows: list[dict], receipt: dict) -> dict:
         "errors": sum("error" in (r["nano_verdict"], r["final_verdict"]) for r in rows),
         "verdict_differs_from_expected": [r["label"] for r in rows if r.get("expected_verdict") and r["final_verdict"] in ALERTS + ("unchanged",)
                                           and r["final_verdict"] != r["expected_verdict"]],
+        "changes_compared": sum(not r.get("no_donor") for r in changed),
+        "controls_compared": sum(not r.get("no_donor") for r in unchanged),
+        "no_donor": [r["label"] for r in rows if r.get("no_donor")],  # pairs the models never compared; shown, never hidden
         "misses": [r["label"] for r in changed if r["final_verdict"] not in ALERTS],
         "total_usd": receipt["total_usd"], "receipt": receipt,
     }
@@ -129,6 +133,8 @@ def main() -> None:
     ap.add_argument("--out", default=str(HERE / "report.json"))
     args = ap.parse_args()
     pairs = json.loads(Path(args.pairs).read_text())
+    if not Path(args.out).resolve().parent.is_dir():
+        raise SystemExit(f"Output directory does not exist: {Path(args.out).resolve().parent}")
     load_dotenv()
     settings = get_settings()
     if not (settings.base_url and settings.api_key):
@@ -146,6 +152,10 @@ def main() -> None:
           f"false alarms {s['false_alarms']}/{s['unchanged_pairs']} | errors {s['errors']} | ${s['total_usd']:.4f}")
     for m in s["misses"]:
         print("MISS:", m)
+    for n in s["no_donor"]:
+        print("NOT COMPARED (no usable excerpt on the before page):", n)
+    if s["errors"]:
+        raise SystemExit(3)  # scripts can tell an incomplete run from a finished one
 
 
 if __name__ == "__main__":

@@ -110,48 +110,48 @@ Funding
 Email
 Print
 Share
-This program has been archived.
-NSF-wide
-EPSCoR Research Infrastructure Improvement Program: Inter-Campus and Intra-Campus Cyber Connectivity
-(RII C2)
-N
-NSF Wide Programs
+Division of Mathematical Sciences
+Research Training Groups in the Mathematical Sciences
+(RTG)
 CONTACTS
 Name
 Email
 Phone
 Room
-Denise
-M.
-Barnes
-dbarnes@nsf.gov
-(703) 292-5179
-1122
-Jennifer
-M.
-Schopf
-jschopf@nsf.gov
-(703) 292-4770
-1122
-Uma
-D.
-Venkateswaran
-uvenkate@nsf.gov
-(703) 292-7732
-1122
+Swatee
+Naik
+snaik@nsf.gov
+(703) 292-4876
+Pawel
+J.
+Hitczenko
+phitczen@nsf.gov
+(703) 292-5330
+Eun Heui
+Kim
+eukim@nsf.gov
+(703) 292-2091
+Michelle
+A.
+Manes
+mmanes@nsf.gov
+(703) 292-4870
 PROGRAM GUIDELINES
 Solicitation
-10-598
+20-608
 Important Information for Proposers
 A revised version of the NSF Proposal & Award Policies & Procedures Guide (PAPPG) (NSF 20-1), is
 effective for proposals submitted, or due, on or after June 1, 2020. Please be advised that, depending
 on the specified due date, the guidelines contained in NSF 20-1 may apply to proposals submitted in response to this
 funding opportunity.
 DUE DATES
-Archived
+Full Proposal Deadline Date
+June 1, 2021
+First Tuesday in June, Annually Thereafter
 SYNOPSIS
-The Experimental Program to Stimulate Competitive Research (EPSCoR) is a program designed to fulfill the National Science Foundation's (NSF) mandate to promote scientific progress nationwide. The EPSCoR program is directed at those jurisdictions that have historically received lesser amounts of NSF Research and Development (R&D) funding. Twenty-seven states, the Commonwealth of Puerto Rico and the U. S. Virgin Islands are currently eligible to participate. Through this program, NSF establishes partnerships with government, higher education and industry that are designed to effect lasting improvements in a state's or region's research infrastructure, R&D capacity and hence, its national R&D competitiveness.
-The Research Infrastructure Improvement Program: Inter-Campus and Intra-Campus Cyber Connectivity (RII C2). Awards made under this program will provide up to $1 million for up to 2 years to support the enhancement of inter-campus and intra-campus cyber connectivity within an EPSCoR jurisdiction. These awards are intended to enhance broadband access for academic research and the utilization of cyberinfrastructure consistent with the jurisdiction's Science and Technology (S&T) plan. The inter-campus and intra-campus connectivity targeted by these awards is expected to broaden individual and institutional participation in STEM research and education activities within and among jurisdictions and to facilitate synergy among NSF EPSCoR Research Infrastructure Improvement activities.
+The long-range goal of the Research Training Groups in the Mathematical Sciences (RTG) program is to strengthen the nation's scientific competitiveness by increasing the number of well-prepared U.S. citizens, nationals, and permanent residents who pursue careers in the mathematical sciences, be they in academia, government, or industry. The RTG program supports efforts to improve research training by involving undergraduate students, graduate students, postdoctoral associates, and faculty members in structured research groups pursuing coherent research programs. Research groups supported by RTG must include vertically-integrated activities that span the entire spectrum of educational levels from undergraduates through postdoctoral associates.
+RELATED URLS
+RTG Program Workshop Report (November 2018)
 What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
 Map of Recent Awards Made Through This Program
 News

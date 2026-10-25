@@ -70,6 +70,7 @@ All News
 For News Media
 Multimedia Gallery
 News Archive
+NSF Director's Newsletter
 Search News
 Special Reports
 Speeches and Lectures
@@ -110,44 +111,54 @@ Funding
 Email
 Print
 Share
-This program has been archived.
-Office of Polar Programs
-Antarctic Astrophysics and Geospace Sciences
+Directorate for Computer and Information Science and Engineering
+Expeditions in Computing
+(Expeditions)
 CONTACTS
 Name
 Email
 Phone
 Room
-Vladimir
-Papitashvili
-vpapita@nsf.gov
-(703) 292-7425
-755 S
+Mitra
+Basu
+mbasu@nsf.gov
+(703) 292-8910
 PROGRAM GUIDELINES
-20-568 Program Solicitation
+Solicitation
+20-544
 Important Information for Proposers
 A revised version of the NSF Proposal & Award Policies & Procedures Guide (PAPPG) (NSF 20-1), is
 effective for proposals submitted, or due, on or after June 1, 2020. Please be advised that, depending
 on the specified due date, the guidelines contained in NSF 20-1 may apply to proposals submitted in response to this
 funding opportunity.
 DUE DATES
-Archived
+Full Proposal Window
+April 25, 2020
+- April 26, 2021
+April 25 - April 24, Annually Thereafter
+InTrans
+February 16, 2021
+Expeditions
+April 25, 2021
+- April 25, 2022
+April 25 - April 24, Annually Thereafter
+InTrans
 SYNOPSIS
-The Antarctic Astrophysics and Geospace Sciences Program (AAGS) sponsors cutting-edge, transformative, and emerging research that uses Antarctica as an observing platform or investigates the role of the Antarctic upper atmosphere in global environmental processes. Interdisciplinary studies that focus on how solar activity influences the properties and dynamics of the polar atmosphere and the global geospace system are especially encouraged.
-Emphasis areas include but are not limited to:
-Geospace:
-Solar wind interaction with Earth's magnetic field;
-Upper atmosphere coupling with the mesosphere and lower thermosphere;
-Dissociation and ionization processes effecting atmospheric temperature change and dynamics of neutral winds, particularly in the context of planetary atmospheric waves and tides.
-Astrophysics (including Cosmic Rays and Solar Physics):
-Fundamental physics and evolution of the universe,
-Cosmic microwave background radiation,
-Galactic astronomy,
-Solar and cosmic-ray physics, and high-energy neutrino physics.
+The far-reaching impact and rate of innovation in the computer and information science and engineering ﬁelds has been remarkable, generating economic prosperity and enhancing the quality of life for people throughout the world.
+More than a decade ago, the National Science Foundation’s (NSF) Directorate for Computer and Information Science and Engineering (CISE) established the Expeditions in Computing (Expeditions) program to build on past successes and provide the CISE research and education community with the opportunity to pursue ambitious, fundamental research agendas that promise to deﬁne the future of computing and information.
+In planning Expeditions projects, investigators are strongly encouraged to come together within or across departments or institutions to combine their creative talents in the identiﬁcation of compelling, transformative research agendas that look ahead by at least a decade and promise disruptive innovations in computer and information science and engineering for many years to come.
+Now funded at levels up to $15,000,000 for seven years, Expeditions projects represent some of the largest single investments currently made by the CISE directorate. Together with the Science and Technology Centers and the National Artificial Intelligence Research Institutes that CISE supports, Expeditions projects form the centerpiece of the directorate's center-scale award portfolio. With awards funded at levels that promote the formation of large research teams, CISE recognizes that concurrent research advances in multiple ﬁelds or sub-ﬁelds are often necessary to stimulate deep and enduring outcomes. The awards made in this program will complement research areas supported by other CISE programs, which target particular computer and information science and engineering ﬁelds.
+Additionally, CISE offers Innovation Transition (InTrans) awards for teams nearing the end of their Expeditions as well as Secure and Trustworthy Cyberspace (SaTC) and Cyber-Physical Systems (CPS) Frontier projects. The goal of InTrans is to continue the long-term vision and objectives of CISE’s center-scale projects. Through InTrans awards, CISE will provide limited funds to match industry support.
 RELATED URLS
-IceCube - South Pole Neutrino Observatory
-South Pole Telescope
-Ozone Hole Watch: Latest status of Antarctic ozone - NASA
+NSF Expeditions in Computing PI Meeting: 14 to 16 May 2013
+Expedition Awards Project Webpages
+Press Release for FY 18 Awards
+Press Release for FY 16 Awards
+Press Release for FY 13 Awards
+Press Release for FY 12 Awards
+Press Release for FY 10 Awards
+Press Release for FY 09 Awards
+Press Release for FY 08 Awards
 What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
 Map of Recent Awards Made Through This Program
 News

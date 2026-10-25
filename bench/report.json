@@ -11,7 +11,7 @@
       "expected_verdict": "superseded",
       "nano_verdict": "changed",
       "final_verdict": "superseded",
-      "note": "The page now shows a deadline for the next competition cycle (January 16, 2018), while the old deadline (January 11, 2017) is referenced as a past cycle."
+      "note": "The page now shows a newer cycle's receipt deadline (January 16, 2018), superseding the previous January 11, 2017 deadline which belonged to a past competition."
     },
     {
       "label": "Marshall Scholarship: page moved from the 2020 competition (30 September 2019) to the 2021 competition (28 September 2020)",
@@ -24,7 +24,7 @@
       "expected_verdict": "superseded",
       "nano_verdict": "changed",
       "final_verdict": "superseded",
-      "note": "The page now displays deadlines for the 2021 Marshall Competition (application deadline 28 September 2020), indicating the 2020 competition cycle is over and the information has been superseded by the next year's competition deadlines."
+      "note": "The page now shows deadlines for the 2021 Marshall Competition (a newer cycle), replacing the 2020 competition deadlines. The old fact belongs to a past cycle that is over."
     },
     {
       "label": "NSF program 503144: full proposal deadline July 20, 2015 became January 12, 2016",
@@ -37,7 +37,7 @@
       "expected_verdict": "superseded",
       "nano_verdict": "changed",
       "final_verdict": "superseded",
-      "note": "The current page displays a later deadline (January 12, 2016) for the next annual cycle, indicating the previous July 20, 2015 deadline belongs to a completed cycle."
+      "note": "The page now displays a later deadline (January 12, 2016) for the next annual cycle, replacing the earlier July 20, 2015 deadline which belonged to a completed cycle."
     },
     {
       "label": "NIH RFA-RM-20-016: due date Nov 24, 2020 became Dec 18, 2020",
@@ -50,7 +50,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The due date was extended from November 24, 2020 to December 18, 2020 per Notice NOT-RM-21-009, as indicated in the current page text."
+      "note": "The due date was extended from November 24, 2020 to December 18, 2020 per Notice NOT-RM-21-009."
     },
     {
       "label": "NIH RFA-RM-13-016: due date Mar 18, 2014 became Apr 2, 2014",
@@ -63,7 +63,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The current page shows the application due date was extended to April 2, 2014 per Notice NOT-RM-14-003, whereas the old claim stated March 18, 2014 as the due date."
+      "note": "The application due date was extended from March 18, 2014 to April 2, 2014 per notice NOT-RM-14-003, as shown in the Key Dates section."
     },
     {
       "label": "NIH RFA-EB-17-002: due date Jan 20, 2017 became Feb 1, 2017",
@@ -76,7 +76,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The current page shows a notice of change (NOT-EB-16-014) and lists a new application due date of February 1, 2017, replacing the original January 20, 2017 deadline for the same FOA (RFA-EB-17-002)."
+      "note": "The current page shows the application due date was updated from January 20, 2017 to February 1, 2017 via Notice NOT-EB-16-014, while the FOA (RFA-EB-17-002) remains the same cycle."
     },
     {
       "label": "NIH RFA-RM-22-016: due date Jul 19, 2022 became Nov 10, 2022",
@@ -87,9 +87,10 @@
       "field": "application due date",
       "what_changed": "due date Jul 19, 2022 became Nov 10, 2022",
       "expected_verdict": "changed",
-      "nano_verdict": "changed",
-      "final_verdict": "changed",
-      "note": "The expiration date for FOA RFA-RM-22-016 has been updated from July 20, 2022 to November 11, 2022, as shown by the 'New Date' label and the associated notice of change to the application due date."
+      "nano_verdict": "unchanged",
+      "final_verdict": "unchanged",
+      "note": "no usable dated excerpt on the before page (counted as a miss on changed pairs)",
+      "no_donor": true
     },
     {
       "label": "NIH RFA-MH-22-175: due date Mar 18, 2022 became Apr 19, 2022",
@@ -100,9 +101,9 @@
       "field": "application due date",
       "what_changed": "due date Mar 18, 2022 became Apr 19, 2022",
       "expected_verdict": "changed",
-      "nano_verdict": "unchanged",
-      "final_verdict": "unchanged",
-      "note": "no verbatim excerpt on the before page (counted as a miss on changed pairs)"
+      "nano_verdict": "changed",
+      "final_verdict": "changed",
+      "note": "The old claim stated an application due date of 02/18/2022, but the current page shows that the application due date (listed as Expiration Date) was revised to April 20, 2022 (originally March 19, 2022) via notice NOT-MH-160. The letter of intent due date remains 02/18/2022, but the application due date has changed."
     },
     {
       "label": "NIH RFA-HL-13-008: due date Sep 19, 2012 became Oct 19, 2012",
@@ -115,7 +116,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The due date was extended from September 19, 2012 to October 19, 2012 per notice NOT-HL-12-156, as shown in the Key Dates section."
+      "note": "The current page states the application due date was extended to October 19, 2012 per notice NOT-HL-12-156, while the old excerpt listed only September 19, 2012. The same funding opportunity now has a different deadline."
     },
     {
       "label": "NIH RFA-RM-12-005: due date Oct 29, 2012 became Oct 31, 2012",
@@ -128,7 +129,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The current page shows the application due date was extended from October 29, 2012 to October 31, 2012 per notice NOT-OD-13-005, which is a material change in the deadline for the same funding opportunity."
+      "note": "The current page states the application due date was extended to October 31, 2012, altering the original deadline of October 29, 2012."
     },
     {
       "label": "NIH RFA-NS-13-003: due date Jun 8, 2012 became Oct 8, 2012",
@@ -141,7 +142,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The due date was updated from June 8, 2012 to October 8, 2012 per notice NOT-NS-12-014, as shown in the Key Dates section of the current page."
+      "note": "The application due date has been updated from June 8, 2012 to October 8, 2012 per notice NOT-NS-12-014."
     },
     {
       "label": "NIH RFA-DK-12-511: due date Mar 15, 2013 became Apr 3, 2013",
@@ -154,7 +155,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The due date was extended from March 15, 2013 to April 3, 2013 per notice NOT-DK-13-004, which is a material change in the deadline for the same funding opportunity."
+      "note": "The current page states the application due date was extended to April 3, 2013 per NOT-DK-13-004, changing the original deadline of March 15, 2013."
     },
     {
       "label": "NIH RFA-HD-19-018: non-AIDS due date Aug 9, 2018 became Sep 13, 2018",
@@ -167,7 +168,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The current page shows a 'New Dates' label for non-AIDS applications, moving the due date from August 9, 2018 to September 13, 2018, while retaining August 9 for AIDS applications. The old excerpt stated August 9 for non-AIDS applications, so the non-AIDS due date has changed."
+      "note": "The current page shows two separate due dates: a new date of September 13, 2018 for non-AIDS applications, and the original August 9, 2018 date now applies only to AIDS applications. The old claim stated a single due date of August 9, 2018, which is no longer accurate for all application types."
     },
     {
       "label": "NIH RFA-ES-15-004: due date Mar 17, 2015 became Apr 1, 2015",
@@ -180,7 +181,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The current page shows the application due date was changed from March 17, 2015 to April 1, 2015, as noted by the 'Notice of Change in Application Due Date' and the explicit '(previously March 17, 2015)' annotation."
+      "note": "The due date has been updated from March 17, 2015 to April 1, 2015, as noted in the Notice of Change in Application Due Date (NOT-ES-15-015) and reflected in the current FOA text."
     },
     {
       "label": "NIH RFA-MH-14-217: due date Mar 13, 2014 became Mar 27, 2014",
@@ -193,7 +194,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The due date was extended from March 13, 2014 to March 27, 2014 via Notice NOT-MH-14-010, as stated in the current page."
+      "note": "The current page shows the application due date was extended to March 27, 2014 per Notice NOT-MH-14-010, while the old excerpt only stated the original March 13, 2014 deadline."
     },
     {
       "label": "NIH RFA-RM-14-006: due date Dec 16, 2014 became Dec 19, 2014",
@@ -206,7 +207,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The current page shows a notice updating the due date from December 16, 2014 to December 19, 2014 per NOT-OD-15-040, while still referencing the original date. The same funding opportunity now states a different deadline."
+      "note": "The current page includes a notice (NOT-OD-15-040) that changed the application due date from December 16, 2014 to December 19, 2014, as explicitly stated in the 'Application Due Date(s)' section."
     },
     {
       "label": "NIH RFA-ES-14-010: due date Jan 9, 2015 became Jan 13, 2015",
@@ -219,7 +220,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The due date was updated from January 9, 2015 to January 13, 2015 per notice NOT-ES-15-005."
+      "note": "The current page includes a notice (NOT-ES-15-005) that changes the application due date from January 9, 2015 to January 13, 2015."
     },
     {
       "label": "NIH RFA-HG-14-009: third due date Apr 1, 2016 replaced by Sep 18, 2015",
@@ -232,7 +233,7 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The third application due date changed from April 1, 2016 to September 18, 2015."
+      "note": "The third application due date changed from April 1, 2016 to September 18, 2015, as noted in the current page with reference to Notice NOT-HG-15-023."
     },
     {
       "label": "NSF 17-565 (program 5467): full proposal deadline Aug 9, 2017 became Sep 5, 2017",
@@ -245,7 +246,74 @@
       "expected_verdict": "changed",
       "nano_verdict": "changed",
       "final_verdict": "changed",
-      "note": "The same solicitation (17-565) now lists a different deadline date (September 5, 2017) compared to the old excerpt (August 9, 2017)."
+      "note": "The same solicitation (17-565) now lists a different full proposal deadline date (September 5, 2017) compared to the old excerpt (August 9, 2017)."
+    },
+    {
+      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5228",
+      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5228",
+      "before_url": "https://web.archive.org/web/20190721052552/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5228",
+      "after_url": "https://web.archive.org/web/20190916045702/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5228",
+      "changed": false,
+      "field": "application deadline",
+      "what_changed": "nothing: same date lines on both snapshots",
+      "expected_verdict": "unchanged",
+      "nano_verdict": "unchanged",
+      "final_verdict": "unchanged",
+      "note": "no usable dated excerpt on the before page (counted as a miss on changed pairs)",
+      "no_donor": true
+    },
+    {
+      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5732",
+      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5732",
+      "before_url": "https://web.archive.org/web/20210116181329/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5732",
+      "after_url": "https://web.archive.org/web/20210226215539/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5732",
+      "changed": false,
+      "field": "application deadline",
+      "what_changed": "nothing: same date lines on both snapshots",
+      "expected_verdict": "unchanged",
+      "nano_verdict": "changed",
+      "final_verdict": "unchanged",
+      "note": "The current page shows the same deadline date and annual recurrence rule as the old excerpt; no factual change has occurred."
+    },
+    {
+      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5741",
+      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5741",
+      "before_url": "https://web.archive.org/web/20130128091004/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5741",
+      "after_url": "https://web.archive.org/web/20130324083843/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5741",
+      "changed": false,
+      "field": "application deadline",
+      "what_changed": "nothing: same date lines on both snapshots",
+      "expected_verdict": "unchanged",
+      "nano_verdict": "unchanged",
+      "final_verdict": "unchanged",
+      "note": "no usable dated excerpt on the before page (counted as a miss on changed pairs)",
+      "no_donor": true
+    },
+    {
+      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=501021",
+      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501021",
+      "before_url": "https://web.archive.org/web/20130302090001/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501021",
+      "after_url": "https://web.archive.org/web/20130522151333/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501021",
+      "changed": false,
+      "field": "application deadline",
+      "what_changed": "nothing: same date lines on both snapshots",
+      "expected_verdict": "unchanged",
+      "nano_verdict": "changed",
+      "final_verdict": "unchanged",
+      "note": "The current page still displays the same full proposal window with the identical end date of September 17, 2013; only the visual layout of the dash differs, but the factual deadline remains unchanged."
+    },
+    {
+      "label": "Control (same date lines): www.ukri.org/opportunity/",
+      "url": "https://www.ukri.org/opportunity/",
+      "before_url": "https://web.archive.org/web/20210822115118/https://www.ukri.org/opportunity/",
+      "after_url": "https://web.archive.org/web/20210915165853/https://www.ukri.org/opportunity/",
+      "changed": false,
+      "field": "application deadline",
+      "what_changed": "nothing: same date lines on both snapshots",
+      "expected_verdict": "unchanged",
+      "nano_verdict": "changed",
+      "final_verdict": "superseded",
+      "note": "The old deadline of 20 September 2021 no longer appears on the page; the current listing shows funding opportunities with closing dates in October\u2013December 2021, indicating a newer cycle of opportunities has superseded the previous one."
     },
     {
       "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=504793",
@@ -258,20 +326,21 @@
       "expected_verdict": "unchanged",
       "nano_verdict": "unchanged",
       "final_verdict": "unchanged",
-      "note": "no verbatim excerpt on the before page (counted as a miss on changed pairs)"
+      "note": "no usable dated excerpt on the before page (counted as a miss on changed pairs)",
+      "no_donor": true
     },
     {
-      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
-      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
-      "before_url": "https://web.archive.org/web/20170509193023/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
-      "after_url": "https://web.archive.org/web/20170606120552/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
+      "label": "Control (same date lines): opensocietyfoundations.org/grants",
+      "url": "https://opensocietyfoundations.org/grants",
+      "before_url": "https://web.archive.org/web/20231218214950/https://opensocietyfoundations.org/grants",
+      "after_url": "https://web.archive.org/web/20240104094704/https://opensocietyfoundations.org/grants",
       "changed": false,
       "field": "application deadline",
       "what_changed": "nothing: same date lines on both snapshots",
       "expected_verdict": "unchanged",
       "nano_verdict": "unchanged",
       "final_verdict": "unchanged",
-      "note": "no verbatim excerpt on the before page (counted as a miss on changed pairs)"
+      "note": ""
     },
     {
       "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=505854",
@@ -284,72 +353,59 @@
       "expected_verdict": "unchanged",
       "nano_verdict": "changed",
       "final_verdict": "unchanged",
-      "note": "The current page still states the same deadline date (April 15, 2021) and the same recurring note (April 15, Annually Thereafter) as the old excerpt; no factual change has occurred."
+      "note": "The deadline date remains April 15, 2021 with annual recurrence; only surrounding policy context (PAPPG version) has been updated, not the deadline itself."
     },
     {
-      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
-      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
-      "before_url": "https://web.archive.org/web/20160706205849/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
-      "after_url": "https://web.archive.org/web/20160906220235/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
+      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=503169",
+      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503169",
+      "before_url": "https://web.archive.org/web/20200815052246/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503169",
+      "after_url": "https://web.archive.org/web/20200922214355/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503169",
+      "changed": false,
+      "field": "application deadline",
+      "what_changed": "nothing: same date lines on both snapshots",
+      "expected_verdict": "unchanged",
+      "nano_verdict": "changed",
+      "final_verdict": "unchanged",
+      "note": "The current page still lists the same Full Proposal Window deadline range April 25, 2020 - April 26, 2021, unchanged from the old excerpt."
+    },
+    {
+      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=504727",
+      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504727",
+      "before_url": "https://web.archive.org/web/20190702040126/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504727",
+      "after_url": "https://web.archive.org/web/20190722100321/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504727",
+      "changed": false,
+      "field": "application deadline",
+      "what_changed": "nothing: same date lines on both snapshots",
+      "expected_verdict": "unchanged",
+      "nano_verdict": "changed",
+      "final_verdict": "unchanged",
+      "note": "The current page still lists the Full Proposal Target Date as August 1, 2019 with 'August 1, Annually Thereafter', identical to the old excerpt."
+    },
+    {
+      "label": "Control (same date lines): www.gatescambridge.org/apply/",
+      "url": "https://www.gatescambridge.org/apply/",
+      "before_url": "https://web.archive.org/web/20121215114906/https://www.gatescambridge.org/apply/",
+      "after_url": "https://web.archive.org/web/20130211141200/https://www.gatescambridge.org/apply/",
       "changed": false,
       "field": "application deadline",
       "what_changed": "nothing: same date lines on both snapshots",
       "expected_verdict": "unchanged",
       "nano_verdict": "unchanged",
       "final_verdict": "unchanged",
-      "note": "no verbatim excerpt on the before page (counted as a miss on changed pairs)"
+      "note": ""
     },
     {
-      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
-      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
-      "before_url": "https://web.archive.org/web/20210122210323/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
-      "after_url": "https://web.archive.org/web/20210226202746/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
+      "label": "Control (same date lines): www.imls.gov/grants/available/national-leadership-grants-libraries",
+      "url": "https://www.imls.gov/grants/available/national-leadership-grants-libraries",
+      "before_url": "https://web.archive.org/web/20231002112513/https://www.imls.gov/grants/available/national-leadership-grants-libraries",
+      "after_url": "https://web.archive.org/web/20231206122112/https://www.imls.gov/grants/available/national-leadership-grants-libraries",
       "changed": false,
       "field": "application deadline",
       "what_changed": "nothing: same date lines on both snapshots",
       "expected_verdict": "unchanged",
-      "nano_verdict": "unchanged",
+      "nano_verdict": "changed",
       "final_verdict": "unchanged",
-      "note": "no verbatim excerpt on the before page (counted as a miss on changed pairs)"
-    },
-    {
-      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
-      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
-      "before_url": "https://web.archive.org/web/20170502131927/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
-      "after_url": "https://web.archive.org/web/20170605044757/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
-      "changed": false,
-      "field": "application deadline",
-      "what_changed": "nothing: same date lines on both snapshots",
-      "expected_verdict": "unchanged",
-      "nano_verdict": "unchanged",
-      "final_verdict": "unchanged",
-      "note": "no verbatim excerpt on the before page (counted as a miss on changed pairs)"
-    },
-    {
-      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
-      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
-      "before_url": "https://web.archive.org/web/20200520163316/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
-      "after_url": "https://web.archive.org/web/20200929210719/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
-      "changed": false,
-      "field": "application deadline",
-      "what_changed": "nothing: same date lines on both snapshots",
-      "expected_verdict": "unchanged",
-      "nano_verdict": "unchanged",
-      "final_verdict": "unchanged",
-      "note": "no verbatim excerpt on the before page (counted as a miss on changed pairs)"
-    },
-    {
-      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
-      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
-      "before_url": "https://web.archive.org/web/20240304002759/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
-      "after_url": "https://web.archive.org/web/20240319031348/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
-      "changed": false,
-      "field": "application deadline",
-      "what_changed": "nothing: same date lines on both snapshots",
-      "expected_verdict": "unchanged",
-      "nano_verdict": "unchanged",
-      "final_verdict": "unchanged",
-      "note": "no verbatim excerpt on the before page (counted as a miss on changed pairs)"
+      "note": "The page still contains the exact line 'Deadline: September 20, 2023'; the separate 'Application:' label refers to the NOFO availability, not the deadline phrasing."
     },
     {
       "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5147",
@@ -362,59 +418,7 @@
       "expected_verdict": "unchanged",
       "nano_verdict": "changed",
       "final_verdict": "unchanged",
-      "note": "The deadline date remains October 29, 2015; the current page still states 'Full Proposal Deadline Date: October 29, 2015' exactly as in the old excerpt. The old claim used 'Application Deadline' but the fact (date) is unchanged, only the label wording differs."
-    },
-    {
-      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
-      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
-      "before_url": "https://web.archive.org/web/20160305091235/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
-      "after_url": "https://web.archive.org/web/20160429073655/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
-      "changed": false,
-      "field": "application deadline",
-      "what_changed": "nothing: same date lines on both snapshots",
-      "expected_verdict": "unchanged",
-      "nano_verdict": "changed",
-      "final_verdict": "unchanged",
-      "note": "The current page still states the same full proposal deadline date (January 11, 2017) and the same recurring schedule (Second Wednesday in January, Annually Thereafter). The factual content is identical; only the surrounding page layout differs."
-    },
-    {
-      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
-      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
-      "before_url": "https://web.archive.org/web/20200921103236/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
-      "after_url": "https://web.archive.org/web/20201017212427/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
-      "changed": false,
-      "field": "application deadline",
-      "what_changed": "nothing: same date lines on both snapshots",
-      "expected_verdict": "unchanged",
-      "nano_verdict": "unchanged",
-      "final_verdict": "unchanged",
-      "note": "no verbatim excerpt on the before page (counted as a miss on changed pairs)"
-    },
-    {
-      "label": "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
-      "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
-      "before_url": "https://web.archive.org/web/20121023195452/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
-      "after_url": "https://web.archive.org/web/20121126044705/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
-      "changed": false,
-      "field": "application deadline",
-      "what_changed": "nothing: same date lines on both snapshots",
-      "expected_verdict": "unchanged",
-      "nano_verdict": "changed",
-      "final_verdict": "unchanged",
-      "note": "The exact deadline date for Exploration Projects (EXPs) remains stated as December 17, 2012 in the current page's DUE DATES section; the page now lists additional deadlines for other project categories, but the original fact is unchanged."
-    },
-    {
-      "label": "Control (same date lines): www.soros.org/grants",
-      "url": "https://www.soros.org/grants",
-      "before_url": "https://web.archive.org/web/20050318011716/https://www.soros.org/grants",
-      "after_url": "https://web.archive.org/web/20050405192203/https://www.soros.org/grants",
-      "changed": false,
-      "field": "application deadline",
-      "what_changed": "nothing: same date lines on both snapshots",
-      "expected_verdict": "unchanged",
-      "nano_verdict": "unchanged",
-      "final_verdict": "unchanged",
-      "note": ""
+      "note": "The current page still contains the exact same line 'Full Proposal Deadline Date: October 29, 2015' as the old excerpt; the deadline date and label are identical, so the fact has not changed."
     }
   ],
   "summary": {
@@ -424,34 +428,43 @@
     "confirmed_recall": 18,
     "verdict_changed": 15,
     "verdict_superseded": 3,
-    "nano_false_alarms": 4,
-    "false_alarms": 0,
+    "nano_false_alarms": 8,
+    "false_alarms": 1,
     "errors": 0,
     "verdict_differs_from_expected": [
-      "NIH RFA-MH-22-175: due date Mar 18, 2022 became Apr 19, 2022"
+      "NIH RFA-RM-22-016: due date Jul 19, 2022 became Nov 10, 2022",
+      "Control (same date lines): www.ukri.org/opportunity/"
+    ],
+    "changes_compared": 18,
+    "controls_compared": 10,
+    "no_donor": [
+      "NIH RFA-RM-22-016: due date Jul 19, 2022 became Nov 10, 2022",
+      "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5228",
+      "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=5741",
+      "Control (same date lines): www.nsf.gov/funding/pgm_summ.jsp?pims_id=504793"
     ],
     "misses": [
-      "NIH RFA-MH-22-175: due date Mar 18, 2022 became Apr 19, 2022"
+      "NIH RFA-RM-22-016: due date Jul 19, 2022 became Nov 10, 2022"
     ],
-    "total_usd": 0.13319642,
+    "total_usd": 0.17082486,
     "receipt": {
-      "run_id": "run_e67c6118",
+      "run_id": "run_e89398ac",
       "nano": {
         "calls": 65,
-        "prompt_tokens": 155193,
-        "completion_tokens": 10716,
-        "usd": 0.01188342,
-        "latency_ms": 53027
+        "prompt_tokens": 154091,
+        "completion_tokens": 9135,
+        "usd": 0.01143786,
+        "latency_ms": 49322
       },
       "ultra": {
-        "calls": 22,
-        "prompt_tokens": 61712,
-        "completion_tokens": 19867,
-        "usd": 0.121313,
-        "latency_ms": 70993
+        "calls": 26,
+        "prompt_tokens": 68079,
+        "completion_tokens": 30436,
+        "usd": 0.159387,
+        "latency_ms": 82681
       },
-      "total_usd": 0.13319642,
-      "ultra_everything_usd": 0.308654,
+      "total_usd": 0.17082486,
+      "ultra_everything_usd": 0.340883,
       "failed_calls": 0,
       "calls_without_usage": 0,
       "models": {

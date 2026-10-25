@@ -1,42 +1,242 @@
 [
- "https://erc.europa.eu/apply-grant/advanced-grant",
- "https://opensocietyfoundations.org/grants",
- "https://www.creative-capital.org/creative-capital-awards/",
- "https://www.gatescambridge.org/apply/",
- "https://www.imls.gov/grants/available/national-leadership-grants-libraries",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12779",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13699",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501021",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503169",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503222",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503294",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503518",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504727",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504793",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504816",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505169",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505854",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5147",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5228",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5361",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5423",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5466",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5473",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5541",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5633",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5732",
- "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5741",
- "https://www.schwarzmanscholars.org/admissions/",
- "https://www.soros.org/grants",
- "https://www.ukri.org/opportunity/",
- "https://www.yaddo.org/apply/"
+ {
+  "url": "https://erc.europa.eu/apply-grant/advanced-grant",
+  "before_snapshot": "https://web.archive.org/web/20250225120353/https://erc.europa.eu/apply-grant/advanced-grant",
+  "after_snapshot": "https://web.archive.org/web/20250402035136/https://erc.europa.eu/apply-grant/advanced-grant",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://opensocietyfoundations.org/grants",
+  "before_snapshot": "https://web.archive.org/web/20231218214950/https://opensocietyfoundations.org/grants",
+  "after_snapshot": "https://web.archive.org/web/20240104094704/https://opensocietyfoundations.org/grants",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.creative-capital.org/creative-capital-awards/",
+  "before_snapshot": "https://web.archive.org/web/20241109010240/https://www.creative-capital.org/creative-capital-awards/",
+  "after_snapshot": "https://web.archive.org/web/20241203171453/https://www.creative-capital.org/creative-capital-awards/",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.gatescambridge.org/apply/",
+  "before_snapshot": "https://web.archive.org/web/20121215114906/https://www.gatescambridge.org/apply/",
+  "after_snapshot": "https://web.archive.org/web/20130211141200/https://www.gatescambridge.org/apply/",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.imls.gov/grants/available/national-leadership-grants-libraries",
+  "before_snapshot": "https://web.archive.org/web/20231002112513/https://www.imls.gov/grants/available/national-leadership-grants-libraries",
+  "after_snapshot": "https://web.archive.org/web/20231206122112/https://www.imls.gov/grants/available/national-leadership-grants-libraries",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12779",
+  "before_snapshot": "https://web.archive.org/web/20201212082123/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12779",
+  "after_snapshot": "https://web.archive.org/web/20210109105332/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12779",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
+  "before_snapshot": "https://web.archive.org/web/20200520163316/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
+  "after_snapshot": "https://web.archive.org/web/20200929210719/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13420",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
+  "before_snapshot": "https://web.archive.org/web/20170509193023/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
+  "after_snapshot": "https://web.archive.org/web/20170606120552/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13553",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13699",
+  "before_snapshot": "https://web.archive.org/web/20150621112644/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13699",
+  "after_snapshot": "https://web.archive.org/web/20150831144836/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13699",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501021",
+  "before_snapshot": "https://web.archive.org/web/20130302090001/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501021",
+  "after_snapshot": "https://web.archive.org/web/20130522151333/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501021",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
+  "before_snapshot": "https://web.archive.org/web/20240304002759/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
+  "after_snapshot": "https://web.archive.org/web/20240319031348/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=502112",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503169",
+  "before_snapshot": "https://web.archive.org/web/20200815052246/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503169",
+  "after_snapshot": "https://web.archive.org/web/20200922214355/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503169",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503222",
+  "before_snapshot": "https://web.archive.org/web/20200402072356/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503222",
+  "after_snapshot": "https://web.archive.org/web/20200620013908/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503222",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503294",
+  "before_snapshot": "https://web.archive.org/web/20170510041149/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503294",
+  "after_snapshot": "https://web.archive.org/web/20170703102851/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503294",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503518",
+  "before_snapshot": "https://web.archive.org/web/20200417212641/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503518",
+  "after_snapshot": "https://web.archive.org/web/20200810220658/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503518",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
+  "before_snapshot": "https://web.archive.org/web/20121023195452/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
+  "after_snapshot": "https://web.archive.org/web/20121126044705/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503581",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
+  "before_snapshot": "https://web.archive.org/web/20160706205849/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
+  "after_snapshot": "https://web.archive.org/web/20160906220235/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503668",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504727",
+  "before_snapshot": "https://web.archive.org/web/20190702040126/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504727",
+  "after_snapshot": "https://web.archive.org/web/20190722100321/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504727",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504793",
+  "before_snapshot": "https://web.archive.org/web/20130116093724/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504793",
+  "after_snapshot": "https://web.archive.org/web/20130302064351/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504793",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504816",
+  "before_snapshot": "https://web.archive.org/web/20130128082810/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504816",
+  "after_snapshot": "https://web.archive.org/web/20130317142511/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504816",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505169",
+  "before_snapshot": "https://web.archive.org/web/20191001092048/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505169",
+  "after_snapshot": "https://web.archive.org/web/20191020173233/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505169",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
+  "before_snapshot": "https://web.archive.org/web/20170502131927/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
+  "after_snapshot": "https://web.archive.org/web/20170605044757/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505310",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
+  "before_snapshot": "https://web.archive.org/web/20210122210323/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
+  "after_snapshot": "https://web.archive.org/web/20210226202746/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505631",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505854",
+  "before_snapshot": "https://web.archive.org/web/20201212082524/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505854",
+  "after_snapshot": "https://web.archive.org/web/20201226083359/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505854",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5147",
+  "before_snapshot": "https://web.archive.org/web/20150526000621/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5147",
+  "after_snapshot": "https://web.archive.org/web/20150721100508/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5147",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5228",
+  "before_snapshot": "https://web.archive.org/web/20190721052552/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5228",
+  "after_snapshot": "https://web.archive.org/web/20190916045702/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5228",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
+  "before_snapshot": "https://web.archive.org/web/20160305091235/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
+  "after_snapshot": "https://web.archive.org/web/20160429073655/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5361",
+  "before_snapshot": "https://web.archive.org/web/20080325212117/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5361",
+  "after_snapshot": "https://web.archive.org/web/20080525100536/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5361",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5423",
+  "before_snapshot": "https://web.archive.org/web/20170227071354/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5423",
+  "after_snapshot": "https://web.archive.org/web/20170314205540/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5423",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5466",
+  "before_snapshot": "https://web.archive.org/web/20160110195730/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5466",
+  "after_snapshot": "https://web.archive.org/web/20160305132831/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5466",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5473",
+  "before_snapshot": "https://web.archive.org/web/20230625060623/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5473",
+  "after_snapshot": "https://web.archive.org/web/20231031123122/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5473",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5541",
+  "before_snapshot": "https://web.archive.org/web/20170502122406/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5541",
+  "after_snapshot": "https://web.archive.org/web/20170529034323/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5541",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5633",
+  "before_snapshot": "https://web.archive.org/web/20160411180323/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5633",
+  "after_snapshot": "https://web.archive.org/web/20160527005452/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5633",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
+  "before_snapshot": "https://web.archive.org/web/20200921103236/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
+  "after_snapshot": "https://web.archive.org/web/20201017212427/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5672",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5732",
+  "before_snapshot": "https://web.archive.org/web/20210116181329/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5732",
+  "after_snapshot": "https://web.archive.org/web/20210226215539/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5732",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5741",
+  "before_snapshot": "https://web.archive.org/web/20130128091004/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5741",
+  "after_snapshot": "https://web.archive.org/web/20130324083843/https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5741",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.schwarzmanscholars.org/admissions/",
+  "before_snapshot": "https://web.archive.org/web/20230928203831/https://www.schwarzmanscholars.org/admissions/",
+  "after_snapshot": "https://web.archive.org/web/20231015052504/https://www.schwarzmanscholars.org/admissions/",
+  "states_deadline_date_on_both": false
+ },
+ {
+  "url": "https://www.soros.org/grants",
+  "before_snapshot": "https://web.archive.org/web/20050318011716/https://www.soros.org/grants",
+  "after_snapshot": "https://web.archive.org/web/20050405192203/https://www.soros.org/grants",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.ukri.org/opportunity/",
+  "before_snapshot": "https://web.archive.org/web/20210822115118/https://www.ukri.org/opportunity/",
+  "after_snapshot": "https://web.archive.org/web/20210915165853/https://www.ukri.org/opportunity/",
+  "states_deadline_date_on_both": true
+ },
+ {
+  "url": "https://www.yaddo.org/apply/",
+  "before_snapshot": "https://web.archive.org/web/20230607054113/https://www.yaddo.org/apply/",
+  "after_snapshot": "https://web.archive.org/web/20230711073124/https://www.yaddo.org/apply/",
+  "states_deadline_date_on_both": true
+ }
 ]
