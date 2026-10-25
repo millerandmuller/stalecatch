@@ -1,5 +1,6 @@
 """All provider, model, price and path settings live here (one place to change)."""
 import os
+import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -16,7 +17,12 @@ def load_dotenv(path: Path = ROOT / ".env") -> None:
         if not line or line.startswith("#") or "=" not in line:
             continue
         key, value = line.split("=", 1)
-        os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+        key, value = key.strip().removeprefix("export ").strip(), value.strip()
+        if value and value[0] in "\"'" and value.count(value[0]) >= 2:
+            value = value[1:value.index(value[0], 1)]  # quoted: everything up to the closing quote, a trailing comment is dropped
+        else:
+            value = re.split(r"\s+#", value, maxsplit=1)[0].strip()
+        os.environ.setdefault(key, value)
 
 
 def _env(name: str, default: str = "") -> str:

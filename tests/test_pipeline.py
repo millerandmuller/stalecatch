@@ -211,3 +211,34 @@ def test_relevant_window_keeps_bare_date_lines_on_a_long_page():
     window = relevant_window(page, "application due date", 3000)
     assert "Application Due Dates\nJuly 19, 2022" in window and len(window) <= 3100  # the label stays next to its date
     assert "[...]" in window  # a gap is marked, so a model cannot quote across it
+
+
+def test_date_pattern_accepts_ordinals_and_rejects_month_lookalikes():
+    from donor_lookback.textutil import DATE_IN_TEXT
+    for ok in ("12th of November", "Nov 12th", "12-Nov-26", "Nov. 12", "2026-11-12", "12.11.2026", "Closes on 12/11", "3 March"):
+        assert DATE_IN_TEXT.search(ok), ok
+    for bad in ("Due by 5:00 PM local time.", "Decision 3 weeks later.", "Mayor 5 said so", "NSF 16-1 may apply to proposals", "the guide, 1 may be used", "a decade of 1 grant", "Rolling basis."):
+        assert not DATE_IN_TEXT.search(bad), bad
+
+
+def test_states_deadline_needs_a_labelled_date():
+    from donor_lookback.textutil import states_deadline
+    assert states_deadline("Full Proposal Deadline Date\nAugust 9, 2017")
+    assert states_deadline("Application deadline: May 15, 2022")
+    assert not states_deadline("A revised guide was issued on October 4, 2012 and is effective for proposals due on or after January 14, 2013.")
+    assert not states_deadline("Due Dates\nsee the solicitation")
+
+
+def test_window_respects_the_limit_with_markers_and_survives_one_huge_line():
+    from donor_lookback.textutil import relevant_window
+    lines = [f"Posted {i}: Oct {i % 28 + 1}, 2026 update" if i % 2 else f"Applications are due statement {i}" for i in range(3000)]
+    window = relevant_window("\n".join(lines), "applications are due", 2000)
+    assert 0 < len(window) <= 2000
+    assert relevant_window("x" * 50000, "anything", 1000)  # one huge line still gives the model something
+
+
+def test_changed_undated_statement_stays_in_view_on_a_date_heavy_page():
+    from donor_lookback.textutil import relevant_window
+    noise = [f"Posted {i}: Oct {i % 28 + 1}, 2026 update" for i in range(2000)]
+    page = "\n".join(noise[:1000] + ["Applications are now accepted on a rolling basis"] + noise[1000:])
+    assert "rolling basis" in relevant_window(page, "Applications are due by 5:00 PM on Nov 12, 2026", 3000)

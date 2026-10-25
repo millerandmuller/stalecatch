@@ -97,3 +97,11 @@ def test_bench_without_credentials_stops_before_touching_the_report(tmp_path, mo
     with pytest.raises(SystemExit):
         rb.main()
     assert out.read_text() == "good report"
+
+
+def test_summary_counts_pairs_the_models_never_compared():
+    rows = [{"label": "c1", "changed": True, "nano_verdict": "unchanged", "final_verdict": "unchanged", "no_donor": True},
+            {"label": "u1", "changed": False, "nano_verdict": "unchanged", "final_verdict": "unchanged", "no_donor": True},
+            {"label": "u2", "changed": False, "nano_verdict": "unchanged", "final_verdict": "unchanged"}]
+    s = summarize(rows, {"total_usd": 0.0})
+    assert (s["changes_compared"], s["controls_compared"], s["no_donor"]) == (0, 1, ["c1", "u1"])

@@ -4,8 +4,9 @@ INTAKE_SYSTEM = (
     "You extract one dated commitment from a web page for a grant writer's assistant. "
     "Fields: claim = one plain sentence stating the deadline or rule; "
     "excerpt = the exact sentence or line copied CHARACTER FOR CHARACTER from the page that states it (never paraphrase). "
-    "The excerpt must contain the actual date or value itself, not only a sentence about it. When a page puts a label such as "
-    "'Application Due Date(s)' on one line and the date on the next line, copy the label and the date lines together; "
+    "The excerpt must contain the actual date or value itself, not only a sentence about it. Copy lines exactly as the page "
+    "shows them and never join a label and a date into a new line yourself. When a page puts a label such as "
+    "'Application Due Date(s)' on one line and the date on the next line, copy both lines with the line break between them; "
     "never copy across a [...] marker, which only shows that lines were left out: if a date stands alone, copy that single line "
     "and name its label in claim; "
     "date_fields = list of {field, value} for each date or eligibility value in the excerpt. "
@@ -16,7 +17,8 @@ COMPARE_SYSTEM = (
     "You watch a web page for a grant writer. You get the EXCERPT recorded earlier and the CURRENT page text. "
     "Decide whether the fact stated in the excerpt (a date, deadline, amount or eligibility rule) has materially changed. "
     "Layout, wording or formatting changes that keep the same facts are 'unchanged'. "
-    "If changed, new_excerpt must be copied CHARACTER FOR CHARACTER from the current page. "
+    "If changed, new_excerpt must be copied CHARACTER FOR CHARACTER from the current page, from a single line or adjacent lines; "
+    "a [...] line only marks lines that were left out, so never copy across it. "
     'JSON shape: {"verdict": "changed"|"unchanged", "field": str, "new_claim": str, "new_excerpt": str, "reason": str}'
 )
 
@@ -27,7 +29,8 @@ CONFIRM_SYSTEM = (
     "'superseded': the page has moved on to a NEWER cycle (next year's competition, a later round or call), so the old fact "
     "belongs to a cycle that is over, even though the page no longer states it. "
     "'unchanged': the fact is still stated, only wording or layout differ. "
-    "For changed and superseded, new_excerpt must be copied CHARACTER FOR CHARACTER from the current page. "
+    "For changed and superseded, new_excerpt must be copied CHARACTER FOR CHARACTER from the current page, from a single line or "
+    "adjacent lines; a [...] line only marks lines that were left out, so never copy across it. "
     'JSON shape: {"verdict": "changed"|"superseded"|"unchanged", "field": str, "new_claim": str, "new_excerpt": str, "reason": str}'
 )
 

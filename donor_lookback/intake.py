@@ -60,4 +60,5 @@ def intake_url(store: Store, gateway: Gateway, fetcher: Fetcher, settings: Setti
                                     fetched_at=now_iso(), fetch_via=page.via)
             donor["date_fields"] = out.get("date_fields", [])
             return donor
-    raise IntakeError(f"No verbatim excerpt could be extracted from {url} ({last_problem})")
+    raise IntakeError(f"No usable excerpt could be extracted from {url} ({last_problem}) "
+                      "Donor Lookback tracks statements that carry a date; a page that only says \"rolling basis\" cannot be watched.")

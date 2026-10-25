@@ -51,31 +51,41 @@ def _tokens(text: str) -> set[str]:
     return {t for t in re.findall(r"[a-z0-9]+", text.lower()) if len(t) > 2}
 
 
-MONTHS = r"(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?"
-# a four-digit year, a day-month pair in either order, or a numeric date; "5:00 PM" is not a date
-DATE_IN_TEXT = re.compile(rf"(?i)\b(?:19|20)\d{{2}}\b|\b{MONTHS}\s+\d{{1,2}}\b|\b\d{{1,2}}\s+{MONTHS}|\b\d{{1,2}}/\d{{1,2}}/\d{{2,4}}\b")
+MONTHS = r"(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|(?-i:May)|june?|july?|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\.?"
+DAY = r"\d{1,2}(?:st|nd|rd|th)?"
+# a four-digit year, a day-month pair in either order (ordinals and "of" allowed), or a numeric date; "5:00 PM" is not a date
+DATE_IN_TEXT = re.compile(rf"(?i)\b(?:19|20)\d{{2}}\b|\b{MONTHS}\s+{DAY}\b|\b{DAY}(?:\s+of)?[\s-]+{MONTHS}(?![a-z])|\b\d{{1,2}}/\d{{1,2}}(?:/\d{{2,4}})?\b")
+DEADLINE_LABEL = re.compile(r"(?i)deadline|due date|target date|closing date|receipt date|submission date")
+
+
+def states_deadline(text: str) -> bool:
+    """True if a deadline-labelled line carries a date itself or has one in the next three lines (a label above a date)."""
+    lines = text.split("\n")
+    return any(DEADLINE_LABEL.search(ln) and any(DATE_IN_TEXT.search(x) for x in lines[i:i + 4]) for i, ln in enumerate(lines))
 
 
 def relevant_window(page_text: str, excerpt: str, limit: int) -> str:
     """Keep the page whole if it fits; otherwise keep the lines most similar to the excerpt, in page order.
-    Lines that carry a date rank higher, and so does the block around one: grant pages often put a bare date under a label
-    (a flattened table), the date line shares no words with the question, and a model quotes across a gap it cannot see.
-    Runs of kept lines that were not adjacent on the page are separated by a [...] line."""
+    Lines that carry a date, and the block around one, rank above lines that merely share a word, because grant pages often put a
+    bare date under a label (a flattened table), the date line shares no words with the question, and a model quotes across a gap
+    it cannot see. Words shared with the question still win over a date alone, so a changed undated statement stays in view.
+    Runs of kept lines that were not adjacent on the page are separated by a [...] line (counted in the limit)."""
     if len(page_text) <= limit:
         return page_text
     want = _tokens(excerpt)
-    lines = page_text.split("\n")
+    lines = [ln[:max(limit - 8, 1)] for ln in page_text.split("\n")]  # a single huge line must not empty the window
     dated = [bool(DATE_IN_TEXT.search(ln)) for ln in lines]
     near_dated = [any(dated[max(0, i - 12):i + 13]) for i in range(len(lines))]
 
     def score(i: int) -> float:
-        return len(want & _tokens(lines[i])) + (2 if dated[i] else 0) + (1.5 if near_dated[i] else 0)
+        return 3 * len(want & _tokens(lines[i])) + (2 if dated[i] else 0) + (1.5 if near_dated[i] else 0)
     keep, used = set(), 0
     for i in sorted(range(len(lines)), key=lambda i: -score(i)):
-        if used + len(lines[i]) + 1 > limit:
+        cost = len(lines[i]) + 1 + 6  # 6 leaves room for a "[...]\n" marker in front of it
+        if used + cost > limit:
             continue
         keep.add(i)
-        used += len(lines[i]) + 1
+        used += cost
     out, prev = [], None
     for i in sorted(keep):
         if prev is not None and i != prev + 1:

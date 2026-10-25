@@ -64,3 +64,18 @@ def test_latest_run_with_change_survives_a_later_quiet_run():
     st.log_event(second, "unchanged", "quiet")
     assert st.latest_run()["id"] == second and st.latest_run_with_change()["id"] == first
     assert Store(":memory:").latest_run_with_change() is None
+
+
+def test_load_dotenv_handles_comments_quotes_export_and_keeps_existing(tmp_path, monkeypatch):
+    import os
+    from donor_lookback.config import load_dotenv
+    f = tmp_path / ".env"
+    f.write_text('A=plain # note\nB="quoted # kept" # gone\nexport C=exp\nD=x=y\nE=keep\r\n# comment\n\nF=\n')
+    monkeypatch.setenv("E", "already")
+    for k in "ABCDF":
+        monkeypatch.delenv(k, raising=False)
+    load_dotenv(f)
+    assert (os.environ["A"], os.environ["B"], os.environ["C"], os.environ["D"], os.environ["E"], os.environ["F"]) == \
+        ("plain", "quoted # kept", "exp", "x=y", "already", "")
+    for k in "ABCDF":
+        monkeypatch.delenv(k, raising=False)
