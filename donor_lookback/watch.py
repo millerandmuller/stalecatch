@@ -68,7 +68,8 @@ def ultra_confirm(gateway: Gateway, settings: Settings, donor: dict, page_text: 
     """Second look at every Nano alarm. A confirmation without a verbatim new excerpt does not count."""
     window = relevant_window(page_text, donor["excerpt"], settings.page_char_limit)
     user = _user_prompt(donor, window) + f"\n\nThe cheaper model's alarm: {alarm.reason}"
-    out = gateway.chat_json("ultra", CONFIRM_SYSTEM, user, purpose="confirm", run_id=run_id, schema=CONFIRM_SCHEMA)
+    out = gateway.chat_json("ultra", CONFIRM_SYSTEM, user, purpose="confirm", run_id=run_id, schema=CONFIRM_SCHEMA,
+                          max_tokens=4000)  # Ultra reasons first; 1500 cut it off before the JSON on one real page
     said_yes = _strict_bool(out.get("confirmed"), "confirmed")
     new_excerpt = _text(out.get("new_excerpt"))
     verbatim = bool(new_excerpt) and is_verbatim(new_excerpt, page_text)
