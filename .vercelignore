@@ -1,0 +1,13 @@
+.venv
+.env
+.env.*
+.git
+tests
+scripts
+data/*
+!data/recorded_run.json
+bench/snapshots
+bench/report.incomplete.json
+bench/control_pool.json
+**/__pycache__
+.pytest_cache

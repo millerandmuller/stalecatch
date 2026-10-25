@@ -136,3 +136,8 @@ def test_no_cap_outside_judge_mode(env):
     svc = Services(env.settings, env.store, env.gateway, env.web)
     c = TestClient(create_app(svc, judge_mode=False, cooldown_s=0.0))
     assert c.get("/api/config").json()["live_runs_left"] is None
+
+
+def test_index_answers_head_requests(client):
+    c, _ = client
+    assert c.head("/").status_code == 200 and c.get("/").status_code == 200

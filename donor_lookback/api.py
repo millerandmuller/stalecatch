@@ -166,7 +166,7 @@ def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_
             raise HTTPException(404, "unknown demo page")
         return demo_pages.render_html(slug, demo_pages.load_state(svc.settings.demo_state_path))
 
-    @app.get("/")
+    @app.api_route("/", methods=["GET", "HEAD"])  # HEAD so `curl -I` and uptime checks see 200
     def index():
         return FileResponse(WEB_DIR / "index.html")
 

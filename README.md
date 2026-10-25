@@ -2,6 +2,8 @@
 
 > Your assistant doesn't just remember. It recalls.
 
+Hosted judge mode: https://stalecatch.vercel.app, free until 2026-12-15.
+
 StaleCatch catches the moment a page your assistant relied on goes stale. Every memory keeps a **source record** (URL, fetch time, verbatim excerpt) and every **item built from it** (calendar entry, plan, sent message). A small model re-checks the sources every night. When one changes, the items built from it go on hold, a large model updates only those, and the message you already sent rises to the top of "Who's been told" with a correction drafted for you to approve. Nothing is sent automatically.
 
 The method comes from blood-bank look-back: when a donation turns out bad, trace everything made from it and recall it.
@@ -83,7 +85,9 @@ Measured numbers (receipt for a full reveal, archive bench results) are filled i
 
 ## Judge mode and the recorded run
 
-`JUDGE_MODE=1 scripts/serve.sh` runs the board read-only for visitors: the live "Run tonight's check now" button is rate limited and the **Replay recorded run** button plays `data/recorded_run.json`, a real run captured with `scripts/record_run.py` (it refuses simulated models). The replay ends on the finished state and stays there (reload to leave it): red donor with its old and new excerpt open, three re-derived products, the sent message in row 1 with its correction draft. That last frame is also the Cold Open.
+`JUDGE_MODE=1 scripts/serve.sh` runs the board read-only for visitors: the live "Run tonight's check now" button is limited to `LIVE_RUNS_PER_DAY` runs a day (default 10, shared by all visitors, counted in the database so a demo reset does not refill it; once used up the board says "Live checks used up for today, the replay shows a real run.") and the **Replay recorded run** button plays `data/recorded_run.json`, a real run captured with `scripts/record_run.py` (it refuses simulated models). The replay ends on the finished state and stays there (reload to leave it): red donor with its old and new excerpt open, three re-derived products, the sent message in row 1 with its correction draft. That last frame is also the Cold Open.
+
+The hosted judge board at https://stalecatch.vercel.app runs `app.py` on Vercel **without a Token Factory key**, so visitors get the seed, the replay and the proof panel, and the live button explains that it needs credentials. Its SQLite file lives in `/tmp` and is re-seeded on a cold start. The same image (`Dockerfile`) runs on any container host with a persistent `/data` volume.
 
 ## Limits
 

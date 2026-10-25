@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "app.py": { "includeFiles": "{web,seed,bench,data}/**" }
+  }
+}
