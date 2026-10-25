@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Donor Lookback</title>
+<link rel="stylesheet" href="/static/board.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <h1>Donor Lookback</h1>
+    <p id="tagline"></p>
+  </div>
+  <div class="controls">
+    <span id="modeBadge" class="badge" hidden></span>
+    <label class="edit"><span class="sr">New deadline on the demo funder page</span><input id="newDeadline" value="October 28, 2026" size="16" maxlength="40"></label>
+    <button id="editBtn" class="ghost"></button>
+    <button id="runBtn" class="primary"></button>
+    <button id="replayBtn" class="ghost" hidden></button>
+    <button id="proofBtn" class="ghost" hidden></button>
+    <button id="resetBtn" class="ghost"></button>
+  </div>
+</header>
+
+<div id="ticker" class="ticker" role="status" aria-live="polite"></div>
+
+<main class="board">
+  <section class="col" id="colDonors"><h2></h2><p class="hint"></p><div class="cards" id="donors"></div><section id="record" class="record" hidden></section></section>
+  <section class="col" id="colProducts"><h2></h2><p class="hint"></p><div class="cards" id="products"></div></section>
+  <section class="col" id="colRecipients"><h2></h2><p class="hint"></p><div class="cards" id="recipients"></div></section>
+</main>
+
+<footer class="receipt" id="receipt"></footer>
+<p class="note" id="demoNote"></p>
+
+<dialog id="benchDialog"><div id="benchBody"></div><form method="dialog"><button class="ghost">Close</button></form></dialog>
+
+<script src="/static/strings.js"></script>
+<script src="/static/board.js"></script>
+</body>
+</html>
