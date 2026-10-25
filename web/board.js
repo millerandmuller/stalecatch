@@ -3,7 +3,7 @@ const S = window.STRINGS;
 const $ = (id) => document.getElementById(id);
 const ICON = { changed: "▲", quarantined: "◐", rederived: "✓", gone: "○", source_unavailable: "○", ok: "●", released: "●" };
 
-let state = null, config = null, selectedDonor = null, polling = null, lastEventSeq = 0, activeRunId = null;
+let replaying = false, state = null, config = null, selectedDonor = null, polling = null, lastEventSeq = 0, activeRunId = null;
 
 function h(tag, cls, text) {
   const el = document.createElement(tag);
@@ -155,6 +155,7 @@ async function refresh() {
 async function poll() {
   clearTimeout(polling);
   try {
+    if (replaying) { polling = setTimeout(poll, 4000); return; }  // never overwrite a replayed frame with live state
     if (activeRunId) {
       const ev = await api(`/api/run/${activeRunId}/events?after=${lastEventSeq}`);
       for (const e of ev.events) { lastEventSeq = e.seq; setTicker(`${e.step}: ${e.detail}`); }
@@ -246,15 +247,19 @@ async function showBench() {
 }
 
 async function replayRecorded() {
+  replaying = true;
   try {
     const rec = await api("/api/recorded-run");
     setTicker(`Replaying a recorded run from ${rec.recorded_at.slice(0, 10)} (${rec.models.nano} + ${rec.models.ultra}). Read-only.`);
     for (const frame of rec.frames) {
-      state = frame.state; render(); setTicker(`Recorded run. ${frame.ticker || ""}`);
+      state = frame.state;
+      const red = state.donors.find((d) => d.state === "changed");
+      selectedDonor = red ? red.id : selectedDonor;  // the old/new excerpt opens by itself once a donor has turned red
+      render(); setTicker(`Recorded run. ${frame.ticker || ""}`);
       await new Promise((r) => setTimeout(r, frame.hold_ms || 900));
     }
-    await refresh();
-  } catch (err) { setTicker(err.message); }
+    setTicker("Recorded run finished. This is the finished state; reload the page to return to the live board.");  // stays on screen
+  } catch (err) { replaying = false; setTicker(err.message); }
 }
 
 async function init() {
