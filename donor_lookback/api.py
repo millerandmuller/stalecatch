@@ -31,7 +31,7 @@ class EditBody(BaseModel):
 def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_fake: bool = False, cooldown_s: float = 45.0,
                recorded_run_path: Optional[Path] = None, bench_report_path: Optional[Path] = None) -> FastAPI:
     svc = svc or build_services()
-    app = FastAPI(title="Donor Lookback")
+    app = FastAPI(title="StaleCatch")
     run_lock = threading.Lock()
     cur = {"run_id": None, "started": 0.0, "last_started": 0.0}
     recorded_run_path = recorded_run_path or DATA_DIR / "recorded_run.json"
@@ -97,7 +97,7 @@ def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_
     def edit(body: EditBody):
         deadline = body.deadline.strip()
         if not demo_pages.valid_deadline(deadline):
-            raise HTTPException(422, "deadline must be a short date such as 'October 28, 2026' (letters, digits, spaces, commas)")
+            raise HTTPException(422, "deadline must be a short date such as 'October 28, 2027' (letters, digits, spaces, commas)")
         return {"demo_page": edit_funder_deadline(svc.settings, deadline)}
 
     @app.post("/api/demo/reset")

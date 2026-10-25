@@ -61,4 +61,4 @@ def intake_url(store: Store, gateway: Gateway, fetcher: Fetcher, settings: Setti
             donor["date_fields"] = out.get("date_fields", [])
             return donor
     raise IntakeError(f"No usable excerpt could be extracted from {url} ({last_problem}) "
-                      "Donor Lookback tracks statements that carry a date; a page that only says \"rolling basis\" cannot be watched.")
+                      "StaleCatch tracks statements that carry a date; a page that only says \"rolling basis\" cannot be watched.")

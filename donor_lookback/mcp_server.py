@@ -97,7 +97,7 @@ class BearerAuth:
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description="Donor Lookback memory MCP server (Streamable HTTP)")
+    ap = argparse.ArgumentParser(description="StaleCatch memory MCP server (Streamable HTTP)")
     ap.add_argument("--host", default="127.0.0.1")
     ap.add_argument("--port", type=int, default=8765)
     ap.add_argument("--tls-cert", help="PEM certificate: serve HTTPS (needed by managed MCP clients such as NemoClaw)")

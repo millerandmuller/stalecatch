@@ -3,38 +3,65 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Donor Lookback</title>
+<title>StaleCatch</title>
+<meta name="color-scheme" content="light dark">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/static/board.css">
+<script>
+  /* Apply the saved theme before first paint so there is no flash; storage can be blocked, the page works without it. */
+  try { var t = localStorage.getItem("stalecatch-theme"); if (t === "light" || t === "dark") document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
 </head>
 <body>
-<header class="top">
-  <div class="brand">
-    <h1>Donor Lookback</h1>
-    <p id="tagline"></p>
+<div class="stage">
+  <div class="blob blob-a"></div><div class="blob blob-b"></div>
+  <div class="wordmark" aria-hidden="true">STALECATCH</div>
+
+  <div class="page">
+    <header class="top glass pill">
+      <div class="brand"><span class="logo">sc</span><span class="name">StaleCatch</span><span id="modeBadge" class="badge" hidden></span></div>
+      <div class="controls">
+        <button id="themeBtn" class="chip-btn" title="Toggle light / dark"><span id="themeGlyph">☀</span><span id="themeLabel">Light</span></button>
+        <span class="divider"></span>
+        <span class="demo-label">Demo</span>
+        <label class="edit"><span class="sr">New deadline on the demo funder page</span><input id="newDeadline" value="October 28, 2027" size="16" maxlength="40"></label>
+        <button id="editBtn" class="chip-btn"></button>
+        <button id="resetBtn" class="chip-btn"></button>
+        <button id="replayBtn" class="chip-btn" hidden></button>
+        <button id="proofBtn" class="chip-btn" hidden></button>
+        <button id="runBtn" class="primary"></button>
+      </div>
+    </header>
+
+    <div class="lead">
+      <div class="headline"><h1>Tonight's check</h1><p id="tagline"></p></div>
+      <div id="ticker" class="ticker glass pill" role="status" aria-live="polite">
+        <span id="tickerDot" class="tdot"></span><span id="tickerText"></span><span id="tickerPhase" class="phase"></span>
+      </div>
+    </div>
+
+    <main class="board">
+      <section class="col glass panel" id="colDonors">
+        <div class="col-head"><div><h2></h2><p class="hint"></p></div><span class="count" id="countDonors"></span></div>
+        <div class="cards" id="donors"></div><section id="record" class="record" hidden></section>
+      </section>
+      <section class="col glass panel" id="colProducts">
+        <div class="col-head"><div><h2></h2><p class="hint"></p></div><span class="count" id="countProducts"></span></div>
+        <div class="cards" id="products"></div>
+      </section>
+      <section class="col glass panel" id="colRecipients">
+        <div class="col-head"><div><h2></h2><p class="hint"></p></div><span class="count" id="countRecipients"></span></div>
+        <div class="cards" id="recipients"></div>
+      </section>
+    </main>
+
+    <footer class="receipt glass panel" id="receipt"></footer>
+    <p class="note" id="demoNote"></p>
   </div>
-  <div class="controls">
-    <span id="modeBadge" class="badge" hidden></span>
-    <label class="edit"><span class="sr">New deadline on the demo funder page</span><input id="newDeadline" value="October 28, 2026" size="16" maxlength="40"></label>
-    <button id="editBtn" class="ghost"></button>
-    <button id="runBtn" class="primary"></button>
-    <button id="replayBtn" class="ghost" hidden></button>
-    <button id="proofBtn" class="ghost" hidden></button>
-    <button id="resetBtn" class="ghost"></button>
-  </div>
-</header>
+</div>
 
-<div id="ticker" class="ticker" role="status" aria-live="polite"></div>
-
-<main class="board">
-  <section class="col" id="colDonors"><h2></h2><p class="hint"></p><div class="cards" id="donors"></div><section id="record" class="record" hidden></section></section>
-  <section class="col" id="colProducts"><h2></h2><p class="hint"></p><div class="cards" id="products"></div></section>
-  <section class="col" id="colRecipients"><h2></h2><p class="hint"></p><div class="cards" id="recipients"></div></section>
-</main>
-
-<footer class="receipt" id="receipt"></footer>
-<p class="note" id="demoNote"></p>
-
-<dialog id="benchDialog"><div id="benchBody"></div><form method="dialog"><button class="ghost">Close</button></form></dialog>
+<dialog id="benchDialog" class="glass-dialog"><div id="benchBody"></div><form method="dialog"><button class="chip-btn">Close</button></form></dialog>
 
 <script src="/static/strings.js"></script>
 <script src="/static/board.js"></script>

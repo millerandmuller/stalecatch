@@ -1,7 +1,6 @@
-// Lookback board: three columns, one status system (icon + label + colour), no navigation.
+// StaleCatch board: three glass columns, one status system (dot + label + colour), no navigation.
 const S = window.STRINGS;
 const $ = (id) => document.getElementById(id);
-const ICON = { changed: "▲", quarantined: "◐", rederived: "✓", gone: "○", source_unavailable: "○", ok: "●", released: "●" };
 
 let replaying = false, state = null, config = null, selectedDonor = null, polling = null, lastEventSeq = 0, activeRunId = null;
 
@@ -19,54 +18,121 @@ const api = async (path, opts) => {
   return r.json();
 };
 
-function stateTag(key, label) {
-  const s = h("div", "state");
-  s.append(h("span", "", ICON[key] || "●"), h("span", "", label));
-  return s;
+// ---- theme: light / dark, remembered when storage allows it ----
+function currentTheme() {
+  const set = document.documentElement.dataset.theme;
+  return set || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+}
+function paintThemeButton() {
+  const dark = currentTheme() === "dark";
+  $("themeGlyph").textContent = dark ? "☾" : "☀"; $("themeLabel").textContent = dark ? "Dark" : "Light";
+}
+function toggleTheme() {
+  const next = currentTheme() === "dark" ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  try { localStorage.setItem("stalecatch-theme", next); } catch (e) { /* private window or blocked storage: the choice just is not remembered */ }
+  paintThemeButton();
+}
+
+// ---- small helpers for dates inside excerpts ----
+const MONTHS = "(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|June?|July?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\\.?";
+const DATE_RE = new RegExp(`${MONTHS}\\s+\\d{1,2}(?:st|nd|rd|th)?(?:,?\\s+(?:19|20)\\d{2})?`);
+const firstDate = (text) => { const m = DATE_RE.exec(text || ""); return m ? m[0] : ""; };
+const shortDate = (text) => firstDate(text).replace(/^(\w{3})\w*\.?\s+(\d+)\D*.*$/, "$1 $2");
+
+// Split an excerpt around its first date so the date can be marked.
+function splitAtDate(text) {
+  const m = DATE_RE.exec(text || "");
+  return m ? [text.slice(0, m.index), m[0], text.slice(m.index + m[0].length)] : [text || "", "", ""];
+}
+
+function chip(cls, label, dotKind) {
+  const c = h("span", "chip");
+  c.append(h("span", `dot ${dotKind || ""}`), h("span", "", label));
+  if (cls) c.classList.add(cls);
+  return c;
+}
+
+const DOT = { changed: "full", quarantined: "half", rederived: "full", gone: "", source_unavailable: "", ok: "", released: "" };
+
+function diffBlock(d) {
+  const diff = h("div", "diff");
+  const side = (cls, cap, text, ts) => {
+    const x = h("div", cls === "old" ? "old" : "new");
+    const [pre, hit, post] = splitAtDate(text);
+    const txt = h("div", "txt");
+    txt.append(pre);
+    if (hit) txt.append(h("mark", cls, hit));
+    txt.append(post);
+    x.append(h("div", "cap", `${cap} · ${ts}`), txt);
+    return x;
+  };
+  diff.append(side("old", S.diffOld, d.prev_excerpt, fmtTime(d.prev_fetched_at)), side("new", S.diffNew, d.excerpt, fmtTime(d.fetched_at)));
+  return diff;
 }
 
 function donorCard(d) {
   const key = d.state;
-  const c = h("div", `card clickable s-${key}${selectedDonor === d.id ? " selected" : ""}`);
+  const c = h("div", `card clickable s-${key}${selectedDonor === d.id ? " selected" : ""}${key === "changed" ? "" : ""}`);
   c.dataset.id = d.id;
-  c.append(h("div", "kind", "Donor"), h("div", "title", d.label));
-  c.append(h("div", "body", d.claim));
-  c.append(h("div", "mono", `${S.fetched} ${fmtTime(d.fetched_at)} · via ${d.fetch_via}`));
-  c.append(stateTag(key, S.donorState[key]));
+  const label = key === "changed" && d.prev_excerpt && shortDate(d.prev_excerpt) && shortDate(d.excerpt)
+    ? `${S.donorState.changed} · ${shortDate(d.prev_excerpt)} → ${shortDate(d.excerpt)}` : S.donorState[key];
+  const top = h("div", "card-top");
+  top.append(h("div", "kind", S.sourceLabel), chip("", label, DOT[key]));
+  c.append(top, h("div", "title", d.label.replace(/ \(demo page\)/, "")), h("div", "body", d.claim));
+  c.append(h("div", "mono", `${S.fetched} ${fmtTime(d.fetched_at)} · via ${d.fetch_via}${/demo/.test(d.url) ? " · our demo page" : ""}`));
+  if (key === "changed" && d.prev_excerpt) c.append(diffBlock(d));
+  if (state.donors.some((x) => x.state === "changed") && key !== "changed") c.classList.add("dim");
   c.addEventListener("click", () => { selectedDonor = selectedDonor === d.id ? null : d.id; render(); });
   return c;
 }
 
 function parentLabel(id) {
   const d = state.donors.find((x) => x.id === id);
-  if (d) return `donor: ${d.label.replace(/ \(demo page\)/, "")}`;
+  if (d) return d.label.replace(/ \(demo page\)/, "") + " page";
   const p = state.products.find((x) => x.id === id);
-  return p ? `${p.kind}: ${p.title.replace(/^[A-Za-z]+: /, "")}` : id;
+  return p ? `${p.title.replace(/^[A-Za-z]+: /, "")} (${p.kind})` : id;
 }
 
 function productCard(p) {
-  const c = h("div", `card s-${p.status}${p.status === "released" ? " compact" : ""}`);
+  const affected = p.status === "quarantined" || p.status === "rederived";
+  const c = h("div", `card s-${p.status}${affected ? " has-rule" : ""}`);
   c.dataset.id = p.id;
-  c.append(h("div", "kind", p.kind + (p.sent ? " · sent" : "")), h("div", "title", p.title), h("div", "body", p.content));
-  c.append(h("div", "from", `built from ${p.parents.map(parentLabel).join(" + ")}`));
-  c.append(stateTag(p.status, S.productState[p.status]));
+  c.append(h("span", "rule"));
+  const top = h("div", "card-top");
+  top.append(h("div", "kind", p.kind + (p.sent ? " · sent" : "")), chip("", S.productState[p.status], DOT[p.status]));
+  c.append(top, h("div", "title", p.title));
+  const replaced = p.sent && p.status === "rederived";
+  c.append(h("div", "body", replaced ? S.replacedSeeCorrection : p.content));
+  if (p.status === "rederived" && p.prev_content && !replaced) c.append(h("div", "before", p.prev_content));
+  if (p.status === "rederived" && p.kind === "plan") c.append(h("div", "because", S.planNoLongerFits));
+  c.append(h("div", "from", `from: ${p.parents.map(parentLabel).join(" + ")}`));
+  if (state.donors.some((x) => x.state === "changed") && !affected && p.status === "released") {
+    const parentIsChanged = p.parents.some((id) => state.donors.some((x) => x.id === id && x.state === "changed"));
+    if (!parentIsChanged) c.classList.add("dim");
+  }
   return c;
 }
 
+function recipientName(p) { return (p.recipient || "Recipient").replace(/\s*\(.*$/, ""); }
+
 function recipientCard(p, first) {
   const affected = p.status === "rederived" || p.status === "quarantined";
-  const c = h("div", `card s-${affected ? "quarantined" : "released"}`);  // amber: only the changed donor is red
+  const c = h("div", `card ${affected ? "s-quarantined has-rule" : "s-released"}`);  // only the changed source card is red
   c.dataset.id = p.id;
-  if (affected && first) c.append(h("div", "recip-lead", `${p.recipient || "Recipient"} ${S.receivedOld}`));
-  c.append(h("div", "kind", `${S.sentLine} ${p.recipient || "recipient"}`), h("div", "title", p.title));
+  c.append(h("span", "rule"));
+  if (affected && first) c.append(h("div", "recip-lead", `${recipientName(p)} ${S.receivedOld} ${S.correctionPrepared}`));
+  const top = h("div", "card-top");
+  const stateLabel = !affected ? S.productState.released : (p.correction_approved ? S.correctionApproved : (p.status === "quarantined" ? S.productState.quarantined : S.sentWithOld));
+  top.append(h("div", "kind", p.recipient || "recipient"), chip(affected && p.status === "rederived" && !p.correction_approved ? "" : "", stateLabel, affected ? (p.status === "quarantined" ? "half" : "full") : ""));
+  c.append(top, h("div", "title", p.title));
   c.append(h("div", "body mono", p.sent_content || p.content));
-  if (affected) c.append(stateTag(p.status === "rederived" ? "changed" : "quarantined", p.status === "rederived" ? S.correctionPrepared : S.productState.quarantined));
   if (p.correction_draft) {
     const dr = h("div", "draft");
     dr.append(h("div", "label", S.correctionDraft), h("p", "", p.correction_draft));
-    if (p.correction_approved) dr.append(h("div", "mono", S.approved));
+    if (p.correction_approved) dr.append(h("div", "approved", `✓ ${S.approved}`));
     else {
-      const b = h("button", "ghost", S.approve);
+      const b = h("button", "", S.approve);
       b.addEventListener("click", async () => { await api(`/api/products/${p.id}/approve`, { method: "POST" }); refresh(); });
       dr.append(b);
     }
@@ -92,44 +158,58 @@ function renderList(el, nodes) {
 function renderRecord() {
   const box = $("record");
   const d = state.donors.find((x) => x.id === selectedDonor);
-  if (!d) { box.hidden = true; return; }
+  if (!d || (d.state === "changed" && d.prev_excerpt)) { box.hidden = true; return; }  // a changed source already shows its diff on the card
   box.hidden = false;
-  box.replaceChildren(h("h3", "", `Donor record: ${d.label}`), h("div", "mono", d.url));
-  const diff = h("div", "diff");
-  const mk = (cls, cap, txt, ts) => { const x = h("div", cls); x.append(h("div", "cap", cap), h("div", "txt", txt), h("div", "ts", ts)); return x; };
-  if (d.prev_excerpt) {
-    diff.append(mk("old", S.diffOld, d.prev_excerpt, `${S.fetched} ${fmtTime(d.prev_fetched_at)}`), mk("new", S.diffNew, d.excerpt, `${S.fetched} ${fmtTime(d.fetched_at)}`));
-  } else {
-    diff.append(mk("new", "Recorded excerpt (verbatim)", d.excerpt, `${S.fetched} ${fmtTime(d.fetched_at)} · via ${d.fetch_via}`));
-  }
-  box.append(diff);
+  const x = h("div", "diff"), cell = h("div", "new");
+  cell.append(h("div", "cap", `Recorded excerpt (verbatim) · ${S.fetched} ${fmtTime(d.fetched_at)} · via ${d.fetch_via}`), h("div", "txt", d.excerpt));
+  x.append(cell);
+  box.replaceChildren(h("h3", "", `Source record: ${d.label}`), h("div", "mono", d.url), x);
 }
 
+function setCount(id, text, tone) {
+  const el = $(id);
+  el.className = `count ${tone || ""}`;
+  el.replaceChildren(h("span", "cdot"), h("span", "", text));
+}
+
+function renderCounts() {
+  const donors = state.donors, products = state.products, recips = state.recipients;
+  const changed = donors.filter((d) => d.state === "changed").length;
+  setCount("countDonors", changed ? `${changed} changed` : `${donors.length} current`, changed ? "red" : "");
+  const held = products.filter((p) => p.status === "quarantined").length, updated = products.filter((p) => p.status === "rederived").length;
+  setCount("countProducts", held ? `${held} on hold` : updated ? `${updated} updated` : `${products.length} current`, held ? "amber" : updated ? "green" : "");
+  const rHeld = recips.filter((p) => p.status === "quarantined").length;
+  const rNeeds = recips.filter((p) => p.status === "rederived" && !p.correction_approved).length;
+  setCount("countRecipients", rHeld ? `${rHeld} on hold` : rNeeds ? `${rNeeds} needs correction` : `${recips.length} current`, rHeld ? "amber" : rNeeds ? "red" : "");
+}
+
+function rcCard(label, num, sub, dashed) {
+  const c = h("div", `rc${dashed ? " dashed" : ""}`);
+  c.append(h("div", "lbl", label), h("div", "num", num), h("div", "sub", sub || ""));
+  return c;
+}
+
+// Measured numbers only: every figure comes from the receipt the server builds from logged usage fields.
 function renderReceipt() {
   const r = state.receipt, el = $("receipt");
   el.replaceChildren();
   const failed = state.run && state.run.finished_at && !state.run.complete;
+  const none = !r || (!r.nano.calls && !r.ultra.calls);
+  const usd = (v) => `$${v.toFixed(4)}`;
+  const run = state.headline_run && state.headline_run.summary;
+  let total = rcCard(S.cost.total, none ? "—" : usd(r.total_usd), none ? S.cost.none : "");
   if (failed) {
     const why = (state.run.summary && state.run.summary.errors && state.run.summary.errors[0] && state.run.summary.errors[0].error) || "unknown error";
-    el.append(h("span", "warn", `The last check did not finish: ${why}`));
+    const sub = total.querySelector(".sub"); sub.className = "sub warn"; sub.textContent = `The last check did not finish: ${why}`;
+  } else if (!none && run && run.donors !== undefined) {
+    total.querySelector(".sub").textContent = `${run.donors} sources · ${run.changed || 0} changed · ${r.nano.calls + r.ultra.calls} calls${run.errors && run.errors.length ? " (incomplete)" : ""}`;
   }
-  if (!r || (!r.nano.calls && !r.ultra.calls)) { if (!failed) el.append(h("span", "", "No check has run yet.")); return; }
-  const run = state.headline_run && state.headline_run.summary;
-  const usd = (v) => `$${v.toFixed(4)}`;
-  if (run && run.donors !== undefined) {
-    const sp = h("span");
-    sp.append(`Tonight's check: ${run.donors} donors, ${run.changed || 0} changed, `, h("b", "", usd(r.total_usd)), run.errors && run.errors.length ? " (incomplete)" : "");
-    el.append(sp);
-  }
-  const part = (label, t) => {
-    const s = h("span");
-    s.append(`${label} `, h("b", "", `${t.calls} calls`), ` · ${t.prompt_tokens + t.completion_tokens} tokens · ${usd(t.usd)} · ${(t.latency_ms / 1000).toFixed(1)}s`);
-    return s;
-  };
-  el.append(part("Nano (watches)", r.nano), part("Ultra (thinks)", r.ultra));
-  const e = h("span");
-  e.append("If Ultra had checked everything: ", h("b", "", usd(r.ultra_everything_usd)));
-  el.append(e);
+  const line = (t) => `${t.calls} calls · ${(t.prompt_tokens + t.completion_tokens).toLocaleString()} tokens · ${(t.latency_ms / 1000).toFixed(1)} s`;
+  const pct = !none && r.total_usd > 0 ? `${r.ultra_everything_usd >= r.total_usd ? "+" : ""}${Math.round((r.ultra_everything_usd / r.total_usd - 1) * 100)}% for the same result` : "";
+  el.append(total,
+    rcCard(S.cost.nano, none ? "—" : usd(r.nano.usd), none ? "" : line(r.nano)),
+    rcCard(S.cost.ultra, none ? "—" : usd(r.ultra.usd), none ? "" : line(r.ultra)),
+    rcCard(S.cost.counter, none ? "—" : usd(r.ultra_everything_usd), pct, true));
 }
 
 function render() {
@@ -138,6 +218,7 @@ function render() {
   renderList($("products"), state.products.map(productCard));
   const rec = state.recipients;
   renderList($("recipients"), rec.length ? rec.map((p, i) => recipientCard(p, i === 0)) : [h("div", "empty", S.emptyRecipients)]);
+  renderCounts();
   renderRecord();
   renderReceipt();
   $("runBtn").disabled = state.running || !config.live_ready;
@@ -145,7 +226,31 @@ function render() {
   $("demoNote").textContent = S.demoNote + (config.live_ready ? "" : " " + S.notConfigured);
 }
 
-function setTicker(text) { $("ticker").textContent = text; }
+// Friendly one-line ticker for each run event: [text, dot colour, phase label].
+function tickerFor(step, detail) {
+  const dates = (detail.match(new RegExp(`${MONTHS}\\s+\\d{1,2}`, "g")) || []).map((d) => d.replace(/^(\w{3})\w*\.?\s+/, "$1 "));
+  switch (step) {
+    case "start": return [detail.replace("Tonight's check: ", "Checking ").replace(/ donors?/, " sources…"), "amber", "quick scan · nano"];
+    case "fetch": return ["Re-fetching your sources…", "amber", "quick scan · nano"];
+    case "nano_alarm": return ["Quick scan flagged a change. Deep review is confirming…", "amber", "deep review · ultra"];
+    case "unchanged": return ["Quick scan: no change on this source.", "", "quick scan · nano"];
+    case "alarm_rejected": return ["Deep review checked twice and found no change.", "", "deep review · ultra"];
+    case "donor_red": return [detail.startsWith("Next cycle posted") ? S.nextCycle + ": " + dates.join(" → ") + "."
+      : `Deep review confirmed a change${dates.length >= 2 ? `: ${dates[0]} → ${dates[dates.length - 1]}` : ""}.`, "red", "deep review · ultra"];
+    case "quarantine": return [detail.replace(/\.$/, "") + ". Other sources untouched.", "amber", "on hold"];
+    case "rederived": return ["Deep review updated the held items from the new source.", "green", "deep review · ultra"];
+    case "sent_rises": return ["The message already sent is now first in Who's been told. Correction prepared, nothing sent.", "red", "check complete"];
+    case "error": return [detail, "red", "error"];
+    default: return [detail || step, "", step];
+  }
+}
+
+function setTicker(text, dot, phase) {
+  $("tickerText").textContent = text;
+  $("tickerDot").className = `tdot ${dot || ""}`;
+  $("tickerPhase").textContent = phase || "";
+}
+function tickEvent(e) { const [t, dot, ph] = tickerFor(e.step, e.detail || ""); setTicker(t, dot, ph); }
 
 async function refresh() {
   state = await api("/api/state");
@@ -158,60 +263,63 @@ async function poll() {
     if (replaying) { polling = setTimeout(poll, 4000); return; }  // never overwrite a replayed frame with live state
     if (activeRunId) {
       const ev = await api(`/api/run/${activeRunId}/events?after=${lastEventSeq}`);
-      for (const e of ev.events) { lastEventSeq = e.seq; setTicker(`${e.step}: ${e.detail}`); }
+      for (const e of ev.events) { lastEventSeq = e.seq; tickEvent(e); }
       await refresh();
       if (!ev.running && ev.run && ev.run.finished_at) {
         activeRunId = null;
         const errs = ev.run.summary && ev.run.summary.errors;
-        if (!ev.run.complete && errs && errs.length) setTicker(`The check did not finish: ${errs[0].error}`);  // keep the failure on screen
+        if (!ev.run.complete && errs && errs.length) setTicker(`The check did not finish: ${errs[0].error}`, "red", "error");  // keep the failure on screen
         polling = setTimeout(poll, 4000); return;
       }
       polling = setTimeout(poll, 450);
       return;
     }
-  } catch (err) { setTicker(String(err.message || err)); }
+  } catch (err) { setTicker(String(err.message || err), "red", "offline"); }
   polling = setTimeout(poll, 4000);
 }
 
 async function runCheck() {
   try {
     const { run_id } = await api("/api/check/run", { method: "POST" });
-    activeRunId = run_id; lastEventSeq = 0; setTicker(S.running); poll();
-  } catch (err) { setTicker(err.message); }
+    activeRunId = run_id; lastEventSeq = 0; setTicker(S.running, "amber", "quick scan · nano"); poll();
+  } catch (err) { setTicker(err.message, "red", "error"); }
 }
 
 async function editPage() {
   const deadline = $("newDeadline").value.trim();
   try {
     await api("/api/demo/edit", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ deadline }) });
-    setTicker(`Demo funder page now says: ${deadline}. Open /demo/funder to see it. Run tonight's check next.`);
-  } catch (err) { setTicker(err.message); }
+    setTicker(`Demo funder page now says ${deadline}. Open /demo/funder to see it. Run tonight's check next.`, "amber", "page edited");
+  } catch (err) { setTicker(err.message, "red", "error"); }
 }
 
 async function resetDemo() {
-  try { await api("/api/demo/reset", { method: "POST" }); selectedDonor = null; setTicker("Demo reset to the seed."); await refresh(); }
-  catch (err) { setTicker(err.message); }
+  try { await api("/api/demo/reset", { method: "POST" }); selectedDonor = null; setTicker("Demo reset to the seed.", "", "idle"); await refresh(); }
+  catch (err) { setTicker(err.message, "red", "error"); }
 }
 
 const ARCHIVE_PREFIX = "https://web.archive.org/web/";
+const ALERT = (v) => v === "changed" || v === "superseded";
 
-// Rows that explain the result come first: misses, false alarms Nano raised and Ultra cleared, superseded cycles, then the rest.
+// Rows that explain the result come first: misses, false alarms, alarms Ultra cleared, next-cycle verdicts, then the rest.
 function benchRank(row) {
-  const alert = row.final_verdict === "changed" || row.final_verdict === "superseded";
-  if (row.changed && !alert) return 0;
-  if (!row.changed && alert) return 1;
+  if (row.changed && row.verified !== false && !ALERT(row.final_verdict)) return 0;
+  if (!row.changed && ALERT(row.final_verdict)) return 1;
   if (!row.changed && row.nano_verdict === "changed") return 2;
   if (row.final_verdict === "superseded") return 3;
-  return 4;
+  if (row.verified === false) return 4;
+  return 5;
 }
 
 function benchNote(row) {
-  const alert = row.final_verdict === "changed" || row.final_verdict === "superseded";
-  if (row.final_verdict === "error") return h("span", "miss", "ERROR");
-  if (row.changed && !alert) return h("span", "miss", "MISSED");
-  if (!row.changed && alert) return h("span", "miss", "FALSE ALARM");
-  if (!row.changed && row.nano_verdict === "changed") return h("span", "", "Nano alarm, Ultra cleared it");
-  return h("span", "", "");
+  const wrap = h("span");
+  if (row.final_verdict === "error") wrap.append(h("span", "miss", "ERROR"));
+  else if (row.no_donor) wrap.append(h("span", "miss", row.changed ? "MISSED: no usable excerpt" : "NOT COMPARED: no usable excerpt"));
+  else if (row.changed && row.verified !== false && !ALERT(row.final_verdict)) wrap.append(h("span", "miss", "MISSED"));
+  else if (!row.changed && ALERT(row.final_verdict)) wrap.append(h("span", "miss", "FALSE ALARM"));
+  else if (!row.changed && row.nano_verdict === "changed") wrap.append("Quick scan alarm, deep review cleared it");
+  else if (row.final_verdict === "superseded") wrap.append(h("span", "tag next", S.nextCycle));
+  return wrap;
 }
 
 async function showBench() {
@@ -219,17 +327,23 @@ async function showBench() {
   body.replaceChildren(h("h3", "", S.benchTitle));
   try {
     const r = await api("/api/bench");
-    const sum = r.summary;
-    body.append(h("p", "", `Real changes found: Nano alone ${sum.nano_recall}/${sum.changed_pairs}, Nano + Ultra ${sum.confirmed_recall}/${sum.changed_pairs} (same cycle changed: ${sum.verdict_changed}, newer cycle: ${sum.verdict_superseded}).`));
-    body.append(h("p", "", `False alarms on ${sum.unchanged_pairs} unchanged pages: Nano alone ${sum.nano_false_alarms}, after Ultra's second look ${sum.false_alarms}. Cost $${sum.total_usd.toFixed(4)}. Misses are listed first.`));
-    const t = h("table"), head = h("tr");
-    for (const c of ["Page", "What changed", "Result", "Nano", "Ultra: changed", "Ultra: newer cycle", "Ultra: unchanged", "Snapshots"]) head.append(h("th", "", c));
+    const sum = r.summary, meta = r.meta || {};
+    if (meta.subtitle) body.append(h("p", "sub", meta.subtitle));
+    body.append(h("p", "sub", `Real changes found: quick scan alone ${sum.nano_recall}/${sum.changed_pairs}, with deep review ${sum.confirmed_recall}/${sum.changed_pairs} (same cycle changed: ${sum.verdict_changed}, ${S.nextCycle.toLowerCase()}: ${sum.verdict_superseded}). Controls compared: ${sum.controls_compared}/${sum.unchanged_pairs}; false alarms on them: quick scan alone ${sum.nano_false_alarms}, after deep review ${sum.false_alarms}. Cost $${sum.total_usd.toFixed(4)}. Misses are listed first.`));
+    const wrap = h("div", "table-wrap"), t = h("table"), head = h("tr");
+    for (const c of ["Page", "What changed", "Result", "Quick scan", "Changed", S.nextCycle, "Unchanged", "Snapshots"]) head.append(h("th", "", c));
     t.append(head);
     const rows = r.rows.map((row, i) => [row, i]).sort((a, b) => benchRank(a[0]) - benchRank(b[0]) || a[1] - b[1]).map((x) => x[0]);
     for (const row of rows) {
       const tr = h("tr");
-      const ultraRan = row.nano_verdict === "changed";  // Ultra only looks at Nano alarms
-      tr.append(h("td", "", row.label), h("td", "", row.what_changed || (row.changed ? `changed: ${row.field}` : "unchanged")), h("td"), h("td", "", row.nano_verdict),
+      const ultraRan = row.nano_verdict === "changed";  // deep review only looks at quick-scan alarms
+      const page = h("td", "", row.label);
+      if (row.verified === false) page.append(h("span", "tag", "unverified"));
+      if (row.scope) page.append(h("span", "tag", row.scope));
+      if (row.listing_page) page.append(h("span", "tag", "listing-page control"));
+      const what = h("td", "", row.what_changed || (row.changed ? `changed: ${row.field}` : "unchanged"));
+      if (row.pair_note && row.pair_note !== row.what_changed) what.append(h("div", "fine", row.pair_note));
+      tr.append(page, what, h("td"), h("td", "", row.nano_verdict),
         ...["changed", "superseded", "unchanged"].map((v) => h("td", "", row.final_verdict === "error" ? "error" : (!ultraRan ? "–" : (row.final_verdict === v ? "●" : "")))));
       tr.children[2].append(benchNote(row));
       const td = h("td");
@@ -241,7 +355,13 @@ async function showBench() {
       });
       tr.append(td); t.append(tr);
     }
-    body.append(t);
+    wrap.append(t); body.append(wrap);
+    const note = h("div", "verdict-note");
+    note.append(h("b", "", `${S.nextCycle}: `), `${S.nextCycleLine}`);
+    if (meta.superseded_rule) note.append(h("div", "fine", `Rule: ${meta.superseded_rule}.`));
+    body.append(note);
+    if (meta.unverified_note && (sum.unverified || []).length) body.append(h("p", "fine", meta.unverified_note));
+    if (meta.scope_note) body.append(h("p", "fine", meta.scope_note));
   } catch (err) { body.append(h("p", "", err.message)); }
   $("benchDialog").showModal();
 }
@@ -250,16 +370,17 @@ async function replayRecorded() {
   replaying = true;
   try {
     const rec = await api("/api/recorded-run");
-    setTicker(`Replaying a recorded run from ${rec.recorded_at.slice(0, 10)} (${rec.models.nano} + ${rec.models.ultra}). Read-only.`);
+    setTicker(`Replaying a recorded run from ${rec.recorded_at.slice(0, 10)} (${rec.models.nano} + ${rec.models.ultra}). Read-only.`, "amber", "replay");
     for (const frame of rec.frames) {
       state = frame.state;
       const red = state.donors.find((d) => d.state === "changed");
-      selectedDonor = red ? red.id : selectedDonor;  // the old/new excerpt opens by itself once a donor has turned red
-      render(); setTicker(`Recorded run. ${frame.ticker || ""}`);
+      selectedDonor = red ? red.id : selectedDonor;
+      render();
+      if (frame.event) tickEvent(frame.event); else setTicker(`Recorded run. ${frame.ticker || ""}`, "amber", "replay");
       await new Promise((r) => setTimeout(r, frame.hold_ms || 900));
     }
-    setTicker("Recorded run finished. This is the finished state; reload the page to return to the live board.");  // stays on screen
-  } catch (err) { replaying = false; setTicker(err.message); }
+    setTicker("Recorded run finished. This is the finished state; reload the page to return to the live board.", "red", "replay");  // stays on screen
+  } catch (err) { replaying = false; setTicker(err.message, "red", "error"); }
 }
 
 async function init() {
@@ -270,6 +391,8 @@ async function init() {
   }
   $("runBtn").textContent = S.runButton; $("resetBtn").textContent = S.resetButton; $("editBtn").textContent = S.editButton;
   $("replayBtn").textContent = S.replayButton; $("proofBtn").textContent = S.proofButton;
+  $("themeBtn").addEventListener("click", toggleTheme); paintThemeButton();
+  setTicker("", "", "idle");
   config = await api("/api/config");
   $("modeBadge").hidden = !(config.judge_mode || config.dev_fake);
   $("modeBadge").textContent = config.dev_fake ? "DEV: simulated models, not Nemotron" : "Judge mode";
@@ -280,7 +403,8 @@ async function init() {
   $("replayBtn").addEventListener("click", replayRecorded);
   $("proofBtn").addEventListener("click", showBench);
   await refresh();
+  if (!state.run) setTicker(`Seed loaded. ${state.donors.length} sources, ${state.products.length} items built from them, ${state.recipients.length} people already told.`, "", "idle");
   if (state.running && state.run) activeRunId = state.run.id;
   poll();
 }
-init().catch((e) => setTicker(String(e.message || e)));
+init().catch((e) => setTicker(String(e.message || e), "red", "error"));
