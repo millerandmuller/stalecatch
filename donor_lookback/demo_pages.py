@@ -6,15 +6,15 @@ from pathlib import Path
 
 from .dates import deadline_of
 
-DEFAULT_STATE = {"funder_deadline": "November 12, 2027"}
+DEFAULT_STATE = {"funder_deadline": "November 19, 2026"}
 BANNER = "DEMO PAGE: written by the StaleCatch team for this demo. Not a real funder."
 
 def funder_deadline_line(st: dict) -> str:
     """The seeded page states its deadline plainly; once the funder moves it the page carries a correction notice instead."""
     date = st["funder_deadline"]
-    if deadline_of(date) == deadline_of(DEFAULT_STATE["funder_deadline"]):  # "Nov 12, 2027" is the default date written differently
-        return f"Applications for the 2027 Small Grants round are due by 5:00 PM Pacific on {date}."
-    return (f"Correction: Applications for the 2027 Small Grants round are due by 5:00 PM Pacific on {date}, "
+    if deadline_of(date) == deadline_of(DEFAULT_STATE["funder_deadline"]):  # "Nov 19, 2026" is the default date written differently
+        return f"Applications for the 2026 Small Grants round are due by 5:00 PM Pacific on {date}."
+    return (f"Correction: Applications for the 2026 Small Grants round are due by 5:00 PM Pacific on {date}, "
             "so that awards can be approved at the December board meeting.")
 
 
@@ -23,7 +23,7 @@ PAGES = {
         "title": "Example Community Foundation: Small Grants (demo page)",
         "lines": lambda st: [
             "Example Community Foundation",
-            "Small Grants Program 2027",
+            "Small Grants Program 2026",
             "The Small Grants Program supports neighbourhood projects with awards of up to $15,000.",
             "Who can apply: registered nonprofits and fiscally sponsored groups based in the county.",
             funder_deadline_line(st),
@@ -35,9 +35,9 @@ PAGES = {
         "title": "Example Regional Arts Council: Travel Grants (demo page)",
         "lines": lambda st: [
             "Example Regional Arts Council",
-            "Travel Grants 2027",
+            "Travel Grants 2026",
             "Travel Grants cover up to $2,500 for artists presenting work outside the region.",
-            "Applications for Travel Grants are due by 5:00 PM Eastern on December 3, 2027.",
+            "Applications for Travel Grants are due by 5:00 PM Eastern on December 3, 2026.",
             "Notification follows within six weeks of the deadline.",
         ],
     },
@@ -48,7 +48,7 @@ DEADLINE_RE = re.compile(r"^[A-Za-z0-9 ,.\-]{3,40}$")
 
 
 def valid_deadline(text: str) -> bool:
-    """A short date such as 'October 28, 2027': plain characters and a full date with a year."""
+    """A short date such as 'November 9, 2026': plain characters and a full date with a year."""
     return bool(DEADLINE_RE.match(text or "")) and deadline_of(text or "") is not None
 
 

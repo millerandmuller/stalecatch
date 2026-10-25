@@ -79,3 +79,23 @@ def test_load_dotenv_handles_comments_quotes_export_and_keeps_existing(tmp_path,
         ("plain", "quoted # kept", "exp", "x=y", "already", "")
     for k in "ABCDF":
         monkeypatch.delenv(k, raising=False)
+
+
+def test_sent_items_carry_a_send_time_and_old_databases_gain_the_column(tmp_path):
+    import sqlite3
+    st = Store(":memory:")
+    d = st.add_donor(url="http://x", claim="c", excerpt="due Nov 19, 2026", fetched_at="2026-10-01T00:00:00+00:00")
+    seeded = st.derive(parents=[d["id"]], kind="message", content="m", sent=True, recipient="Sam", sent_at="2026-10-06T15:20:00+00:00")
+    assert seeded["sent_at"] == "2026-10-06T15:20:00+00:00"
+    plain = st.derive(parents=[d["id"]], kind="calendar", content="cal")
+    assert plain["sent_at"] is None
+    assert st.mark_sent(plain["id"], "Priya")["sent_at"]
+    old = tmp_path / "old.db"
+    conn = sqlite3.connect(old)
+    conn.executescript("CREATE TABLE nodes(id TEXT PRIMARY KEY, type TEXT NOT NULL, created_at TEXT NOT NULL);"
+                       "CREATE TABLE products(id TEXT PRIMARY KEY, kind TEXT NOT NULL, title TEXT NOT NULL, content TEXT NOT NULL, prev_content TEXT,"
+                       " status TEXT NOT NULL DEFAULT 'released', sent INTEGER NOT NULL DEFAULT 0, recipient TEXT, sent_content TEXT,"
+                       " correction_draft TEXT, correction_approved INTEGER NOT NULL DEFAULT 0);")
+    conn.close()
+    reopened = Store(str(old))
+    assert "sent_at" in {r["name"] for r in reopened._conn.execute("PRAGMA table_info(products)")}

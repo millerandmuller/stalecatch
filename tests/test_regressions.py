@@ -18,7 +18,7 @@ from tests.fakes import FakeModels, _resp
 FUNDER = "http://127.0.0.1:8000/demo/funder"
 
 
-def change(env, text="October 28, 2027"):
+def change(env, text="November 9, 2026"):
     edit_funder_deadline(env.settings, text)
     env.web.state["funder_deadline"] = text
 
@@ -145,7 +145,7 @@ def test_mark_sent_keeps_what_was_actually_sent(env):
     change(env)
     check(env)
     env.store.mark_sent("prod_msg", "Sam")
-    assert "Nov 12" in env.store.get_product("prod_msg")["sent_content"]
+    assert "Nov 19" in env.store.get_product("prod_msg")["sent_content"]
 
 
 def test_gateway_format_400_on_last_attempt_still_falls_back(env):
@@ -215,8 +215,8 @@ def test_receipt_flags_calls_without_usage(env):
 
 
 @pytest.mark.parametrize("old,new", [
-    ("Applications for the 2027 Small Grants round are due by 5:00 PM Pacific on November 12, 2027.", "Deadline: October 28, 2027"),
-    ("Applications for the 2027 Small Grants round are due by 5:00 PM Pacific on November 12, 2027.", "Due October 28, 2027, 5:00 PM PT"),
+    ("Applications for the 2026 Small Grants round are due by 5:00 PM Pacific on November 19, 2026.", "Deadline: November 9, 2026"),
+    ("Applications for the 2026 Small Grants round are due by 5:00 PM Pacific on November 19, 2026.", "Due November 9, 2026, 5:00 PM PT"),
     ("Who can apply: registered nonprofits and fiscally sponsored groups based in the county.", "Who can apply: individuals and for-profit companies nationwide."),
     ("The Small Grants Program supports neighbourhood projects with awards of up to $15,000.", "Awards of up to $50,000 are available."),
 ])

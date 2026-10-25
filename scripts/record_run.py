@@ -1,6 +1,6 @@
 """Plan B: capture one full LIVE reveal as frames the board can replay read-only (judge mode, camera fallback).
 Needs a running board with real Token Factory credentials. Refuses to record simulated models.
-   python scripts/record_run.py [--base http://127.0.0.1:8000] [--deadline "October 28, 2027"]"""
+   python scripts/record_run.py [--base http://127.0.0.1:8000] [--deadline "November 9, 2026"]"""
 import argparse
 import json
 import sys
@@ -15,7 +15,7 @@ OUT = Path(__file__).resolve().parent.parent / "data" / "recorded_run.json"
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--base", default="http://127.0.0.1:8000")
-    ap.add_argument("--deadline", default="October 28, 2027")
+    ap.add_argument("--deadline", default="November 9, 2026")
     ap.add_argument("--out", default=str(OUT))
     args = ap.parse_args()
     http = httpx.Client(base_url=args.base, timeout=30)

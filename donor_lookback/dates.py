@@ -67,14 +67,19 @@ def deadline_of(excerpt: str, near: Optional[date] = None) -> Optional[date]:
     return cued[-1] if cued else dated[-1][0]
 
 
+def today() -> date:
+    """The day the check runs. One function so tests can pin it."""
+    return date.today()
+
+
 _SENTENCE = re.compile(r"[^.!?\n]+[.!?]?")
 # a cue that comes right before a date and says the date is being replaced ("not Nov 12", "instead of Nov 3", "was Nov 5")
 _REPLACING_BEFORE = re.compile(r"(?i)\b(instead of|rather than|not|no longer|was|were|from|previously|originally|replac(?:es|ing)|moved from)\s+(?:the\s+)?(?:\w+\s+){0,2}$")
 _STILL_STANDS = re.compile(r"(?i)\bstill\s+(stands?|holds?|applies|works?|fits?|valid|good)\b|\b(remains?|stays?)\s+(the plan|as planned|unchanged)\b")
 
 
-def late_dates(text: str, deadline: date, quoted_from: str = "") -> list[str]:
-    """Problems in a re-derived text: dates after the new deadline, and 'still stands' phrasing.
+def late_dates(text: str, deadline: date, quoted_from: str = "", after: Optional[date] = None) -> list[str]:
+    """Problems in a re-derived text: dates after the new deadline, dates on or before `after` (today), and 'still stands' phrasing.
     quoted_from is the message that was already sent: one of its dates may be quoted right after a replacing cue
     ("not Nov 12", "instead of Nov 3"), never as something that still holds."""
     problems = []
@@ -84,9 +89,10 @@ def late_dates(text: str, deadline: date, quoted_from: str = "") -> list[str]:
     old_values = {(d.month, d.day) for d, _, _ in parse_dates(_ABBREVIATION_DOT.sub(r"\1", quoted_from), deadline)}
     for sentence in _SENTENCE.findall(text):
         for d, start, _ in parse_dates(sentence, deadline):
-            if d <= deadline:
+            too_late, too_early = d > deadline, after is not None and d <= after
+            if not (too_late or too_early):
                 continue
             if (d.month, d.day) in old_values and _REPLACING_BEFORE.search(sentence[:start]):
                 continue
-            problems.append(f"{d.strftime('%b')} {d.day} is after the new deadline")
+            problems.append(f"{d.strftime('%b')} {d.day} is after the new deadline" if too_late else f"{d.strftime('%b')} {d.day} is not after today")
     return sorted(set(problems))

@@ -29,7 +29,7 @@ def reset_demo(store: Store, settings: Settings, seed_file: Path = SEED_FILE) ->
                         fetched_at=fetched, fetch_via="seed")
     for p in data["products"]:
         store.derive(product_id=p["id"], parents=p["parents"], kind=p["kind"], title=p["title"], content=p["content"],
-                     sent=p.get("sent", False), recipient=p.get("recipient"))
+                     sent=p.get("sent", False), recipient=p.get("recipient"), sent_at=p.get("sent_at"))
     return {"donors": len(data["donors"]), "products": len(data["products"]), "demo_state": state}
 
 

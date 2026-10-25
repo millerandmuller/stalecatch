@@ -39,6 +39,7 @@ CREATE TABLE IF NOT EXISTS products (
   sent INTEGER NOT NULL DEFAULT 0,
   recipient TEXT,
   sent_content TEXT,
+  sent_at TEXT,
   correction_draft TEXT,
   correction_approved INTEGER NOT NULL DEFAULT 0
 );
@@ -106,6 +107,9 @@ class Store:
             self._conn.execute("PRAGMA journal_mode=WAL")
         self._conn.execute("PRAGMA foreign_keys=ON")
         self._conn.executescript(SCHEMA)
+        columns = {r["name"] for r in self._conn.execute("PRAGMA table_info(products)")}
+        if "sent_at" not in columns:  # a database made before sent items carried their send time
+            self._conn.execute("ALTER TABLE products ADD COLUMN sent_at TEXT")
 
     @contextmanager
     def tx(self):
@@ -206,7 +210,8 @@ class Store:
 
     # ---- products -----------------------------------------------------
     def derive(self, *, parents: list[str], kind: str, content: str, title: Optional[str] = None,
-               sent: bool = False, recipient: Optional[str] = None, product_id: Optional[str] = None) -> dict:
+               sent: bool = False, recipient: Optional[str] = None, product_id: Optional[str] = None,
+               sent_at: Optional[str] = None) -> dict:
         """Create a product. Parents are enforced here, never by a prompt."""
         if not parents:
             raise ParentError("derive requires at least one parent (donor or product).")
@@ -222,8 +227,9 @@ class Store:
         with self.tx() as c:
             c.execute("INSERT INTO nodes(id,type,created_at) VALUES (?,?,?)", (pid, "product", now_iso()))
             c.execute(
-                "INSERT INTO products(id,kind,title,content,sent,recipient,sent_content) VALUES (?,?,?,?,?,?,?)",
-                (pid, kind, title or kind, content, 1 if sent else 0, recipient, content if sent else None))
+                "INSERT INTO products(id,kind,title,content,sent,recipient,sent_content,sent_at) VALUES (?,?,?,?,?,?,?,?)",
+                (pid, kind, title or kind, content, 1 if sent else 0, recipient, content if sent else None,
+                 (sent_at or now_iso()) if sent else None))
             for p in unique:
                 c.execute("INSERT INTO edges(parent_id,child_id) VALUES (?,?)", (p, pid))
         return self.get_product(pid)
@@ -231,8 +237,8 @@ class Store:
     def mark_sent(self, product_id: str, recipient: str) -> dict:
         prod = self.get_product(product_id)
         with self.tx() as c:
-            c.execute("UPDATE products SET sent=1, recipient=?, sent_content=COALESCE(sent_content, ?) WHERE id=?",
-                      (recipient, prod["content"], product_id))
+            c.execute("UPDATE products SET sent=1, recipient=?, sent_content=COALESCE(sent_content, ?), sent_at=COALESCE(sent_at, ?) WHERE id=?",
+                      (recipient, prod["content"], now_iso(), product_id))
         return self.get_product(product_id)
 
     def get_product(self, product_id: str) -> dict:

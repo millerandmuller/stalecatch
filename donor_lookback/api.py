@@ -97,7 +97,7 @@ def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_
     def edit(body: EditBody):
         deadline = body.deadline.strip()
         if not demo_pages.valid_deadline(deadline):
-            raise HTTPException(422, "deadline must be a full date with a year, such as 'October 28, 2027' (letters, digits, spaces, commas)")
+            raise HTTPException(422, "deadline must be a full date with a year, such as 'November 9, 2026' (letters, digits, spaces, commas)")
         return {"demo_page": edit_funder_deadline(svc.settings, deadline)}
 
     @app.post("/api/demo/reset")

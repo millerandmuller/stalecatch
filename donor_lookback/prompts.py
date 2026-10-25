@@ -37,8 +37,8 @@ CONFIRM_SYSTEM = (
 REDERIVE_SYSTEM = (
     "You re-derive one item an assistant produced earlier, because the source it was built on changed. "
     "Use ONLY the new source excerpt and the parent items given; never invent facts. Keep the item's kind and style. "
-    "NEW DEADLINE is the date the changed source now states. Every date you write, in content and in correction_draft, must fall "
-    "ON OR BEFORE the new deadline. Dates that were planned inside the old window move earlier: work back from the new deadline, "
+    "TODAY is the day this runs; NEW DEADLINE is the date the changed source now states. Every date you write, in content and in "
+    "correction_draft, must fall AFTER today and ON OR BEFORE the new deadline; never write a date that has already passed. Dates that were planned inside the old window move earlier: work back from the new deadline, "
     "keep the same order and, as far as the time allows, the same lead time before the deadline. "
     "Never write that an earlier plan date still stands, still holds or still works, and never write a date after the new deadline. "
     "For a calendar item, content states the new deadline. For a plan, content starts with 'Moved earlier:' when the new deadline is earlier than the old one, "

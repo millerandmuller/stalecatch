@@ -17,3 +17,11 @@ def env(tmp_path):
     reset_demo(store, settings)
     web = FakeWeb(demo_pages.load_state(settings.demo_state_path))
     return type("Env", (), dict(settings=settings, store=store, models=models, gateway=gateway, web=web))
+
+
+@pytest.fixture(autouse=True)
+def pinned_today(monkeypatch):
+    """The date guard compares against today; pin it so the suite does not depend on the machine clock."""
+    from datetime import date
+    from donor_lookback import dates
+    monkeypatch.setattr(dates, "today", lambda: date(2026, 10, 20))

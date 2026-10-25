@@ -2,6 +2,7 @@
 import json
 from typing import Optional
 
+from . import dates
 from .dates import deadline_of, late_dates
 from .gateway import Gateway
 from .prompts import REDERIVE_SYSTEM
@@ -49,11 +50,13 @@ def _parent_context(store: Store, product: dict) -> str:
     return "\n".join(lines)
 
 
-def _check_dates(fresh: dict, deadline, content: str, draft: str) -> list[str]:
-    """No re-derived text may land after the new deadline, and a correction may quote an old sent date only to replace it."""
-    problems = late_dates(content, deadline)
+def _check_dates(fresh: dict, deadline, content: str, draft: str, today) -> list[str]:
+    """Every re-derived date must fall after today and on or before the new deadline; a correction may quote an old sent date
+    only to replace it. When the new deadline is not after today there is no valid window, so only the upper bound is checked."""
+    after = today if today < deadline else None
+    problems = late_dates(content, deadline, after=after)
     if draft:
-        problems += late_dates(draft, deadline, quoted_from=fresh["sent_content"] or "")
+        problems += late_dates(draft, deadline, quoted_from=fresh["sent_content"] or "", after=after)
     return sorted(set(problems))
 
 
@@ -62,6 +65,7 @@ def rederive(store: Store, gateway: Gateway, donor: dict, quarantined: list[dict
     Every date it writes must fall on or before the new deadline (one retry that names the problem, then the run is incomplete)."""
     done = []
     previous = deadline_of(donor["prev_excerpt"] or "")
+    today = dates.today()
     deadline = deadline_of(donor["excerpt"], previous)  # a year-less new date takes the nearest year to the old deadline
     if deadline is None and run_id:
         store.log_event(run_id, "note", "The new source states no readable date, so updated dates could not be checked against a deadline.")
@@ -69,7 +73,8 @@ def rederive(store: Store, gateway: Gateway, donor: dict, quarantined: list[dict
         fresh = store.get_product(p["id"])  # parents may have been re-derived a moment ago
         sent_note = (f"This item was already SENT to {fresh['recipient'] or 'a recipient'}.\n"
                      f"What was sent: {fresh['sent_content']}\n") if fresh["sent"] else "This item was not sent.\n"
-        deadline_note = f"NEW DEADLINE: {deadline.strftime('%B')} {deadline.day}, {deadline.year}\n" if deadline else ""
+        deadline_note = (f"TODAY: {today.strftime('%B')} {today.day}, {today.year}\n"
+                         f"NEW DEADLINE: {deadline.strftime('%B')} {deadline.day}, {deadline.year}\n") if deadline else ""
         user = (f"ITEM kind: {fresh['kind']}\nITEM title: {fresh['title']}\nITEM old content: {fresh['content']}\n{sent_note}\n"
                 f"CHANGED DONOR {donor['id']}:\n  OLD claim: {donor['prev_claim']}\n  OLD excerpt: {donor['prev_excerpt']}\n"
                 f"  NEW claim: {donor['claim']}\n  NEW excerpt: {donor['excerpt']}\n{deadline_note}\n"
@@ -86,11 +91,11 @@ def rederive(store: Store, gateway: Gateway, donor: dict, quarantined: list[dict
                 raise ValueError(f"Ultra returned no correction draft for sent item {fresh['id']}")
             if fresh["sent"]:
                 content = "Replaced by correction."  # the correction draft is the message; this line is what the item now says
-            problems = _check_dates(fresh, deadline, content, draft) if deadline else []
+            problems = _check_dates(fresh, deadline, content, draft, today) if deadline else []
             if not problems:
                 break
             if attempt == 2:
                 raise ValueError(f"Ultra's update for {fresh['id']} does not fit the new deadline: {'; '.join(problems)}")
-            retry = f"\n\nYour previous answer was rejected: {'; '.join(problems)}. Move every date on or before the new deadline."
+            retry = f"\n\nYour previous answer was rejected: {'; '.join(problems)}. Every date must fall after today and on or before the new deadline."
         done.append(store.set_product_rederived(fresh["id"], content=content, correction_draft=draft or None))
     return done
