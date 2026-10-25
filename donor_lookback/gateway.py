@@ -150,9 +150,15 @@ class Gateway:
                   schema: Optional[dict] = None, max_tokens: int = 1500) -> dict:
         fmt = ({"type": "json_schema", "json_schema": {"name": purpose, "schema": schema, "strict": True}}
                if schema else {"type": "json_object"})
-        res = self.chat(tier_name, system + "\nReturn ONLY one JSON object, no prose.", user, purpose=purpose,
-                        run_id=run_id, response_format=fmt, max_tokens=max_tokens)
-        return parse_json(res.text)
+        for attempt in (1, 2):
+            res = self.chat(tier_name, system + "\nReturn ONLY one JSON object, no prose.", user, purpose=purpose,
+                            run_id=run_id, response_format=fmt, max_tokens=max_tokens)
+            try:
+                return parse_json(res.text)
+            except GatewayError:
+                if attempt == 2:
+                    raise
+                max_tokens *= 2  # a reasoning model that ran out of room before the JSON gets one retry with twice the room
 
     def _record(self, run_id, tier: ModelTier, purpose: str, pt: int, ct: int, latency_ms: int, ok: bool) -> None:
         if self._recorder:

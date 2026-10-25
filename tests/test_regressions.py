@@ -309,3 +309,24 @@ def test_superseded_without_verbatim_excerpt_is_incomplete(env):
     run = check(env)
     assert run["complete"] == 0 and run["summary"]["errors"] and run["summary"]["superseded"] == 0
     assert env.store.get_donor("donor_funder")["state"] == "ok"
+
+
+def test_chat_json_retries_once_with_more_room_when_json_is_cut_off(env):
+    seen = []
+    real = env.models._create
+
+    def create(model, messages, **kw):
+        seen.append(kw.get("max_tokens"))
+        if len(seen) == 1:
+            return _resp('{"verdict": "chan')  # cut off mid-object
+        return real(model, messages, **kw)
+    env.models.chat.completions.create = create
+    out = env.gateway.chat_json("nano", "You watch a web page", "OLD excerpt: x\n\nCURRENT PAGE TEXT:\nDeadline: May 1, 2026", purpose="compare",
+                                max_tokens=100)
+    assert out["verdict"] in ("changed", "unchanged") and seen == [100, 200]
+
+
+def test_chat_json_gives_up_after_one_retry(env):
+    env.models.chat.completions.create = lambda model, messages, **kw: _resp("not json at all")
+    with pytest.raises(GatewayError):
+        env.gateway.chat_json("nano", "s", "u", purpose="x")

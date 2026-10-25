@@ -3,7 +3,9 @@
 INTAKE_SYSTEM = (
     "You extract one dated commitment from a web page for a grant writer's assistant. "
     "Fields: claim = one plain sentence stating the deadline or rule; "
-    "excerpt = the exact sentence or line copied CHARACTER FOR CHARACTER from the page that states it (never paraphrase); "
+    "excerpt = the exact sentence or line copied CHARACTER FOR CHARACTER from the page that states it (never paraphrase). "
+    "The excerpt must contain the actual date or value itself, not only a sentence about it. When a page puts a label such as "
+    "'Application Due Date(s)' on one line and the date on the next line, copy the label and the date lines together; "
     "date_fields = list of {field, value} for each date or eligibility value in the excerpt. "
     'JSON shape: {"claim": str, "excerpt": str, "date_fields": [{"field": str, "value": str}]}'
 )

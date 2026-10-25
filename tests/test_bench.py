@@ -55,3 +55,25 @@ def test_bench_superseded_on_an_unchanged_control_is_a_false_alarm(env):
     rows = [{"label": "c", "changed": False, "nano_verdict": "changed", "final_verdict": "superseded"}]
     s = summarize(rows, {"total_usd": 0.0})
     assert s["false_alarms"] == 1 and s["verdict_superseded"] == 0
+
+
+def test_cached_fetch_reads_the_shared_cache_without_the_network(tmp_path, monkeypatch):
+    import hashlib
+    import bench.run_bench as rb
+    monkeypatch.setattr(rb, "HERE", tmp_path / "bench")
+    url = "https://web.archive.org/web/20200101000000/https://example.org/a"
+    cache = tmp_path / "data" / "wayback_cache"
+    cache.mkdir(parents=True)
+    (cache / (hashlib.sha1(b"20200101000000|https://example.org/a").hexdigest() + ".txt")).write_text("cached text")
+    monkeypatch.setattr(rb, "fetch_snapshot", lambda u: (_ for _ in ()).throw(AssertionError("network used")))
+    assert rb.cached_fetch(url) == "cached text"
+
+
+def test_cached_fetch_miss_fetches_once_then_caches(tmp_path, monkeypatch):
+    import bench.run_bench as rb
+    monkeypatch.setattr(rb, "HERE", tmp_path / "bench")
+    monkeypatch.setattr(rb.time, "sleep", lambda s: None)
+    calls = []
+    monkeypatch.setattr(rb, "fetch_snapshot", lambda u: calls.append(u) or "fresh")
+    url = "https://web.archive.org/web/20210101000000/https://example.org/b"
+    assert rb.cached_fetch(url) == "fresh" and rb.cached_fetch(url) == "fresh" and len(calls) == 1
