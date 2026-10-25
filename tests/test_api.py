@@ -43,8 +43,10 @@ def test_state_recipients_sent_first_after_run(client):
 
 
 def test_run_requires_configuration(env, tmp_path):
+    from dataclasses import replace
     from donor_lookback.gateway import Gateway
-    svc = Services(env.settings, env.store, Gateway(env.settings), env.web)
+    unconfigured = replace(env.settings, base_url="", api_key="")  # explicit, so a sourced .env cannot configure it
+    svc = Services(unconfigured, env.store, Gateway(unconfigured), env.web)
     c = TestClient(create_app(svc))
     r = c.post("/api/check/run")
     assert r.status_code == 503
