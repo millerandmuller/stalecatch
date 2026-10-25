@@ -36,7 +36,7 @@ function toggleTheme() {
 
 // ---- small helpers for dates inside excerpts ----
 const MONTHS = "(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|June?|July?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\\.?";
-const DATE_RE = new RegExp(`${MONTHS}\\s+\\d{1,2}(?:st|nd|rd|th)?(?:,?\\s+(?:19|20)\\d{2})?`);
+const DATE_RE = new RegExp(`${MONTHS}\\s+\\d{1,2}(?:st|nd|rd|th)?(?!\\d)(?:,?\\s+(?:19|20)\\d{2})?`);
 const firstDate = (text) => { const m = DATE_RE.exec(text || ""); return m ? m[0] : ""; };
 const shortDate = (text) => firstDate(text).replace(/^(\w{3})\w*\.?\s+(\d+)\D*.*$/, "$1 $2");
 
@@ -105,7 +105,7 @@ function productCard(p) {
   const replaced = p.sent && p.status === "rederived";
   c.append(h("div", "body", replaced ? S.replacedSeeCorrection : p.content));
   if (p.status === "rederived" && p.prev_content && !replaced) c.append(h("div", "before", p.prev_content));
-  if (p.status === "rederived" && p.kind === "plan") c.append(h("div", "because", S.planNoLongerFits));
+  if (p.status === "rederived" && p.kind === "plan" && /^Moved earlier/i.test(p.content)) c.append(h("div", "because", S.planNoLongerFits));
   c.append(h("div", "from", `from: ${p.parents.map(parentLabel).join(" + ")}`));
   if (state.donors.some((x) => x.state === "changed") && !affected && p.status === "released") {
     const parentIsChanged = p.parents.some((id) => state.donors.some((x) => x.id === id && x.state === "changed"));
@@ -118,12 +118,14 @@ function recipientName(p) { return (p.recipient || "Recipient").replace(/\s*\(.*
 
 function recipientCard(p, first) {
   const affected = p.status === "rederived" || p.status === "quarantined";
-  const c = h("div", `card ${affected ? "s-quarantined has-rule" : "s-released"}`);  // only the changed source card is red
+  const tone = !affected ? "s-released" : p.status === "quarantined" ? "s-quarantined has-rule" : p.correction_approved ? "s-rederived has-rule" : "s-changed has-rule";
+  const c = h("div", `card ${tone}`);  // red while the message went out with the old deadline, amber while on hold, green once the correction is approved
   c.dataset.id = p.id;
   c.append(h("span", "rule"));
   if (affected && first) c.append(h("div", "recip-lead", `${recipientName(p)} ${S.receivedOld} ${S.correctionPrepared}`));
   const top = h("div", "card-top");
-  const stateLabel = !affected ? S.productState.released : (p.correction_approved ? S.correctionApproved : (p.status === "quarantined" ? S.productState.quarantined : S.sentWithOld));
+  const stateLabel = p.status === "source_unavailable" ? S.productState.source_unavailable
+    : !affected ? S.productState.released : (p.correction_approved ? S.correctionApproved : (p.status === "quarantined" ? S.productState.quarantined : S.sentWithOld));
   top.append(h("div", "kind", p.recipient || "recipient"), chip(affected && p.status === "rederived" && !p.correction_approved ? "" : "", stateLabel, affected ? (p.status === "quarantined" ? "half" : "full") : ""));
   c.append(top, h("div", "title", p.title));
   c.append(h("div", "body mono", p.sent_content || p.content));
@@ -180,7 +182,8 @@ function renderCounts() {
   setCount("countProducts", held ? `${held} on hold` : updated ? `${updated} updated` : `${products.length} current`, held ? "amber" : updated ? "green" : "");
   const rHeld = recips.filter((p) => p.status === "quarantined").length;
   const rNeeds = recips.filter((p) => p.status === "rederived" && !p.correction_approved).length;
-  setCount("countRecipients", rHeld ? `${rHeld} on hold` : rNeeds ? `${rNeeds} needs correction` : `${recips.length} current`, rHeld ? "amber" : rNeeds ? "red" : "");
+  const rGone = recips.filter((p) => p.status === "source_unavailable").length;
+  setCount("countRecipients", rHeld ? `${rHeld} on hold` : rNeeds ? `${rNeeds} needs correction` : rGone ? `${rGone} source unavailable` : `${recips.length} current`, rHeld ? "amber" : rNeeds ? "red" : "");
 }
 
 function rcCard(label, num, sub, dashed) {
@@ -200,7 +203,7 @@ function renderReceipt() {
   let total = rcCard(S.cost.total, none ? "—" : usd(r.total_usd), none ? S.cost.none : "");
   if (failed) {
     const why = (state.run.summary && state.run.summary.errors && state.run.summary.errors[0] && state.run.summary.errors[0].error) || "unknown error";
-    const sub = total.querySelector(".sub"); sub.className = "sub warn"; sub.textContent = `The last check did not finish: ${why}`;
+    const sub = total.querySelector(".sub"); sub.className = "sub warn"; sub.textContent = friendly(`The last check did not finish: ${why}`);
   } else if (!none && run && run.donors !== undefined) {
     total.querySelector(".sub").textContent = `${run.donors} sources · ${run.changed || 0} changed · ${r.nano.calls + r.ultra.calls} calls${run.errors && run.errors.length ? " (incomplete)" : ""}`;
   }
@@ -227,30 +230,52 @@ function render() {
 }
 
 // Friendly one-line ticker for each run event: [text, dot colour, phase label].
+// Old internal words never reach the screen: sources, items, on hold.
+const vocab = (t) => t.replace(/donors?/g, (m) => (m.endsWith("s") ? "sources" : "source")).replace(/products?/g, (m) => (m.endsWith("s") ? "items" : "item")).replace(/quarantined/gi, "on hold").replace(/\b1 sources\b/, "1 source");
+
 function tickerFor(step, detail) {
-  const dates = (detail.match(new RegExp(`${MONTHS}\\s+\\d{1,2}`, "g")) || []).map((d) => d.replace(/^(\w{3})\w*\.?\s+/, "$1 "));
+  const sides = detail.split("' -> '");  // donor_red details read "Source changed: 'old' -> 'new'"
+  const shift = sides.length === 2 ? [shortDate(sides[0]), shortDate(sides[1])] : [];
   switch (step) {
-    case "start": return [detail.replace("Tonight's check: ", "Checking ").replace(/ donors?/, " sources…"), "amber", "quick scan · nano"];
+    case "start": return [vocab(detail.replace("Tonight's check: ", "Checking ")) + "…", "amber", "quick scan · nano"];
     case "fetch": return ["Re-fetching your sources…", "amber", "quick scan · nano"];
     case "nano_alarm": return ["Quick scan flagged a change. Deep review is confirming…", "amber", "deep review · ultra"];
     case "unchanged": return ["Quick scan: no change on this source.", "", "quick scan · nano"];
     case "alarm_rejected": return ["Deep review checked twice and found no change.", "", "deep review · ultra"];
-    case "donor_red": return [detail.startsWith("Next cycle posted") ? S.nextCycle + ": " + dates.join(" → ") + "."
-      : `Deep review confirmed a change${dates.length >= 2 ? `: ${dates[0]} → ${dates[dates.length - 1]}` : ""}.`, "red", "deep review · ultra"];
+    case "donor_red": {
+      const arrow = shift[0] && shift[1] ? `: ${shift[0]} → ${shift[1]}` : "";
+      return [detail.startsWith("Next cycle posted") ? `${S.nextCycle}${arrow}.` : `Deep review confirmed a change${arrow}.`, "red", "deep review · ultra"];
+    }
     case "quarantine": return [detail.replace(/\.$/, "") + ". Other sources untouched.", "amber", "on hold"];
     case "rederived": return ["Deep review updated the held items from the new source.", "green", "deep review · ultra"];
     case "sent_rises": return ["The message already sent is now first in Who's been told. Correction prepared, nothing sent.", "red", "check complete"];
-    case "error": return [detail, "red", "error"];
-    default: return [detail || step, "", step];
+    case "source_unavailable": return [vocab(detail), "", "source unavailable"];
+    case "resume": return [vocab(detail), "amber", "resuming"];
+    case "done": return [vocab(detail), "", "done"];
+    case "error": return [vocab(detail), "red", "error"];
+    default: return [vocab(detail || step), "", step];
   }
 }
+
+function heroLine() {
+  const r = state && state.recipients.find((p) => p.status === "rederived");
+  return r ? `${recipientName(r)} ${S.receivedOld} ${S.correctionPrepared} Nothing is sent.` : "";
+}
+const friendly = (t) => String(t).replace(/nano call failed \((\w+)\)/i, "Quick scan could not reach the model service ($1)").replace(/ultra call failed \((\w+)\)/i, "Deep review could not reach the model service ($1)");
 
 function setTicker(text, dot, phase) {
   $("tickerText").textContent = text;
   $("tickerDot").className = `tdot ${dot || ""}`;
   $("tickerPhase").textContent = phase || "";
 }
-function tickEvent(e) { const [t, dot, ph] = tickerFor(e.step, e.detail || ""); setTicker(t, dot, ph); }
+let heroShown = false;
+function tickEvent(e) {
+  if (e.step === "start") heroShown = false;
+  if (e.step === "done" && heroShown) return;  // the closing line stays on the hero moment, not on the cost summary
+  const [t, dot, ph] = tickerFor(e.step, e.detail || "");
+  if (e.step === "sent_rises") { heroShown = true; setTicker(heroLine() || t, dot, ph); return; }
+  setTicker(friendly(t), dot, ph);
+}
 
 async function refresh() {
   state = await api("/api/state");
@@ -268,7 +293,7 @@ async function poll() {
       if (!ev.running && ev.run && ev.run.finished_at) {
         activeRunId = null;
         const errs = ev.run.summary && ev.run.summary.errors;
-        if (!ev.run.complete && errs && errs.length) setTicker(`The check did not finish: ${errs[0].error}`, "red", "error");  // keep the failure on screen
+        if (!ev.run.complete && errs && errs.length) setTicker(friendly(`The check did not finish: ${errs[0].error}`), "red", "error");  // keep the failure on screen
         polling = setTimeout(poll, 4000); return;
       }
       polling = setTimeout(poll, 450);
@@ -316,6 +341,7 @@ function benchNote(row) {
   if (row.final_verdict === "error") wrap.append(h("span", "miss", "ERROR"));
   else if (row.no_donor) wrap.append(h("span", "miss", row.changed ? "MISSED: no usable excerpt" : "NOT COMPARED: no usable excerpt"));
   else if (row.changed && row.verified !== false && !ALERT(row.final_verdict)) wrap.append(h("span", "miss", "MISSED"));
+  else if (row.changed && row.verified === false && !ALERT(row.final_verdict)) wrap.append(h("span", "miss", "MISSED (unverified, not in the headline)"));
   else if (!row.changed && ALERT(row.final_verdict)) wrap.append(h("span", "miss", "FALSE ALARM"));
   else if (!row.changed && row.nano_verdict === "changed") wrap.append("Quick scan alarm, deep review cleared it");
   else if (row.final_verdict === "superseded") wrap.append(h("span", "tag next", S.nextCycle));
@@ -376,10 +402,10 @@ async function replayRecorded() {
       const red = state.donors.find((d) => d.state === "changed");
       selectedDonor = red ? red.id : selectedDonor;
       render();
-      if (frame.event) tickEvent(frame.event); else setTicker(`Recorded run. ${frame.ticker || ""}`, "amber", "replay");
+      if (frame.event) tickEvent(frame.event);
       await new Promise((r) => setTimeout(r, frame.hold_ms || 900));
     }
-    setTicker("Recorded run finished. This is the finished state; reload the page to return to the live board.", "red", "replay");  // stays on screen
+    setTicker(heroLine() || "Recorded run finished.", "red", "recorded run");  // stays on screen; reload returns to the live board
   } catch (err) { replaying = false; setTicker(err.message, "red", "error"); }
 }
 
@@ -403,6 +429,7 @@ async function init() {
   $("replayBtn").addEventListener("click", replayRecorded);
   $("proofBtn").addEventListener("click", showBench);
   await refresh();
+  if (state.run && state.run.finished_at && !activeRunId) setTicker(heroLine() || (state.run.complete ? `Last check finished: ${state.donors.length} sources, ${(state.headline_run && state.headline_run.summary && state.headline_run.summary.changed) || 0} changed.` : friendly("The last check did not finish.")), heroLine() ? "red" : "", "last check");
   if (!state.run) setTicker(`Seed loaded. ${state.donors.length} sources, ${state.products.length} items built from them, ${state.recipients.length} people already told.`, "", "idle");
   if (state.running && state.run) activeRunId = state.run.id;
   poll();

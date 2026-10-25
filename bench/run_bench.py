@@ -85,7 +85,11 @@ def pair_flags(pair: dict) -> dict:
 def load_pairs(path: Path) -> tuple[dict, list[dict]]:
     """The pairs file is {"meta": {...}, "pairs": [...]}; a bare list (older files) is accepted."""
     data = json.loads(Path(path).read_text())
-    return (data.get("meta", {}), data["pairs"]) if isinstance(data, dict) else ({}, data)
+    if not isinstance(data, dict):
+        return {}, data
+    if not isinstance(data.get("pairs"), list):
+        raise SystemExit(f"{path}: expected a 'pairs' list")
+    return data.get("meta") or {}, data["pairs"]
 
 
 def report_meta(meta: dict, summary: dict) -> dict:
@@ -133,7 +137,9 @@ def resummarize(report: dict, pairs: list[dict], meta: dict) -> dict:
     by_key = {(p["url"], p["before_snapshot"]): p for p in pairs}
     rows = []
     for row in report["rows"]:
-        pair = by_key[(row["url"], row["before_url"])]
+        pair = by_key.get((row["url"], row["before_url"]))
+        if pair is None:
+            raise SystemExit(f"Report row without a matching pair in the pairs file: {row['label']}")
         row = {k: v for k, v in row.items() if k not in ("verified", "scope", "pair_note", "listing_page")}
         row.update(label=pair["label"], what_changed=pair.get("what_changed", row.get("what_changed", "")), **pair_flags(pair))
         rows.append(row)
@@ -143,9 +149,9 @@ def resummarize(report: dict, pairs: list[dict], meta: dict) -> dict:
 
 def summarize(rows: list[dict], receipt: dict) -> dict:
     # The headline counts verified real changes only; an unverified pair is still run and listed (summary["unverified"]).
-    changed = [r for r in rows if r["changed"] and r.get("verified", True)]
+    changed = [r for r in rows if r["changed"] and r.get("verified", True) is not False]
     unverified = [{"label": r["label"], "nano_verdict": r["nano_verdict"], "final_verdict": r["final_verdict"]}
-                  for r in rows if r["changed"] and not r.get("verified", True)]
+                  for r in rows if r["changed"] and not r.get("verified", True) is not False]
     unchanged = [r for r in rows if not r["changed"]]
     return {
         "changed_pairs": len(changed), "unchanged_pairs": len(unchanged),

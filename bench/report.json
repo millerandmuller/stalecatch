@@ -2,8 +2,8 @@
   "meta": {
     "subtitle": "18 real deadline changes from archived funder pages, mostly NIH, because NIH publishes every change as a dated notice you can check, plus unchanged pages as controls.",
     "superseded_rule": "old date already passed at the after-snapshot, new date in a later cycle",
-    "unverified_note": "Pairs marked verified: false are run and listed but not counted in the headline figures: NSF 17-565 (program 5467) was found in the archive when a sampled control differed, and no official notice was checked.",
-    "scope_note": "scope 'NIH-wide notice': one NIH notice moved the date of several announcements, and this page is one of them."
+    "unverified_note": "Pairs tagged \"unverified\" are run and listed but not counted in the headline figures: NSF 17-565 (program 5467) was found in the archive when a sampled control differed, and no official notice was checked.",
+    "scope_note": "Tag \"NIH-wide notice\": one NIH notice moved the date of several announcements, and this page is one of them."
   },
   "rows": [
     {
