@@ -258,7 +258,7 @@ def test_every_rederived_date_falls_on_or_before_the_new_deadline(env):
             continue
         texts = [p["content"]] + ([p["correction_draft"]] if p["correction_draft"] else [])
         for text in texts:
-            for d, start, end in parse_dates(text, deadline.year):
+            for d, start, end in parse_dates(text, deadline):
                 quoted_old = p["correction_draft"] == text and (d.month, d.day) in {(11, 3), (11, 5), (11, 12)}
                 assert d <= deadline or quoted_old, (p["id"], text)
     draft = env.store.get_product("prod_msg")["correction_draft"]
@@ -293,3 +293,41 @@ def test_late_dates_rules():
     assert late_dates("Draft by Nov 5.", deadline, sent)  # a later date as a plan, not a replacement
     assert late_dates("Please send it by Oct 14 instead of Nov 3.", deadline, sent) == []
     assert late_dates("Please send it by Dec 1 instead of Nov 3.", deadline, sent)  # Dec 1 is not an old value
+
+
+def test_late_dates_catches_abbreviations_loose_cues_and_other_formats():
+    from datetime import date
+    from donor_lookback.dates import late_dates
+    deadline = date(2027, 10, 28)
+    sent = "Could you send the budget by Nov 3? I'll have the draft to you by Nov 5."
+    assert late_dates("The deadline is Oct 28. Nov. 5 for the draft.", deadline, sent)  # "Nov." does not end a sentence
+    assert late_dates("The deadline moved to Oct 28. I'll still send the draft by Nov 5, not later.", deadline, sent)
+    assert late_dates("I'll send the draft on Nov 5 as planned, since I was ahead.", deadline, sent)
+    assert late_dates("Draft by 2027-11-05.", deadline, sent) and late_dates("Draft by 11/5.", deadline, sent)
+    assert late_dates("Nov 5 remains the plan.", deadline, sent)
+    assert late_dates("Draft by Oct 21, not Nov 5.", deadline, sent) == []
+    assert late_dates("Draft by Oct 21 instead of the Nov 5 date.", deadline, sent) == []
+
+
+def test_year_less_dates_resolve_next_to_the_deadline():
+    from datetime import date
+    from donor_lookback.dates import late_dates, deadline_of
+    assert late_dates("Plan: documents Dec 20, submit Jan 10.", date(2028, 1, 15)) == []  # Dec 20 is 2027, before the deadline
+    assert late_dates("Plan: draft by Nov 5.", date(2027, 10, 28)) == ["Nov 5 is after the new deadline"]
+    assert deadline_of("Due by 5:00 PM Pacific on October 28.", date(2027, 11, 12)) == date(2027, 10, 28)
+
+
+def test_deadline_of_picks_the_deadline_not_an_opening_or_old_date():
+    from datetime import date
+    from donor_lookback.dates import deadline_of
+    assert deadline_of("Applications open September 1, 2027 and are due October 28, 2027.") == date(2027, 10, 28)
+    assert deadline_of("Extended from October 28, 2027 to November 12, 2027.") == date(2027, 11, 12)
+    assert deadline_of("Rolling basis, no date.") is None
+
+
+def test_funder_page_treats_the_default_date_in_another_form_as_unchanged():
+    from donor_lookback import demo_pages
+    for typed in ("Nov 12, 2027", "november 12, 2027", "November 12 2027"):
+        line = demo_pages.funder_deadline_line({"funder_deadline": typed})
+        assert line.startswith("Applications for the 2027") and "Correction" not in line, typed
+    assert not demo_pages.valid_deadline("tomorrow") and not demo_pages.valid_deadline("October 28") and demo_pages.valid_deadline("October 28, 2027")

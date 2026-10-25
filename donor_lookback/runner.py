@@ -48,7 +48,7 @@ def _check_one(store, gateway, fetcher, settings, donor, run_id, summary) -> Non
         store.update_donor_state(did, state="gone")
         flagged = cascade.mark_source_unavailable(store, did)
         summary["gone"] += 1
-        store.log_event(run_id, "source_unavailable", f"{donor['label']}: {len(flagged)} products flagged, not quarantined")
+        store.log_event(run_id, "source_unavailable", f"{donor['label']}: {len(flagged)} items flagged, not put on hold")
         return
 
     alarm = nano_compare(gateway, settings, donor, page.text, run_id)

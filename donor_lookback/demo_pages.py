@@ -4,13 +4,15 @@ import json
 import re
 from pathlib import Path
 
+from .dates import deadline_of
+
 DEFAULT_STATE = {"funder_deadline": "November 12, 2027"}
 BANNER = "DEMO PAGE: written by the StaleCatch team for this demo. Not a real funder."
 
 def funder_deadline_line(st: dict) -> str:
     """The seeded page states its deadline plainly; once the funder moves it the page carries a correction notice instead."""
     date = st["funder_deadline"]
-    if date == DEFAULT_STATE["funder_deadline"]:
+    if deadline_of(date) == deadline_of(DEFAULT_STATE["funder_deadline"]):  # "Nov 12, 2027" is the default date written differently
         return f"Applications for the 2027 Small Grants round are due by 5:00 PM Pacific on {date}."
     return (f"Correction: Applications for the 2027 Small Grants round are due by 5:00 PM Pacific on {date}, "
             "so that awards can be approved at the December board meeting.")
@@ -46,7 +48,8 @@ DEADLINE_RE = re.compile(r"^[A-Za-z0-9 ,.\-]{3,40}$")
 
 
 def valid_deadline(text: str) -> bool:
-    return bool(DEADLINE_RE.match(text or ""))
+    """A short date such as 'October 28, 2027': plain characters and a full date with a year."""
+    return bool(DEADLINE_RE.match(text or "")) and deadline_of(text or "") is not None
 
 
 def load_state(path: str) -> dict:

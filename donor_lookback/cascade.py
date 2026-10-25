@@ -61,7 +61,10 @@ def rederive(store: Store, gateway: Gateway, donor: dict, quarantined: list[dict
     """Ultra re-derives each quarantined product, parents before children, from the new donor record.
     Every date it writes must fall on or before the new deadline (one retry that names the problem, then the run is incomplete)."""
     done = []
-    deadline = deadline_of(donor["excerpt"])  # None when the new excerpt carries no full date: nothing to check against
+    previous = deadline_of(donor["prev_excerpt"] or "")
+    deadline = deadline_of(donor["excerpt"], previous)  # a year-less new date takes the nearest year to the old deadline
+    if deadline is None and run_id:
+        store.log_event(run_id, "note", "The new source states no readable date, so updated dates could not be checked against a deadline.")
     for p in sorted(quarantined, key=lambda x: (x["depth"], x["id"])):
         fresh = store.get_product(p["id"])  # parents may have been re-derived a moment ago
         sent_note = (f"This item was already SENT to {fresh['recipient'] or 'a recipient'}.\n"
@@ -81,6 +84,8 @@ def rederive(store: Store, gateway: Gateway, donor: dict, quarantined: list[dict
                 raise ValueError(f"Ultra returned empty content for {fresh['id']}")
             if fresh["sent"] and not draft:
                 raise ValueError(f"Ultra returned no correction draft for sent item {fresh['id']}")
+            if fresh["sent"]:
+                content = "Replaced by correction."  # the correction draft is the message; this line is what the item now says
             problems = _check_dates(fresh, deadline, content, draft) if deadline else []
             if not problems:
                 break
