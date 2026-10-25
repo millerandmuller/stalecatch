@@ -76,7 +76,8 @@ class Gateway:
             if not (self.settings.base_url and self.settings.api_key):
                 raise GatewayError("Token Factory is not configured: set TOKEN_FACTORY_BASE_URL and TOKEN_FACTORY_API_KEY.")
             from openai import OpenAI  # imported lazily so tests and the memory server run without credentials
-            self._client = OpenAI(base_url=self.settings.base_url, api_key=self.settings.api_key, max_retries=0)
+            self._client = OpenAI(base_url=self.settings.base_url, api_key=self.settings.api_key, max_retries=0,
+                                timeout=self.settings.request_timeout_s)
         return self._client
 
     def tier(self, name: str) -> ModelTier:

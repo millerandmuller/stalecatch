@@ -238,6 +238,8 @@ function render() {
   const note = !config.live_ready ? S.notConfigured : capped ? S.liveCapReached : "";
   $("runBtn").disabled = state.running || !config.live_ready || capped;
   $("runBtn").title = note;
+  $("editBtn").disabled = config.judge_mode && !config.live_ready;  // the server refuses edits it cannot follow with a run
+  $("editBtn").title = $("editBtn").disabled ? note : "";
   $("demoNote").textContent = S.demoNote + (note ? " " + note : "");
 }
 
@@ -317,6 +319,7 @@ async function poll() {
 }
 
 async function runCheck() {
+  replaying = false;
   try {
     const { run_id } = await api("/api/check/run", { method: "POST" });
     activeRunId = run_id; lastEventSeq = 0; setTicker(S.running, "amber", "quick scan · nano"); poll();
@@ -332,6 +335,7 @@ async function editPage() {
 }
 
 async function resetDemo() {
+  replaying = false;  // leave a finished replay so the live board updates again
   try { await api("/api/demo/reset", { method: "POST" }); selectedDonor = null; setTicker("Demo reset to the seed.", "", "idle"); await refresh(); }
   catch (err) { setTicker(err.message, "red", "error"); }
 }
@@ -448,7 +452,7 @@ async function init() {
   $("proofBtn").addEventListener("click", showBench);
   await refresh();
   if (state.run && state.run.finished_at && !activeRunId) setTicker(heroLine() || (state.run.complete ? `Last check finished: ${state.donors.length} sources, ${(state.headline_run && state.headline_run.summary && state.headline_run.summary.changed) || 0} changed.` : friendly("The last check did not finish.")), heroLine() ? "red" : "", "last check");
-  if (!state.run) setTicker(`Seed loaded. ${state.donors.length} sources, ${state.products.length} items built from them, ${state.recipients.length} people already told.`, "", "idle");
+  if (!state.run) setTicker(`Seed loaded. ${state.donors.length} sources, ${state.products.length} items built from them, ${state.recipients.length} people already told.${config.live_ready ? "" : " " + S.notConfigured}`, "", "idle");
   if (state.running && state.run) activeRunId = state.run.id;
   poll();
 }

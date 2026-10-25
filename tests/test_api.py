@@ -172,3 +172,36 @@ def test_sam_rises_from_row_three_to_row_one_and_the_control_messages_stay_curre
     assert after[0]["id"] == "prod_msg" and after[0]["correction_draft"]
     assert {r["id"]: r["status"] for r in after[1:]} == {"prod_ctl_board": "released", "prod_ctl_msg": "released"}
     assert all(p["status"] == "released" for p in c.get("/api/state").json()["products"] if p["id"].startswith("prod_ctl"))
+
+
+def test_a_failing_quota_write_does_not_leave_the_run_lock_held(env):
+    svc = Services(env.settings, env.store, env.gateway, env.web)
+    c = TestClient(create_app(svc, judge_mode=True, cooldown_s=0.0), raise_server_exceptions=False)
+    real = env.store.claim_live_run
+    env.store.claim_live_run = lambda *a: (_ for _ in ()).throw(RuntimeError("database is locked"))
+    assert c.post("/api/check/run").status_code == 500
+    env.store.claim_live_run = real
+    assert c.post("/api/demo/reset").status_code == 200  # not 409: the lock was released
+    ok = c.post("/api/check/run")
+    assert ok.status_code == 200
+    wait_done(c, ok.json()["run_id"])
+
+
+def test_judge_mode_refuses_demo_page_edits_when_live_checks_are_off(env):
+    from dataclasses import replace
+    from donor_lookback.gateway import Gateway
+    off = replace(env.settings, base_url="", api_key="")
+    c = TestClient(create_app(Services(off, env.store, Gateway(off), env.web), judge_mode=True))
+    r = c.post("/api/demo/edit", json={"deadline": "March 3, 2020"})
+    assert r.status_code == 403 and "demo page" in r.json()["detail"]
+    assert "November 19, 2026" in c.get("/demo/funder").text
+    # outside judge mode (local filming) the same edit is allowed
+    local = TestClient(create_app(Services(off, env.store, Gateway(off), env.web), judge_mode=False))
+    assert local.post("/api/demo/edit", json={"deadline": "November 9, 2026"}).status_code == 200
+
+
+def test_model_calls_carry_a_timeout(env):
+    from dataclasses import replace
+    from donor_lookback.gateway import Gateway
+    s = replace(env.settings, base_url="https://example.invalid/v1/", api_key="k", request_timeout_s=42.0)
+    assert Gateway(s).client.timeout == 42.0

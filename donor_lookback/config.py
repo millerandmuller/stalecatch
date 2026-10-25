@@ -54,6 +54,7 @@ class Settings:
         "ultra", _env("ULTRA_MODEL", "nvidia/Nemotron-3-Ultra-550b-a55b"),
         float(_env("ULTRA_USD_IN", "1.00")), float(_env("ULTRA_USD_OUT", "3.00")), _env("ULTRA_THINKING", "1") == "1"))
     live_runs_per_day: int = field(default_factory=lambda: int(_env("LIVE_RUNS_PER_DAY", "10")))  # judge mode: all visitors together
+    request_timeout_s: float = field(default_factory=lambda: float(_env("MODEL_TIMEOUT_S", "120")))  # one model call; a hung call must not hold the run lock for minutes
     max_retries: int = 4
     page_char_limit: int = 12000  # how much page text a model call may see
 

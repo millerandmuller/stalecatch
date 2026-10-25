@@ -87,13 +87,12 @@ def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_
             raise HTTPException(429, f"Live check is rate limited in judge mode. Try again in {int(wait) + 1}s.")
         if not run_lock.acquire(blocking=False):
             raise HTTPException(409, "A check is already running.")
-        if judge_mode and not svc.store.claim_live_run(today_utc(), svc.settings.live_runs_per_day):
-            run_lock.release()
-            raise HTTPException(429, CAP_MESSAGE)
         try:
+            if judge_mode and not svc.store.claim_live_run(today_utc(), svc.settings.live_runs_per_day):
+                raise HTTPException(429, CAP_MESSAGE)
             run_id = svc.store.start_run("board")
         except Exception:
-            run_lock.release()  # never leave the lock held if the run row could not be written
+            run_lock.release()  # never leave the lock held: the cap refused, or the quota or run row could not be written
             raise
         cur.update(run_id=run_id, started=time.monotonic(), last_started=time.monotonic())
 
@@ -110,6 +109,8 @@ def create_app(svc: Optional[Services] = None, *, judge_mode: bool = False, dev_
 
     @app.post("/api/demo/edit")
     def edit(body: EditBody):
+        if judge_mode and not live_ready():  # nobody can run a check here, so an edit would only vandalize the shared demo page
+            raise HTTPException(403, "Editing the demo page needs live checks, which are off on this server. The recorded run still replays.")
         deadline = body.deadline.strip()
         if not demo_pages.valid_deadline(deadline):
             raise HTTPException(422, "deadline must be a full date with a year, such as 'November 9, 2026' (letters, digits, spaces, commas)")
