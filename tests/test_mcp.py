@@ -36,3 +36,18 @@ def test_remember_then_derive_then_lookback(env, mcp):
     call(mcp, "derive", {"parents": [donor["id"]], "kind": "message", "content": "m", "sent": True, "recipient": "Sam"})
     lb = env.store.lookback(donor["id"])
     assert len(lb["products"]) == 2 and lb["sent_first"][0]["kind"] == "message"
+
+
+def test_bearer_auth_rejects_missing_and_wrong_tokens():
+    from starlette.applications import Starlette
+    from starlette.responses import PlainTextResponse
+    from starlette.routing import Route
+    from starlette.testclient import TestClient
+    from donor_lookback.mcp_server import BearerAuth
+
+    inner = Starlette(routes=[Route("/mcp", lambda r: PlainTextResponse("ok"), methods=["GET", "POST"])])
+    c = TestClient(BearerAuth(inner, "s3cret-token"))
+    assert c.get("/mcp").status_code == 401
+    assert c.get("/mcp", headers={"Authorization": "Bearer nope"}).status_code == 401
+    assert c.get("/mcp", headers={"Authorization": "Basic s3cret-token"}).status_code == 401
+    assert c.get("/mcp", headers={"Authorization": "Bearer s3cret-token"}).text == "ok"

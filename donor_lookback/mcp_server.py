@@ -1,5 +1,6 @@
 """F1 Memory server: MCP (Streamable HTTP) over the SQLite store. Parents are enforced by Store.derive, not by a prompt."""
 import argparse
+import hmac
 import os
 
 from mcp.server.fastmcp import FastMCP
@@ -77,12 +78,41 @@ def create_mcp(svc: Services, host: str = "127.0.0.1", port: int = 8765) -> Fast
     return mcp
 
 
+class BearerAuth:
+    """ASGI middleware: every HTTP request needs 'Authorization: Bearer <token>' (constant-time compare)."""
+
+    def __init__(self, app, token: str):
+        self.app, self._token = app, token.encode()
+
+    async def __call__(self, scope, receive, send):
+        if scope["type"] == "http":
+            auth = dict(scope["headers"]).get(b"authorization", b"")
+            scheme, _, supplied = auth.partition(b" ")
+            if scheme.lower() != b"bearer" or not hmac.compare_digest(supplied.strip(), self._token):
+                await send({"type": "http.response.start", "status": 401,
+                            "headers": [(b"content-type", b"application/json"), (b"www-authenticate", b"Bearer")]})
+                await send({"type": "http.response.body", "body": b'{"error":"missing or invalid bearer token"}'})
+                return
+        await self.app(scope, receive, send)
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description="Donor Lookback memory MCP server (Streamable HTTP)")
     ap.add_argument("--host", default="127.0.0.1")
     ap.add_argument("--port", type=int, default=8765)
+    ap.add_argument("--tls-cert", help="PEM certificate: serve HTTPS (needed by managed MCP clients such as NemoClaw)")
+    ap.add_argument("--tls-key", help="PEM private key for --tls-cert")
     args = ap.parse_args()
-    create_mcp(build_services(), args.host, args.port).run(transport="streamable-http")
+    mcp = create_mcp(build_services(), args.host, args.port)
+    token = os.environ.get("MCP_BEARER_TOKEN", "")
+    if args.host not in ("127.0.0.1", "localhost") and not token:
+        raise SystemExit("Refusing to listen beyond loopback without MCP_BEARER_TOKEN set.")
+    if not token:
+        mcp.run(transport="streamable-http")
+        return
+    import uvicorn
+    app = BearerAuth(mcp.streamable_http_app(), token)
+    uvicorn.run(app, host=args.host, port=args.port, ssl_certfile=args.tls_cert, ssl_keyfile=args.tls_key)
 
 
 if __name__ == "__main__":

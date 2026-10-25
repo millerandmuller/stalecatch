@@ -277,3 +277,16 @@ def test_redirect_to_internal_host_is_refused():
     f = Fetcher(Settings(), http=httpx.Client(transport=httpx.MockTransport(handler)))
     res = f._http_fetch("http://public.example.org/start")
     assert res.status == "unreachable" and "refused" in res.detail
+
+
+def test_nano_sends_enable_thinking_false_and_ultra_does_not(env):
+    seen = {}
+
+    def create(model, messages, **kw):
+        seen[model] = kw.get("extra_body")
+        return _resp({"ok": True})
+    gw = Gateway(env.settings, client=SimpleNamespace(chat=SimpleNamespace(completions=SimpleNamespace(create=create))), sleep=lambda s: None)
+    gw.chat_json("nano", "s", "u", purpose="t")
+    gw.chat_json("ultra", "s", "u", purpose="t")
+    assert seen[env.settings.nano.model_id] == {"chat_template_kwargs": {"enable_thinking": False}}
+    assert seen[env.settings.ultra.model_id] is None

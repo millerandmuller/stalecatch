@@ -100,6 +100,8 @@ class Gateway:
                               messages=[{"role": "system", "content": system}, {"role": "user", "content": user}])
                 if fmt:
                     kwargs["response_format"] = fmt
+                if not tier.thinking:
+                    kwargs["extra_body"] = {"chat_template_kwargs": {"enable_thinking": False}}
                 resp = self.client.chat.completions.create(**kwargs)
             except Exception as exc:  # noqa: BLE001 - classified below, re-raised as GatewayError
                 last_error = exc
@@ -131,8 +133,9 @@ class Gateway:
         tier = self.tier(tier_name)
         started = time.monotonic()
         try:
+            extra = {} if tier.thinking else {"extra_body": {"chat_template_kwargs": {"enable_thinking": False}}}
             resp = self.client.chat.completions.create(model=tier.model_id, messages=messages, tools=tools,
-                                                       max_tokens=max_tokens, temperature=0.0)
+                                                       max_tokens=max_tokens, temperature=0.0, **extra)
         except Exception as exc:  # noqa: BLE001
             self._record(run_id, tier, purpose, 0, 0, int((time.monotonic() - started) * 1000), ok=False)
             raise GatewayError(f"{tier.name} call failed ({purpose}): {redact(str(exc))}") from exc
