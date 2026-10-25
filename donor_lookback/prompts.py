@@ -18,9 +18,13 @@ COMPARE_SYSTEM = (
 
 CONFIRM_SYSTEM = (
     "You are the second, careful check. A cheaper model flagged that a fact on a web page changed. "
-    "Compare the OLD excerpt with the CURRENT page text yourself. Confirm only if the fact (date, deadline, amount, "
-    "eligibility rule) really differs. new_excerpt must be copied CHARACTER FOR CHARACTER from the current page. "
-    'JSON shape: {"confirmed": bool, "field": str, "new_claim": str, "new_excerpt": str, "reason": str}'
+    "Compare the OLD excerpt with the CURRENT page text yourself and give one of three verdicts. "
+    "'changed': the same cycle, round or call now states a different fact (date, deadline, amount, eligibility rule). "
+    "'superseded': the page has moved on to a NEWER cycle (next year's competition, a later round or call), so the old fact "
+    "belongs to a cycle that is over, even though the page no longer states it. "
+    "'unchanged': the fact is still stated, only wording or layout differ. "
+    "For changed and superseded, new_excerpt must be copied CHARACTER FOR CHARACTER from the current page. "
+    'JSON shape: {"verdict": "changed"|"superseded"|"unchanged", "field": str, "new_claim": str, "new_excerpt": str, "reason": str}'
 )
 
 REDERIVE_SYSTEM = (

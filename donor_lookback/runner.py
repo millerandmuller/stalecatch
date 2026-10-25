@@ -14,7 +14,7 @@ def run_check(store: Store, gateway: Gateway, fetcher: Fetcher, settings: Settin
               trigger: str = "manual", run_id: Optional[str] = None) -> dict:
     run_id = run_id or store.start_run(trigger)
     donors = store.list_donors()
-    summary = {"donors": len(donors), "changed": 0, "unchanged": 0, "gone": 0, "rejected_alarms": 0,
+    summary = {"donors": len(donors), "changed": 0, "unchanged": 0, "gone": 0, "rejected_alarms": 0, "superseded": 0,
                "rederived": 0, "errors": []}
     store.log_event(run_id, "start", f"Tonight's check: {len(donors)} donors")
     for donor in donors:
@@ -72,7 +72,10 @@ def _check_one(store, gateway, fetcher, settings, donor, run_id, summary) -> Non
         did, claim=confirmed.new_claim or alarm.new_claim or confirmed.new_excerpt, excerpt=confirmed.new_excerpt, fetch_via=page.via)
     changed = store.get_donor(did)
     summary["changed"] += 1
-    store.log_event(run_id, "donor_red", f"Donor changed: {changed['prev_excerpt']!r} -> {changed['excerpt']!r}")
+    if confirmed.kind == "superseded":
+        summary["superseded"] += 1  # counted in "changed" too: the saved date belongs to a cycle that is over, so it alerts
+    what = "Donor superseded by a newer cycle" if confirmed.kind == "superseded" else "Donor changed"
+    store.log_event(run_id, "donor_red", f"{what}: {changed['prev_excerpt']!r} -> {changed['excerpt']!r}")
     store.log_event(run_id, "quarantine", f"{len(quarantined)} products quarantined.")
     redone = cascade.rederive(store, gateway, changed, quarantined, run_id)
     store.finish_cascade(did)

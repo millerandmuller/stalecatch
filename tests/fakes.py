@@ -15,10 +15,11 @@ def _resp(obj, pt=400, ct=60):
 class FakeModels:
     """Behaves like a competent Nano/Ultra pair. `calls` records (model, purpose) for assertions."""
 
-    def __init__(self, nano="nano-m", ultra="ultra-m", nano_false_alarm=False, ultra_rejects=False):
+    def __init__(self, nano="nano-m", ultra="ultra-m", nano_false_alarm=False, ultra_rejects=False, ultra_says_superseded=False):
         self.calls = []
         self.nano, self.ultra = nano, ultra
         self.nano_false_alarm, self.ultra_rejects = nano_false_alarm, ultra_rejects
+        self.ultra_says_superseded = ultra_says_superseded
         self.chat = SimpleNamespace(completions=SimpleNamespace(create=self._create))
 
     @staticmethod
@@ -48,7 +49,10 @@ class FakeModels:
             page = user.split("CURRENT PAGE TEXT:\n", 1)[1]
             new = self._date_line(page)
             ok = new != old and not self.ultra_rejects
-            return _resp({"confirmed": ok, "field": "deadline", "new_claim": "Deadline: " + new, "new_excerpt": new, "reason": "confirmed" if ok else "no real change"}, 900, 80)
+            kind = "unchanged"
+            if ok:
+                kind = "superseded" if self.ultra_says_superseded else "changed"
+            return _resp({"verdict": kind, "field": "deadline", "new_claim": "Deadline: " + new, "new_excerpt": new, "reason": "confirmed" if ok else "no real change"}, 900, 80)
         if "re-derive one item" in system:
             self.calls.append((model, "rederive"))
             new_line = re.search(r"NEW excerpt: (.*)", user).group(1).strip()

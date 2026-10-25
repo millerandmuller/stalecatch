@@ -18,6 +18,7 @@ from donor_lookback.textutil import html_to_text, is_verbatim, relevant_window
 from donor_lookback.watch import nano_compare, ultra_confirm
 
 HERE = Path(__file__).resolve().parent
+ALERTS = ("changed", "superseded")
 
 
 def wayback_raw(url: str) -> str:
@@ -54,7 +55,7 @@ def run_pairs(pairs: list[dict], gateway: Gateway, settings: Settings, store: St
     rows = []
     for pair in pairs:
         row = {"label": pair["label"], "url": pair["url"], "before_url": pair["before_snapshot"],
-               "after_url": pair["after_snapshot"], "changed": bool(pair["changed"]), "field": pair.get("field", ""),
+               "after_url": pair["after_snapshot"], "changed": bool(pair["changed"]), "field": pair.get("field", ""), "what_changed": pair.get("what_changed", ""),
                "nano_verdict": "error", "final_verdict": "error", "note": ""}
         try:
             before, after = fetch(pair["before_snapshot"]), fetch(pair["after_snapshot"])
@@ -67,7 +68,7 @@ def run_pairs(pairs: list[dict], gateway: Gateway, settings: Settings, store: St
                 row["nano_verdict"] = "changed" if alarm.changed else "unchanged"
                 if alarm.changed:
                     confirmed = ultra_confirm(gateway, settings, donor, after, alarm, run_id)
-                    row["final_verdict"] = "changed" if confirmed.changed else "unchanged"
+                    row["final_verdict"] = confirmed.kind  # changed | superseded | unchanged
                     row["note"] = confirmed.reason
                 else:
                     row["final_verdict"] = "unchanged"
@@ -83,11 +84,14 @@ def summarize(rows: list[dict], receipt: dict) -> dict:
     return {
         "changed_pairs": len(changed), "unchanged_pairs": len(unchanged),
         "nano_recall": sum(r["nano_verdict"] == "changed" for r in changed),
-        "confirmed_recall": sum(r["final_verdict"] == "changed" for r in changed),
+        # both alerting verdicts count as found: a superseded cycle tells the user the saved date is stale
+        "confirmed_recall": sum(r["final_verdict"] in ALERTS for r in changed),
+        "verdict_changed": sum(r["final_verdict"] == "changed" for r in changed),
+        "verdict_superseded": sum(r["final_verdict"] == "superseded" for r in changed),
         "nano_false_alarms": sum(r["nano_verdict"] == "changed" for r in unchanged),
-        "false_alarms": sum(r["final_verdict"] == "changed" for r in unchanged),
+        "false_alarms": sum(r["final_verdict"] in ALERTS for r in unchanged),
         "errors": sum(r["nano_verdict"] == "error" for r in rows),
-        "misses": [r["label"] for r in changed if r["final_verdict"] != "changed"],
+        "misses": [r["label"] for r in changed if r["final_verdict"] not in ALERTS],
         "total_usd": receipt["total_usd"], "receipt": receipt,
     }
 
@@ -103,7 +107,8 @@ def main() -> None:
     report = run_pairs(pairs, Gateway(settings, recorder=store.log_call), settings, store)
     Path(args.out).write_text(json.dumps(report, indent=2))
     s = report["summary"]
-    print(f"Nano alone {s['nano_recall']}/{s['changed_pairs']} | Nano+Ultra {s['confirmed_recall']}/{s['changed_pairs']} | "
+    print(f"Nano alone {s['nano_recall']}/{s['changed_pairs']} | Nano+Ultra {s['confirmed_recall']}/{s['changed_pairs']} "
+          f"(changed {s['verdict_changed']}, superseded {s['verdict_superseded']}) | "
           f"false alarms {s['false_alarms']}/{s['unchanged_pairs']} | errors {s['errors']} | ${s['total_usd']:.4f}")
     for m in s["misses"]:
         print("MISS:", m)

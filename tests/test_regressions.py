@@ -39,7 +39,7 @@ def override(env, purpose_marker, obj):
 
 def test_ultra_confirm_without_excerpt_is_incomplete_not_green(env):
     change(env)
-    override(env, "second, careful check", {"confirmed": True, "field": "d", "new_claim": "c", "reason": "yes"})
+    override(env, "second, careful check", {"verdict": "changed", "field": "d", "new_claim": "c", "reason": "yes"})
     run = check(env)
     assert run["complete"] == 0 and run["summary"]["errors"]
     assert env.store.get_donor("donor_funder")["state"] == "ok"
@@ -54,7 +54,7 @@ def test_nano_incomplete_verdict_is_incomplete_not_unchanged(env):
 def test_ultra_confirming_the_old_excerpt_is_rejected(env):
     env.models.nano_false_alarm = True
     old = env.store.get_donor("donor_funder")["excerpt"]
-    override(env, "second, careful check", {"confirmed": True, "field": "d", "new_claim": "c", "new_excerpt": old, "reason": "yes"})
+    override(env, "second, careful check", {"verdict": "changed", "field": "d", "new_claim": "c", "new_excerpt": old, "reason": "yes"})
     run = check(env)
     assert run["summary"]["changed"] == 0
     assert all(p["status"] == "released" for p in env.store.list_products())
@@ -62,17 +62,18 @@ def test_ultra_confirming_the_old_excerpt_is_rejected(env):
 
 def test_ultra_confirming_an_unrelated_line_is_loud_not_silent(env):
     env.models.nano_false_alarm = True
-    override(env, "second, careful check", {"confirmed": True, "field": "d", "new_claim": "c",
+    override(env, "second, careful check", {"verdict": "changed", "field": "d", "new_claim": "c",
                                             "new_excerpt": "Decisions are announced in the first week of January.", "reason": "yes"})
     run = check(env)
     assert run["complete"] == 0 and run["summary"]["changed"] == 0  # flagged for review, not "Checked twice, no change"
     assert all(p["status"] == "released" for p in env.store.list_products())
 
 
-def test_confirmed_string_false_is_not_confirmed(env):
+def test_ultra_verdict_outside_the_three_is_incomplete_not_unchanged(env):
     env.models.nano_false_alarm = True
-    override(env, "second, careful check", {"confirmed": "false", "field": "d", "new_claim": "c", "new_excerpt": "", "reason": "no"})
-    assert check(env)["summary"]["changed"] == 0
+    override(env, "second, careful check", {"verdict": "false", "field": "d", "new_claim": "c", "new_excerpt": "", "reason": "no"})
+    run = check(env)
+    assert run["complete"] == 0 and run["summary"]["changed"] == 0
 
 
 def test_non_dict_json_fails_that_donor_only(env):
@@ -290,3 +291,21 @@ def test_nano_sends_enable_thinking_false_and_ultra_does_not(env):
     gw.chat_json("ultra", "s", "u", purpose="t")
     assert seen[env.settings.nano.model_id] == {"chat_template_kwargs": {"enable_thinking": False}}
     assert seen[env.settings.ultra.model_id] is None
+
+
+def test_superseded_verdict_alerts_and_cascades_but_is_labeled(env):
+    change(env)
+    env.models.ultra_says_superseded = True
+    run = check(env)
+    assert run["summary"]["changed"] == 1 and run["summary"]["superseded"] == 1
+    assert env.store.get_donor("donor_funder")["state"] == "changed"
+    details = [e["detail"] for e in env.store.events(run["id"]) if e["step"] == "donor_red"]
+    assert len(details) == 1 and details[0].startswith("Donor superseded by a newer cycle")
+
+
+def test_superseded_without_verbatim_excerpt_is_incomplete(env):
+    change(env)
+    override(env, "second, careful check", {"verdict": "superseded", "field": "d", "new_claim": "c", "reason": "next year"})
+    run = check(env)
+    assert run["complete"] == 0 and run["summary"]["errors"] and run["summary"]["superseded"] == 0
+    assert env.store.get_donor("donor_funder")["state"] == "ok"

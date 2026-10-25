@@ -188,13 +188,14 @@ async function showBench() {
   try {
     const r = await api("/api/bench");
     const sum = r.summary;
-    body.append(h("p", "", `Nano alone: ${sum.nano_recall}/${sum.changed_pairs} changes found · Nano + Ultra: ${sum.confirmed_recall}/${sum.changed_pairs} · false alarms on unchanged pages: ${sum.false_alarms}/${sum.unchanged_pairs} · cost $${sum.total_usd.toFixed(4)}`));
+    body.append(h("p", "", `Nano alone: ${sum.nano_recall}/${sum.changed_pairs} changes found · Nano + Ultra: ${sum.confirmed_recall}/${sum.changed_pairs} (same cycle changed: ${sum.verdict_changed}, newer cycle: ${sum.verdict_superseded}) · false alarms on unchanged pages: ${sum.false_alarms}/${sum.unchanged_pairs} · cost $${sum.total_usd.toFixed(4)}`));
     const t = h("table"), head = h("tr");
-    for (const c of ["Page", "Truth", "Nano", "Nano + Ultra", "Snapshots"]) head.append(h("th", "", c));
+    for (const c of ["Page", "What changed", "Nano", "Ultra: changed", "Ultra: newer cycle", "Ultra: unchanged", "Snapshots"]) head.append(h("th", "", c));
     t.append(head);
     for (const row of r.rows) {
       const tr = h("tr");
-      tr.append(h("td", "", row.label), h("td", "", row.changed ? `changed: ${row.field}` : "unchanged"), h("td", "", row.nano_verdict), h("td", "", row.final_verdict));
+      tr.append(h("td", "", row.label), h("td", "", row.what_changed || (row.changed ? `changed: ${row.field}` : "unchanged")), h("td", "", row.nano_verdict),
+        ...["changed", "superseded", "unchanged"].map((v) => h("td", "", row.final_verdict === v ? "●" : (row.final_verdict === "error" && v === "changed" ? "error" : ""))));
       const td = h("td");
       [["before", row.before_url], ["after", row.after_url]].forEach(([name, url], i) => {
         if (i) td.append(" → ");
