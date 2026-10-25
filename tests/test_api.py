@@ -68,7 +68,7 @@ def test_approve_and_reset(client):
     env.web.state["funder_deadline"] = "November 9, 2026"
     wait_done(c, c.post("/api/check/run").json()["run_id"])
     assert c.post("/api/products/prod_msg/approve").json()["correction_approved"] == 1
-    assert c.post("/api/demo/reset").json()["products"] == 5
+    assert c.post("/api/demo/reset").json()["products"] == 6
     assert c.get("/api/state").json()["products"][0]["correction_approved"] == 0
     assert c.post("/api/products/nope/approve").status_code == 404
 
@@ -159,3 +159,16 @@ def test_demo_pages_are_styled_banner_first_and_text_unchanged(client):
         assert text.splitlines() == [demo_pages.BANNER] + demo_pages.page_lines(slug, demo_pages.DEFAULT_STATE)  # styling added no words
         for d in (d for d in seed["donors"] if d["slug"] == slug):
             assert d["match"] in text
+
+
+def test_sam_rises_from_row_three_to_row_one_and_the_control_messages_stay_current(client):
+    c, env = client
+    before = c.get("/api/state").json()["recipients"]
+    assert [r["id"] for r in before] == ["prod_ctl_board", "prod_ctl_msg", "prod_msg"]  # three people already told, Sam last
+    c.post("/api/demo/edit", json={"deadline": "November 9, 2026"})
+    env.web.state["funder_deadline"] = "November 9, 2026"
+    wait_done(c, c.post("/api/check/run").json()["run_id"])
+    after = c.get("/api/state").json()["recipients"]
+    assert after[0]["id"] == "prod_msg" and after[0]["correction_draft"]
+    assert {r["id"]: r["status"] for r in after[1:]} == {"prod_ctl_board": "released", "prod_ctl_msg": "released"}
+    assert all(p["status"] == "released" for p in c.get("/api/state").json()["products"] if p["id"].startswith("prod_ctl"))

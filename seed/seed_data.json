@@ -59,6 +59,18 @@
       "content": "Dec 3, 2026, 5:00 PM ET: Example Regional Arts Council Travel Grants application due."
     },
     {
+      "id": "prod_ctl_board",
+      "parents": [
+        "donor_control"
+      ],
+      "kind": "message",
+      "title": "Message to Jordan: Travel Grants timeline",
+      "content": "Hi Jordan, the Travel Grants application is due Dec 3 at 5:00 PM Eastern. I'll bring the draft to the Nov 24 board meeting.",
+      "sent": true,
+      "recipient": "Jordan (board chair, client)",
+      "sent_at": "2026-10-12T14:30:00+00:00"
+    },
+    {
       "id": "prod_ctl_msg",
       "parents": [
         "donor_control"

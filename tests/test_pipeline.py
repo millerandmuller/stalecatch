@@ -172,7 +172,7 @@ def test_reset_restores_seed(env):
     set_deadline(env, "November 9, 2026")
     check(env)
     out = reset_demo(env.store, env.settings)
-    assert out["donors"] == 2 and out["products"] == 5
+    assert out["donors"] == 2 and out["products"] == 6
     assert all(p["status"] == "released" for p in env.store.list_products())
     assert env.store.calls() == []
 
