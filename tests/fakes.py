@@ -55,12 +55,25 @@ class FakeModels:
             return _resp({"verdict": kind, "field": "deadline", "new_claim": "Deadline: " + new, "new_excerpt": new, "reason": "confirmed" if ok else "no real change"}, 900, 80)
         if "re-derive one item" in system:
             self.calls.append((model, "rederive"))
-            new_line = re.search(r"NEW excerpt: (.*)", user).group(1).strip()
-            m = re.search(r"on ([A-Z][a-z]+ \d+, \d{4})", new_line)
-            date = m.group(1) if m else "the new date"
+            from datetime import timedelta
+            from donor_lookback.dates import deadline_of
+            deadline = deadline_of(re.search(r"NEW excerpt: (.*)", user).group(1).strip())
+            kind = re.search(r"ITEM kind: (.*)", user).group(1).strip()
             sent = "already SENT" in user
-            return _resp({"content": f"Updated: due {date}.",
-                          "correction_draft": f"Correction: the deadline is now {date}, not the date I sent earlier." if sent else ""}, 1200, 90)
+
+            def short(d):
+                return f"{d.strftime('%b')} {d.day}"
+            full = f"{deadline.strftime('%B')} {deadline.day}, {deadline.year}"
+            if sent:
+                return _resp({"content": "Replaced by correction.",
+                              "correction_draft": (f"Hi Sam, the Small Grants deadline is now {short(deadline)}, not Nov 12. Could you send the budget "
+                                                   f"and 990 by {short(deadline - timedelta(days=14))} instead of Nov 3? I'll have the full draft to "
+                                                   f"you by {short(deadline - timedelta(days=7))} instead of Nov 5.")}, 1200, 90)
+            if kind == "plan":
+                return _resp({"content": (f"Moved earlier: documents by {short(deadline - timedelta(days=14))}, draft by "
+                                          f"{short(deadline - timedelta(days=7))}, submit by {short(deadline - timedelta(days=1))}."),
+                              "correction_draft": ""}, 1200, 90)
+            return _resp({"content": f"Updated: due {full}.", "correction_draft": ""}, 1200, 90)
         raise AssertionError("unexpected prompt: " + system[:60])
 
 

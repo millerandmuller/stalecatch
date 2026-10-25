@@ -26,15 +26,15 @@ def wait_done(c, run_id):
 def test_demo_page_is_labeled_and_editable(client):
     c, env = client
     html = c.get("/demo/funder").text
-    assert "Not a real funder" in html and "November 12, 2026" in html
-    c.post("/api/demo/edit", json={"deadline": "October 28, 2026"})
-    assert "October 28, 2026" in c.get("/demo/funder").text
+    assert "Not a real funder" in html and "November 12, 2027" in html
+    c.post("/api/demo/edit", json={"deadline": "October 28, 2027"})
+    assert "October 28, 2027" in c.get("/demo/funder").text
 
 
 def test_state_recipients_sent_first_after_run(client):
     c, env = client
-    c.post("/api/demo/edit", json={"deadline": "October 28, 2026"})
-    env.web.state["funder_deadline"] = "October 28, 2026"
+    c.post("/api/demo/edit", json={"deadline": "October 28, 2027"})
+    env.web.state["funder_deadline"] = "October 28, 2027"
     run_id = c.post("/api/check/run").json()["run_id"]
     wait_done(c, run_id)
     st = c.get("/api/state").json()
@@ -64,8 +64,8 @@ def test_judge_mode_rate_limit(env, tmp_path):
 def test_approve_and_reset(client):
     c, env = client
     assert c.post("/api/products/prod_msg/approve").status_code == 409  # nothing to approve before a lookback
-    c.post("/api/demo/edit", json={"deadline": "October 28, 2026"})
-    env.web.state["funder_deadline"] = "October 28, 2026"
+    c.post("/api/demo/edit", json={"deadline": "October 28, 2027"})
+    env.web.state["funder_deadline"] = "October 28, 2027"
     wait_done(c, c.post("/api/check/run").json()["run_id"])
     assert c.post("/api/products/prod_msg/approve").json()["correction_approved"] == 1
     assert c.post("/api/demo/reset").json()["products"] == 5
@@ -75,8 +75,8 @@ def test_approve_and_reset(client):
 
 def test_state_keeps_the_receipt_of_the_run_that_changed_something(client):
     c, env = client
-    c.post("/api/demo/edit", json={"deadline": "October 28, 2026"})
-    env.web.state["funder_deadline"] = "October 28, 2026"
+    c.post("/api/demo/edit", json={"deadline": "October 28, 2027"})
+    env.web.state["funder_deadline"] = "October 28, 2027"
     wait_done(c, c.post("/api/check/run").json()["run_id"])
     wait_done(c, c.post("/api/check/run").json()["run_id"])  # quiet second check
     st = c.get("/api/state").json()

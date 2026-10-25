@@ -2,6 +2,7 @@
 import json
 from typing import Optional
 
+from .dates import deadline_of, late_dates
 from .gateway import Gateway
 from .prompts import REDERIVE_SYSTEM
 from .store import Store
@@ -48,24 +49,43 @@ def _parent_context(store: Store, product: dict) -> str:
     return "\n".join(lines)
 
 
+def _check_dates(fresh: dict, deadline, content: str, draft: str) -> list[str]:
+    """No re-derived text may land after the new deadline, and a correction may quote an old sent date only to replace it."""
+    problems = late_dates(content, deadline)
+    if draft:
+        problems += late_dates(draft, deadline, quoted_from=fresh["sent_content"] or "")
+    return sorted(set(problems))
+
+
 def rederive(store: Store, gateway: Gateway, donor: dict, quarantined: list[dict], run_id: Optional[str] = None) -> list[dict]:
-    """Ultra re-derives each quarantined product, parents before children, from the new donor record."""
+    """Ultra re-derives each quarantined product, parents before children, from the new donor record.
+    Every date it writes must fall on or before the new deadline (one retry that names the problem, then the run is incomplete)."""
     done = []
+    deadline = deadline_of(donor["excerpt"])  # None when the new excerpt carries no full date: nothing to check against
     for p in sorted(quarantined, key=lambda x: (x["depth"], x["id"])):
         fresh = store.get_product(p["id"])  # parents may have been re-derived a moment ago
         sent_note = (f"This item was already SENT to {fresh['recipient'] or 'a recipient'}.\n"
                      f"What was sent: {fresh['sent_content']}\n") if fresh["sent"] else "This item was not sent.\n"
+        deadline_note = f"NEW DEADLINE: {deadline.strftime('%B')} {deadline.day}, {deadline.year}\n" if deadline else ""
         user = (f"ITEM kind: {fresh['kind']}\nITEM title: {fresh['title']}\nITEM old content: {fresh['content']}\n{sent_note}\n"
                 f"CHANGED DONOR {donor['id']}:\n  OLD claim: {donor['prev_claim']}\n  OLD excerpt: {donor['prev_excerpt']}\n"
-                f"  NEW claim: {donor['claim']}\n  NEW excerpt: {donor['excerpt']}\n\n"
+                f"  NEW claim: {donor['claim']}\n  NEW excerpt: {donor['excerpt']}\n{deadline_note}\n"
                 f"ALL PARENTS NOW:\n{_parent_context(store, fresh)}")
-        out = gateway.chat_json("ultra", REDERIVE_SYSTEM, user, purpose="rederive", run_id=run_id,
-                                schema=REDERIVE_SCHEMA, max_tokens=900)
-        content = out.get("content").strip() if isinstance(out.get("content"), str) else ""
-        draft = out.get("correction_draft").strip() if isinstance(out.get("correction_draft"), str) else ""
-        if not content:
-            raise ValueError(f"Ultra returned empty content for {fresh['id']}")
-        if fresh["sent"] and not draft:
-            raise ValueError(f"Ultra returned no correction draft for sent item {fresh['id']}")
+        retry = ""
+        for attempt in (1, 2):
+            out = gateway.chat_json("ultra", REDERIVE_SYSTEM, user + retry, purpose="rederive", run_id=run_id,
+                                    schema=REDERIVE_SCHEMA, max_tokens=1200)
+            content = out.get("content").strip() if isinstance(out.get("content"), str) else ""
+            draft = out.get("correction_draft").strip() if isinstance(out.get("correction_draft"), str) else ""
+            if not content:
+                raise ValueError(f"Ultra returned empty content for {fresh['id']}")
+            if fresh["sent"] and not draft:
+                raise ValueError(f"Ultra returned no correction draft for sent item {fresh['id']}")
+            problems = _check_dates(fresh, deadline, content, draft) if deadline else []
+            if not problems:
+                break
+            if attempt == 2:
+                raise ValueError(f"Ultra's update for {fresh['id']} does not fit the new deadline: {'; '.join(problems)}")
+            retry = f"\n\nYour previous answer was rejected: {'; '.join(problems)}. Move every date on or before the new deadline."
         done.append(store.set_product_rederived(fresh["id"], content=content, correction_draft=draft or None))
     return done

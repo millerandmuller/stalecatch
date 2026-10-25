@@ -1,6 +1,6 @@
 """Plan B: capture one full LIVE reveal as frames the board can replay read-only (judge mode, camera fallback).
 Needs a running board with real Token Factory credentials. Refuses to record simulated models.
-   python scripts/record_run.py [--base http://127.0.0.1:8000] [--deadline "October 28, 2026"]"""
+   python scripts/record_run.py [--base http://127.0.0.1:8000] [--deadline "October 28, 2027"]"""
 import argparse
 import json
 import sys
@@ -15,7 +15,7 @@ OUT = Path(__file__).resolve().parent.parent / "data" / "recorded_run.json"
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--base", default="http://127.0.0.1:8000")
-    ap.add_argument("--deadline", default="October 28, 2026")
+    ap.add_argument("--deadline", default="October 28, 2027")
     ap.add_argument("--out", default=str(OUT))
     args = ap.parse_args()
     http = httpx.Client(base_url=args.base, timeout=30)
@@ -27,7 +27,7 @@ def main() -> int:
         print("Refusing to record: the board has no Token Factory credentials.", file=sys.stderr)
         return 2
     http.post("/api/demo/reset").raise_for_status()
-    frames = [{"state": http.get("/api/state").json(), "ticker": "Seed: three products and one sent message built on the funder page.", "hold_ms": 1500}]
+    frames = [{"state": http.get("/api/state").json(), "ticker": "Seed: three items and one sent message built on the funder page.", "hold_ms": 1500}]
     http.post("/api/demo/edit", json={"deadline": args.deadline}).raise_for_status()
     resp = http.post("/api/check/run")
     resp.raise_for_status()
@@ -41,8 +41,12 @@ def main() -> int:
             seq = e["seq"]
         key = json.dumps([[p["id"], p["status"]] for p in state["products"]] + [d["state"] for d in state["donors"]])
         if ev["events"] or key != last_state:
-            ticker = f"{ev['events'][-1]['step']}: {ev['events'][-1]['detail']}" if ev["events"] else ""
-            frames.append({"state": state, "ticker": ticker, "hold_ms": 900})
+            last = ev["events"][-1] if ev["events"] else None
+            ticker = f"{last['step']}: {last['detail']}" if last else ""
+            frame = {"state": state, "ticker": ticker, "hold_ms": 900}
+            if last:
+                frame["event"] = {"step": last["step"], "detail": last["detail"]}  # the board words the ticker line from this
+            frames.append(frame)
             last_state = key
         if not ev["running"] and ev["run"] and ev["run"]["finished_at"]:
             break

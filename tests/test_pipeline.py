@@ -6,6 +6,7 @@ from donor_lookback.receipt import build_receipt
 from donor_lookback.runner import run_check
 from donor_lookback.seed import edit_funder_deadline, reset_demo
 from donor_lookback.store import Store
+from tests.fakes import _resp
 
 FUNDER = "http://127.0.0.1:8000/demo/funder"
 
@@ -29,32 +30,34 @@ def test_unchanged_run_makes_no_alarm_and_no_ultra(env):
 
 def test_full_reveal_rederives_exactly_the_three_descendants(env):
     before_ctl = {p["id"]: p for p in env.store.list_products() if p["id"].startswith("prod_ctl")}
-    set_deadline(env, "October 28, 2026")
+    set_deadline(env, "October 28, 2027")
     run = check(env)
     assert run["summary"]["changed"] == 1 and run["summary"]["rederived"] == 3
     products = {p["id"]: p for p in env.store.list_products()}
     for pid in ("prod_cal", "prod_plan", "prod_msg"):
         assert products[pid]["status"] == "rederived"
-        assert "October 28, 2026" in products[pid]["content"]
         assert products[pid]["prev_content"]
+    assert "October 28, 2027" in products["prod_cal"]["content"]
+    assert products["prod_plan"]["content"].startswith("Moved earlier:")
+    assert products["prod_msg"]["content"] == "Replaced by correction."
     for pid, old in before_ctl.items():  # control donor untouched
         assert products[pid]["status"] == "released" and products[pid]["content"] == old["content"]
     donor = env.store.get_donor("donor_funder")
-    assert donor["state"] == "changed" and "November 12, 2026" in donor["prev_excerpt"] and "October 28, 2026" in donor["excerpt"]
+    assert donor["state"] == "changed" and "November 12, 2027" in donor["prev_excerpt"] and "October 28, 2027" in donor["excerpt"]
     assert env.store.get_donor("donor_control")["state"] == "ok"
 
 
 def test_sent_message_has_correction_draft_never_auto_sent(env):
-    set_deadline(env, "October 28, 2026")
+    set_deadline(env, "October 28, 2027")
     check(env)
     msg = env.store.get_product("prod_msg")
-    assert msg["sent"] == 1 and msg["correction_draft"].startswith("Correction")
-    assert msg["sent_content"].count("Nov 12") == 1  # what actually went out is preserved
+    assert msg["sent"] == 1 and msg["correction_draft"].startswith("Hi Sam")
+    assert msg["sent_content"].count("Nov 12") == 1 and msg["recipient"] == "Sam (Executive Director, client)"  # what went out is preserved
     assert msg["correction_approved"] == 0
 
 
 def test_ultra_only_on_alarms_and_double_checks_nano(env):
-    set_deadline(env, "October 28, 2026")
+    set_deadline(env, "October 28, 2027")
     check(env)
     purposes = [p for _, p in env.models.calls]
     assert purposes.count("compare") == 2 and purposes.count("confirm") == 1 and purposes.count("rederive") == 3
@@ -96,7 +99,7 @@ def test_layout_only_change_does_not_cascade(env):
 
 
 def test_gateway_failure_marks_run_incomplete_not_green(env):
-    set_deadline(env, "October 28, 2026")
+    set_deadline(env, "October 28, 2027")
 
     def boom(**kw):
         raise ConnectionError("down")
@@ -107,7 +110,7 @@ def test_gateway_failure_marks_run_incomplete_not_green(env):
 
 
 def test_interrupted_cascade_resumes_on_next_run(env):
-    set_deadline(env, "October 28, 2026")
+    set_deadline(env, "October 28, 2027")
     real = env.models._create
     state = {"n": 0}
 
@@ -129,7 +132,7 @@ def test_interrupted_cascade_resumes_on_next_run(env):
 
 
 def test_receipt_comes_from_logged_usage_fields(env):
-    set_deadline(env, "October 28, 2026")
+    set_deadline(env, "October 28, 2027")
     run = check(env)
     r = run["summary"]["receipt"]
     # 2 compare (400/60) on nano; 1 confirm (900/80) + 3 rederive (1200/90) on ultra
@@ -166,7 +169,7 @@ def test_intake_rejects_paraphrase(env):
 
 
 def test_reset_restores_seed(env):
-    set_deadline(env, "October 28, 2026")
+    set_deadline(env, "October 28, 2027")
     check(env)
     out = reset_demo(env.store, env.settings)
     assert out["donors"] == 2 and out["products"] == 5
@@ -195,9 +198,9 @@ def test_intake_rejects_a_dateless_excerpt_and_retries_with_the_reason(env):
 
 def test_excerpt_problem_wants_a_date_not_just_a_digit():
     from donor_lookback.intake import excerpt_problem
-    page = "Due by 5:00 PM local time. Deadline: November 12, 2026. Rolling from 3 March."
+    page = "Due by 5:00 PM local time. Deadline: November 12, 2027. Rolling from 3 March."
     assert "no date" in excerpt_problem("c", "Due by 5:00 PM local time.", page)
-    assert excerpt_problem("c", "Deadline: November 12, 2026.", page) == ""
+    assert excerpt_problem("c", "Deadline: November 12, 2027.", page) == ""
     assert excerpt_problem("c", "Rolling from 3 March.", page) == ""
     assert "verbatim" in excerpt_problem("c", "Deadline: May 5, 2026.", page)
     assert "empty" in excerpt_problem("", "x", page)
@@ -242,3 +245,51 @@ def test_changed_undated_statement_stays_in_view_on_a_date_heavy_page():
     noise = [f"Posted {i}: Oct {i % 28 + 1}, 2026 update" for i in range(2000)]
     page = "\n".join(noise[:1000] + ["Applications are now accepted on a rolling basis"] + noise[1000:])
     assert "rolling basis" in relevant_window(page, "Applications are due by 5:00 PM on Nov 12, 2026", 3000)
+
+
+def test_every_rederived_date_falls_on_or_before_the_new_deadline(env):
+    from datetime import date
+    from donor_lookback.dates import parse_dates
+    set_deadline(env, "October 28, 2027")
+    check(env)
+    deadline = date(2027, 10, 28)
+    for p in env.store.list_products():
+        if p["status"] != "rederived":
+            continue
+        texts = [p["content"]] + ([p["correction_draft"]] if p["correction_draft"] else [])
+        for text in texts:
+            for d, start, end in parse_dates(text, deadline.year):
+                quoted_old = p["correction_draft"] == text and (d.month, d.day) in {(11, 3), (11, 5), (11, 12)}
+                assert d <= deadline or quoted_old, (p["id"], text)
+    draft = env.store.get_product("prod_msg")["correction_draft"]
+    assert "still stand" not in draft.lower() and "Oct 14" in draft and "Oct 21" in draft  # earlier dates are proposed
+
+
+def test_ultra_update_that_lands_after_the_deadline_is_retried_then_refused(env):
+    from donor_lookback.cascade import rederive
+    from donor_lookback.gateway import GatewayError
+    set_deadline(env, "October 28, 2027")
+    real = env.models._create
+    seen = []
+
+    def create(model, messages, **kw):
+        if "re-derive one item" in messages[0]["content"] and "ITEM kind: plan" in messages[-1]["content"]:
+            seen.append(messages[-1]["content"])
+            return _resp({"content": "Moved earlier: draft by Nov 5, submit by Oct 27.", "correction_draft": ""})
+        return real(model, messages, **kw)
+    env.models.chat.completions.create = create
+    run = check(env)
+    assert run["complete"] == 0 and any("does not fit the new deadline" in e["error"] for e in run["summary"]["errors"])
+    assert len(seen) == 2 and "previous answer was rejected" in seen[1]
+
+
+def test_late_dates_rules():
+    from datetime import date
+    from donor_lookback.dates import late_dates
+    deadline = date(2027, 10, 28)
+    sent = "Could you send the budget by Nov 3? I'll have the draft to you by Nov 5."
+    assert late_dates("Draft by Oct 21, submit Oct 28.", deadline) == []
+    assert late_dates("The Nov 5 draft still stands.", deadline, sent)  # never allowed
+    assert late_dates("Draft by Nov 5.", deadline, sent)  # a later date as a plan, not a replacement
+    assert late_dates("Please send it by Oct 14 instead of Nov 3.", deadline, sent) == []
+    assert late_dates("Please send it by Dec 1 instead of Nov 3.", deadline, sent)  # Dec 1 is not an old value

@@ -4,18 +4,27 @@ import json
 import re
 from pathlib import Path
 
-DEFAULT_STATE = {"funder_deadline": "November 12, 2026"}
-BANNER = "DEMO PAGE: written by the Donor Lookback team for this demo. Not a real funder."
+DEFAULT_STATE = {"funder_deadline": "November 12, 2027"}
+BANNER = "DEMO PAGE: written by the StaleCatch team for this demo. Not a real funder."
+
+def funder_deadline_line(st: dict) -> str:
+    """The seeded page states its deadline plainly; once the funder moves it the page carries a correction notice instead."""
+    date = st["funder_deadline"]
+    if date == DEFAULT_STATE["funder_deadline"]:
+        return f"Applications for the 2027 Small Grants round are due by 5:00 PM Pacific on {date}."
+    return (f"Correction: Applications for the 2027 Small Grants round are due by 5:00 PM Pacific on {date}, "
+            "so that awards can be approved at the December board meeting.")
+
 
 PAGES = {
     "funder": {
         "title": "Example Community Foundation: Small Grants (demo page)",
         "lines": lambda st: [
             "Example Community Foundation",
-            "Small Grants Program 2026",
+            "Small Grants Program 2027",
             "The Small Grants Program supports neighbourhood projects with awards of up to $15,000.",
             "Who can apply: registered nonprofits and fiscally sponsored groups based in the county.",
-            f"Applications for the 2026 Small Grants round are due by 5:00 PM Pacific on {st['funder_deadline']}.",
+            funder_deadline_line(st),
             "Decisions are announced in the first week of January.",
             "Questions? Write to grants@example.invalid. Office hours are Tuesdays and Thursdays.",
         ],
@@ -24,9 +33,9 @@ PAGES = {
         "title": "Example Regional Arts Council: Travel Grants (demo page)",
         "lines": lambda st: [
             "Example Regional Arts Council",
-            "Travel Grants 2026",
+            "Travel Grants 2027",
             "Travel Grants cover up to $2,500 for artists presenting work outside the region.",
-            "Applications for Travel Grants are due by 5:00 PM Eastern on December 3, 2026.",
+            "Applications for Travel Grants are due by 5:00 PM Eastern on December 3, 2027.",
             "Notification follows within six weeks of the deadline.",
         ],
     },

@@ -57,9 +57,9 @@ def _check_one(store, gateway, fetcher, settings, donor, run_id, summary) -> Non
     if not alarm.changed:
         store.touch_donor(did, fetched_at=_now(), fetch_via=page.via)
         summary["unchanged"] += 1
-        store.log_event(run_id, "unchanged", f"{donor['label']}: Nano sees no change")
+        store.log_event(run_id, "unchanged", f"{donor['label']}: quick scan sees no change")
         return
-    store.log_event(run_id, "nano_alarm", f"{donor['label']}: Nano flags a change ({alarm.field})")
+    store.log_event(run_id, "nano_alarm", f"{donor['label']}: quick scan flags a change ({alarm.field})")
 
     confirmed = ultra_confirm(gateway, settings, donor, page.text, alarm, run_id)
     if not confirmed.changed:
@@ -74,15 +74,15 @@ def _check_one(store, gateway, fetcher, settings, donor, run_id, summary) -> Non
     summary["changed"] += 1
     if confirmed.kind == "superseded":
         summary["superseded"] += 1  # counted in "changed" too: the saved date belongs to a cycle that is over, so it alerts
-    what = "Donor superseded by a newer cycle" if confirmed.kind == "superseded" else "Donor changed"
+    what = "Next cycle posted" if confirmed.kind == "superseded" else "Source changed"
     store.log_event(run_id, "donor_red", f"{what}: {changed['prev_excerpt']!r} -> {changed['excerpt']!r}")
-    store.log_event(run_id, "quarantine", f"{len(quarantined)} products quarantined.")
+    store.log_event(run_id, "quarantine", f"{len(quarantined)} items on hold: source changed.")
     redone = cascade.rederive(store, gateway, changed, quarantined, run_id)
     store.finish_cascade(did)
     summary["rederived"] += len(redone)
-    store.log_event(run_id, "rederived", "Re-derived from the new excerpt.")
+    store.log_event(run_id, "rederived", "Updated from the new source.")
     if any(p["sent"] for p in redone):
-        store.log_event(run_id, "sent_rises", "Sent items rise to the top of Recipients; corrections prepared as drafts.")
+        store.log_event(run_id, "sent_rises", "The message already sent rises to the top of Who's been told; the correction is prepared as a draft.")
 
 
 def _now() -> str:
@@ -99,4 +99,4 @@ def _resume_pending(store, gateway, donor, run_id, summary) -> None:
     redone = cascade.rederive(store, gateway, donor, pending, run_id)
     store.finish_cascade(donor["id"])
     summary["rederived"] += len(redone)
-    store.log_event(run_id, "rederived", "Re-derived from the new excerpt.")
+    store.log_event(run_id, "rederived", "Updated from the new source.")

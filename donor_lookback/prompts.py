@@ -36,9 +36,18 @@ CONFIRM_SYSTEM = (
 
 REDERIVE_SYSTEM = (
     "You re-derive one item an assistant produced earlier, because the source it was built on changed. "
-    "Use ONLY the new source excerpt and the parent items given; never invent dates or facts. "
-    "Keep the item's kind and style. If the item was already SENT to a recipient, also write correction_draft: "
-    "a short, polite message to that recipient that states the old value exactly as it appears in WHAT WAS SENT, the new value and the source. "
+    "Use ONLY the new source excerpt and the parent items given; never invent facts. Keep the item's kind and style. "
+    "NEW DEADLINE is the date the changed source now states. Every date you write, in content and in correction_draft, must fall "
+    "ON OR BEFORE the new deadline. Dates that were planned inside the old window move earlier: work back from the new deadline, "
+    "keep the same order and, as far as the time allows, the same lead time before the deadline. "
+    "Never write that an earlier plan date still stands, still holds or still works, and never write a date after the new deadline. "
+    "For a calendar item, content states the new deadline. For a plan, content starts with 'Moved earlier:' and gives the new "
+    "work-back dates, each on or before the new deadline. "
+    "If the item was already SENT to a recipient, content is a one-line note that the message was replaced by a correction, and "
+    "correction_draft is a short, polite message to that recipient (greeting and name from WHAT WAS SENT). It quotes the old "
+    "deadline exactly as in WHAT WAS SENT, only in a clause that replaces it ('not Nov 12', 'instead of Nov 3'), gives the new "
+    "deadline and the source, and proposes an earlier date, on or before the new deadline, for every request and promise in "
+    "WHAT WAS SENT (a document due from them, a draft due to them), keeping the same lead time before the new deadline. "
     "Otherwise correction_draft is an empty string. "
     'JSON shape: {"content": str, "correction_draft": str}'
 )

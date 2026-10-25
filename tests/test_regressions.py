@@ -18,7 +18,7 @@ from tests.fakes import FakeModels, _resp
 FUNDER = "http://127.0.0.1:8000/demo/funder"
 
 
-def change(env, text="October 28, 2026"):
+def change(env, text="October 28, 2027"):
     edit_funder_deadline(env.settings, text)
     env.web.state["funder_deadline"] = text
 
@@ -215,8 +215,8 @@ def test_receipt_flags_calls_without_usage(env):
 
 
 @pytest.mark.parametrize("old,new", [
-    ("Applications for the 2026 Small Grants round are due by 5:00 PM Pacific on November 12, 2026.", "Deadline: October 28, 2026"),
-    ("Applications for the 2026 Small Grants round are due by 5:00 PM Pacific on November 12, 2026.", "Due October 28, 2026, 5:00 PM PT"),
+    ("Applications for the 2027 Small Grants round are due by 5:00 PM Pacific on November 12, 2027.", "Deadline: October 28, 2027"),
+    ("Applications for the 2027 Small Grants round are due by 5:00 PM Pacific on November 12, 2027.", "Due October 28, 2027, 5:00 PM PT"),
     ("Who can apply: registered nonprofits and fiscally sponsored groups based in the county.", "Who can apply: individuals and for-profit companies nationwide."),
     ("The Small Grants Program supports neighbourhood projects with awards of up to $15,000.", "Awards of up to $50,000 are available."),
 ])
@@ -300,7 +300,7 @@ def test_superseded_verdict_alerts_and_cascades_but_is_labeled(env):
     assert run["summary"]["changed"] == 1 and run["summary"]["superseded"] == 1
     assert env.store.get_donor("donor_funder")["state"] == "changed"
     details = [e["detail"] for e in env.store.events(run["id"]) if e["step"] == "donor_red"]
-    assert len(details) == 1 and details[0].startswith("Donor superseded by a newer cycle")
+    assert len(details) == 1 and details[0].startswith("Next cycle posted")
 
 
 def test_superseded_without_verbatim_excerpt_is_incomplete(env):
