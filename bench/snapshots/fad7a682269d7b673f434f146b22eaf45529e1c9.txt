@@ -1,0 +1,405 @@
+Department of Health and Human Services
+Part 1. Overview Information
+Participating Organization(s)
+National Institutes of Health (NIH)
+Components of Participating Organizations
+National Institute of Environmental Health Sciences (NIEHS)
+National Cancer Institute (NCI)
+National Eye Institute (NEI)
+National Heart, Lung, and Blood Institute (NHLBI)
+National Human Genome Research Institute (NHGRI)
+National Institute on Aging (NIA)
+National Institute on Alcohol Abuse and Alcoholism (NIAAA)
+National Institute of Allergy and Infectious Diseases (NIAID)
+National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)
+National Institute of Biomedical Imaging and Bioengineering (NIBIB)
+Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+National Institute on Deafness and Other Communication Disorders (NIDCD)
+National Institute of Dental and Craniofacial Research (NIDCR)
+National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+National Institute on Drug Abuse (NIDA)
+National Institute of General Medical Sciences (NIGMS)
+National Institute of Mental Health (NIMH)
+National Institute of Neurological Disorders and Stroke (NINDS)
+National Institute of Nursing Research (NINR)
+National Institute on Minority Health and Health Disparities (NIMHD)
+National Library of Medicine (NLM)
+National Center for Complementary and Integrative Health (NCCIH
+formerly NCCAM)
+National Center for Advancing Translational Sciences (NCATS)
+Division of Program Coordination, Planning and Strategic Initiatives, Office of Disease Prevention (ODP)
+Division of Program Coordination, Planning and Strategic Initiatives, Office of Research Infrastructure Programs (ORIP)
+Office of Behavioral and Social Sciences Research (OBSSR)
+Office of Strategic Coordination (Common Fund)
+Funding Opportunity Title
+NIH Big Data to Knowledge (BD2K) Biomedical Data Science Training Coordination Center (U24)
+Activity Code
+U24 Resource-Related Research Projects – Cooperative Agreements
+Announcement Type
+New
+Related Notices
+March 9, 2015 - See Notice NOT-ES-15-015. Notice of Change in Application Due Date.
+Funding Opportunity Announcement (FOA) Number
+RFA-ES-15-004
+Companion Funding Opportunity
+None
+Number of Applications
+See Section III. 3. Additional Information on Eligibility.
+Catalog of Federal Domestic Assistance (CFDA) Number(s)
+93.113; 93.393; 93.394; 9.0395; 93.396; 93.399; 93.867; 93.233; 93.837; 93.838; 93.839; 93.172; 93.866; 93.273; 93.855; 93.856; 93.846; 93.286; 93.865; 93.173; 93.121; 93.847; 93.279; 93.859; 93.242; 93.853; 93.361; 93.307; 93.879; 93.213; 93.350; 93.351; 93.310
+Funding Opportunity Purpose
+The purpose of this FOA is to solicit applications for a coordination center that will narrow the gap between the availability of biomedical big data and the ability of biomedical scientists to effectively utilize such data accurately, effectively, and efficiently. Achieving this goal requires: (1) bringing together individuals involved in training and career development programs to network and share experiences; and (2) engaging individuals developing open educational resources in meaningful dialogue to ensure that the resources they develop will be freely available and easy to access by the broader biomedical community. By the end of the award period, the Training Coordination Center (TCC) will be expected to have: (1) developed a network of scientists involved in biomedical big data science and (2) produced a discovery index that serves as a primary source for personalized access to publicly available biomedical data science educational resources.
+Key Dates
+Posted Date
+December 18, 2014
+Open Date (Earliest Submission Date)
+February 17, 2015
+Letter of Intent Due Date(s)
+February 17, 2015
+Application Due Date(s)
+April 1, 2015 (previously March 17, 2015), by 5:00 PM local time of applicant organization. All types of non-AIDS applications allowed for this funding opportunity announcement are due on this date.
+Applicants are encouraged to apply early to allow adequate time to make any corrections to errors found in the application during the submission process by the due date.
+AIDS Application Due Date(s)
+Not Applicable
+Scientific Merit Review
+July 2015
+Advisory Council Review
+October 2015
+Earliest Start Date
+September 28, 2015
+Expiration Date
+April 2, 2015 (previously March 18, 2015)
+Due Dates for E.O. 12372
+Not Applicable
+Required Application Instructions
+It is critical that applicants follow the instructions in the SF424 (R&R) Application Guide, except where instructed to do otherwise (in this FOA or in a Notice from the NIH Guide for Grants and Contracts). Conformance to all requirements (both in the Application Guide and the FOA) is required and strictly enforced. Applicants must read and follow all application instructions in the Application Guide as well as any program-specific instructions noted in Section IV. When the program-specific instructions deviate from those in the Application Guide, follow the program-specific instructions. Applications that do not comply with these instructions may be delayed or not accepted for review.
+A compatible version
+of Adobe Reader is required for download.
+For Assistance downloading this or any Grants.gov application package, please contact Grants.gov Customer Support
+at http://www.grants.gov/contactus/contactus.jsp.
+Table of Contents
+Part 1. Overview Information
+Part 2. Full Text of the Announcement
+Section I. Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2. Full Text of Announcement
+Section I. Funding Opportunity Description
+Background
+The ability to harvest the wealth of information contained in biomedical Big Data has the potential to advance our understanding of human health and disease; however, the enormity of Big Data creates major organizational and analytical impediments to rapid translational impact. As biomedical datasets become increasingly large, diverse, and complex, they tax conventional methods for sharing, managing, and analyzing data. Furthermore, researchers’ abilities to capitalize on biomedical Big Data science-based approaches are limited by poor data accessibility and interoperability, the lack of appropriate tools, and insufficient training.
+In response to the opportunities and challenges presented by the dawning era of "Big Data" in biomedical research, the NIH launched the Big Data to Knowledge (BD2K) initiative as a trans-NIH initiative to cultivate the digital research enterprise within biomedicine, to facilitate discovery and support new knowledge, and to maximize community engagement.
+BD2K addresses four major aims that, in combination, are meant to enhance the utility of biomedical Big Data: 1) to facilitate broad use of biomedical digital assets by making them discoverable, accessible, and citable; 2) to conduct research and develop the methods, software, and tools needed to fully analyze biomedical Big Data; 3) to enhance training in the development and use of methods and tools necessary for biomedical Big Data science; and 4) to enable a data ecosystem that accelerates both basic and translational discovery as part of a digital enterprise.
+Biomedical Big Data come from many sources, from massive stand-alone datasets generated by large collaborations to the small datasets produced by many individual investigators. The value of all these data can be amplified through aggregation and integration. The BD2K initiative is a community-enabled endeavor towards maximizing the collective value of current and future biomedical digital assets to better inform and protect human health. BD2K is part of a larger ecosystem driven by data policies and shared infrastructure.
+In the BD2K initiative, the term "Biomedical Big Data" is inclusive of the diverse digital objects which may have impact in basic, translational, clinical, social, behavioral, environmental, or informatics research questions. Such data types may include imaging, phenotypic, genotypic, molecular, clinical, behavioral, environmental, and many other types of biological and biomedical data. They may also include biologically-relevant data generated for other purposes (e.g., social media, search histories, economic, geographical, or smart phone data). Finally, they also encompass the metadata, data standards, and software tools involved in data processing and analysis.
+Objectives and Scope
+NIH has recently funded training activities that include R25 courses and open educational resource grants, T32/T15 training programs, K01 career development awards, and training components of U54 Centers. PDs/PIs and representatives from these training activities will be invited to join the BD2K Training Consortium with the understanding that coordination between BD2K Training Consortium activities will speed the biomedical workforce towards the goal of attaining an appropriate mix of biomedical data science skills. The purpose of this FOA is to solicit applications for a coordination center that will narrow the gap between the availability of biomedical big data and the ability of biomedical scientists to effectively utilize such data accurately, effectively, and efficiently. Achieving this goal requires: (1) bringing together individuals involved in training and career development programs to network and share experiences; (2) engaging individuals developing open educational resources in meaningful dialogue to ensure that the resources they develop will be freely available and easy to access by the broader biomedical community; and (3) creating an online discovery index with personalized views of educational resources. By the end of the award period, the TCC will be expected to have: (1) developed a network of scientists involved in biomedical big data science and (2) produced a discovery index that serves as a primary source for personalized access to publicly available biomedical data science educational resources.
+The Biomedical Data Science Training Coordination Center (TCC) will:
+Coordinate across the BD2K Training Consortium to enable the exchange of ideas and best practices about training in the data sciences, both within the BD2K Training Consortium and in the broader biomedical research community.
+Facilitate the discovery, access, and citation of educational resources through the development of a living educational resource discovery index (ERuDIte).
+Personalize the discovery of biomedical data science educational resources.
+Facilitate outreach and engage with the data science training community to identify and hold relevant workshops.
+Facilitate and support biomedical research training collaborations through short-term rotations into biomedical data science labs.
+Evaluate supported activities.
+In addition to sponsoring and coordinating meetings, workshops, and rotations, the biomedical data science TCC will develop technology and a user interface (web portal): 1) for the BD2K Training Consortium, to communicate activity, and 2) for the broader biomedical community, to provide personalized access to educational resources.
+Coordination across the BD2K Training Consortium: The TCC will facilitate communication within the BD2K Training Consortium as well as outwards to the broader community of biomedical research stakeholders through webinars, a web portal, and other means. The goals of regular communication include: to disseminate ideas, to learn about other work, to compare curricula, and to share best practices. The TCC will also assist in organizing in-person BD2K annual meetings in Bethesda, MD.
+Discovery, access, and citation of training resources: The TCC will develop an online discovery index of diverse educational resources. The educational resource discovery index (ERuDIte) should adopt or build upon other relevant activities funded by BD2K such as the Data Discovery Index and software discovery index. The ERuDIte should enable access to both open educational resources (e.g. free modules, MOOCs, curricula, and webinars) and information about in-person or minimal-cost training opportunities (e.g. short courses) for data science. It must include educational materials funded through BD2K. The TCC will develop both human and machine-readable interfaces to the ERuDIte, so that others can access it and build extensions. The TCC will ensure that the ERuDIte stays up-to-date, through enabling the addition of new data science educational resources via passive scouring and indexing of online materials and active community contributions. The TCC will make ERuDIte a living, continuously updated resource to the greatest extent possible, potentially through applying novel Big Data technologies and crowd-sourcing. ERuDIte should enable citation of educational resources in the same way that data citation is enabled through the BD2K Data Discovery Index.
+Metadata are essential aids for locating resources. The TCC will work with the BD2K training consortium and the community at large to identify controlled vocabularies and metadata standards used widely for educational resources that can be used for data science. For example, metadata should include controlled-vocabulary to describe learning objectives for data science, i.e. the knowledge and skills that comprise biomedical data science. To the greatest extent possible, the TCC should leverage existing ontologies, e.g. those listed in http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3589681/ and extend where necessary.
+The TCC will tag educational resources with relevant metadata and index them in ERuDIte. ERuDIte is a framework that may be created in multiple ways – the learning objectives can be organized into a framework by experts; alternatively, the structure of ERuDIte might be "learned" through clustering of the metadata. The TCC may develop methods and technology to tag indexed educational resources with these learning objectives as new resources are added, to help researchers find training materials of interest to them.
+Personalization: The TCC will ensure that users can readily find appropriate educational resources or sequences of such educational resources. The TCC will build a user-friendly interface to ERuDIte and will utilize predictive modeling technology that enables personalization. At minimum, the TCC should enable personalization of resource sequences, which is one form of personalized learning (also called adaptive learning). The personalized learning technology should: help the user achieve his/her scientific goals and objectives, build upon the user’s existing knowledge, and incorporate feedback from the community. Personalized learning may use predictive models to provide content and presentation tailored to the user’s learning style, while also adapting to new students and groups. Examples of personalized learning include cognitive tutors and intelligent tutoring systems.
+In addition to personalizing the presentation of educational resources at an individual level, the TCC will provide alternative personalization at a group level. The TCC will work with the BD2K training consortium and the community at large to identify data science core competencies and learning objectives in specific areas of specialty within the biomedical, behavioral, and clinical sciences. These core competencies/learning objectives should be included in ERuDIte metadata.
+Outreach: The TCC will work with the data science community to identify and hold relevant workshops about topics related to the workforce and training. Workshop topics might include:
+Promoting gender balance,
+Enhancing diversity, and
+Developing appropriate career paths in biomedical data science.
+Workshops will facilitate discussion broadly and drive the field of biomedical data science. Workshops should be openly accessible online and result in white papers.
+Supporting collaborations: The TCC will facilitate biomedical research collaborations as a means of training NIH-funded biomedical scientists in data science. The TCC will provide support for rotations of scientists from diverse areas of biomedical science into data science (computational/quantitative) labs, and vice versa, for the purpose of forming new collaborations (where the collaborators do not yet have any joint publications).
+The TCC will:
+(1) recruit individuals,
+(2) develop criteria for prioritizing support,
+(3) administer the disbursement of travel support, and
+(4) evaluate the success of individual rotations.
+Supporting rotations may include the development of technology to produce a scalable, nation-wide system for facilitating collaborations. Rotations would generally last up to 3 months, but if justified, individuals may have up to two additional rotations.
+Evaluation: The TCC will address the evaluation of all activities it supports.
+The Biomedical Data Science Training Coordination Center (TCC) will enhance the efforts of the BD2K Training Consortium by increasing communication and dissemination of products. The TCC will facilitate communication and interaction within the consortium and between the consortium and external stakeholders. The sharing of ideas through various means (e.g. webinars, web portals, meetings, and workshops) will lead to improved trainee experiences and outcomes. The sharing of educational resources will lead to a biomedical workforce better versed with the knowledge and skills needed to utilize biomedical Big Data.
+Section II. Award Information
+Funding Instrument
+Cooperative Agreement: A support mechanism used when there will be substantial Federal scientific or programmatic involvement. Substantial involvement means that, after award, NIH scientific or program staff will assist, guide, coordinate, or participate in project activities.
+Application Types Allowed
+New
+The OER Glossary and the SF424 (R&R) Application Guide provide details on these application types.
+Funds Available and Anticipated Number of Awards
+NIH intends to fund one award, corresponding to a total of $1.4 million for fiscal year 2015.
+Award Budget
+The award budget is limited to $1.4 million direct costs per year.
+Award Project Period
+The project period may not exceed 3 years.
+NIH grants policies as described in the NIH Grants Policy Statement will apply to the applications submitted and awards made in response to this FOA.
+Section III. Eligibility Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+Public/State Controlled Institutions of Higher Education
+Private Institutions of Higher Education
+The following types of Higher Education Institutions are always encouraged to apply for NIH support as Public or Private Institutions of Higher Education:
+Hispanic-serving Institutions
+Historically Black Colleges and Universities (HBCUs)
+Tribally Controlled Colleges and Universities (TCCUs)
+Alaska Native and Native Hawaiian Serving Institutions
+Asian American Native American Pacific Islander Serving Institutions (AANAPISIs)
+Nonprofits Other Than Institutions of Higher Education
+Nonprofits with 501(c)(3) IRS Status (Other than Institutions of Higher Education)
+Nonprofits without 501(c)(3) IRS Status (Other than Institutions of Higher Education)
+Foreign Institutions
+Non-domestic (non-U.S.) Entities (Foreign Institutions) are not eligible to apply.
+Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.
+Foreign components, as defined in the NIH Grants Policy Statement, are allowed.
+Required Registrations
+Applicant Organizations
+Applicant organizations must complete and maintain the following registrations as described in the SF 424 (R&R) Application Guide to be eligible to apply for or receive an award. All registrations must be completed prior to the application being submitted. Registration can take 6 weeks or more, so applicants should begin the registration process as soon as possible. The NIH Policy on Late Submission of Grant Applications states that failure to complete registrations in advance of a due date is not a valid reason for a late submission.
+Dun and Bradstreet Universal Numbering System (DUNS) - All registrations require that applicants be issued a DUNS number. After obtaining a DUNS number, applicants can begin both SAM and eRA Commons registrations. The same DUNS number must be used for all registrations, as well as on the grant application.
+System for Award Management (SAM) (formerly CCR) – Applicants must complete and maintain an active registration, which requires renewal at least annually. The renewal process may require as much time as the initial registration. SAM registration includes the assignment of a Commercial and Government Entity (CAGE) Code for domestic organizations which have not already been assigned a CAGE Code.
+NATO Commercial and Government Entity (NCAGE) Code – Foreign organizations must obtain an NCAGE code (in lieu of a CAGE code) in order to register in SAM.
+eRA Commons - Applicants must have an active DUNS number and SAM registration in order to complete the eRA Commons registration. Organizations can register with the eRA Commons as they are working through their SAM or Grants.gov registration. eRA Commons requires organizations to identify at least one Signing Official (SO) and at least one Program Director/Principal Investigator (PD/PI) account in order to submit an application.
+Grants.gov – Applicants must have an active DUNS number and SAM registration in order to complete the Grants.gov registration.
+Program Directors/Principal Investigators (PD(s)/PI(s))
+All PD(s)/PI(s) must have an eRA Commons account. PD(s)/PI(s) should work with their organizational officials to either create a new account or to affiliate their existing account with the applicant organization in eRA Commons. If the PD/PI is also the organizational Signing Official, they must have two distinct eRA Commons accounts, one for each role. Obtaining an eRA Commons account can take up to 2 weeks.
+Eligible Individuals (Program Director/Principal Investigator)
+Any individual(s) with the skills, knowledge, and resources necessary to carry out the proposed research as the Program Director(s)/Principal Investigator(s) (PD(s)/PI(s)) is invited to work with his/her organization to develop an application for support. Individuals from underrepresented racial and ethnic groups as well as individuals with disabilities are always encouraged to apply for NIH support.
+For institutions/organizations proposing multiple PDs/PIs, visit the Multiple Program Director/Principal Investigator Policy and submission details in the Senior/Key Person Profile (Expanded) Component of the SF424 (R&R) Application Guide.
+2. Cost Sharing
+This FOA does not require cost sharing as defined in the NIH Grants Policy Statement.
+3. Additional Information on Eligibility
+Number of Applications
+Applicant organizations may submit more than one application, provided that each application is scientifically distinct.
+The NIH will not accept duplicate or highly overlapping applications under review at the same time. This means that the NIH will not accept:
+A new (A0) application that is submitted before issuance of the summary statement from the review of an overlapping new (A0) or resubmission (A1) application.
+A resubmission (A1) application that is submitted before issuance of the summary statement from the review of the previous new (A0) application.
+An application that has substantial overlap with another application pending appeal of initial peer review (see NOT-OD-11-101).
+In addition, the NIH will not accept a resubmission (A1) application that is submitted later than 37 months after submission of the new (A0) application that it follows. The NIH will accept submission:
+To an RFA of an application that was submitted previously as an investigator-initiated application but not paid;
+Of an investigator-initiated application that was originally submitted to an RFA but not paid; or
+Of an application with a changed grant activity code.
+Section IV. Application and Submission Information
+1. Requesting an Application Package
+Applicants must download the SF424 (R&R) application package associated with this funding opportunity using the "Apply for Grant Electronically" button in this FOA or following the directions provided at Grants.gov.
+2. Content and Form of Application Submission
+It is critical that applicants follow the instructions in the SF424 (R&R) Application Guide, including Supplemental Grant Application Instructions except where instructed in this funding opportunity announcement to do otherwise. Conformance to the requirements in the Application Guide is required and strictly enforced. Applications that are out of compliance with these instructions may be delayed or not accepted for review.
+For information on Application Submission and Receipt, visit Frequently Asked Questions – Application Guide, Electronic Submission of Grant Applications.
+Letter of Intent
+Although a letter of intent is not required, is not binding, and does not enter into the review of a subsequent application, the information that it contains allows IC staff to estimate the potential review workload and plan the review.
+By the date listed in Part 1. Overview Information, prospective applicants are asked to submit a letter of intent that includes the following information:
+Descriptive title of proposed activity
+Name(s), address(es), and telephone number(s) of the PD(s)/PI(s)
+Names of other key personnel
+Participating institution(s)
+Number and title of this funding opportunity
+The letter of intent should be sent to:
+Carol Shreffler, PhD
+Email: bd2k_training@mail.nih.gov
+Page Limitations
+All page limitations described in the SF424 Application Guide and the Table of Page Limits must be followed.
+Instructions for Application Submission
+The following section supplements the instructions found in the SF424 (R&R) Application Guide and should be used for preparing an application to this FOA.
+SF424(R&R) Cover
+All instructions in the SF424 (R&R) Application Guide must be followed.
+SF424(R&R) Project/Performance Site Locations
+All instructions in the SF424 (R&R) Application Guide must be followed.
+SF424(R&R) Other Project Information
+All instructions in the SF424 (R&R) Application Guide must be followed.
+SF424(R&R) Senior/Key Person Profile
+All instructions in the SF424 (R&R) Application Guide must be followed.
+R&R Budget
+All instructions in the SF424 (R&R) Application Guide must be followed. The budget should include funding for the direct support of 30-50 rotations. Length of the rotations may be up to 90 days. Up to $5000 per rotation may be allocated to the hosting data science lab.
+R&R Subaward Budget
+All instructions in the SF424 (R&R) Application Guide must be followed.
+PHS 398 Cover Page Supplement
+All instructions in the SF424 (R&R) Application Guide must be followed.
+PHS 398 Research Plan
+Research Strategy: Applications must address plans to:
+lead the development/adoption of ontologies and metadata standards for educational resources.
+lead workshops that focus on topics of interest about the data science community such as gender, diversity, and career paths.
+utilize appropriate innovative Big Data technologies 1) to keep ERuDIte up-to-date through passive scouring and indexing of online training resources, 2) to tag passively-discovered educational resources with learning objectives and other metadata, 3) to personalize presentation of resource sequences, and 4) to facilitate the establishment of collaborations.
+Determine and prioritize the amount and awarding of travel support for individuals who wish to do rotations will be determined and prioritized.
+Administrative Plan:
+The application should include a plan for the management and integration of the activities of the Center, and the coordination of the training and education activities of the overall BD2K Training Consortium. Applicants should specify appropriate administrative/business management staff, as well as oversight mechanisms that will be used by the PD/PI and any other relevant key personnel
+Assessment of Progress: The Administrative Plan should include a set of milestones or defined objectives that the PD/PI and NIH staff can use for annual assessments of whether the proposed activities of the Coordinating Center are progressing appropriately.
+Evaluation: The Administrative Plan should include a plan for evaluating the quality and utility of the center products and training. Evaluative information can include factors such as tracking the number of users, background and training of users, successful use of Center products, requests for services, number of rotations and applications for rotations, use of training materials, and extension of utility of tools developed by the BD2K Training Consortium.
+Resource Sharing Plan: Individuals are required to comply with the instructions for the Resource Sharing Plans as provided in the SF424 (R&R) Application Guide, with the following modification:
+All applications submitted for the January 25, 2015 due date or after are expected to comply with the NIH Genomic Data Sharing Policy as detailed in NOT-OD-14-111, as applicable.
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for the Appendix as described in the SF424 (R&R) Application Guide.
+Planned Enrollment Report
+When conducting clinical research, follow all instructions for completing Planned Enrollment Reports as described in the SF424 (R&R) Application Guide.
+PHS 398 Cumulative Inclusion Enrollment Report
+When conducting clinical research, follow all instructions for completing Cumulative Inclusion Enrollment Report as described in the SF424 (R&R) Application Guide.
+3. Submission Dates and Times
+Part I. Overview Information contains information about Key Dates. Applicants are encouraged to submit applications before the due date to ensure they have time to make any application corrections that might be necessary for successful submission.
+Organizations must submit applications to Grants.gov (the online portal to find and apply for grants across all Federal agencies). Applicants must then complete the submission process by tracking the status of the application in the eRA Commons, NIH’s electronic system for grants administration. NIH and Grants.gov systems check the application against many of the application instructions upon submission. Errors must be corrected and a changed/corrected application must be submitted to Grants.gov on or before the application due date. If a Changed/Corrected application is submitted after the deadline, the application will be considered late.
+Applicants are responsible for viewing their application before the due date in the eRA Commons to ensure accurate and successful submission.
+Information on the submission process and a definition of on-time submission are provided in the SF424 (R&R) Application Guide.
+4. Intergovernmental Review (E.O. 12372)
+This initiative is not subject to intergovernmental review.
+5. Funding Restrictions
+All NIH awards are subject to the terms and conditions, cost principles, and other considerations described in the NIH Grants Policy Statement.
+Pre-award costs are allowable only as described in the NIH Grants Policy Statement.
+6. Other Submission Requirements and Information
+Applications must be submitted electronically following the instructions described in the SF424 (R&R) Application Guide. Paper applications will not be accepted.
+Applicants must complete all required registrations before the application due date. Section III. Eligibility Information contains information about registration.
+For assistance with your electronic application or for more information on the electronic submission process, visit Applying Electronically. If you encounter a system issue beyond your control that threatens your ability to complete the submission process on-time, you must follow the Guidelines for Applicants Experiencing System Issues.
+Important reminders:
+All PD(s)/PI(s) must include their eRA Commons ID in the Credential field of the Senior/Key Person Profile Component of the SF424(R&R) Application Package. Failure to register in the Commons and to include a valid PD/PI Commons ID in the credential field will prevent the successful submission of an electronic application to NIH. See Section III of this FOA for information on registration requirements.
+The applicant organization must ensure that the DUNS number it provides on the application is the same number used in the organization’s profile in the eRA Commons and for the System for Award Management. Additional information may be found in the SF424 (R&R) Application Guide.
+See more tips for avoiding common errors.
+Upon receipt, applications will be evaluated for completeness and compliance with application instructions by the Center for Scientific Review and responsiveness by components of participating organizations, NIH. Applications that are incomplete, non-compliant and/or nonresponsive will not be reviewed.
+Post Submission Materials
+Applicants are required to follow the instructions for post-submission materials, as described in NOT-OD-13-030.
+Section V. Application Review Information
+1. Criteria
+Only the review criteria described below will be considered in the review process. As part of the NIH mission, all applications submitted to the NIH in support of biomedical and behavioral research are evaluated for scientific and technical merit through the NIH peer review system.
+Overall Impact
+Reviewers will provide an overall impact score to reflect their assessment of the likelihood for the project to exert a sustained, powerful influence on the research field(s) involved, in consideration of the following review criteria and additional review criteria (as applicable for the project proposed).
+Scored Review Criteria
+Reviewers will consider each of the review criteria below in the determination of scientific merit, and give a separate score for each. An application does not need to be strong in all categories to be judged likely to have major scientific impact. For example, a project that by its nature is not innovative may be essential to advance a field.
+Significance
+Does the project address an important problem or a critical barrier to progress in the field? If the aims of the project are achieved, how will scientific knowledge, technical capability, and/or clinical practice be improved? How will successful completion of the aims change the concepts, methods, technologies, treatments, services, or preventative interventions that drive this field?
+Investigator(s)
+Are the PD(s)/PI(s), collaborators, and other researchers well suited to the project? If Early Stage Investigators or New Investigators, or in the early stages of independent careers, do they have appropriate experience and training? If established, have they demonstrated an ongoing record of accomplishments that have advanced their field(s)? If the project is collaborative or multi-PD/PI, do the investigators have complementary and integrated expertise; are their leadership approach, governance and organizational structure appropriate for the project? Do the applicants have the expertise to lead the adoption of ontologies and metadata standards for educational resources? Do the applicants have the knowledge of data science to lead workshops that focus on topics of interest about the data science community such as gender, diversity, and career paths?
+Innovation
+Does the application challenge and seek to shift current research or clinical practice paradigms by utilizing novel theoretical concepts, approaches or methodologies, instrumentation, or interventions? Are the concepts, approaches or methodologies, instrumentation, or interventions novel to one field of research or novel in a broad sense? Is a refinement, improvement, or new application of theoretical concepts, approaches or methodologies, instrumentation, or interventions proposed? Do the applicants propose the utilization of appropriate innovative Big Data technologies 1) to keep ERuDIte up-to-date through passive scouring and indexing of online training resources, 2) to tag passively-discovered educational resources with learning objectives and other metadata, 3) to personalize presentation of resource sequences, and 4) to facilitate the establishment of collaborations?
+Approach
+Are the overall strategy, methodology, and analyses well-reasoned and appropriate to accomplish the specific aims of the project? Are potential problems, alternative strategies, and benchmarks for success presented? If the project is in the early stages of development, will the strategy establish feasibility and will particularly risky aspects be managed? Do the applicants describe how support for individuals who wish to do rotations will be prioritized?
+If the project involves human subjects and/or NIH-defined clinical research, are the plans to address 1) the protection of human subjects from research risks, and 2) inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion or exclusion of children, justified in terms of the scientific goals and research strategy proposed?
+Environment
+Will the scientific environment in which the work will be done contribute to the probability of success? Are the institutional support, equipment and other physical resources available to the investigators adequate for the project proposed? Will the project benefit from unique features of the scientific environment, subject populations, or collaborative arrangements?
+Additional Review Criteria
+As applicable for the project proposed, reviewers will evaluate the following additional items while determining scientific and technical merit, and in providing an overall impact score, but will not give separate scores for these items.
+Protections for Human Subjects
+For research that involves human subjects but does not involve one of the six categories of research that are exempt under 45 CFR Part 46, the committee will evaluate the justification for involvement of human subjects and the proposed protections from research risk relating to their participation according to the following five review criteria: 1) risk to subjects, 2) adequacy of protection against risks, 3) potential benefits to the subjects and others, 4) importance of the knowledge to be gained, and 5) data and safety monitoring for clinical trials.
+For research that involves human subjects and meets the criteria for one or more of the six categories of research that are exempt under 45 CFR Part 46, the committee will evaluate: 1) the justification for the exemption, 2) human subjects involvement and characteristics, and 3) sources of materials. For additional information on review of the Human Subjects section, please refer to the Guidelines for the Review of Human Subjects.
+Inclusion of Women, Minorities, and Children
+When the proposed project involves human subjects and/or NIH-defined clinical research, the committee will evaluate the proposed plans for the inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion (or exclusion) of children to determine if it is justified in terms of the scientific goals and research strategy proposed. For additional information on review of the Inclusion section, please refer to the Guidelines for the Review of Inclusion in Clinical Research.
+Vertebrate Animals
+The committee will evaluate the involvement of live vertebrate animals as part of the scientific assessment according to the following five points: 1) proposed use of the animals, and species, strains, ages, sex, and numbers to be used; 2) justifications for the use of animals and for the appropriateness of the species and numbers proposed; 3) adequacy of veterinary care; 4) procedures for limiting discomfort, distress, pain and injury to that which is unavoidable in the conduct of scientifically sound research including the use of analgesic, anesthetic, and tranquilizing drugs and/or comfortable restraining devices; and 5) methods of euthanasia and reason for selection if not consistent with the AVMA Guidelines on Euthanasia. For additional information on review of the Vertebrate Animals section, please refer to the Worksheet for Review of the Vertebrate Animal Section.
+Biohazards
+Reviewers will assess whether materials or procedures proposed are potentially hazardous to research personnel and/or the environment, and if needed, determine whether adequate protection is proposed.
+Resubmissions
+Not Applicable
+Renewals
+Not Applicable
+Revisions
+Not Applicable
+Additional Review Considerations
+As applicable for the project proposed, reviewers will consider each of the following items, but will not give scores for these items, and should not consider them in providing an overall impact score.
+Applications from Foreign Organizations
+Not Applicable
+Select Agent Research
+Reviewers will assess the information provided in this section of the application, including 1) the Select Agent(s) to be used in the proposed research, 2) the registration status of all entities where Select Agent(s) will be used, 3) the procedures that will be used to monitor possession use and transfer of Select Agent(s), and 4) plans for appropriate biosafety, biocontainment, and security of the Select Agent(s).
+Resource Sharing Plans
+Reviewers will comment on whether the following Resource Sharing Plans, or the rationale for not sharing the following types of resources, are reasonable: 1) Data Sharing Plan; 2) Sharing Model Organisms; and 3) Genomic Wide Association Studies (GWAS) /Genomic Data Sharing Plan.
+Budget and Period of Support
+Reviewers will consider whether the budget and the requested period of support are fully justified and reasonable in relation to the proposed research.
+2. Review and Selection Process
+Applications will be evaluated for scientific and technical merit by (an) appropriate Scientific Review Group(s) convened by the Center for Scientific Review in accordance with NIH peer review policy and procedures, using the stated review criteria. Assignment to a Scientific Review Group will be shown in the eRA Commons.
+As part of the scientific peer review, all applications:
+May undergo a selection process in which only those applications deemed to have the highest scientific and technical merit (generally the top half of applications under review) will be discussed and assigned an overall impact score.
+Will receive a written critique.
+Appeals of initial peer review will not be accepted for applications submitted in response to this FOA.
+Applications will be assigned on the basis of established PHS referral guidelines to the appropriate NIH Institute or Center. Applications will compete for available funds with all other recommended applications submitted in response to this FOA. Following initial peer review, recommended applications will receive a second level of review by the appropriate national Advisory Council or Board. The following will be considered in making funding decisions:
+Scientific and technical merit of the proposed project as determined by scientific peer review.
+Availability of funds.
+Relevance of the proposed project to program priorities.
+3. Anticipated Announcement and Award Dates
+After the peer review of the application is completed, the PD/PI will be able to access his or her Summary Statement (written critique) via the eRA Commons.
+Information regarding the disposition of applications is available in the NIH Grants Policy Statement.
+Section VI. Award Administration Information
+1. Award Notices
+If the application is under consideration for funding, NIH will request "just-in-time" information from the applicant as described in the NIH Grants Policy Statement.
+A formal notification in the form of a Notice of Award (NoA) will be provided to the applicant organization for successful applications. The NoA signed by the grants management officer is the authorizing document and will be sent via email to the grantee’s business official.
+Awardees must comply with any funding restrictions described in Section IV.5. Funding Restrictions. Selection of an application for award is not an authorization to begin performance. Any costs incurred before receipt of the NoA are at the recipient's risk. These costs may be reimbursed only to the extent considered allowable pre-award costs.
+Any application awarded in response to this FOA will be subject to terms and conditions found on the Award Conditions and Information for NIH Grants website. This includes any recent legislation and policy applicable to awards that is highlighted on this website.
+2. Administrative and National Policy Requirements
+All NIH grant and cooperative agreement awards include the NIH Grants Policy Statement as part of the NoA. For these terms of award, see the NIH Grants Policy Statement Part II: Terms and Conditions of NIH Grant Awards, Subpart A: General and Part II: Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for Specific Types of Grants, Grantees, and Activities. More information is provided at Award Conditions and Information for NIH Grants.
+Cooperative Agreement Terms and Conditions of Award
+The following special terms of award are in addition to, and not in lieu of, otherwise applicable U.S. Office of Management and Budget (OMB) administrative guidelines, U.S. Department of Health and Human Services (DHHS) grant administration regulations at 45 CFR Parts 74 and 92 (Part 92 is applicable when State and local Governments are eligible to apply), and other HHS, PHS, and NIH grant administration policies.
+The administrative and funding instrument used for this program will be the cooperative agreement, an "assistance" mechanism (rather than an "acquisition" mechanism), in which substantial NIH programmatic involvement with the awardees is anticipated during the performance of the activities. Under the cooperative agreement, the NIH purpose is to support and stimulate the recipients' activities by involvement in and otherwise working jointly with the award recipients in a partnership role; it is not to assume direction, prime responsibility, or a dominant role in the activities. Consistent with this concept, the dominant role and prime responsibility resides with the awardees for the project as a whole, although specific tasks and activities may be shared among the awardees and the NIH as defined below.
+The BD2K Initiative: This is the set of programs developed by NIH to deal with the special opportunities for and challenges to the use of Big Data in biomedical research (http://www.bd2k.nih.gov).
+The BD2K Training Consortium: This includes the PIs of funded BD2K Training, Education, and training components of BD2K Center awards and NIH staff.
+The BD2K Executive Steering Committee: An interface between the Biomedical Big Data Science Coordinating Center funded under this FOA and workgroups/committees composed of representatives of BD2K Training Consortium members and other appropriate NIH programs.
+The PD(s)/PI(s) will have the primary responsibility for:
+The Program Director(s)/Principal Investigator(s) will have the primary responsibility for defining the details for the projects within the guidelines of this FOA. The PD/PI will agree to accept the close coordination, cooperation, and participation of the NIH staff (Project Scientists and other appropriate BD2K Program Staff) in those aspects of scientific and technical management of the projects as described below. Specifically, the PD/PI(s) supported by this BD2K Training Coordinating Center:
+Retain the primary authority and responsibility for the project as a whole and development of the methods, procedures to accomplish the aims and objectives of the FOA, and preparation of publications.
+Provide, in addition to standard annual progress reports (see Section VI.3. Reporting), other relevant information to the NIH Project Scientist(s) or Program Officer, and coordinate and cooperate with NIH staff and other members of appropriate collaborating NIH programs.
+Work directly with the NIH Project Scientist(s) on the coordination of intra-program activities and the integration of individual projects within the BD2K Training Consortium as well as with other relevant NIH programs.
+Join the BD2K Training Consortium, participate in person, and budget for travel to joint meetings held once annually, along with other critical staff.
+Participate in the appropriate coordinating meetings and/or working groups, and/or teleconferences as needed.
+Agree not to disclose confidential information obtained from other members of the BD2K Training Consortium and extended network.
+Accept and implement all scientific, practical and policy decisions approved by the BD2K Training Consortium Executive Steering Committee Group in addition to applicable NIH policies, laws, and regulations.
+Awardees will retain custody of and have primary rights to the data and software developed under these awards, subject to Government rights of access consistent with current DHHS, PHS, and NIH policies.
+NIH staff have substantial programmatic involvement that is above and beyond the normal stewardship role in awards, as described below:
+One or more designated NIH Program Staff members, acting as Project Scientists, will have substantial programmatic involvement that is above and beyond the normal stewardship role in awards. The role of the Project Scientist(s) will be to facilitate and not to direct. This includes facilitating the partnership relationship between NIH, the BD2K Training Consortium, and the Training Coordination Center (TCC). The Project Scientist(s)' role includes helping to maintain the overall balance in the program commensurate with the functions and scope of the TCC activities, facilitating communication and coordination between the TCC and the data science training and workforce development community, and ensuring that the activities of the awardees are consistent with the mission of BD2K. Specifically, the NIH Project Scientist will:
+Provide technical assistance and advice to the TCC awardee as appropriate to achieve the aims of the cooperative agreement.
+Work directly with the awardee to facilitate their interactions with the BD2K Training Consortium.
+Promote and help coordinate collaborative efforts that involve interactions with other members of the Biomedical Big Data Research Community, as well as with other NIH-sponsored programs, projects, and centers where appropriate.
+Assist in the interaction between the awardee and investigators at other institutions, as appropriate for the program.
+Assist in avoiding unwarranted duplication of effort.
+To help carry out these duties, Project Scientists may consult with non-NIH experts in the field.
+The NIH Project Scientist(s) will initiate the formation of the Executive Steering Committee and will facilitate its activities.
+Additionally, an NIH Program Officer will be responsible for the normal scientific and programmatic stewardship of the awards and will be named in the award notice. The Program Officer will be a non-voting member of the BD2K Executive Steering Committee.
+Areas of Joint Responsibility include:
+The NIH Project Scientist(s) and the PDs/PIs of the Biomedical Big Data Coordination Center will be jointly responsible for the coordination of intra-program activities and the integration of individual projects with other appropriate BD2K and NIH programs. Joint responsibilities include:
+Developing working groups and/or coordinating committees and trans-project efforts as needed.
+Organizing and conducting regular meetings to share progress and foster collaborations of members of the BD2K Training Consortium members and the BD2K Career Development PI/PD's awardees, either by teleconference, videoconference, or face-to-face, as needed.
+Organizing workshops to promote outreach.
+Managing the BD2K Executive Steering Committee, which provide overall integration among the working groups/ coordination committees. It will also serve as an interface between the individual projects funded under this FOA and appropriate NIH programs. It will consist of the PD/PI, one representative from each of the working groups/coordination committees, the NIH Project Scientist(s) and other selected members of the NIH BD2K community, and the Program Officer.
+Convene to assess progress, discuss training resources, establish priorities, consider policy recommendations, propose publication guidelines and discuss strategies.
+Meet in person, virtually, or by teleconference, with additional project staff and/or NIH staff, on a schedule to be determined.
+The NIH Project Scientist(s) may additionally form an External Scientific Panel (ESP) composed of senior non-federal scientists who are not directly involved in the activities of the BD2K Initiative. The ESP would advise NIH on the progress of the BD2K educational resource development, on the contributions of individual projects and/or project collaborations within the consortium, and on the progress and effectiveness of the consortium as a whole.
+Dispute Resolution:
+Any disagreements that may arise in scientific or programmatic matters (within the scope of the award) between award recipients and the NIH may be brought to Dispute Resolution. A Dispute Resolution Panel composed of three academic members who are not involved in the study will be convened. This special dispute resolution procedure does not alter the awardee's right to appeal an adverse action that is otherwise appealable in accordance with PHS regulation 42 CFR Part 50, Subpart D and HHS regulation 45 CFR Part 16.
+3. Reporting
+When multiple years are involved, awardees will be required to submit the Research Performance Progress Report (RPPR) annually and financial statements as required in the NIH Grants Policy Statement.
+A final progress report, invention statement, and the expenditure data portion of the Federal Financial Report are required for closeout of an award, as described in the NIH Grants Policy Statement.
+The Federal Funding Accountability and Transparency Act of 2006 (Transparency Act), includes a requirement for awardees of Federal grants to report information about first-tier subawards and executive compensation under Federal assistance awards issued in FY2011 or later. All awardees of applicable NIH grants and cooperative agreements are required to report to the Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the NIH Grants Policy Statement for additional information on this reporting requirement.
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity and welcome the opportunity to answer questions from potential applicants.
+Application Submission Contacts
+eRA Commons Help Desk (Questions regarding eRA Commons registration, submitting and tracking an application, documenting system problems that threaten submission by the due date, post submission issues)
+Telephone: 301-402-7469 or 866-504-9552 (Toll Free)
+Finding Help Online: http://grants.nih.gov/support/index.html
+Email: commons@od.nih.gov
+Grants.gov Customer Support (Questions regarding Grants.gov registration and submission, downloading forms and application packages)
+Contact CenterTelephone: 800-518-4726
+Web ticketing system: https://grants-portal.psc.gov/ContactUs.aspx
+Email: support@grants.gov
+GrantsInfo (Questions regarding application instructions and process, finding NIH grant resources)
+Telephone: 301-435-0714
+Email: GrantsInfo@nih.gov
+Scientific/Research Contact(s)
+Carol Shreffler, PhD
+National Institute of Environmental Health Sciences (NIEHS)
+Telephone: 919 541-1445
+Email: bd2k_training@mail.nih.gov
+Peer Review Contact(s)
+Ray Jacobson, PhD.
+Center for Scientific Research (CSR)
+Telephone: 301-996-7702
+Email: jacobsonrh@csr.nih.gov.
+Financial/Grants Management Contact(s)
+Lisa Edwards
+National Institute of Environmental Health Sciences (NIEHS)
+Telephone: 919-541-0751
+Email: archer3@mail.nih.gov
+Section VIII. Other Information
+Recently issued trans-NIH policy notices may affect your application submission. A full list of policy notices published by NIH is provided in the NIH Guide for Grants and Contracts. All awards are subject to the terms and conditions, cost principles, and other considerations described in the NIH Grants Policy Statement.
+Authority and Regulations
+Awards are made under the authorization of Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 45 CFR Parts 74 and 92.
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+Department of Health
+and Human Services (HHS)
+NIH... Turning Discovery Into Health®
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.

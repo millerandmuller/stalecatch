@@ -62,7 +62,7 @@ def test_cached_fetch_reads_the_shared_cache_without_the_network(tmp_path, monke
     import bench.run_bench as rb
     monkeypatch.setattr(rb, "HERE", tmp_path / "bench")
     url = "https://web.archive.org/web/20200101000000/https://example.org/a"
-    cache = tmp_path / "data" / "wayback_cache"
+    cache = tmp_path / "bench" / "snapshots"
     cache.mkdir(parents=True)
     (cache / (hashlib.sha1(b"20200101000000|https://example.org/a").hexdigest() + ".txt")).write_text("cached text")
     monkeypatch.setattr(rb, "fetch_snapshot", lambda u: (_ for _ in ()).throw(AssertionError("network used")))
@@ -77,3 +77,23 @@ def test_cached_fetch_miss_fetches_once_then_caches(tmp_path, monkeypatch):
     monkeypatch.setattr(rb, "fetch_snapshot", lambda u: calls.append(u) or "fresh")
     url = "https://web.archive.org/web/20210101000000/https://example.org/b"
     assert rb.cached_fetch(url) == "fresh" and rb.cached_fetch(url) == "fresh" and len(calls) == 1
+
+
+def test_summary_lists_rows_whose_verdict_differs_from_the_expected_one():
+    rows = [{"label": "a", "changed": True, "nano_verdict": "changed", "final_verdict": "superseded", "expected_verdict": "changed"},
+            {"label": "b", "changed": True, "nano_verdict": "changed", "final_verdict": "changed", "expected_verdict": "changed"}]
+    assert summarize(rows, {"total_usd": 0.0})["verdict_differs_from_expected"] == ["a"]
+
+
+def test_bench_without_credentials_stops_before_touching_the_report(tmp_path, monkeypatch):
+    import pytest
+    import bench.run_bench as rb
+    monkeypatch.setattr(rb, "load_dotenv", lambda: None)
+    for name in ("TOKEN_FACTORY_BASE_URL", "TOKEN_FACTORY_API_KEY"):
+        monkeypatch.delenv(name, raising=False)
+    out = tmp_path / "report.json"
+    out.write_text("good report")
+    monkeypatch.setattr("sys.argv", ["run_bench", "--out", str(out)])
+    with pytest.raises(SystemExit):
+        rb.main()
+    assert out.read_text() == "good report"

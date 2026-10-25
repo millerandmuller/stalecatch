@@ -1,0 +1,1746 @@
+Department of Health and Human Services
+Part 1. Overview Information
+Participating Organization(s)
+National Institutes of Health (NIH)
+Components
+of Participating Organizations
+Office of Strategic Coordination (Common Fund)
+This Funding Opportunity Announcement (FOA) is part of a
+Common Fund initiative (http://commonfund.nih.gov)
+through the NIH Office of the Director, Office of Strategic Coordination (http://dpcpsi.nih.gov/osc/). All NIH
+Institutes and Centers participate in Common Fund initiatives. The FOA will
+be administered by a trans-NIH team led by Fogarty International Center (FIC).
+Funding Opportunity Title
+Harnessing Data Science for Health Discovery
+and Innovation in Africa (DS-I Africa) Research Training Program (U2RClinical
+Trial Optional)
+Activity Code
+U2R International Research Training Cooperative Agreements
+Announcement Type
+New
+Related Notices
+July 29, 2020 - Notice of Technical Assistance Webinars for Harnessing Data Science for Health Discovery and Innovation in Africa (DS-I Africa) RFAs: RFA-RM-20-015, RFA-RM-20-016, RFA-RM-20-017, RFA-RM-20-018. See Notice NOT-RM-20-024.
+Funding Opportunity Announcement (FOA) Number
+RFA-RM-20-016
+Companion Funding Opportunity
+RFA-RM-20-015 Specialized Center – Cooperative Agreements
+RFA-RM-20-017 Research Project – Cooperative Agreements
+RFA-RM-20-018 High Impact Research and Research Infrastructure Cooperative Agreement Programs
+Number of Applications
+See Section III. 3.
+Additional Information on Eligibility.
+Catalog of Federal Domestic Assistance (CFDA) Number(s)
+93.310
+Funding Opportunity Purpose
+This Funding Opportunity Announcement (FOA) seeks applications
+for Research Training Programs as part of a broader initiative entitled Harnessing
+Data Science for Health Discovery and Innovation in Africa (DS-I Africa). The goal of
+DS-I Africa is to spur new health discoveries and catalyze innovation in
+healthcare, public health, and health research on the continent through
+application of data science.
+Through this FOA, DS-I Africa aims to increase capacity to
+carry out data science health research and innovation in Africa through the support
+of at least 4 institutional research training cooperative agreement awards. Applicants
+should propose long-term data science health research training through graduate
+degree (master's and/or doctoral) training and faculty development. Grantees
+will train cohorts of African investigators who will have the skills to become
+independent investigators, research leaders, and research collaborators.
+The cooperative agreements can either be direct awards to
+African institutions or awards to U.S. institutions in partnership with African
+institutions. Regardless of the applicant organization, the training programs
+must focus on building institutional capacity at one or more African
+institutions and train African researchers. Partnerships with additional organizations,
+including for-profit or governmental organizations, are encouraged as a means
+to provide applied research experiences for the trainees.
+This Funding Opportunity Announcement (FOA) allows appointment
+of Trainees proposing to serve as the lead investigator of an independent clinical
+trial; or proposing a separate ancillary clinical trial; or proposing to gain
+research experience in a clinical trial led by another investigator, as part
+of their research and career development.
+Key Dates
+Posted Date
+July 24, 2020
+Open Date (Earliest Submission Date)
+October 23, 2020
+Letter of Intent Due Date(s)
+October 23, 2020
+Application Due Date(s)
+November 24, 2020
+All applications are due by 5:00 PM local time of
+applicant organization. All types of non-AIDS
+applications allowed for this funding opportunity announcement are due on
+the listed date(s).
+Applicants are encouraged to apply early to allow adequate
+time to make any corrections to errors found in the application during the
+submission process by the due date.
+AIDS Application Due Date(s)
+Not Applicable
+Scientific Merit Review
+April/May 2021
+Advisory Council Review
+August 2021
+Earliest Start Date
+September 1, 2021
+Expiration Date
+November 25, 2020
+Due Dates for E.O. 12372
+Not Applicable
+Required
+Application Instructions
+It is critical that applicants follow the Training (T) Instructions
+in the SF424
+(R&R) Application Guide, except where instructed to do otherwise (in
+this FOA or in a Notice from the NIH
+Guide for Grants and Contracts). Conformance to all requirements (both in
+the Application Guide and the FOA) is required and strictly enforced. Applicants
+must read and follow all application instructions in the Application Guide as
+well as any program-specific instructions noted in Section IV. When the program-specific
+instructions deviate from those in the Application Guide, follow the
+program-specific instructions. Applications that do not comply with
+these instructions may be delayed or not accepted for review.
+There are several options available to submit your application through Grants.gov to NIH and
+Department of Health and Human Services partners. You must use one of these submission
+options to access the application forms for this opportunity.
+Use the NIH ASSIST system to prepare, submit and track your application online.
+Use an institutional system-to-system (S2S) solution to prepare and submit your application
+to Grants.gov and eRA Commons to track your
+application. Check with your institutional officials regarding availability.
+Use Grants.gov
+Workspace to prepare and submit your application and eRA Commons to track your application.
+Table of Contents
+Part 1. Overview Information
+Part 2. Full Text of the Announcement
+Section I. Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission
+Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2.
+Full Text of Announcement
+Section I. Funding Opportunity Description
+The overall goal of the DS-I Africa Research Training
+Programs is to increase data science capacity related to health research in
+Africa by producing data scientists that can serve as research leaders and
+multidisciplinary collaborators and by enhancing institutional capacity at
+African academic institutions. These U2R awards support long-term data science
+health research and innovation training, which must include graduate degree
+training (master's and/or doctoral) and institutional faculty development and
+can also include post-doctoral training where appropriate. Faculty development
+can include training of African faculty through the proposed degree training or
+other means of enhancing the capabilities of faculty from diverse disciplines
+to teach and mentor in data science.
+Background
+Recent technological advances in
+Africa and around the world have enabled researchers to collect enormous
+volumes of data. From rural clinics to the most sophisticated genomics
+laboratories—data are central to our ability to improve health, from delivering
+care to conducting biomedical research. The ability to fully extract useful
+knowledge from these data will lead to accelerated discoveries and innovations
+that can impact health in Africa and globally.
+In the next decade, rapid advances in data science,
+including new approaches to the description, collection, storage, integration,
+and analysis of large, heterogeneous, structured and unstructured data sets,
+and new computational methods such as advanced deep learning, digital phenotypes,
+machine learning and artificial intelligence, and 3D imaging are expected to
+transform biomedical and behavioral research and lead to improved health for
+individuals and populations. Traditional datasets (e.g. national health
+systems, surveillance, surveys) are becoming deeper and richer while new
+sources of data based on new technologies and sensors (e.g. social media,
+geospatial data, mobile phones, wearables, electronic medical records,
+bioimaging, and genomics) are emerging that may be of greatest value when
+linked to data science. Progress in development of new large data sets and
+advanced methods for mining them underpin advances in diagnostics, technology
+development, and the potential for precision public health. The Harnessing Data
+Science for Health Discovery and Innovation in Africa (DS-I Africa) program is
+designed to spur discoveries and innovations through application of data
+science in the African context that will ultimately promote significant
+improvements in health for African individuals, communities, and populations.
+We define data science as “the interdisciplinary field of inquiry in which
+quantitative and analytical approaches, processes, and systems are developed
+and used to extract knowledge and insights from increasingly large and/or
+complex sets of data” (NIH
+Strategic Plan for Data Science).
+Decades of infrastructure building and training in Africa
+have provided compelling opportunities for research to address the disproportionate
+share of the global burden of disease that Africa bears. Data science has the
+potential to significantly impact both quantitative and qualitative research
+and health on the continent. By leveraging existing digital infrastructure, new
+solutions can be developed that are relevant, affordable, acceptable, and
+scalable. For example, extensive mobile phone coverage in Africa has led to
+major innovations in banking and agriculture and similarly has the potential to
+rapidly advance health care delivery systems, bringing the clinic to the
+patient through point of care technologies and self-management systems, with
+applications to rural and underserved populations worldwide. Additionally, this
+initiative is synergistic with and leverages the substantial investments NIH,
+the President's Emergency Plan for AIDS Relief (PEPFAR), and other US
+government entities have already made in research and research training in
+Africa. NIH funds more than 1,600 active grants working in Africa and has
+catalyzed well-developed clinical and academic research networks through prior
+investments by the NIH Common Fund and its partners in the Medical Education Partnership
+Initiatives (MEPI)
+and the Human Health and Heredity in Africa (H3Africa)
+consortium.
+DS-I Africa Research Training Programs will serve as a core
+component within the larger DS-I Africa program, which will also consist of 1) data
+science and innovation research hubs, 2) research on the ethical, legal, and social
+implications (ELSI) central to data science health research and innovation in
+Africa, and 3) an open data science platform and coordinating center. As a group,
+awardees will constitute a collaborative consortium, made up of all programs funded
+through the broader DS-I Africa program, and will work collectively toward strategic
+objectives designated by the consortium, beyond the individual research and
+training objectives of each award. Representatives from each DS-I Africa
+Research Training Program will be expected to participate fully in the DS-I Africa
+Network and cross-network technical and education working groups.
+Research Training Objectives
+The DS-I Africa Research
+Training Program cooperative agreements can either be direct awards to African
+institutions or awards to U.S. institutions in partnership with African
+institutions. Regardless of the applicant organization, the training programs
+must focus on building institutional capacity at one or more African institutions
+and train African researchers. Partnerships with additional organizations, including
+for-profit or governmental organizations, are encouraged as a means to provide
+applied research experiences and internships for the trainees that demonstrate
+the value of data science in developing innovative solutions to health-related
+problems in Africa.
+Each training program should
+provide:
+A strong foundation in rigorous research design, methods, and
+analytic techniques appropriate for data science health research and innovation;
+Enhancement of the trainees’ ability to conceptualize and think through
+research problems and the development of novel solutions with increasing independence;
+Experience conducting research using state-of-the-art data
+science methods as well as presenting and publishing research findings;
+Opportunity to interact with members of the scientific community
+at appropriate scientific conferences and workshops; and
+Interdisciplinary experiences that develop data scientists
+capable of leading or participating in integrative, team approaches that
+address significant health problems in Africa and globally.
+Proposed institutional research
+training programs may complement other ongoing research training and career
+development programs at the African institution(s), but the proposed program
+must be clearly distinct from related programs currently receiving U.S.
+government support.
+Additional
+Objectives of DS-I Africa Program
+As noted above and in the companion FOA's, there are several
+specific objectives that the DS-I Africa Program is trying to achieve.
+Successful applicants will become members of the DS-I Africa Consortium, and will
+be expected to contribute to the overall goals of the program and adhere to program
+policies.
+DS-I Africa Consortium Participation: DS-I
+Africa will be organized as a research consortium that brings participants
+together in a highly collaborative and synergistic effort. The DS-I Africa
+Consortium will include all participants of research, training, ELSI, and open
+data science platform/coordinating center programs funded through DS-I Africa,
+as well as responsible NIH staff. Groups funded under this initiative will be
+expected to participate in the DS-I Africa Consortium and to collaborate
+effectively with each other to maximize the chances of overall success of the
+program. Each funded applicant is expected to participate directly or via proxy
+in Consortium Working Groups that establish rules, guidelines, and resources
+for the Consortium or that develop cross-network research projects. Each
+project is expected to comply with applicable consortium policies and
+procedures. In addition, the PD/PI(s) will be active members of the DS-I Africa
+Steering Committee, which will meet regularly via
+virtual or teleconference meetings. The DS-I Africa Consortium will
+generally hold two in-person meetings per year, usually in Africa at Consortium
+member sites.
+DS-I Africa Data Sharing Policies: Data sharing is an increasingly important aspect of contemporary
+biomedical research, and the Consortium will develop a Data Sharing and Access
+Policy within year 1 of the award that applies to data and resources funded
+with NIH support. The policy will address the data sharing needs of the
+Consortium while safeguarding the privacy of research participants and protecting
+confidential and proprietary data and resources. One of the roles of the
+associated DS-I Africa Open Data Science Platform is to facilitate data and
+resource access and sharing, and all DS-I Africa awardees will be expected to
+work closely with the Open Data Science Platform team to facilitate appropriate
+alignment of activities. The NIH Office of Data Science Strategy (ODSS), guided by the NIH Strategic Plan for Data
+Science, is committed to ensuring that data-science activities and products
+supported by the NIH are Findable, Assessible, Interoperable, and Reusable (FAIR).
+Data, analytical, educational, and other resources generated by a DS-I Africa
+awardee are expected to conform to the FAIR Principles,
+where possible. Additionally, guidance may be developed
+by the Consortium to inform data acquisition, collection and curation,
+including appropriate consent for data sharing, as appropriate for the
+Consortium member projects and their relevant standards or schemas.
+Partnerships and Collaborations: One of the major goals of the DS-I Africa program is to
+enhance the impact of data science on health in Africa and spur innovation
+through support of new African and global partnerships. These partnerships are
+expected to contribute to the sustainability of African data science programs
+and the advancement of product development. Awardees are expected to maintain
+and strengthen existing partnerships that are proposed in applications and engage
+new partners throughout the duration of the award funding. Collaboration within
+the DS-I Africa consortium will also be facilitated through the DS-I Africa
+Coordinating Center. The DS-I Africa Research Hubs will have the opportunity to
+develop cross-consortium research projects enabled by the DS-I Africa Open Data
+Science Platform. DS-I Africa Research Training Programs will have the opportunity
+to collaborate with the DS-I Africa Research Hubs through mentored training
+experiences for trainees. Finally, DS-I Africa ELSI awardees will collaborate
+with the Research Hubs to explore and address issues that are specifically
+relevant to the data science projects within the consortium.
+Community Engagement: NIH recognizes
+ongoing community
+engagement and the building of trust relationships with research
+participants as an essential feature of effective and ethical biomedical and population-based
+data science research involving human subjects. DS-I Africa awardees are
+expected to incorporate relevant community engagement activities into data
+science research and research training activities. Community
+engagement can include a variety of activities, including those that empower communities
+to contribute to and become partners in data science research and activities
+that engage diverse stakeholders to learn about and contribute to DS-I Africa
+efforts in data science.
+Data Science Capacity in Africa: Another
+major objective for the DS-I Africa program is to increase capacity at African
+institutions to use and develop data science approaches in health research and
+innovation. The DS-I Africa Research Training Programs will build individual
+and institutional data science capacity through development of new data science
+curricula and training of data science research leaders in master’s, PhD, post-doctoral,
+and faculty development programs. Research in DS-I Africa Research Hubs and
+DS-I Africa ELSI awards provide a variety of training and career enhancement
+opportunities to students, postdoctoral researchers, and young investigators in
+diverse disciplines through mentored research experiences. Additionally, Research
+Hub pilot projects should provide opportunities for early career data
+scientists to initiate small research projects that could launch their careers.
+The DS-I Africa Open Data Science Platform and Coordinating Center will enhance
+activities conducted by the other awardees by developing short courses relevant
+to data science and innovation that fill training gaps in the consortium and
+have potential to reach the broader African research community. Long-term
+sustainability and institutional/governmental commitments to research education
+programs and independent career opportunities are objectives of the DS-I Africa
+program.
+Technical Assistance and DS-I Africa Virtual Symposium
+All applicants are strongly encouraged to contact NIH Staff
+early in the application process to discuss the alignment of their application with
+the goals of this FOA, and with the DS-I Africa program. Technical Assistance Sessions
+and teleconferences will be held for potential applicants to this FOA and
+companion FOAs. NIH staff will be available to answer questions related
+to this FOA. Location, time, date, and connection information will be
+announced in an NIH Guide Notice and will be posted on the DS-I Africa website: https://commonfund.nih.gov/AfricaData.
+During the Technical Assistance Sessions, NIH staff will present an overview of
+these FOAs and answer questions from prospective applicants. Additionally,
+these technical assistance sessions will be part of a larger DS-I Africa
+Virtual Symposium, which will examine the state of data science in Africa and facilitate
+networking across disciplines, sectors, and geographies to promote data science
+for health in Africa. Registration and other details will be posted on the
+Virtual Symposium website: https://commonfund.nih.gov/africadatasymposium.
+All virtual events are free and open to all prospective applicants, but
+participation is not a prerequisite to applying.
+Training Program Features
+Scientific
+Focus and Structure
+Foundational
+training proposed should include curriculum in three scientific areas
+(computer science/informatics, statistics/mathematics, and biomedical science/public
+health), reflecting the student's background and need. Additionally,
+programs should include active participation of training faculty from all three
+scientific disciplines in the delivery of courses and collaborative mentoring
+of trainees. Courses should include knowledge that is deep in data science and
+broad in the application domain of biomedical science and each of the trainees
+should acquire a common, core set of competencies in data science. Awardees
+will be expected to collaborate with the other DS-I Africa Research Training Program
+PIs toward harmonization of curricula and mapping of curricula on core competencies.
+Research Training Programs may develop various data science
+and health tracks or themes and should establish programs that provide core
+foundational data science and health knowledge and skills along with experiential
+learning through applied, interdisciplinary research projects. The collective
+data science research capacity of the applicant institution and their partners
+should be high, so that research training programs can offer a variety of applied
+research experiences and mentors for trainees. Additionally, the DS-I Africa
+Open Science Platform and Coordinating Center will provide opportunities to connect
+trainees with research experiences in the DS-I Africa Research Hubs (see
+Related Announcements).
+Awards will support the development
+of new data science health research training capacity at African institutions, but
+a partnership-based training model may be proposed. This could involve faculty
+from partner institutions with specific data science or health expertise needed
+to offer curriculum and relevant mentored research training. This partnership model
+may evolve over time as capacity increases at the African institution(s).
+Where justified and necessary
+to begin recruiting students in the first year of the awards, applicants may
+propose training of individuals in existing master’s or doctoral degree training
+programs at the applicant or partner institutions. However, awards may not
+exclusively support these training slots in existing programs since new
+capacity should be established.
+Training programs should practice and teach open data
+science and data sharing in keeping with FAIR data principles. To ensure that
+DS-I Africa training efforts have maximum impact and reach, educational resources
+should be also be shared following FAIR principles. The DS-I Africa Open
+Science Platform and Coordinating Center (see Companion Funding Opportunities)
+aims to develop a gateway for the sharing of data resources and will collaborate
+with the training programs to facilitate appropriate sharing of data and training
+resources.
+Research training grants must be used to support a program of
+full-time research training. The duration of training, the transition of
+trainees to individual support mechanisms, and their transition to the next
+career stage are important considerations in the evaluation of the success of
+institutional research training programs. The proposed program should
+make appropriate skills training available so that trainees are prepared to
+apply for subsequent independent support for their training or research program
+(e.g., an individual fellowship award, mentored career development award, or research
+project grant), as appropriate for their career stage. Training programs
+should provide career development advising and skills development opportunities
+(e.g. workshops, discussions, Individual Development Plans). Through such opportunities,
+trainees should be expected to obtain a working knowledge of various potential career
+directions that make strong use of the knowledge and skills gained during
+research training and the steps required to transition successfully to the next
+stage of their chosen career.
+Trainees
+Programs are expected to identify trainees
+from a variety of backgrounds such as the biomedical and behavioral sciences,
+computer science, engineering, informatics, mathematics, physics, and statistics.
+All trainees are expected to acquire a core set of knowledge in data science,
+but their primary application areas may differ. Trainees should be
+prepared to enter the training level proposed by the program, which can include
+master's, pre-doctoral, or post-doctoral level training.
+Attention should be given to recruiting and retaining women,
+individuals with disabilities, individuals from disadvantaged backgrounds, and individuals
+from racial or ethnic groups underrepresented in the biomedical, behavioral and
+clinical sciences in the African context.
+Trainees emerging from proposed masters, doctoral, and postdoctoral
+programs should be able to conduct original basic or applied research at the
+intersection of computer, statistical and information sciences with one or more
+biomedical applications. Successful trainees from these programs should be
+prepared for research roles in African academic institutions, not-for-profit
+research institutes, governmental and public health agencies, pharmaceutical
+and biomedical companies, and health care organizations. This initiative
+is not intended to prepare trainees for careers primarily focused on the
+planning, deployment, maintenance, or administration of computer systems in
+health care, public health, or medical education. The emphasis in this program
+is on the development of trainee capabilities to pursue new knowledge that advances
+biomedical research and data science.
+Note:
+This Funding Opportunity Announcement (FOA) allows appointment of trainees
+proposing to serve as the lead investigator of an independent clinical trial;
+or proposing a separate ancillary clinical trial; or proposing to gain research
+experience in a clinical trial led by another investigator, as part of their research
+and career development.
+See Section VIII. Other Information for award authorities and regulations.
+Section II. Award
+Information
+Funding Instrument
+Cooperative Agreement: A support mechanism used when there
+will be substantial Federal scientific or programmatic involvement. Substantial
+involvement means that, after award, NIH staff will assist, guide,
+coordinate, or participate in project activities. See Section VI.2 for
+additional information about the substantial involvement for this FOA.
+Application Types Allowed
+New
+The OER
+Glossary and the SF424 (R&R) Application Guide provide details on
+these application types. Only those application types listed here are allowed
+for this FOA.
+Clinical Trial?
+Optional: Accepting applications that either propose or do
+not propose clinical trial(s)
+Need help
+determining whether you are doing a clinical trial?
+Funds Available and Anticipated Number of Awards
+The NIH Common Fund intends to commit an estimated
+total of $7,000,000 over five years to fund up to 4 awards.
+The number of awards is contingent upon NIH appropriations
+and the submission of a sufficient number of meritorious applications.
+Award Budget
+The requested budget needs to reflect the actual needs of
+the proposed project. Applications are limited $350,000 total costs per year.
+Award Project Period
+The maximum project period is 5 years
+Other Award Budget Information
+Stipends, Tuition, and Fees
+Awards may provide stipends as a subsistence allowance to
+help defray living expenses during the research training experience and support
+the cost of tuition and fees at U.S. or foreign institutions. Trainees may be
+paid a stipend comparable to their professional experience.
+Trainee Travel
+Trainee travel to participate in training experiences at
+other institutions or to present their research results at scientific meetings
+that the institution determines to be necessary for the individual's research
+training experience is an allowable trainee expense.
+Training Related Expenses
+Applicants may include costs to support mentored research
+projects for trainees. One-time advanced in-country research training support
+of up to $20,000 direct costs per trainee for mentored research to be undertaken
+by a trainee in his/her country may be included. Awards will provide
+funds to help defray other research training expenses, such as trainee health
+insurance, staff salaries, consultant costs, research supplies, and
+faculty/staff travel directly related to the research training program.
+Other training-related expenses (e.g., books, laptop
+computers, and English language proficiency courses, etc.) may be included.
+Support from this award should not be used to acquire
+major infrastructure (purchase of capital equipment costing more than $5,000
+is not allowed). Software and platform subscription or license costs may be
+included, as well as internet or cellular connectivity costs that are necessary
+for establishing the proposed training program.
+Senior/Key Personnel Salary: The salary for the PD(s)/PI(s),
+other key personnel, training faculty and administrative staff must be commensurate
+with the salary structure and benefits at the institution where they are
+employed and within the limits described at https://grants.nih.gov/grants/policy/salcap_summary.htm.
+Collaborators may receive appropriate compensation for significant activities
+on the program. The administrative, training or teaching
+responsibilities and time commitment for personnel receiving salary should be
+thoroughly described and justified.
+Senior/Key Personnel Travel: Funds may be requested
+for round-trip economy airfare on U.S. carriers (to the maximum extent possible),
+lodging and per diem for training responsibilities and to attend necessary
+meetings, including biannual DS-I Africa program meetings. PD(s)/PI(s) are
+expected to attend these DS-I Africa meetings (to be held in rotating
+locations in Africa) and may also budget for other key faculty, collaborators
+and trainees to attend. However, support for senior/key personnel,
+faculty and collaborators to attend other scientific conferences is not allowed.
+Indirect Costs
+Indirect Costs (also known as Facilities &
+Administrative [F&A] Costs) are reimbursed at 8% of modified total direct
+costs (exclusive of tuition and fees, consortium costs in excess of $25,000,
+and expenditures for equipment), rather than on the basis of a negotiated rate
+agreement.
+NIH grants policies as
+described in the NIH
+Grants Policy Statement will apply
+to the applications submitted and awards made from this FOA.
+Section III. Eligibility
+Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+Public/State Controlled Institutions of Higher Education
+Private Institutions of Higher Education
+The following types of Higher
+Education Institutions are always encouraged to apply for NIH support as Public
+or Private Institutions of Higher Education:
+· Hispanic-serving
+Institutions
+· Historically
+Black Colleges and Universities (HBCUs)
+· Tribally
+Controlled Colleges and Universities (TCCUs)
+· Alaska
+Native and Native Hawaiian Serving Institutions
+· Asian
+American Native American Pacific Islander Serving Institutions (AANAPISIs)
+Nonprofits Other Than Institutions of Higher Education
+Nonprofits with 501(c)(3) IRS Status (Other than Institutions of
+Higher Education)
+Nonprofits without 501(c)(3) IRS Status (Other than Institutions
+of Higher Education)
+Non-domestic (non-U.S.) Entities (Foreign Institutions) in Africa
+An application may be submitted by an African institution or
+by a domestic (U.S.) institution that demonstrates collaboration with an
+African institution. Collaboration should be documented by joint publications,
+grants or previous research training activities.
+The sponsoring institution must assure support for the proposed
+program. Appropriate institutional commitment to the program includes the provision
+of adequate staff, facilities, and educational resources that can contribute to
+the planned program.
+The applicant institution and their partners must collectively have a strong and high-quality research program in the area(s) proposed under
+this FOA and must have the requisite faculty, staff, potential trainees and
+facilities on site to conduct the proposed institutional program. In
+many cases, it is anticipated that the proposed program will complement other ongoing
+career development programs occurring at the applicant institution and that a
+substantial number of program faculty will have active research projects in
+which participating trainees may gain relevant experiences consistent with
+their research interests and goals.
+Foreign Institutions
+Non-domestic (non-U.S.) Entities (Foreign Institutions) are
+eligible to apply.
+Non-domestic (non-U.S.) components of U.S. Organizations are eligible to apply.
+Foreign components, as defined in the
+NIH Grants Policy Statement, are allowed.
+Applicant foreign institutions are limited to academic and
+other non-profit institutions in Africa. Applicants may propose partners from
+all types of organizations in Africa, the U.S., or other countries, including
+for-profit and government entities.
+Required Registrations
+Applicant
+Organizations
+Applicant organizations must complete and maintain the following
+registrations as described in the SF 424 (R&R) Application Guide to be eligible
+to apply for or receive an award. All registrations must be completed prior to
+the application being submitted. Registration can take 6 weeks or more, so applicants
+should begin the registration process as soon as possible. The NIH
+Policy on Late Submission of Grant Applications states that failure to
+complete registrations in advance of a due date is not a valid reason for a late
+submission.
+Dun and Bradstreet
+Universal Numbering System (DUNS) - All registrations require that applicants
+be issued a DUNS number. After obtaining a DUNS number, applicants can begin
+both SAM and eRA Commons registrations. The same DUNS number must be used for
+all registrations, as well as on the grant application.
+System for Award Management (SAM) – Applicants must complete and maintain an active registration, which requires renewal at least annually.
+The renewal process may require as much time as the initial registration. SAM
+registration includes the assignment of a Commercial and Government Entity (CAGE)
+Code for domestic organizations which have not already been assigned a CAGE Code.
+· NATO
+Commercial and Government Entity (NCAGE) Code – Foreign organizations must
+obtain an NCAGE code (in lieu of a CAGE code) in order to register in SAM.
+eRA Commons - Applicants
+must have an active DUNS number to register in eRA Commons. Organizations can
+register with the eRA Commons as they are working through their SAM or Grants.gov
+registration, but all registrations must be in place by time of submission. eRA
+Commons requires organizations to identify at least one Signing Official (SO)
+and at least one Program Director/Principal Investigator (PD/PI) account in order
+to submit an application.
+Grants.gov – Applicants
+must have an active DUNS number and SAM registration in order to complete the
+Grants.gov registration.
+Program
+Directors/Principal Investigators (PD(s)/PI(s))
+All PD(s)/PI(s) must have an eRA Commons account. PD(s)/PI(s)
+should work with their organizational officials to either create a new account
+or to affiliate their existing account with the applicant organization in eRA Commons.
+If the PD/PI is also the organizational Signing Official, they must have two distinct
+eRA Commons accounts, one for each role. Obtaining an eRA Commons account can
+take up to 2 weeks.
+Eligible Individuals (Program Director/Principal
+Investigator)
+Any individual(s) with
+the skills, knowledge, and resources necessary to carry out the proposed research training program as the
+Training Program Director/Principal Investigator (Training PD/PI) is invited to work with his/her organization to
+develop an application for support. Individuals from underrepresented racial
+and ethnic groups as well as individuals with disabilities are always encouraged
+to apply for NIH support.
+For institutions/organizations proposing multiple PDs/PIs, visit the Multiple Program Director/Principal Investigator Policy and submission details in the Senior/Key Person
+Profile (Expanded) Component of the SF 424 (R&R) Application Guide.
+The PD/PI(s) should be established investigators in data
+science and/or the other scientific areas in which the application is targeted and
+capable of providing both administrative and scientific leadership to the development
+and implementation of the proposed program. The PD/PI(s) will be responsible
+for the selection and appointment of trainees to the approved research training
+program, and for the overall direction, management, administration, and evaluation
+of the program. The PD/PI(s) will be expected to monitor and assess the program
+and submit all documents and reports as required. The PD/PI(s) have responsibility
+for the day to day administration of the program and are responsible for
+appointing members of the Training Advisory Committee and using their recommendations
+to modify the overall direction, management, administration, and evaluation of
+the program.
+At least one PD/PI must be affiliated with the African
+institution(s) where the proposed research training program will be established
+and must have citizenship in an African country. Other Multiple PD/PI(s) with relevant
+expertise from partner institutions in Africa, the U.S. or other high-income
+country institutions are encouraged. Multiple PDs/PIs should have a documented
+history of collaboration relevant to the proposed research training program.
+2. Cost Sharing
+This FOA does not require cost sharing as defined in the NIH Grants
+Policy Statement.
+3. Additional Information on Eligibility
+Number of Applications
+Applicant organizations may submit more than one application,
+provided that each application is programmatically distinct.
+The NIH will not accept duplicate or highly overlapping
+applications under review at the same time. This means that the NIH will
+not accept:
+A new (A0) application that is submitted before issuance of the
+summary statement from the review of an overlapping new (A0) or resubmission
+(A1) application.
+A resubmission (A1) application that is submitted before issuance
+of the summary statement from the review of the previous new (A0) application.
+An application that has substantial overlap with another application
+pending appeal of initial peer review (see NOT-OD-11-101).
+Preceptors/Mentors
+Program
+faculty should have strong records as researchers, including recent
+publications and successful competition for research support in the area of the
+proposed research training program. Program faculty should also have a
+record of research training, including successful, former trainees who have established
+productive careers relevant to the NIH mission. Researchers from diverse
+backgrounds, including racial and ethnic minorities, persons with disabilities,
+and women are encouraged to participate as mentors.
+For the purposes of this program, data science health
+research is interdisciplinary and includes three major scientific areas: (1)
+computer science/ informatics; (2) statistics/mathematics; and (3) biomedical
+sciences/public health. It anticipated that the training program will have a
+sufficient number of mentors in all three areas and will utilize the idea of
+multiple mentorship. The primary PD(s)/PI(s) must ensure that the appropriate
+faculty work collaboratively and in a sustained manner across scientific
+disciplines and organizational lines to jointly mentor trainees.
+To the extent possible, faculty mentors should have research
+and/or research training experience in the African country/countries where
+training will occur.
+Trainees
+Trainees must be citizens of African countries and
+affiliated with African institutions leading or collaborating in the application.
+All
+trainees are required to pursue their research training full time, normally
+defined as 40 hours per week, or as specified by the sponsoring institution in
+accordance with its own policies. Appointments are normally made in 12-month
+increments, and no trainee may be appointed for less than 9 months during the
+initial period of appointment, except with prior approval of the awarding unit,
+or when trainees are appointed to approved, short-term training positions.
+Predoctoral and master's trainees must
+be enrolled in a program leading to a PhD or master's degree or in an equivalent degree program. Health-professional
+students who wish to interrupt their studies for a year or more to engage in
+full-time research training before completing their formal training programs,
+are also eligible.
+Postdoctoral
+trainees must have received a Ph.D., M.D., D.D.S., or comparable doctoral degree
+from an accredited domestic or foreign institution. Comparable doctoral degrees
+include, but are not limited to, the following: D.M.D., DC, DO, DVM., OD,
+DPM, ScD, EngD, DrPH, DNSc, DPT, PharmD, ND (Doctor of Naturopathy), DSW, PsyD,
+as well as a doctoral degree in nursing research. Documentation by an
+authorized official of the degree-granting institution certifying all degree requirements
+have been met prior to the beginning date of the training appointment is
+acceptable. Individuals in postgraduate clinical training, who wish to
+interrupt their studies for a year or more to engage in full-time research
+training before completing their formal training programs, are also eligible.
+Section IV. Application
+and Submission Information
+1. Requesting an
+Application Package
+The application forms package specific to this opportunity
+must be accessed through ASSIST, Grants.gov Workspace or an institutional system-to-system
+solution. Links to apply using ASSIST or Grants.gov Workspace are available in Part 1 of this FOA. See your
+administrative office for instructions if you plan to use an institutional system-to-system
+solution.
+2. Content and Form of Application Submission
+It is critical that applicants follow the Training (T) Instructions
+in the SF424
+(R&R) Application Guide except where instructed in this funding opportunity
+announcement to do otherwise. Conformance to the requirements in the
+Application Guide is required and strictly enforced. Applications that are out
+of compliance with these instructions may be delayed or not accepted for review.
+Letter of Intent
+Although a letter of intent is not required, is not binding,
+and does not enter into the review of a subsequent application, the information
+that it contains allows IC staff to estimate the potential review workload and plan
+the review.
+By the date listed in Part 1. Overview
+Information, prospective applicants are asked to submit a letter of intent
+that includes the following information:
+Descriptive title of proposed activity
+Name(s), address(es), and telephone number(s) of the PD(s)/PI(s)
+Names of other key personnel
+Participating institution(s)
+Number and title of this funding opportunity
+The letter of intent should be sent to:
+Laura Povlich, Ph.D.
+Fogarty International Center (FIC)
+Telephone: 301-827-2227
+Email: laura.povlich@nih.gov
+Page Limitations
+All page limitations described in the SF424 (R&R)
+Application Guide and the Table of
+Page Limits must be followed.
+Instructions
+for Application Submission
+The following section supplements the instructions found in
+the SF424 (R&R) Application Guide and should be used for preparing an
+application to this FOA.
+SF424(R&R) Cover
+Follow all instructions provided in the SF424 (R&R) Application
+Guide.
+SF424(R&R) Project/Performance Site Locations
+Follow all instructions provided in the SF424 (R&R) Application.
+Include the applicant institution and all collaborating institutions where
+research training will be supported.
+SF424 (R&R) Other Project Information
+Follow all instructions provided in the SF424 (R&R)
+Application, with the following additional modifications:
+Project
+Summary/Abstract. Provide an abstract of the entire application.
+Include the objectives, rationale and design of the research training program, as
+well as key activities in the training plan. Indicate the planned duration
+of appointments, the projected number of trainees including their levels (i.e.,
+master's, predoctoral, postdoctoral, faculty), and intended trainee outcomes. Identify
+all collaborating institutions.
+Other
+Attachments. A plan must be provided for the
+appointment of a Training Advisory Committee
+to monitor progress of the training program. The composition, roles, responsibilities,
+and desired expertise of committee members, frequency of committee meetings, and
+other relevant information should be included. Describe how the Advisory Committee
+will evaluate the overall effectiveness of the program. Potential Advisory Committee members should not be invited
+to participate in the application and should not be named in the application. Please name your file
+“Advisory_Committee.pdf”.
+The
+filename provided for each “Other Attachment” will be the name used for the
+bookmark in the electronic application in eRA Commons.
+SF424(R&R) Senior/Key Person Profile Expanded
+Follow all instructions provided in the SF424 (R&R)
+Application. If applicable, include at least one person as key personnel from
+each collaborating institution who will serve as the primary collaborator for
+that training location.
+PHS 398 Cover Page Supplement
+Follow all instructions provided in the SF424 (R&R)
+Application.
+PHS 398 Training Subaward Budget Attachment(s)
+Follow all instructions provided in the SF424 (R&R)
+Application Guide, with the following additional modifications:
+·
+Research & Related (R&R) Budget
+Follow all instructions provided in the SF424 (R&R)
+Application Guide with the following additional modifications:
+Use the “Other
+Personnel” section to submit costs for salary support for administrative
+staff.
+Use the “Travel”
+section to submit costs for key personnel and faculty travel including biannual
+DS-I Africa meetings.
+Use the “Participant/Trainee
+Support Costs” section to submit costs for Trainees and training-related
+expenses. Include health insurance under Training Related Expenses (not in
+Tuition/Fees/Health Insurance). Do not use the Subsistence
+category. Provide details of trainees and training related expenses in
+the budget justification and identify by name any continuing trainees.
+Use the “Other
+Direct Costs” section to submit costs for other direct costs
+related to training activities. Describe fully in the budget justification
+PHS 398 Research Training Program Plan
+The PHS 398 Research Training Program Plan Form is comprised
+of the following sections:
+Training Program
+Faculty, Trainees, and Training Record
+Other Training Program Sections
+Appendix - Note that the Appendix should only be used in circumstances
+covered in the NIH policy on appendix materials or if the FOA specifically
+instructs applicants to do so.
+Follow all instructions provided in the SF424 (R&R) Application
+Guide with the following additional modifications:
+Particular attention must be given to the required Training
+Data Tables. For this FOA, applicants should use the tables listed
+under New International Training. Applicants should summarize, in the body of
+the application, key data from the tables that highlight the characteristics of
+the applicant pool, faculty mentors, the educational and career outcomes of participants,
+and other factors that contribute to the overall environment of the proposed
+program.
+Training Program
+Program
+Plan
+A.
+Background (In addition to the instructions in the SF424 (R&R)
+Application Guide):
+Applications should document the existing data science
+research capacity at the African institution(s) where a new data science research
+training capacity will be established. Measurable parameters of increased research
+capacity expected as a result of the proposed research training activities at
+the end of the grant period should be defined.
+Institutions with existing related research training
+programs must explain what distinguishes the proposed program from the others,
+how their proposed program will synergize with the others, if applicable, and
+demonstrate that the pool of faculty, potential trainees, and resources are
+robust enough to support an additional program.
+For applications that propose a partnership training
+model, applicants should describe any prior research and/or research training collaboration
+between partners or other activities that demonstrate the ability of partners
+to successfully coordinate the proposed training program.
+B.
+Program Plan
+a.
+Program Administration (In addition to the instructions in the SF424 (R&R)
+Application Guide):
+Applicants should describe how the proposed research
+training program relates to and/or integrates with the existing organizational
+structure of the applicant institution as well as the structure of partner institutions,
+where applicable. Additionally, applicants should describe how program leadership
+will manage any administrative barriers to interdepartmental and/or multi-institutional
+teaching, training, and or/mentoring activities.
+Applicants should describe how decisions regarding
+the components of the proposed research training program will be made in consultation
+with the proposed faculty and Training Advisory Committee.
+Applicants should describe plans for how all mentored
+research projects under this award will receive independent scientific review
+through procedures established by the applicant institution and Training
+Advisory Committee. In addition, applicants should describe how trainees who
+conduct mentored research involving human subjects will receive education in
+the protection of human subjects. Trainee research must receive annual approval
+from an institutional (or ethical) review board or committee at the applicant
+institution and, if different, at the institution in which the research is being
+conducted.
+In the event that a clinical trial may be proposed, provide
+documentation of the PD/PI(s) expertise, experience, and ability to oversee the
+organization, management and implementation of the clinical trial, including
+any feasibility or ancillary study, proposed by trainee(s).
+b.
+Program Faculty (In addition to the instructions in the SF424 (R&R) Application
+Guide):
+Describe the specific role of each proposed faculty mentor
+in the proposed research training program. Briefly describe any relevant
+research, including any current research collaborations with the PD(s)/PI(s) or
+other faculty, and research training record, in particular, for trainees from Africa.
+Applicants should explain how the relevant research grant support and activities
+of the PD(s)/PI(s) and proposed faculty mentors may contribute to the proposed data
+science research training plan.
+If any mentors will supervise a trainee proposing to
+either lead a clinical trial, or gain research experience in a clinical trial,
+provide documentation of his/her expertise, experience, and ability to provide
+guidance in the organization, management and implementation of the proposed
+clinical trial, ancillary, or feasibility study and help him/her to meet the
+study timelines
+c.
+Proposed Training (In addition to the instructions in the SF424 (R&R)
+Application Guide):
+The research training proposed should instill
+advanced data science expertise and research leadership capabilities through rigorous
+and innovative didactic, practicum and mentored research activities designed to
+address the health needs of African countries. Applicants should describe in
+detail the research masters, doctoral, postdoctoral, and faculty development research
+training proposed, including the scientific focus, faculty, institutional location
+and duration for curriculum components, practicum experiences and mentored
+trainee research. The numbers of trainees expected to participate in each training
+component should be stated. While new curriculum should be developed, as
+described below, the plans described must include details for how trainees will
+be recruited in the first year of the award and trained either at an African
+institution or through a partnership model.
+Applicants should include plans that describe new curriculum
+and courses that will be developed, which should expose trainees to the basic
+concepts and working knowledge in the three scientific areas of data science health
+research (computer science/informatics, statistics/mathematics, and biomedical
+science/public health). It is incumbent on the applicant to define a set of
+core concepts that graduating students will master, even if their research projects
+are highly specialized. Applicants are expected to work with the other DS-I
+Africa Research Training PIs and Coordinating Center to develop methods for curriculum
+harmonization or standardization.
+Since data science is an interdisciplinary field with
+applications that cut across academia, private sector, and government, applicants
+are strongly encouraged to incorporate elements into their training program
+that foster interdisciplinary and cross-sectoral collaboration, including: team
+science approaches to problem-based learning; applied research experiences or
+internships in a variety of academic, industrial, government, or other relevant
+settings; and joint mentorship of trainees by mentors with expertise in diverse
+scientific areas and multisectoral experience.
+If a partnership structure is proposed, applications
+should describe how each collaborating institution will contribute to the
+specific objectives of the research training plan including how the African
+institution(s) will gain the data science training capacities initially provided
+by partners to eventually establish a sustainable training program.
+Applicants should describe how the proposed
+application meets the objectives of the DS-I Africa program described earlier
+in this funding opportunity, including incorporation of FAIR principles in data
+science training. Applicants should discuss how the program will integrate with
+the DS-I Africa Open Data Science Platform and Coordinating Center in the
+sharing of data resources, including educational material.
+Applicants are encouraged to include plans for
+strengthening the associated skills and knowledge necessary for long-term
+research career sustainability, such as scientific writing and presentation,
+grant writing, and expertise in research administration and management of intellectual
+property. Training in English as a second language may be supported, if
+needed. Applicants are encouraged to develop plans to foster the creation of
+Individual Development Plans for each student.
+Research training by interactive distance learning
+technology may be proposed, if appropriate and sustainable for the African trainees
+and institutions involved. Applicants should describe the availability of distance
+learning facilities, equipment, internet connectivity, and technical support.
+Applicants should provide specific milestones during
+the requested grant period to meet the proposed research training objectives.
+A timeline should be included.
+In the event that a clinical trial may be proposed, provide
+documentation of the administrative, data coordinating, enrollment and
+laboratory/testing centers, appropriate for the clinical trial, including any feasibility
+or ancillary study, proposed by trainees.
+d.
+Training Program Evaluation (In addition to the instructions in the SF424
+(R&R) Application Guide):
+In the evaluation plan provided, included metrics for
+evaluating improvements in institutional capacity at the African institution(s).
+e.
+Trainee Candidates (In addition to the instructions in the SF424 (R&R)
+Application Guide):
+Applicants should describe plans for how the most
+qualified African trainees from diverse scientific fields will be recruited for
+the proposed research training programs. The specific criteria and decision-making
+process for selecting trainees should be delineated. Strategies that will be
+used to retain trainees in master's and doctoral degree programs and postdoctoral
+mentored research projects as well as facilitate sustainable biomedical data
+science research and training careers in African institutions should be characterized.
+Plans should include details for the recruitment of women,
+individuals with disabilities, individuals from disadvantaged backgrounds, and
+individuals from racial or ethnic groups underrepresented in the biomedical,
+behavioral and clinical sciences in the African context.
+In the event that a clinical trial may be proposed, discuss
+the potential of prospective trainees to organize, manage, and implement the
+proposed clinical trial, feasibility or ancillary study.
+f.
+Institutional Environment and Commitment to the Program (In addition to the
+instructions in the SF424 (R&R) Application Guide):
+Details on the institutional environment and commitment
+to the program (as instructed in the SF424 Guide) should be provided for each
+institution where training will take place in the proposed application.
+Sustainability: Dedicated funds for DS-I Africa by
+the NIH Common Fund will provide 5 to 10 years of support. Beyond that, any
+support for continuation of the research training programs and research careers
+initiated under the auspices of DS-I Africa will be dependent on other funding. Applicants
+should discuss the future sustainability of their research training program
+beyond the 5-years of funding provided by these awards and how the research
+training program will contribute to success in continuing the research efforts
+of its participants. This section of the application should refer to relevant
+letters of support.
+g.
+Qualifications of Trainee Candidates and Admissions and Completion Records
+Follow instructions in the SF424 (R&R)
+Application Guide.
+Faculty, Trainees, and Training Record
+In
+addition to the instructions in the SF424 (R&R) Application Guide
+Letters
+of Support: Applications should include a letter of
+support from the appropriate institutional or organizational official
+(University or Medical School President, Dean or Director, or the head research
+administrator, company leader, government representative, or equivalent) from the
+applicant and all collaborating organizations to substantiate the organizations'
+commitment to the proposed DS-I Africa Training Program. Each organization
+should state its commitment to overcoming any administrative obstacles to the
+implementation of the proposal, such as accommodation for participation by multiple
+schools at a university or collaboration with other institutions within or outside
+of the applicant’s country. Appropriate organizational commitment to the program
+includes the provision of adequate staff, facilities, and resources needed for
+the success of the planned program. It should also address commitment to DS-I
+Africa policies and procedures, including collaborating and sharing data and
+resources with the DS-I Africa Consortium and Open Data Science Platform, as
+appropriate. Where applicable, the letter should also address corporate
+interests and commitment to the proposed research project and any applicable
+in-kind support. The letter should also briefly discuss the institution's plans
+for sustaining the Research Training Program.
+Faculty who agree to serve as faculty/mentors should
+provide letters indicating their willingness to participate and specific
+contribution to the training proposed.
+The programmatic activities of this initiative will
+support national and international collaborations. Where relevant and
+attainable, letters of support from the related national ministries such as the
+Ministry of Science, Ministry of Health and/or Ministry of Education for each African
+country with a programmatic component are strongly encouraged. The letter
+should briefly describe the national policy concerning scientific research and
+health funding priorities.
+Plan for Instruction in the Responsible Conduct of
+Research
+Individuals are required to comply with the instructions
+for Plan for Instruction in the Responsible Conduct of Research as provided in
+the SF424 (R&R) Application Guide.
+Subject
+Matter
+Applicants are encouraged to incorporate instruction
+related to contemporary ethical, legal, and social issues specifically related
+to data science health research in Africa.
+Appendix
+Limited items are allowed in the Appendix. Follow
+all instructions for the Appendix as described in the SF424 (R&R)
+Application Guide; any instructions provided here are in addition to theSF424 (R&R)
+Application Guide instructions.
+PHS Human Subjects and Clinical Trials Information
+All instructions in the SF424 (R&R) Application Guide
+must be followed, with the following additional modifications:
+Study
+Record: PHS Human Subjects and Clinical Trials Information
+DO NOT USE. Attempts to submit a full, detailed study record
+will result in a validation error.
+Delayed
+Onset Study
+Note: Delayed
+onset does NOT apply to a study that can be described but will not start
+immediately (i.e., delayed start).
+If you answered “Yes” to the question “Are Human Subjects
+Involved?” on the R&R Other Project Information form, you must complete a
+Delayed Onset Study.
+If you check the “Anticipated Clinical Trial” box within
+your Delayed Onset Study, then the Justification attachment must acknowledge that
+additional clinical trial information will be provided to the awarding component
+before any appointee begins independent clinical trial research.
+PHS Assignment Request Form
+All instructions in the SF424 (R&R) Application Guide must
+be followed.
+3. Unique Entity Identifier
+and System for Award Management (SAM)
+See Part 1. Section III.1 for information regarding the
+requirement for obtaining a unique entity identifier and for completing and maintaining
+active registrations in System for Award Management (SAM), NATO Commercial and
+Government Entity (NCAGE) Code (if applicable), eRA Commons, and Grants.gov
+4. Submission Dates and
+Times
+Part I. Overview Information contains information about Key Dates and times. Applicants are encouraged to submit
+applications before the due date to ensure they have time to make any
+application corrections that might be necessary for successful submission. When
+a submission date falls on a weekend or Federal
+holiday, the application deadline is automatically extended to the next
+business day.
+Organizations must submit applications to Grants.gov (the online portal to find and apply for grants
+across all Federal agencies). Applicants must then complete the submission process
+by tracking the status of the application in the eRA Commons, NIH’s electronic system for grants administration.
+NIH and Grants.gov systems check the application against many of the
+application instructions upon submission. Errors must be corrected and a changed/corrected
+application must be submitted to Grants.gov on or before the application due
+date and time. If a Changed/Corrected application is submitted after the deadline,
+the application will be considered late. Applications that miss the due date and
+time are subjected to the NIH Policy on Late Application Submission.
+Applicants are responsible
+for viewing their application before the due date in the eRA Commons to ensure accurate
+and successful submission.
+Information on the submission process and a definition of on-time
+submission are provided in the SF424 (R&R) Application Guide.
+5. Intergovernmental Review
+(E.O. 12372)
+This initiative is not subject to intergovernmental
+review.
+6. Funding Restrictions
+All NIH awards are subject to the terms and conditions, cost
+principles, and other considerations described in the NIH
+Grants Policy Statement.
+Pre-award costs are allowable only as described in the NIH
+Grants Policy Statement. Any
+additional costs associated with the decision to allow research elective credit
+for short-term research training are not allowable charges on an institutional
+training grant.
+7. Other Submission Requirements
+and Information
+Applications must be submitted electronically following the
+instructions described in the SF424 (R&R) Application Guide. Paper
+applications will not be accepted.
+Applicants must complete all required registrations before
+the application due date. Section III.
+Eligibility Information contains information about registration.
+For assistance with your electronic application or for more information on the electronic submission process,
+visit How to
+Apply – Application Guide. If you encounter a system issue beyond your
+control that threatens your ability to complete the submission process on-time,
+you must follow the Dealing
+with System Issues guidance. For assistance with application
+submission, contact the Application Submission Contacts in Section VII.
+Important
+reminders:
+All PD(s)/PI(s) must include their eRA Commons ID in
+the Credential field of the Senior/Key Person Profile Component of the
+SF424(R&R) Application Package. Failure to register in the Commons
+and to include a valid PD/PI Commons ID in the credential field will prevent
+the successful submission of an electronic application to NIH.
+The applicant organization must ensure that the DUNS number it provides on the application
+is the same number used in the organization’s profile in the eRA Commons and
+for the System for Award Management (SAM). Additional information may be found
+in the SF424 (R&R) Application Guide.
+See more
+tips for avoiding common errors.
+Upon receipt, applications will be evaluated for completeness
+and compliance with application instructions by the Center for Scientific Review
+and responsiveness by components of
+participating organizations, NIH. Applications that are incomplete, non-compliant
+and/or nonresponsive will not be reviewed.
+Post Submission Materials
+Applicants are
+required to follow the instructions for post-submission materials, as described
+in the policy.
+Any instructions provided here are in addition to the instructions in the policy.
+Section V. Application Review Information
+1.
+Criteria
+Only the review criteria described below will be considered
+in the review process.
+Applications submitted to the NIH in support of the NIH mission are evaluated for scientific and technical merit through the NIH peer review
+system.
+Overall Impact
+Reviewers
+will provide an overall impact score to reflect their assessment of the likelihood that the proposed training program will
+prepare individuals for successful, productive scientific research careers and thereby
+exert a sustained influence on the research field(s) involved, in consideration of the following
+review criteria and additional review criteria (as applicable for the project proposed).
+Scored Review Criteria
+Reviewers will consider each
+of the review criteria below in the determination of the merit of the training
+program, and give a separate score for each. When applicable, the reviewers will consider relevant questions in the
+context of proposed short-term training. An
+application does not need to be strong in all categories to be judged likely to
+have major scientific impact.
+Training Program
+and Environment
+Are
+the research facilities and research environment conducive to preparing
+trainees for successful careers as biomedical data scientists in Africa?
+Are
+the objectives, design and direction of the proposed research training program
+likely to ensure effective training?
+Do
+the courses and research experiences provide opportunities for trainees to
+acquire state-of-the-art scientific knowledge, methods, and tools that are
+relevant to the goals of the training program?
+Does
+the program provide appropriate inter- or multidisciplinary or multisectoral research training opportunities?
+Is
+the proposed training program likely to ensure trainees will be well prepared
+for research-intensive and research-related data science careers in Africa?
+Is the level of institutional commitment to
+the training program at all proposed
+training sites, including
+administrative and research training support, sufficient to ensure the
+success of the program?
+Is it clear
+how the proposed training program is distinguished from other externally funded
+training programs at the applicant or partner institutions?
+Does the program adequately address the objectives of DS-I
+Africa? Does the training program include sufficient plans to incorporate FAIR
+(Findable, Accessible, Interoperable, Reuseable) principles in the proposed data
+science training?
+If clinical trials may be proposed by trainee(s), are the
+administrative, data coordinating, enrollment and laboratory/testing centers, appropriate
+for the trial proposed? Does the application adequately address the capability
+and ability to conduct the trial feasibility or ancillary study at the proposed
+site(s) or centers? If applicable, are there plans to add or drop enrollment centers,
+as needed, appropriate? If international site(s) is/are proposed, does the
+application adequately address the complexity of executing the clinical trial? If
+multi-sites/centers, is there evidence of the ability of the individual site or
+center to: (1) enroll the proposed numbers; (2) adhere to the protocol; (3)
+collect and transmit data in an accurate and timely fashion; and, (4) operate
+within the proposed organizational structure?
+In addition, for this FOA:
+If a partnership training model is proposed, is there sufficient
+evidence (including a history of past collaboration) that the partners will be
+able to successfully coordinate to carry out the training program and establish
+research capacity at the African institution(s)?
+Are appropriate plans in place to ensure that any gaps in faculty
+expertise at the African institution(s) are addressed by additional faculty development
+training during the grant period?
+If distance learning approaches are proposed, are sufficient
+facilities, equipment, internet connectivity and technical support available at
+the African institutions involved to ensure success?
+Are plans for independent scientific review (and ethical review
+if human subjects involved) of mentored trainee research adequate?
+Is the future sustainability of the research training program addressed
+appropriately, including relevant letters of support?
+Training Program
+Director(s)/Principal Investigator(s) (PD(s)/PI(s))
+Does
+the PD/PI have the scientific background, data science expertise, and administrative
+and training experience in Africa to provide strong leadership, direction,
+management, and administration of the proposed research training program?
+Does
+the PD/PI plan to commit sufficient effort to ensure the program’s
+success?
+For applications designating multiple PDs/PIs:
+· Is a strong
+justification provided that the multiple PD/PI leadership approach will benefit
+the training program and the trainees?
+· Is a
+strong and compelling leadership approach evident, including the designated
+roles and responsibilities,
+governance, and organizational structure consistent with and justified by the
+aims of the training program and the complementary expertise of the PDs/PIs?
+With regard to the proposed leadership for the training program,
+do the PD/PI(s) have the expertise, experience, and ability to oversee the organization,
+management and implementation of the proposed clinical trial?
+In addition, for this FOA:
+Is leadership sufficiently strong to develop and maintain close
+collaborations across participating departments and partner organizations, if
+applicable?
+Preceptors/Mentors
+Are
+sufficient numbers of experienced preceptors/mentors with appropriate expertise
+and funding available to support the number and level of trainees proposed
+in the application?
+Do
+the preceptors/mentors have strong records as researchers, including
+recent publications and successful competition for research support in areas
+directly related to the proposed research training program?
+Do the
+preceptors/mentors have strong records of training individuals from
+Africa at the level of trainees proposed in the program? Are
+appropriate plans in place to ensure that preceptors lacking sufficient research
+training experience are likely to provide strong and successful mentoring?
+If the program will support clinical trial research experience
+for the trainees, do the mentor(s) who will supervise the trainee(s) have the
+expertise, experience, resources, and ability to provide appropriate guidance
+and help the trainee(s) to meet the timelines?
+Do the preceptors/mentors who will supervise the trainee(s) have
+the expertise, experience, and ability to provide guidance in the organization,
+management and implementation of a clinical trial, ancillary, or feasibility
+study and help him/her to meet timelines?
+In addition, for this FOA:
+Do the preceptors'/mentors' expertise collectively cover all the
+areas that are critical to biomedical data science, such
+as computer science/ informatics; statistics/mathematics; and biomedical
+sciences/public health?
+Trainees
+Is
+a recruitment plan proposed with strategies likely to attract well-qualified African trainees from diverse disciplines for the training program?
+Is
+there a competitive applicant pool of sufficient size and quality, at each
+of the proposed levels (master's, predoctoral, or postdoctoral), to ensure a
+successful training program?
+Are there
+well-defined and justified selection criteria as well as retention strategies?
+Do prospective trainees have the potential to organize, manage,
+and implement the proposed clinical trial, feasibility or ancillary study?
+Are there plans to provide instruction in data management and
+statistics including those relevant to clinical trials to the prospective trainees?
+In addition, for this FOA:
+Is a recruitment plan proposed with strategies likely to successfully
+recruit and retain women, individuals with disabilities, individuals from
+disadvantaged backgrounds, and/or individuals from racial or ethnic groups underrepresented
+in the biomedical, behavioral and clinical sciences in the African context?
+Training Record
+Have the applicants demonstrated success in training students/postdoctorates in similar training programs?
+Have trainees in similar training programs been productive in terms of research accomplishments,
+publication of research conducted during the training period, and subsequent
+training appointments and fellowship or career development awards?
+How
+successful are the trainees from similar training programs in
+achieving productive scientific careers as evidenced by successful competition
+for research science positions in industry, academia, government or other
+research venues; grants; receipt of honors, awards, or patents;
+high-impact publications; promotion to scientific leadership positions; and/or
+other such measures of success?
+Does the program propose a rigorous evaluation plan to
+assess the quality and effectiveness of the training? Are effective mechanisms
+in place for obtaining feedback from current and former trainees?
+Additional Review Criteria
+As applicable for the project proposed, reviewers will evaluate
+the following additional items while determining scientific and technical merit,
+and in providing an overall impact score, but will not give separate scores for
+these items.
+Protections for
+Human Subjects
+For research that involves human subjects but does not involve
+one of the categories of research that are exempt under 45 CFR Part 46, the
+committee will evaluate the justification for involvement of human subjects and
+the proposed protections from research risk relating to their participation according
+to the following five review criteria: 1) risk to subjects, 2) adequacy of
+protection against risks, 3) potential benefits to the subjects and others, 4)
+importance of the knowledge to be gained, and 5) data and safety monitoring for
+clinical trials.
+Inclusion of
+Women, Minorities, and Individuals Across the Lifespan
+When the proposed project involves human subjects
+and/or NIH-defined clinical research, the committee will evaluate the proposed
+plans for the inclusion (or exclusion) of individuals on the basis of
+sex/gender, race, and ethnicity, as well as the inclusion (or exclusion) of
+individuals of all ages (including children and older adults) to determine if
+it is justified in terms of the scientific goals and research strategy proposed.
+For additional information on review of the Inclusion section, please refer to
+the Guidelines for the Review of Inclusion
+in Clinical Research..
+Vertebrate Animals
+Generally not applicable. Reviewers should bring any
+concerns to the attention of the Scientific Review Officer.
+Biohazards
+Generally not applicable. Reviewers should bring any
+concerns to the attention of the Scientific Review Officer.
+Resubmissions
+Not Applicable
+Renewals
+Not Applicable
+Revisions
+Not Applicable
+Additional Review Considerations
+As applicable for the project proposed, reviewers will consider
+each of the following items, but will not give scores for these items, and
+should not consider them in providing an overall impact score.
+Recruitment Plan
+to Enhance Diversity
+Training in the Responsible
+Conduct of Research
+All applications for support under this FOA must include
+a plan to fulfill NIH requirements for instruction in the Responsible Conduct of
+Research (RCR). Taking into account the specific characteristics of the training
+program, the level of trainee experience, and the particular circumstances of
+the trainees, the reviewers will evaluate the adequacy of the proposed RCR
+training in relation to the following five required components: 1) Format
+- Does the plan satisfactorily address the format of instruction, e.g.,
+lectures, coursework and/or real-time discussion groups, including face-to-face
+interaction? (A plan involving only on-line instruction is not acceptable.);
+2) Subject Matter – Does the plan include a sufficiently broad
+selection of subject matter, such as conflict of interest, authorship, data management,
+human subjects and animal use, laboratory safety, research misconduct, research
+ethics? 3) Faculty Participation - Does the plan adequately describe
+how faculty will participate in the instruction? 4) Duration of Instruction
+- Does the plan meet the minimum requirements for RCR, i.e., at least
+eight contact hours of instruction? 5) Frequency of Instruction – Does the plan meet the minimum requirements for RCR, i.e., at least once during
+each career stage (undergraduate, post-baccalaureate, predoctoral, postdoctoral,
+and faculty levels) and at a frequency of no less than once every four years?
+Plans and past record
+will be rated as ACCEPTABLE or UNACCEPTABLE, and the summary
+statement will provide the consensus of the review committee.
+Select Agent
+Research
+Reviewers will assess the information provided in
+this section of the application, including (1) the Select Agent(s) to be used
+in the proposed research, (2) the registration status of all entities where
+Select Agent(s) will be used, (3) the procedures that will be used to monitor
+possession use and transfer of Select Agent(s), and (4) plans for appropriate biosafety,
+biocontainment, and security of the Select Agent(s).
+Budget and Period of Support
+Reviewers will consider whether the budget and the requested
+period of support are fully justified and reasonable in relation to the proposed
+research.
+2. Review and Selection
+Process
+Applications will be evaluated for scientific and technical
+merit by (an) appropriate Scientific Review Group(s), convened by the Center
+for Scientific Review in accordance with NIH peer
+review policy and procedures, using the stated review
+criteria. Assignment to a Scientific Review Group will be shown in the eRA Commons.
+As part of the scientific peer review, all applications:
+May undergo a selection process in which only those applications
+deemed to have the highest scientific and technical merit (generally the top
+half of applications under review) will be discussed and assigned an overall impact
+score.
+Will receive a written critique.
+Appeals of initial peer review will not be accepted for applications submitted in response
+to this FOA.
+Applications will be assigned to the appropriate NIH Institute
+or Center. Applications will compete for available funds with all other
+recommended applications submitted in response to this FOA. Following initial peer
+review, recommended applications will receive a second level of review by the Fogarty
+International Center Advisory Board. The following will be considered in making
+funding decisions:
+Scientific and technical merit of the proposed project as
+determined by scientific peer review.
+Availability of funds.
+Relevance of the proposed project to program priorities.
+Relevance of the proposed project to the goals of DS-I Africa
+Relevance of proposed project to priorities of co-funding components
+Commitment to compliance with DS-I Africa procedures
+Consideration of programmatic and geographic distribution
+3. Anticipated Announcement
+and Award Dates
+After the peer review of the application is completed, the
+PD/PI will be able to access his or her Summary Statement (written critique)
+via the eRA
+Commons. Refer to Part 1 for dates for peer review, advisory council
+review, and earliest start date
+Information regarding the disposition of applications is available in the NIH
+Grants Policy Statement.
+Section VI. Award
+Administration Information
+1. Award Notices
+If the application is under consideration for funding, NIH
+will request "just-in-time" information from the applicant as
+described in the NIH
+Grants Policy Statement.
+A formal notification in the form of a Notice of Award (NoA) will be provided to
+the applicant organization for successful applications. The NoA signed by the
+grants management officer is the authorizing document and will be sent via
+email to the grantee’s business official.
+Awardees must comply with any funding restrictions described in Section IV.5. Funding Restrictions. Selection
+of an application for award is not an authorization to begin performance. Any
+costs incurred before receipt of the NoA are at the recipient's risk. These costs
+may be reimbursed only to the extent considered allowable pre-award costs.
+Any application awarded in response to this FOA will be subject to terms and
+conditions found on the Award Conditions
+and Information for NIH Grants website. This includes any recent legislation
+and policy applicable to awards that is highlighted on this website.
+Individual awards are based on the application submitted to,
+and as approved by, the NIH and are subject to the IC-specific terms and conditions
+identified in the NoA.
+ClinicalTrials.gov: If an award provides for one or more clinical
+trials. By law (Title VIII, Section 801 of Public Law 110-85), the
+"responsible party" must register and submit results information for certain
+“applicable clinical trials” on the ClinicalTrials.gov Protocol Registration and
+Results System Information Website (https://register.clinicaltrials.gov).
+NIH expects registration and results reporting of all trials whether required
+under the law or not. For more information, see https://grants.nih.gov/policy/clinical-trials/reporting/index.htm
+Institutional Review Board or Independent Ethics Committee
+Approval: Grantee institutions must ensure that all protocols are reviewed by
+their IRB or IEC. To help ensure the safety of participants enrolled in
+NIH-funded studies, the awardee must provide NIH copies of documents related to
+all major changes in the status of ongoing protocols.
+Data and Safety Monitoring Requirements: The NIH policy for
+data and safety monitoring requires oversight and monitoring of all NIH-conducted
+or -supported human biomedical and behavioral intervention studies (clinical
+trials) to ensure the safety of participants and the validity and integrity of
+the data. Further information concerning these requirements is found at
+http://grants.nih.gov/grants/policy/hs/data_safety.htm and in the application
+instructions (SF424 (R&R) and PHS 398).
+Investigational New Drug or Investigational Device Exemption
+Requirements: Consistent with federal regulations, clinical research projects
+involving the use of investigational therapeutics, vaccines, or other medical
+interventions (including licensed products and devices for a purpose other than
+that for which they were licensed) in humans under a research protocol must be
+performed under a Food and Drug Administration (FDA) investigational new drug (IND)
+or investigational device exemption (IDE).
+2. Administrative and National
+Policy Requirements
+All NIH grant and cooperative agreement awards include the NIH Grants
+Policy Statement as part of the NoA. For these terms of award, see the NIH
+Grants Policy Statement Part II: Terms and Conditions of NIH Grant Awards,
+Subpart A: General and Part II:
+Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for
+Specific Types of Grants, Grantees, and Activities. More information is
+provided at Award Conditions
+and Information for NIH Grants.
+Recipients of federal financial assistance (FFA) from HHS
+must administer their programs in compliance with federal civil rights laws that
+prohibit discrimination on the basis of race, color, national origin, disability,
+age and, in some circumstances, religion, conscience, and sex. This
+includes ensuring programs are accessible to persons with limited English
+proficiency. The HHS Office for Civil Rights provides guidance on complying with
+civil rights laws enforced by HHS. Please see https://www.hhs.gov/civil-rights/for-providers/provider-obligations/index.html and http://www.hhs.gov/ocr/civilrights/understanding/section1557/index.html.
+HHS recognizes that research projects are often limited in
+scope for many reasons that are nondiscriminatory, such as the principal
+investigator’s scientific interest, funding limitations, recruitment requirements,
+and other considerations. Thus, criteria in research protocols that target or
+exclude certain populations are warranted where nondiscriminatory justifications
+establish that such criteria are appropriate with respect to the health or
+safety of the subjects, the scientific study design, or the purpose of the
+research. For additional guidance regarding how the provisions apply to NIH grant
+programs, please contact the Scientific/Research Contact that is identified in
+Section VII under Agency Contacts of this FOA.
+Recipients of FFA must ensure that their programs are accessible
+to persons with limited English proficiency. HHS provides guidance to recipients
+of FFA on meeting their legal obligation to take reasonable steps to provide
+meaningful access to their programs by persons with limited English proficiency.
+Please see https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-english-proficiency/fact-sheet-guidance/index.html and https://www.lep.gov. For further guidance on providing
+culturally and linguistically appropriate services, recipients should review the
+National Standards for Culturally and Linguistically Appropriate Services in
+Health and Health Care at https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=2&lvlid=53.
+Recipients of FFA also have specific legal obligations for serving
+qualified individuals with disabilities. Please see http://www.hhs.gov/ocr/civilrights/understanding/disability/index.html.
+HHS funded health and education programs must be administered in
+an environment free of sexual harassment. Please see https://www.hhs.gov/civil-rights/for-individuals/sex-discrimination/index.html;
+https://www2.ed.gov/about/offices/list/ocr/docs/shguide.html; and https://www.eeoc.gov/eeoc/publications/upload/fs-sex.pdf.
+For information about NIH's commitment to supporting a safe and respectful work
+environment, who to contact with questions or concerns, and what NIH's
+expectations are for institutions and the individuals supported on NIH-funded
+awards, please see https://grants.nih.gov/grants/policy/harassment.htm.
+Recipients of FFA must also administer their programs in compliance
+with applicable federal religious nondiscrimination laws and applicable federal
+conscience protection and associated anti-discrimination laws.
+Collectively, these laws prohibit exclusion, adverse treatment, coercion, or
+other discrimination against persons or entities on the basis of their
+consciences, religious beliefs, or moral convictions. Please see https://www.hhs.gov/conscience/conscience-protections/index.html and https://www.hhs.gov/conscience/religious-freedom/index.html.
+Please contact the HHS Office for Civil Rights for more information
+about obligations and prohibitions under federal civil rights laws at https://www.hhs.gov/ocr/about-us/contact-us/index.html or call 1-800-368-1019 or TDD 1-800-537-7697.
+In accordance with the statutory provisions contained in
+Section 872 of the Duncan Hunter National Defense Authorization Act of Fiscal
+Year 2009 (Public Law 110-417), NIH awards will be subject to the Federal
+Awardee Performance and Integrity Information System (FAPIIS) requirements.
+FAPIIS requires Federal award making officials to review and consider information
+about an applicant in the designated integrity and performance system (currently
+FAPIIS) prior to making an award. An applicant, at its option, may review
+information in the designated integrity and performance systems accessible through
+FAPIIS and comment on any information about itself that a Federal agency previously
+entered and is currently in FAPIIS. The Federal awarding agency will consider any
+comments by the applicant, in addition to other information in FAPIIS, in making
+a judgement about the applicant’s integrity, business ethics, and record of
+performance under Federal awards when completing the review of risk posed by
+applicants as described in 45 CFR Part 75.205 “Federal awarding agency review
+of risk posed by applicants.” This provision will apply to all NIH grants and
+cooperative agreements except fellowships.
+Cooperative Agreement Terms and Conditions of Award
+The following special terms of award are in addition to, and
+not in lieu of, otherwise applicable U.S. Office of Management and Budget (OMB)
+administrative guidelines, U.S. Department of Health and Human Services (DHHS)
+grant administration regulations at 45 CFR Part 75, and other HHS, PHS, and NIH
+grant administration policies.
+The administrative and funding instrument used for this program will be the
+cooperative agreement, an "assistance" mechanism (rather than an "acquisition"
+mechanism), in which substantial NIH programmatic involvement with the awardees
+is anticipated during the performance of the activities. Under the cooperative
+agreement, the NIH purpose is to support and stimulate the recipients' activities
+by involvement in and otherwise working jointly with the award recipients in a
+partnership role; it is not to assume direction, prime responsibility, or a
+dominant role in the activities. Consistent with this concept, the dominant role
+and prime responsibility resides with the awardees for the project as a whole,
+although specific tasks and activities may be shared among the awardees and the
+NIH as defined below.
+Awardee
+and Principal Investigator Primary Responsibilities
+Planning, directing, and executing all aspects of the proposed
+research training program, including any modification of its design, management,
+evaluation, preparation and submission of publications, and collaboration with
+other faculty, unless otherwise provided for in these terms;
+Providing effective leadership and management of all activities
+under the award;
+Developing programmatic goals, timelines, and milestones,
+reporting of progress to NIH biannually, and ensuring that the outputs produced
+meets the quality standards agreed to at the beginning of the project by the
+DS-I Africa Consortium;
+Assuring compliance with all applicable DHHS/NIH policies for
+conduct of research and clinical trials as well as host country regulations for
+protection of human subjects and conduct of clinical research;
+Ensuring collaboration with the DS-I Africa Open Data Science
+Platform, that data resources developed as part of this project are shared according
+to DS-I Africa policies, and that results are published in a timely manner;
+Working in close coordination, cooperation, and participation
+with NIH staff for scientific and technical management of the project,
+described further under NIH Responsibilities;
+Agreeing to the governance of the Consortium through the Steering
+Committee, including adherence to DS-I Africa policies and procedures; and
+Serving as active members of the DS-I Africa Steering Committee, attending
+Steering Committee meetings, and participating directly or by proxy on relevant
+DS-I Africa Working Groups, both remotely through regular teleconferences and in-person
+at biannual DS-I Africa Consortium Meetings.
+Awardees will retain custody of and have primary rights to
+the data and software developed under these awards, subject to Government
+rights of access consistent with current DHHS, PHS, and NIH policies.
+NIH Responsibilities
+NIH staff (including, but not limited to, Project
+Scientists, Program Officers, Intramural Scientists, and Program Analysts) have
+substantial programmatic involvement that is above and beyond the normal stewardship
+role in awards.
+NIH Project Scientists roles include:
+Participating (with DS-I Africa investigators) in the group
+process of deciding optimal research approaches and protocol designs, and
+contributing to the adjustment of research protocols or approaches as warranted;
+Attending Steering Committee meetings, serving on DS-I Africa
+Working Groups, and assisting in developing operating guidelines, quality
+control procedures, and consistent policies for dealing with recurrent
+situations that require coordinated action;
+NIH Program Officer roles include:
+Negotiating goals and milestones with the awardees as needed;
+Serving as liaisons between the awardees and the appropriate NIH
+Institute and Center National Advisory Councils and the NIH DS-I Africa Working
+Group made up of program staff that collectively manage the program;
+Attending Steering Committee meetings, serving on DS-I Africa
+Working Groups, and assisting in developing operating guidelines, quality
+control procedures, and consistent policies for dealing with recurrent situations
+that require coordinated action;
+Convening external consultants to support NIH oversight of the
+DS-I Africa consortium?;
+Interacting with the PD(s)/PI(s) on a regular basis to monitor
+progress, which may include regular communication with the study leadership and
+staff, periodic site visits for discussion with the awardee research team,
+observation of data collection and management techniques, fiscal reviews, and
+other relevant stewardship matters; and
+Making recommendations for continued funding based on (a) overall
+research progress; (b) cooperation in carrying out the research (e.g.,
+attendance at Steering Committee meetings, implementation of group decisions,
+compliance with the terms of award and reporting requirements); and/or (c) maintenance
+of high-quality research.
+Normal scientific and programmatic stewardship of the award and
+assignment in the award notice. The assigned NIH Program Official may not also
+serve as an NIH Project Scientist.
+The government, via NIH Program Scientists, will have access
+to all data generated under this Cooperative Agreement and may periodically
+review and analyze the data for the preparation of internal reports related to
+the Cooperative Agreement.
+An NIH intramural scientist may not serve as the PD/PI of a
+project awarded under this FOA but may participate as a collaborator or
+consultant. For applications that include NIH intramural components, the
+involvement of intramural scientists needs to be consistent with NIH policy ?-? https://oir.nih.gov/sourcebook/ethical-conduct/research-ethics/nih-policies/intramural-extramural-collaborations.
+The NIH reserves the right to withhold funding or curtail
+studies in an individual award in the event of (a) substantive changes in the
+agreed-upon work scope with which NIH cannot concur, (b) human subject ethical
+issues that may dictate a premature termination; (c) or insufficient project
+progress.
+Collaborative Responsibilities
+A Steering Committee (SC) will serve as the governing board
+for awardees. All participants in the program are bound by the policies and
+procedures developed by the SC and adoption of such policies and procedures
+requires a majority vote. Membership on the SC will include the PI(s) of each
+award and associated NIH program officers and projects scientists. On voting
+matters, each funded project will have one vote for determining appropriate
+collaborative activities, with NIH providing final approval for consortium
+activities. The chair will be chosen by a majority vote of the SC, with years
+of service as chair determined by the committee. The chair, in collaboration
+with the associated program Coordinating Center staff, is responsible for
+preparing meeting agendas, for chairing meetings, and for approving minutes in
+a timely manner. NIH staff may not serve as Chair of the SC.
+Steering
+Committee responsibilities include:
+Discussing progress in meeting the broad goals of various DS-I
+Africa projects (while maintaining appropriate project-specific protection of
+intellectual property) and of DS-I Africa as a whole;
+Developing recommendations for uniform procedures and policies
+necessary to meet the goals of the Consortium, for example for data quality
+measures and assessment as well as conventions for data sharing;
+Cooperating to ensure the timely and broad dissemination of
+lessons learned to inform researchers and health care systems engaged in data
+science for health discovery and innovation in Africa;
+Endorsing and overseeing progress and products of Working Groups
+within the Consortium; and
+Meeting twice a year in-person in conjunction with Consortium
+meetings and conducting regularly scheduled conference calls.
+Dispute
+Resolution
+Any disagreements that may arise in scientific or programmatic
+matters (within the scope of the award) between award recipients and the NIH
+may be brought to Dispute Resolution and a Dispute Resolution Panel will be convened.
+The Panel will have three members: a designee of the Steering Committee chosen
+without NIH staff voting, one NIH designee, and a third designee with expertise
+in the relevant area who is chosen by the other two; in the case of individual
+disagreement, the first member may be chosen by the individual awardee. This
+special dispute resolution procedure does not alter the awardee's right to
+appeal an adverse action that is otherwise appealable in accordance with PHS
+regulation 42 CFR Part 50, Subpart D and DHHS regulation 45 CFR Part 16.
+3. Reporting
+When multiple years are involved, awardees will be required
+to submit the Research
+Performance Progress Report (RPPR) annually. Continuation support will not be
+provided until the required forms are submitted and accepted.
+Failure by the grantee institution to submit required forms
+in a timely, complete, and accurate manner may result in an expenditure disallowance
+or a delay in any continuation funding for the award.
+The Federal Funding Accountability and Transparency Act of
+2006 (Transparency Act), includes a requirement for awardees of Federal grants
+to report information about first-tier subawards and executive compensation
+under Federal assistance awards issued in FY2011 or later. All awardees of applicable
+NIH grants and cooperative agreements are required to report to the
+Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the NIH
+Grants Policy Statement for additional information on this reporting
+requirement.
+Other Reporting Requirements
+Recipients are requested to annually update and maintain
+data on trainees in NIH's CareerTrac (https://careertrac.niehs.nih.gov/).
+A final RPPR and the expenditure data portion of the Federal
+Financial Report are required for closeout of an award as described in the NIH Grants
+Policy Statement.
+In accordance with the regulatory requirements provided at
+45 CFR 75.113 and Appendix XII to 45 CFR Part 75, recipients that have currently
+active Federal grants, cooperative agreements, and procurement contracts from
+all Federal awarding agencies with a cumulative total value greater than
+$10,000,000 for any period of time during the period of performance of a
+Federal award, must report and maintain the currency of information reported in
+the System for Award Management (SAM) about civil, criminal, and administrative
+proceedings in connection with the award or performance of a Federal award that
+reached final disposition within the most recent five-year period. The
+recipient must also make semiannual disclosures regarding such proceedings. Proceedings
+information will be made publicly available in the designated integrity and
+performance system (currently FAPIIS). This is a statutory requirement under
+section 872 of Public Law 110-417, as amended (41 U.S.C. 2313). As required by
+section 3010 of Public Law 111-212, all information posted in the designated
+integrity and performance system on or after April 15, 2011, except past performance
+reviews required for Federal procurement contracts, will be publicly available.
+Full reporting requirements and procedures are found in Appendix XII to 45 CFR
+Part 75 – Award Term and Conditions for Recipient Integrity and Performance
+Matters.
+4. Evaluation
+In carrying out its stewardship of human resource-related
+programs, the NIH may request information essential to an assessment of the effectiveness
+of this program from databases and from participants themselves. Participants
+may be contacted after the completion of this award for periodic updates on
+various aspects of their employment history, publications, support from research
+grants or contracts, honors and awards, professional activities, and other information
+helpful in evaluating the impact of the program.
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity
+and welcome the opportunity to answer questions from potential applicants.
+Application Submission Contacts
+eRA Commons Help Desk (Questions regarding ASSIST, eRA Commons,
+application errors and warnings, documenting system problems that threaten
+submission by the due date, and post-submission issues)
+Finding Help Online: http://grants.nih.gov/support/ (preferred method of contact)
+Telephone: 301-402-7469 or 866-504-9552 (Toll Free)
+General Grants Information (Questions regarding application
+instructions, application processes, and NIH grant resources)
+Email: GrantsInfo@nih.gov (preferred method of contact)
+Telephone: 301-945-7573
+Grants.gov Customer Support (Questions regarding Grants.gov registration
+and Workspace)
+Contact Center Telephone: 800-518-4726
+Email: support@grants.gov
+Scientific/Research Contact(s)
+Laura Povlich, Ph.D.
+Fogarty International Center (FIC)
+Telephone: 301-827-2227
+Email: laura.povlich@nih.gov
+Peer Review Contact(s)
+Seetha Bhagavan, Ph.D.
+Center for Scientific Review (CSR)
+Telephone: 301-237-9838
+Email: bhagavas@csr.nih.gov
+Financial/Grants Management Contact(s)
+Mollie Shea
+Fogarty International Center (FIC)
+Telephone: 301-451-6830
+E-mail:mollie.shea@nih.gov
+Section VIII. Other Information
+Recently issued trans-NIH policy
+notices may affect your application submission. A full list of policy
+notices published by NIH is provided in the NIH Guide
+for Grants and Contracts. All awards
+are subject to the terms and conditions, cost principles, and other
+considerations described in the NIH Grants Policy Statement.
+Authority and Regulations
+Awards are made under the authorization of Sections 301 and
+405 of the Public Health Service Act as amended (42 USC 287b) and under Federal
+Regulations 42 CFR Part 63a.
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+Department of Health
+and Human Services (HHS)
+NIH... Turning Discovery Into Health®
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.

@@ -1,0 +1,1380 @@
+Department of Health
+and Human Services
+Part 1. Overview Information
+Participating Organization(s)
+National Institutes of Health (NIH)
+Components of Participating
+Organizations
+NIH
+Blueprint for Neuroscience Research
+National Eye Institute (NEI)
+National Institute on Aging (NIA)
+National Institute on Alcohol Abuse and Alcoholism (NIAAA)
+National Institute of Biomedical Imaging and Bioengineering (NIBIB)
+Eunice Kennedy Shriver National Institute of Child Health and Human
+Development (NICHD)
+National Institute on Deafness and Other Communication Disorders (NIDCD)
+National Institute of Dental and Craniofacial Research (NIDCR)
+National Institute on Drug Abuse (NIDA)
+National Institute of Environmental Health Sciences (NIEHS)
+National Institute of General Medical Sciences (NIGMS)
+National Institute of Mental Health (NIMH)
+National Institute of Neurological Disorders and Stroke (NINDS)
+National Institute of Nursing Research (NINR)
+National Center for Complementary and Alternative Medicine (NCCAM)
+National Center for Advancing Translational Sciences (NCATS)
+Office of Behavioral and Social Sciences Research (OBSSR)
+Funding Opportunity Title
+NIH Blueprint for Neuroscience Research Grand Challenge: Discovering
+Novel Drugs for Disorders of the Nervous System (U01)
+Activity Code
+U01 Research Project – Cooperative Agreements
+Announcement Type
+Reissue of RFA-NS-12-002
+Related Notices
+April 19, 2012 - See Notice NOT-NS-12-014. Change of Key Dates.
+Funding Opportunity Announcement (FOA) Number
+RFA-NS-13-003
+Companion Funding Opportunity
+None
+Number of Applications
+See Section III. 3.
+Additional Information on Eligibility.
+Catalog of Federal Domestic Assistance (CFDA) Number(s)
+93.867, 93.866, 93.273, 93.286, 93.865, 93.173, 93.121,
+93.279, 93.113, 93.859, 93.242, 93.853, 93.361, 93.213, 93.350
+Funding Opportunity Purpose
+The National Institutes of Health (NIH) announces a unique
+opportunity for investigators working with small molecule compounds to gain
+access to a robust ‘virtual pharma’ network to discover neurotherapeutic
+drugs. Successful applicants to this FOA will become collaborative
+participants in this network, receiving both funding and no-cost access to
+contracted drug discovery services that are not typically available to the
+academic research community. Funding will be provided through a U01
+cooperative agreement mechanism to conduct biological testing of compound
+analogs in disease assays and models in the investigator’s laboratory.
+No-cost drug discovery services will also be provided, including medicinal
+chemistry optimization, IND-directed pharmacology and toxicology, and Phase I
+clinical testing. Researchers in possession of disease assays and small
+molecule compounds that show promise for treating nervous system and
+psychiatric disorders, but that are not yet suitable for clinical testing,
+are strongly encouraged to apply.
+Key Dates
+Posted Date
+February 21, 2012
+Open Date (Earliest Submission Date)
+(New Date September 8, 2012 per NOT-NS-12-014), Original Date: May 8, 2012
+Letter of Intent Due Date
+(New Date September 8, 2012 per NOT-NS-12-014), Original Date: May 8, 2012
+Application Due Date(s)
+(New Date October 8, 2012 per NOT-NS-12-014), Original Date: June 8, 2012, by 5:00 PM local time of applicant
+organization.
+AIDS Application Due Date(s)
+Not Applicable.
+Scientific Merit Review
+(New Date December 2012 per NOT-NS-12-014), Original Date: September 2012
+Advisory Council Review
+January 2013
+Earliest Start Date(s)
+April 1, 2013
+Expiration Date
+(New Date October 9, 2012 per NOT-NS-12-014), Original Date: June 9, 2012
+Due Dates for E.O. 12372
+Not Applicable
+Required Application Instructions
+It is critical that applicants follow the instructions in
+the SF
+424 (R&R) Application Guide, except where instructed to do otherwise
+(in this FOA or in a Notice from the NIH Guide for Grants and
+Contracts). Conformance to all requirements (both in the
+Application Guide and the FOA) is required and strictly enforced. Applicants
+must read and follow all application instructions in the Application Guide as
+well as any program-specific instructions noted in Section IV. When the program-specific
+instructions deviate from those in the Application Guide, follow the
+program-specific instructions. Applications that do not comply with
+these instructions may be delayed or not accepted for review.
+A compatible version
+of Adobe Reader is required for download.
+For Assistance downloading this or any Grants.gov application package, please contact Grants.gov Customer Support
+at http://www07.grants.gov/contactus/contactus.jsp.
+Table of Contents
+Part 1. Overview Information
+Part 2. Full Text of the Announcement
+Section I. Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission
+Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2. Full Text of
+Announcement
+Section
+I. Funding Opportunity Description
+A.
+Overview
+Many devastating disorders affect the nervous system,
+including neurological diseases, psychiatric disorders, age-related dementias,
+developmental disorders, visual and hearing loss, chronic pain, alcohol
+dependence, and drug addiction. In 2010, the sixteen NIH Institutes, Centers,
+and Offices that comprise the NIH Blueprint for Neuroscience Research announced
+a Grand Challenge for Neurotherapeutics to address the paucity of effective
+treatments for disorders of the nervous system (http://neuroscienceblueprint.nih.gov/blueprint_basics/about_blueprint.htm).
+A long-term goal is to produce at least one novel and effective medication for
+a disorder of the nervous system that is currently poorly treated or
+untreatable.
+Recent advances in neuroscience offer unprecedented
+opportunities to discover new treatments for nervous system disorders. However,
+most promising compounds identified through basic research are not sufficiently
+drug-like for human testing. Before a new chemical entity can be tested in a
+clinical setting, it must undergo a process of chemical optimization to improve
+potency, selectivity, and drug-likeness, followed by pre-clinical safety
+testing to meet the standards set by the Food and Drug Administration (FDA) for
+clinical testing. These activities are largely the domain of the pharmaceutical
+industry and contract research organizations, and the necessary expertise and
+resources are not commonly available to academic researchers.
+To enable drug discovery by the neuroscience community, the
+NIH Blueprint for Neuroscience Research is establishing a ‘virtual pharma’
+network of contract service providers and consultants with extensive industry
+experience. This Funding Opportunity Announcement (FOA) is soliciting
+applications for U01 cooperative agreement awards from investigators with small
+molecule compounds that could be developed into clinical candidates within this
+network. This program intends to advance projects from early medicinal
+chemistry through Phase I clinical testing and facilitate industry partnerships
+for their subsequent development. The network has the capacity to initiate up
+to 20 projects, total, with the expectation that some projects may end early
+due to lack of milestone achievement. A list of projects currently in the
+network, consultants, and contract service providers can be viewed at http://neuroscienceblueprint.nih.gov/bpdrugs/bpn.htm.
+To be accepted into the network, applicants to this FOA must
+have in hand the starting compounds for chemical optimization and bioactivity
+assays for testing new analog compounds generated through the Blueprint
+Neurotherapeutics drug discovery network (see Entry Criteria below for more
+details). Successful applicants under this FOA will receive 1) funding for
+biological assessment of compounds in their laboratories, 2) no-cost access to
+drug development resources that typically reside in the pharmaceutical
+industry, including iterative medicinal chemistry optimization,
+pharmacokinetics, toxicology, manufacture and formulation services, and Phase I
+clinical safety testing and 3) strategic guidance from experienced drug
+discovery consultants, identified by NIH. The budget of the U01 application
+will support only the work in investigators’ laboratories, which will involve
+testing of compounds in biological assays and models related to the target disorder.
+Each drug discovery project will be directed by a
+collaborative Lead Development Team, co-chaired by the U01 investigator and a
+consultant with extensive industry expertise identified and supported by the
+NIH Blueprint for Neuroscience Research. The team will also include consultants
+with additional expertise, supported by NIH, and NIH staff. Work will be guided
+by this team, with oversight from the Blueprint Neurotherapeutics Steering
+Committee and, ultimately, the NIH Blueprint for Neuroscience Research
+Institute and Center Directors.
+This program is structured to allow the Program Director(s)/Principal
+Investigator(s)' (PD(s)/PI(s)') institutions to retain ownership of
+intellectual property for compounds developed within the network. The Program
+Director(s)/Principal Investigator(s)' (PD(s)/PI(s)') institutions therefore
+assume responsibility for the ultimate commercialization of compounds developed
+through this effort.
+B. Entry Criteria
+To be eligible for the Blueprint Neurotherapeutics Network,
+a project must focus on a nervous system condition that falls within the
+mission of one of the Blueprint Institutes or Centers (http://neuroscienceblueprint.nih.gov/blueprint_basics/about_blueprint.htm).
+Applicants must have available small-molecule compounds with strong evidence of
+disease-related activity and the potential for optimization through iterative
+medicinal chemistry. Applicants must also be able to conduct bioactivity and
+efficacy testing to assess compounds synthesized in the development process and
+provide all pre-clinical validation for the desired disease indication. The
+entry criteria for the Blueprint Neurotherapeutics Network are detailed below.
+1.
+Biological Rationale
+Compounds entering the program must be well-supported by
+biological data that is sufficiently compelling and rigorous to justify the
+initiation of a multi-million dollar drug development effort. What constitutes
+a compelling and rigorous package of biological data will vary somewhat by
+disease and will be determined by peer review.
+Applicants should present their best arguments that any in
+vitro or in vivo models proposed, endpoints measured, and levels of activity
+observed are likely to be clinically relevant. Recognizing that very few in
+vivo disease models are clinically validated, testing in an in vivo model of
+disease is not necessarily required; however, it is highly desirable to
+demonstrate a clinically relevant pharmacodynamic read-out of activity in vivo.
+Any studies presented to justify the proposed strategy must be sufficiently
+powered, controlled, and replicated to lend a high degree of confidence in the
+results (examples of critical elements of a well-designed study are summarized
+at http://www.ninds.nih.gov/funding/grant_policy.htm).
+There should be a strong link between the activity to be optimized in the
+primary assay and the activity in confirmatory assays and models.
+It is not necessary to know the precise molecular target for
+the starting compound(s), but knowledge of the compound's mechanism of action
+is helpful, both to anticipate potential toxicities and to track activity via a
+pharmacodynamic read-out. If the mechanism of action is not known, the
+applicant is strongly encouraged to pursue parallel efforts to elucidate the mechanism,
+using other sources of funding (please note that mechanistic studies are
+outside the scope of this funding opportunity).
+2.
+Compounds Proposed for Development
+An application may propose development of more than one
+chemical scaffold, provided that the same testing strategies and assays are
+utilized for all of the proposed scaffolds. To be suitable for medicinal
+chemistry optimization, compounds proposed for entry into the Blueprint
+Neurotherapeutics Network should possess the following attributes:
+Compound
+structure. The compound must be of a size and structure that can be
+readily synthesized and chemically modified. This program is not designed to
+support the development of biologics, including oligonucleotides and proteins,
+or the iterative optimization of complex natural product scaffolds. Small
+peptides of fewer than ~6 amino acids may be acceptable; applicants should
+contact NIH program staff regarding small peptides and other complex chemical
+structures to determine suitability for optimization within the network.
+Activity
+in primary and secondary/confirmatory assay(s). For biochemical
+assays, compounds generally should show activity at 1µM or below. For
+cell-based assays, an IC50 or EC50 of <10µM is desirable. Activity in the
+primary screening assay should be confirmed by repeat dose-response testing.
+Determination
+of identity and purity. The starting compound(s) should have proof
+of identity and purity (typically >95%, as determined by, e.g., NMR, melting
+point, or LC/MS, with no single impurity > 0.5%) and biological activity
+should have been demonstrated with more than one batch of compound.
+Compound
+target selectivity. In cases where the molecular target of compound
+action is known, the applicant should demonstrate the degree of selectivity for
+the intended target over closely related targets. Counter-screening to
+determine selectivity across a broad panel of unrelated pharmacological targets
+(e.g., G protein-coupled receptors, kinases, etc.) is desirable, but not
+required.
+Solubility. Compounds should have reasonable aqueous solubility, typically >1µg/mL at
+pH7.4.
+Structure-activity
+relationship (SAR). Demonstration that chemical analogs of a
+proposed compound show similar biological activity is desirable but not
+required. Limited SAR information may have been derived from activity of
+analogs in a screening library or from testing of commercially available
+analogs.
+3.
+Proposed Assays
+This initiative is not intended to support development of
+new bioactivity assays, thus the applicant must have in hand well-characterized
+assays and models. Applicants should have three types of assays that can form
+the basis of a bioactivity testing funnel: 1) a moderate throughput primary
+screening assay, 2) one or more secondary assays for confirmation of activity
+and potential efficacy and 3) counter screening assays for target selectivity,
+where necessary. The testing funnel must include at least one cell-based assay.
+For each type of assay, the parameters that should be discussed in the
+application are outlined below.
+Primary
+screening assay. This must be an assay with moderate throughput or
+better, e.g., a reporter assay, which will be used to perform routine weekly
+screening of compounds synthesized for iterative medicinal chemistry. To inform
+the medicinal chemistry design, the assay must be sufficiently robust and
+reproducible to reliably rank compounds with similar activities. The primary
+screening assay should meet the following criteria:
+A statistical demonstration of reliability, e.g., a Z’ score
+=0.5 and a coefficient of variation (CV) =20%
+A reproducible demonstration of dose-response over at least 3
+orders of magnitude (e.g., 0.1-10µM) with a positive control compound.
+Throughput of at least 20 compounds per 1-2 weeks, run with
+sufficient replicates to produce robust and reproducible 10-point dose-response
+curves.
+Secondary
+confirmation assays. The applicant must have one or more secondary
+assays with sufficient biological validation and reproducibility to confirm the
+activity of compounds identified in the primary assay and demonstrate potential
+efficacy in the target disorder. These may be low to moderate throughput
+assays. Ideally, at least one secondary assay would be capable of generating
+dose-response data for multiple compounds simultaneously.
+Selectivity
+and counter-screening assays. Where the molecular target of drug
+action is known, e.g., a particular kinase, it may bear similarity to other
+cellular targets. In these cases, the applicant should describe criteria
+for compound specificity for these targets and propose a strategy for using
+screening assays to determine that specificity. Where aspects of the screening
+approach are prone to unwanted activities or artifact, or mechanism-based or
+compound-based side effects are anticipated, counter screens should be proposed
+to rule out these unwanted activities. Proposed counter-screening and
+selectivity assays should have demonstrated reliability and adequate throughput
+for their proposed use in the development program.
+Biomarkers. Ideally, applicants would have in place biomarker(s) that can serve as
+objective indicators of pharmacological response to therapeutic intervention
+and support entry into and evaluation in the clinic. If such biomarkers are not
+available, applicants are encouraged to develop them through parallel research
+efforts, funded by other means.
+C. Projects Not Responsive to this Announcement
+PD(s)/PI(s) that are seeking funding for drug development and
+have sufficient access to medicinal chemistry and drug discovery expertise
+should consider funding programs available through the individual NIH
+Institutes. Please contact program staff at the relevant Institute for
+information about available drug development programs for specific disorders.
+Projects requiring only access to IND-directed preclinical
+testing for compounds that have already undergone medicinal chemistry
+optimization are not suitable for this program. The NIH Bridging
+Interventional Development Gaps (BrIDGs) program (http://nctt.nih.gov/bridgs/) offers
+investigators access to IND-directed services on a competitive basis.
+Although applicants are encouraged to incorporate biomarkers into
+their drug discovery strategy (see section B3 above), development of
+biomarkers, per se, is out of the scope of support by this program. Please
+contact program staff at the appropriate Institute for funding opportunities
+for biomarker development.
+Research aims appropriate for an investigator-initiated R01
+grant, such as understanding underlying biological mechanisms of disease,
+should not be included in an application under this FOA.
+D. Timeline of Drug Development and the U01 Investigator’s Role
+Directing compounds through the drug development pipeline
+will be a collaborative effort. After award, a Lead Development Team (LDT) will
+be formed to collaboratively manage and coordinate the progress of compounds
+through the development pipeline. The team will be co-chaired by the U01
+investigator and a drug development consultant identified and supported by the
+Blueprint Neurotherapeutics program. The team will include other consultants as
+needed at each stage of the project to advise on chemistry, biology and
+Absorption, Distribution, Metabolism, Excretion and Toxicity (ADMET) study
+design and interpretation. The first responsibility of the Lead Development
+Team will be to establish a drug development plan involving the Blueprint
+Neurotherapeutics Network contractors. This plan will define activities and
+advancement criteria for a series of stages through which compounds will
+progress during development.
+This section outlines the stages and timeline of work that
+will be conducted throughout the development pipeline, beginning with the entry
+of a well-characterized hit compound and ending with a novel candidate drug
+with demonstrated safety in humans. This section also outlines the roles of the
+NIH Blueprint Neurotherapeutics Network and the U01 investigator in each stage
+of the pipeline.
+1.
+Exploratory chemistry/feasibility (for budget purposes, assume 6 months). Each project will undergo a feasibility phase in which investigators will
+validate their primary screening assays for SAR studies and test a collection
+of approximately 50-100 chemical compound analogs. These will be supplied to
+the investigator by NIH Blueprint Neurotherapeutics contractors. Work in this
+phase will be directed toward determining whether the compounds and assays are
+amenable to medicinal chemistry optimization. If ADMET properties of the parent
+compound have not been characterized at the time of submission, preliminary
+studies of PK and toxicological properties also will be conducted during this
+phase.
+2.
+Medicinal chemistry optimization (for budget purposes, assume 2 years). If the outcomes of the feasibility studies are successful, compounds will enter
+a full-scale, iterative medicinal chemistry optimization phase to improve
+bioactivity, potency and pharmacological properties. This process of understanding
+the structure activity relationship (SAR) between the compounds and the desired
+drug properties typically requires dozens of rounds of compound synthesis and
+testing. The ultimate goal of the SAR effort is selection of a pre-clinical
+candidate compound with sufficient bioactivity and drug-likeness to proceed to
+IND-directed pre-clinical safety assessment.
+The major role of the U01-funded investigator in this
+process is to conduct primary biological assessment of compounds on a regular,
+one-to-two week schedule to inform the design of subsequent iterations of
+compound synthesis. In addition to a regular testing schedule in the primary
+assay, the PD/PI will provide confirmation of the activity of select compounds
+in secondary assays and possibly animal models relevant to the drug target.
+NIH Blueprint Neurotherapeutics contractors will produce
+compound analogs for SAR testing and provide standard screening services to
+assess in vitro and in vivo ADMET characteristics of the compounds.
+In the first year, medicinal chemistry will be in a
+‘hit-to-lead’ phase, focusing heavily on optimizing activity and potency of
+compounds in the primary and secondary disease assays. In the subsequent ‘lead
+optimization’ phase, SAR will increase emphasis on ADMET properties of the
+compounds, with continued monitoring and optimization of bioactivity. If
+compound testing in in vivo animal models is proposed, this should be limited
+to testing a small number of selected advanced compound analogs (e.g., 3) in year
+3.
+3.
+IND-enabling studies (for budget purposes, assume 1.5 years). If a therapeutic candidate is identified which meets the target criteria for
+activity, efficacy, and favorable physicochemical and ADMET properties, it will
+move into IND-directed pharmacology and toxicology studies. Blueprint
+Neurotherapeutics contractors, with direction from the Lead Development Team,
+will conduct the preclinical safety studies, GMP synthesis, formulation and
+other activities required to ready a compound for human testing.
+Blueprint Neurotherapeutics contractors will provide data and reports in
+a format suitable for inclusion in an IND application and will assist in the
+development of the application. The U01 investigator will be responsible for
+the submission of the IND application and scheduling meetings with the FDA.
+4.
+Phase I clinical trial (for budget purposes, assume 1 year). Once an IND has been submitted successfully to the FDA, a Phase I clinical
+trial, typically in healthy volunteer subjects, will be conducted by a
+Blueprint Neurotherapeutics contractor. The development of the protocol and
+conduct of the trial will involve input from a Clinical Development Team, which
+will include the U01 investigator, clinical consultants identified by the NIH,
+and Blueprint Neurotherapeutics staff. Costs associated with the conduct of
+clinical trials will be supported outside the U01 and should not be included in
+the requested budget. In most cases, Phase I human studies will be conducted
+under a contract in the NIH Blueprint Neurotherapeutics Network.
+E. Milestones
+Because drug development is an inherently high-risk process,
+it is anticipated that there will be a significant attrition rate as projects
+move through the pipeline. Go/No-Go milestones will be agreed upon at the start
+of each project and, in consultation with the Lead Development Team,
+investigators will produce milestone progress reports for independent
+evaluation by the Blueprint Neurotherapeutics Steering Committee. Please note
+that milestones do not need to be proposed in the application.
+If a funded project does not make sufficient progress toward
+the agreed upon milestones at any stage, funding for the project and access to
+Blueprint Neurotherapeutics contract resources may be discontinued unless an
+additional source of funding is identified (see section VI.2.)
+F. Intellectual Property
+Since the ultimate goal of the Blueprint Neurotherapeutics
+Network is to bring new drugs to the market, the creation and protection of
+appropriate intellectual property is a significant consideration in designing
+research strategies and prioritizing projects for funding. This program is
+structured so that the U01 awardee institution can gain assignment of
+intellectual property rights (and thereby control the patent prosecution and
+licensing negotiations) for drug candidates developed through the Blueprint
+Network. The goal is for the U01 awardee institution to take responsibility for
+patent filings and licensing toward eventual commercialization.
+To this end, the NIH has structured the medicinal chemistry
+contract to ensure that the U01 institution will receive assignment of rights
+to inventions for analogs and methods of use of such analogs, generated through
+the chemistry contract, that are directly related to the U01 institution's
+starting materials. In addition, the U01 institution will retain its
+proprietary rights in its starting materials. Inventorship will be governed by
+U.S. patent law, so that contractor chemists will be listed as inventors on
+patents, as appropriate. However, the contracted chemists must abide by the
+royalty-distributing policies of the U01 PD/PI's institution. The medicinal
+chemistry contractors will retain ownership of inventions on methods of
+manufacturing or synthesis but must provide broad licenses to the U01 PD/PI's
+institution to enable subsequent development of drug candidates. Drug
+development consultants hired by the NIH must agree to an intellectual property
+arrangement with the U01 PD/PI's institution before advising on the project.
+The U01 institution must execute agreements with the contractors and
+consultants that formalize these plans for IP assignment and distribution of
+royalties before the Notice of Grant Award can be released.
+The intellectual property position of each project will be
+evaluated at multiple points throughout the program. Each U01 application
+is expected to address intellectual property issues related to the proposed
+compounds and assays, with input from the institution's technology transfer
+officials. Peer reviewers will be instructed to comment on the intellectual
+property landscape for each U01 application, and the NIH may assess the
+feasibility of developing chemical analogs with a strong intellectual property
+position prior to making U01 awards. This evaluation may include patent
+searches on chemical structures similar to that of the proposed parent
+compound. The project milestone plan will include commercialization milestones
+to protect and leverage intellectual property developed through the Network.
+Recipients of U01 awards will be encouraged to identify potential licensing and
+commercialization partners early in the drug development process. The U01 PD/PI
+is expected to work closely with technology transfer officials at his or her
+institution to ensure that royalty agreements, patent filings, and all other
+necessary intellectual property arrangements are completed in a timely manner.
+Section
+II. Award Information
+Funding Instrument
+Cooperative Agreement
+Application Types Allowed
+New
+Resubmission (A1)
+applications will be accepted for applications previously submitted in
+response to RFA-NS-12-002 and RFA-NS-11-002.
+The OER
+Glossary and the SF 424 (R&R) Application Guide provide details on
+these application types.
+Funds Available and Anticipated Number of Awards
+The participating ICs intend to commit up to $800,000 in
+FY 2013 to fund up to 4 awards. Awards issued under this FOA are contingent
+upon the availability of funds and the submission of a sufficient number of
+meritorious applications.
+Award Budget
+Application budgets are not limited, but need to reflect
+actual needs of the proposed project. Applicants are encouraged to keep
+direct costs to no more than $125,000 per year for in vitro bioactivity
+screening, in the early years of the project. However, because the nature and
+scope of the proposed research will vary from application to application, it
+is anticipated that the size and duration of each award will also vary.
+Award Project Period
+Project duration can be up to five years; budgets should
+be appropriate for the proposed work. The actual duration of individual
+projects will depend on successful achievement of milestones as described in
+this FOA.
+NIH grants policies as
+described in the NIH
+Grants Policy Statement will apply
+to the applications submitted and awards made in response to this FOA.
+Section III. Eligibility Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+Public/State Controlled Institutions of Higher Education
+Private Institutions of Higher Education
+The following types of Higher Education Institutions
+are always encouraged to apply for NIH support as Public or Private
+Institutions of Higher Education:
+Hispanic-serving Institutions
+Historically Black Colleges and Universities (HBCUs)
+Tribally Controlled Colleges and Universities (TCCUs)
+Alaska Native and Native Hawaiian Serving Institutions
+Nonprofits Other Than Institutions of Higher Education
+Nonprofits with 501(c)(3) IRS Status (Other than Institutions of
+Higher Education)
+Nonprofits without 501(c)(3) IRS Status (Other than Institutions
+of Higher Education)
+For-Profit Organizations
+Small Businesses
+For-Profit Organizations (Other than Small Businesses)
+Governments
+State Governments
+County Governments
+City or Township Governments
+Special District Governments
+Indian/Native American Tribal Governments (Federally Recognized)
+Indian/Native American Tribal Governments (Other than Federally
+Recognized)
+Eligible Agencies of the Federal Government
+U.S. Territory or Possession
+Other
+Independent School Districts
+Public Housing Authorities/Indian Housing Authorities
+Native American Tribal Organizations (other than Federally
+recognized tribal governments)
+Faith-based or Community-based Organizations
+Regional Organizations
+Foreign Institutions
+Non-domestic (non-U.S.) Entities (Foreign Institutions) are eligible to apply.
+Non-domestic (non-U.S.) components of U.S. Organizations are eligible to
+apply.
+Foreign components, as defined in the NIH
+Grants Policy Statement, are allowed.
+Required Registrations
+Applicant organizations must complete the following registrations
+as described in the SF 424 (R&R) Application Guide to be eligible to apply
+for or receive an award. Applicants must have a valid Dun and Bradstreet
+Universal Numbering System (DUNS) number in order to begin each of the following
+registrations.
+Central Contractor Registration (CCR) – must maintain an active registration, to be renewed at least annually
+Grants.gov
+eRA Commons
+All Program Director(s)/Principal Investigator(s) (PD(s)/PI(s))
+must also work with their institutional officials to register with the eRA
+Commons or ensure their existing eRA Commons account is affiliated with the eRA
+Commons account of the applicant organization.
+All registrations must be completed by the application due date. Applicant
+organizations are strongly encouraged to start the registration process at
+least 4-6 weeks prior to the application due date.
+Eligible Individuals (Program Director(s)/Principal Investigator(s))
+Any individual(s) with the skills, knowledge, and resources
+necessary to carry out the proposed research as the Program Director(s)/Principal
+Investigator(s) (PD(s)/PI(s)) is invited to work with his/her organization to
+develop an application for support. Individuals from underrepresented racial
+and ethnic groups as well as individuals with disabilities are always
+encouraged to apply for NIH support.
+For institutions/organizations proposing multiple PD(s)/PI(s), visit the Multiple
+Program Director(s)/Principal Investigator(s) Policy and submission details in
+the Senior/Key Person Profile (Expanded) Component of the SF 424 (R&R)
+Application Guide.
+2. Cost Sharing
+This FOA does not require cost sharing as defined in the NIH
+Grants Policy Statement.
+3.
+Additional Information on Eligibility
+Number of Applications
+Applicant organizations may submit more than one application,
+provided that each application is scientifically distinct.
+NIH will not accept any application in response to this FOA
+that is essentially the same as one currently pending initial peer review unless
+the applicant withdraws the pending application. NIH will not accept any
+application that is essentially the same as one already reviewed. Resubmission applications may be submitted, according to the NIH Policy on Resubmission
+Applications from the SF 424 (R&R) Application Guide.
+Section
+IV. Application and Submission Information
+1. Requesting an Application Package
+Applicants must download the SF424 (R&R) application
+package associated with this funding opportunity using the “Apply for Grant Electronically”
+button in this FOA or following the directions provided at Grants.gov.
+2. Content and
+Form of Application Submission
+It is critical that applicants follow the instructions in
+the SF424
+(R&R) Application Guide, except where instructed in this funding
+opportunity announcement to do otherwise. Conformance to the requirements in
+the Application Guide is required and strictly enforced. Applications that are
+out of compliance with these instructions may be delayed or not accepted for
+review.
+For information on Application Submission and Receipt, visit Frequently
+Asked Questions – Application Guide, Electronic Submission of Grant
+Applications.
+Letter of Intent
+Although a letter of intent is not required, is not binding,
+and does not enter into the review of a subsequent application, the information
+that it contains allows IC staff to estimate the potential review workload and
+plan the review.
+By the date listed in Part 1. Overview
+Information, prospective applicants are asked to submit a letter of intent
+that includes the following information:
+Descriptive title of proposed research
+Name, address, and telephone number of the PD(s)/PI(s)
+Names of other key personnel
+Participating institutions
+Number and title of this funding opportunity
+The letter of intent should be sent to:
+Rebecca Farkas, PhD
+Office of Translational Research
+National Institute of Neurological Disorders and Stroke
+6001 Executive Boulevard
+Neuroscience Center/Room 2109
+Bethesda, MD 20892
+Telephone: (301) 496-1779
+FAX: 301-402-1501
+Email: farkasr@ninds.nih.gov
+Required and Optional Components
+The forms package associated with this FOA includes all
+applicable components, mandatory and optional. Please note that some
+components marked optional in the application package are required for
+submission of applications for this FOA. Follow all instructions in the SF424
+(R&R) Application Guide to ensure you complete all appropriate “optional”
+components.
+Page Limitations
+All page limitations described in the SF424 Application
+Guide and the Table of
+Page Limits must be followed.
+SF424(R&R) Other Project Information Component
+This section of the application should address the following
+intellectual property issues. Applicants are encouraged to prepare this section
+of the U01 application in consultation with their institutions' technology
+transfer officials.
+Intellectual
+property considerations for small molecule compounds proposed for development. Applicants should describe the intellectual property landscape surrounding
+their starting compounds, to the extent that they are aware, and demonstrate
+the potential for developing chemical analogs with a strong intellectual
+property position. Applicants should describe any constraints of which they are
+aware that could impede the development of analogs of their starting compounds
+(e.g., certain restrictions under transfer or sharing agreements, applicants'
+previous or present intellectual property filings and publications, compounds
+with similar structures that are under patent and/or on the market, etc.) and
+how these issues could be addressed.
+Intellectual
+property considerations for primary and secondary assays. Applicants should describe any constraints of which they are aware of that
+would impede use of the assays and models for research purposes and/or
+commercial development.
+Intellectual
+property management and commercialization. Applicants should
+describe their institutions’ existing or planned infrastructure for bringing
+the compounds to practical application (e.g., licensing for further drug
+development, managing intellectual property, commercializing discoveries)
+consistent with achieving the program goals. For a multiple-PD(s)/PI(s),
+multiple-institution application, applicants should describe the infrastructure
+of each institution for bringing the technologies to practical application and
+for coordinating these efforts (e.g., licensing, managing intellectual
+property) among the institutions consistent with achieving the goals of the
+program. Applicants should clarify how intellectual property will be shared or
+otherwise managed if there are multiple PD(s)/PI(s) and institutions involved
+in the U01-supported work.
+R&R Budget Component
+The U01 award is intended to support the disease-focused
+biology studies proposed by the Program Director(s)/Principal investigator(s)
+(PD(s)/PI(s)). The U01 budget may not support drug development activities that will be conducted through Blueprint
+Neurotherapeutics contracts (e.g., chemistry, pharmacology, toxicology,
+regulatory activities and clinical testing). The U01 budget may include one or
+two trips per year to attend meetings of the Blueprint Neurotherapeutics
+Network Steering Committee. Equipment requests are allowed but not encouraged.
+Equipment requests should be considered only if the equipment is absolutely
+necessary to the success of the project and cannot be supported by any other
+means. This is likely to be a subject of negotiation before an award is made.
+PHS 398 Research Plan Component
+All instructions in the SF424 (R&R) Application Guide
+must be followed, with the following additional instructions:
+Specific Aims
+The Specific Aims section should focus on the goals
+of medicinal chemistry optimization and the biological work to be conducted
+under the U01 grant. Activities that could be captured as specific aims
+include, but are not limited to:
+Validate reproducibility and reliability of primary assay for
+routine SAR screening
+In collaboration with NIH contractors, identify ADMET liabilities
+to be addressed through medicinal chemistry
+Improve compound potency, stability, and blood-brain barrier
+penetration through medicinal chemistry, in collaboration with NIH contractors
+Determine the efficacy of the optimized lead compound(s) in an in
+vivo model of the target disorder
+Research Strategy
+Within the 12 page Research Strategy section, the
+following subsections should be included:
+Clinical Impact and Feasibility
+Biological Rationale
+Compounds Proposed for Development
+Proposed Assays and Screening Strategy
+Management Plan
+Note that protection of human subjects need not be addressed
+in the U01 application, as phase I clinical trials will be conducted under an
+independent contract.
+Clinical
+Impact and Feasibility: Describe the current state of knowledge
+of the etiology, clinical characteristics, and current and projected prevalence
+of the proposed disease indication. Briefly discuss available treatments and
+their limitations. Discuss how the proposed drug discovery project relates to
+therapeutics development efforts underway in academia and industry. Provide a Summary of Key Drug Characteristics that shows the ultimate goals of the proposed drug discovery effort (see
+guidance and table template at: http://neuroscienceblueprint.nih.gov/bpdrugs/apply.htm).
+This summary table should indicate the target patient population; the mode,
+duration and frequency of drug delivery; and standards for clinical efficacy.
+Explain the rationale for the minimally acceptable and ideal results. Briefly
+comment on the feasibility of conducting clinical trials toward these goals (e.g.,
+availability of clinical trial networks). Identify any collaborators with
+clinical expertise. Indicate if biomarkers are available to detect activity at
+the putative target in preclinical models as well as in patients. Please note
+that each application should focus on only one disorder or disease, even if the
+compound proposed for development shows activity in models for more than one
+disorder. This is because the target patient population and intended use guides
+the design of the drug and of the preclinical studies, such as toxicology and
+formulation.
+Biological
+Rationale: Describe the intended molecular or cellular drug
+target. Provide the evidence that links this target to disease progression
+and/or outcomes for the proposed disease indication. Provide the preclinical
+"proof-of-concept" data that shows the activity of the compounds
+proposed for development in disease models, with sufficient detail to allow
+reviewers to evaluate the rigor of the experimental design. Explain the choice
+of model and endpoints for the proof-of-concept studies. Provide the evidence
+that a compound's observed activity in disease models is due its effects on the
+putative target. If therapeutics that target the same molecule, pathway, or
+cellular process have been tested in clinical trials for the proposed disease
+indication, explain why the proposed approach would be expected to give
+significantly better clinical outcomes.
+Compounds
+Proposed for Development: Address each of the compound entry
+criteria presented in Section I.B. of this FOA. Include data on compound
+activity and potency (EC50 or IC50) in biochemical and cellular bioassays. In
+addition to chemical structures, information should be provided on known
+chemical and physical characteristics of the compound(s), e.g., drug-like
+properties, solubility, chemical liabilities, etc. Present the results of
+testing any chemical analogs and inferences about structure activity
+relationships (SAR). If drugs with similar structures have been tested in
+clinical trials for the proposed disease indication, explain why the proposed
+drug would be expected to give significantly better clinical outcomes.
+Proposed
+Assays and Screening Strategy: Provide a Summary Table of Bioactivity Assays (see table template at http://neuroscienceblueprint.nih.gov/bpdrugs/apply.htm)
+proposed for medicinal chemistry SAR studies and to validate the preclinical
+efficacy of optimized compounds. This table should indicate the throughput for
+each assay and advancement criteria for progressing compounds from one assay to
+the next. Explain the rationale for the choice of models, assay design, and
+advancement criteria, and clarify how these relate to the desired drug
+properties presented in the Summary of Key Drug Characteristics. Provide data
+demonstrating that the proposed assays meet the entry criteria presented in
+section I.B. of this FOA. Provide data demonstrating correlation of results
+from one tier of assays to the next. Describe plans for counter-screening to
+address selectivity concerns and anticipated side-effects due to the compound
+structure or mechanism of action. Describe any potential pitfalls associated
+with the use of the proposed assays and approaches to their resolution.
+Management
+Plan: Describe the roles and extent of participation of key
+personnel over the course of the small molecule development process, from
+compound optimization through Phase I clinical trials. Indicate the willingness
+of the PD/PI and key personnel to operate under the cooperative agreement terms
+and conditions outlined in section VI.2. of the FOA. If needed, describe the
+availability of a clinical consultant with expertise in the target disorder.
+Clinical experts should be sought as needed to develop the application (e.g.,
+to determine the Summary of Key Drug Characteristics), and available after
+award to aid in determining the goals of the drug development program and to
+consult on the design of the clinical trial.
+Resource Sharing Plan
+Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+Organisms, and Genome Wide Association Studies(GWAS)) as provided in the SF424
+(R&R) Application Guide, with the following modification:
+Generally, Resource Sharing Plans (Data Sharing Plan, Sharing
+Model Organisms, and GWAS Sharing Plan) are expected, but they are not
+applicable for this FOA. .
+Appendix
+Do not use the Appendix to circumvent page limits. Follow
+all instructions for the Appendix as described in the SF424 (R&R)
+Application Guide.
+Foreign Institutions
+Foreign (non-US) institutions must follow policies described
+in the NIH
+Grants Policy Statement, and procedures for foreign institutions described
+throughout the SF424 (R&R) Application Guide.
+3. Submission Dates and Times
+Part I. Overview Information contains information about Key Dates. Applicants are encouraged to submit in
+advance of the deadline to ensure they have time to make any application
+corrections that might be necessary for successful submission.
+Organizations must submit applications via Grants.gov, the online portal to find and apply for grants
+across all Federal agencies. Applicants must then complete the submission
+process by tracking the status of the application in the eRA Commons, NIH’s electronic system for grants
+administration.
+Applicants
+are responsible for viewing their application in the eRA Commons to ensure accurate
+and successful submission.
+Information on the submission process and a definition of
+on-time submission are provided in the SF424 (R&R) Application Guide.
+4. Intergovernmental Review (E.O. 12372)
+This initiative is not subject to intergovernmental
+review.
+5. Funding
+Restrictions
+All NIH awards are subject to the terms and conditions, cost
+principles, and other considerations described in the NIH
+Grants Policy Statement.
+Pre-award costs are allowable only as described in the NIH
+Grants Policy Statement.
+6. Other Submission Requirements and
+Information
+Applications must be submitted electronically following the
+instructions described in the SF 424 (R&R) Application Guide. Paper applications will not be accepted.
+Applicants must complete all required registrations
+before the application due date. Section
+III. Eligibility Information contains information about registration.
+For assistance with your electronic application or for more information on the electronic submission
+process, visit Applying
+Electronically.
+Important
+reminders:
+All PD(s)/PI(s) must include their eRA Commons ID in the
+Credential field of the Senior/Key Person Profile Component of the SF
+424(R&R) Application Package. Failure to register in the Commons and
+to include a valid PD/PI Commons ID in the credential field will prevent the
+successful submission of an electronic application to NIH.
+The applicant organization must ensure that the DUNS number it provides on the
+application is the same number used in the organization’s profile in the eRA
+Commons and for the Central Contractor Registration (CCR). Additional
+information may be found in the SF424 (R&R) Application Guide.
+See more
+tips for avoiding common errors.
+Upon receipt, applications will be evaluated for
+completeness by the Center for Scientific Review and responsiveness by components of participating organizations,
+NIH. Applications that are incomplete and/or nonresponsive will not be
+reviewed.
+In order to expedite review, applicants are requested to
+notify the {IC} Referral Office by email at nindsreview.nih.gov@mail.nih.gov when the application has been submitted. Please include the FOA number and
+title, PD/PI name, and title of the application.
+Post Submission Materials
+Applicants are required to follow the instructions for
+post-submission materials, as described in NOT-OD-10-115, with the following modifications:
+Late-breaking research findings will be allowed
+The page limit for post-submission materials is 2 printed pages
+Post-submission materials must be received by the NINDS
+Scientific Review Officer one week prior to the peer review meeting.
+Concurrence from the Authorized Organization Representative (AOR)
+of the applicant organization is required.
+Section
+V. Application Review Information
+1. Criteria
+Only the review criteria described below will be considered
+in the review process. As part of the NIH mission,
+all applications submitted to the NIH in support of biomedical and behavioral
+research are evaluated for scientific and technical merit through the NIH peer
+review system.
+For this particular announcement, note the following:
+The market size for the proposed drug will not be considered
+in assessing the significance of a project.
+Evaluation of the approach should focus primarily on the
+rationale and strengths/weaknesses of proposed bioactivity studies and compound
+"druggability," since all other drug discovery work (e.g., medicinal
+chemistry, PK/tox, phase I clinical testing) will be designed and implemented
+by NIH-provided consultants and contractors after award.
+Milestones will be developed after award, in collaboration
+with NIH-provided consultants. Applicants are not expected to propose
+milestones. If milestones are included in the application, reviewers may
+comment on them, but milestones may not be considered in scoring the
+application.
+Overall Impact
+Reviewers will provide an overall impact/priority score to
+reflect their assessment of the likelihood for the project to exert a
+sustained, powerful influence on the research field(s) involved, in
+consideration of the following review criteria and additional review criteria
+(as applicable for the project proposed).
+Scored Review Criteria
+Reviewers will consider each of the review criteria below in
+the determination of scientific merit, and give a separate score for each. An
+application does not need to be strong in all categories to be judged likely to
+have major scientific impact. For example, a project that by its nature is not
+innovative may be essential to advance a field.
+Significance
+Does the project address an important problem or a
+critical barrier to progress in the field? If the aims of the project are
+achieved, how will scientific knowledge, technical capability, and/or clinical
+practice be improved? How will successful completion of the aims change the
+concepts, methods, technologies, treatments, services, or preventative
+interventions that drive this field? In particular, how would achievement of
+the goals laid out in the Summary of Key Drug Characteristics affect clinical
+practice for the proposed disease indication?
+Investigator(s)
+Are the PD(s)/PI(s), collaborators, and other
+researchers well suited to the project? If Early Stage Investigators or New
+Investigators, or in the early stages of independent careers, do they have appropriate
+experience and training? If established, have they demonstrated an ongoing
+record of accomplishments that have advanced their field(s)? If the project is
+collaborative or multi-PD(s)/PI(s), do the investigators have complementary and
+integrated expertise; are their leadership approach, governance and
+organizational structure appropriate for the project? Recognizing that the NIH does not require the applicant to have drug discovery expertise, is the
+experience with biological testing sufficient to support and inform a drug
+discovery effort? Is there sufficient clinical expertise to define the goals of
+the drug development effort for the intended disease indication?
+Innovation
+Does the application challenge and seek to shift
+current research or clinical practice paradigms by utilizing novel theoretical
+concepts, approaches or methodologies, instrumentation, or interventions? Are
+the concepts, approaches or methodologies, instrumentation, or interventions
+novel to one field of research or novel in a broad sense? Is a refinement,
+improvement, or new application of theoretical concepts, approaches or
+methodologies, instrumentation, or interventions proposed? Is the drug target or therapeutic strategy sufficiently different from ongoing drug development
+programs in industry and academia? Would the proposed drug be expected to give
+significantly better clinical outcomes than have been observed for previously
+developed drugs with similar structures or targets?
+Approach
+Are the overall strategy, methodology, and analyses
+well-reasoned and appropriate to accomplish the specific aims of the project?
+Are potential problems, alternative strategies, and benchmarks for success
+presented? If the project is in the early stages of development, will the strategy
+establish feasibility and will particularly risky aspects be managed?
+Based on the evidence provided, is it reasonable to
+believe that a drug that meets the proposed advancement criteria for each of
+the proposed bioactivity assays could achieve the desired clinical outcomes
+described in the Summary of Key Drug Characteristics? In other words, is there
+a strong biological rationale for the choice of drug target, disease models,
+and assay design? Do the proposed compound(s) and bioactivity assays meet the
+entry requirements for the Blueprint Neurotherapeutics Network?
+If the project involves clinical research, are the plans for 1) protection of
+human subjects from research risks, and 2) inclusion of minorities and members
+of both sexes/genders, as well as the inclusion of children, justified in terms
+of the scientific goals and research strategy proposed?
+Environment
+Will the scientific environment in which the work
+will be done contribute to the probability of success? Are the institutional
+support, equipment and other physical resources available to the investigators
+adequate for the project proposed? Will the project benefit from unique
+features of the scientific environment, subject populations, or collaborative
+arrangements?
+Additional Review Criteria
+As applicable for the project proposed, reviewers will
+evaluate the following additional items while determining scientific and
+technical merit, and in providing an overall impact/priority score, but will
+not give separate scores for these items.
+Protections for Human Subjects
+For research that involves human subjects but does
+not involve one of the six categories of research that are exempt under 45 CFR
+Part 46, the committee will evaluate the justification for involvement of human
+subjects and the proposed protections from research risk relating to their
+participation according to the following five review criteria: 1) risk to
+subjects, 2) adequacy of protection against risks, 3) potential benefits to the
+subjects and others, 4) importance of the knowledge to be gained, and 5) data
+and safety monitoring for clinical trials.
+For research that involves human subjects and meets the criteria for one or
+more of the six categories of research that are exempt under 45 CFR Part 46,
+the committee will evaluate: 1) the justification for the exemption, 2) human
+subjects involvement and characteristics, and 3) sources of materials. For
+additional information on review of the Human Subjects section, please refer to
+the Human
+Subjects Protection and Inclusion Guidelines.
+Inclusion of Women, Minorities, and Children
+When the proposed project involves clinical research,
+the committee will evaluate the proposed plans for inclusion of minorities and
+members of both genders, as well as the inclusion of children. For additional
+information on review of the Inclusion section, please refer to the Human
+Subjects Protection and Inclusion Guidelines.
+Vertebrate Animals
+The committee will evaluate the involvement of live
+vertebrate animals as part of the scientific assessment according to the
+following five points: 1) proposed use of the animals, and species, strains,
+ages, sex, and numbers to be used; 2) justifications for the use of animals and
+for the appropriateness of the species and numbers proposed; 3) adequacy of
+veterinary care; 4) procedures for limiting discomfort, distress, pain and
+injury to that which is unavoidable in the conduct of scientifically sound
+research including the use of analgesic, anesthetic, and tranquilizing drugs
+and/or comfortable restraining devices; and 5) methods of euthanasia and reason
+for selection if not consistent with the AVMA Guidelines on Euthanasia. For
+additional information on review of the Vertebrate Animals section, please
+refer to the Worksheet
+for Review of the Vertebrate Animal Section.
+Biohazards
+Reviewers will assess whether materials or procedures
+proposed are potentially hazardous to research personnel and/or the
+environment, and if needed, determine whether adequate protection is proposed.
+Resubmissions
+For Resubmissions previously described in Section II.
+Award Information, the committee will evaluate the application as now
+presented, taking into consideration the responses to comments from the
+previous scientific review group and changes made to the project.
+Renewals
+Not Applicable
+Revisions
+Not Applicable
+Additional Review Considerations
+As applicable for the project proposed, reviewers will
+consider each of the following items, but will not give scores for these items,
+and should not consider them in providing an overall impact/priority score.
+Intellectual Property
+Reviewers may comment on the intellectual property
+landscape for the project and note any intellectual property constraints that
+potentially could impede drug development and/or commercialization.
+Applications from Foreign Organizations
+Reviewers will assess whether the project presents
+special opportunities for furthering research programs through the use of
+unusual talent, resources, populations, or environmental conditions that exist
+in other countries and either are not readily available in the United States or
+augment existing U.S. resources.
+Select Agent Research
+Reviewers will assess the information provided in
+this section of the application, including 1) the Select Agent(s) to be used in
+the proposed research, 2) the registration status of all entities where Select
+Agent(s) will be used, 3) the procedures that will be used to monitor
+possession use and transfer of Select Agent(s), and 4) plans for appropriate
+biosafety, biocontainment, and security of the Select Agent(s).
+Resource Sharing Plans
+Reviewers will comment on whether the following
+Resource Sharing Plans, or the rationale for not sharing the following types of
+resources, are reasonable: 1) Data
+Sharing Plan; 2) Sharing
+Model Organisms; and 3) Genome Wide
+Association Studies (GWAS).
+Budget and Period of Support
+Reviewers will consider whether the budget and the
+requested period of support are fully justified and reasonable in relation to
+the proposed research.
+2. Review and Selection Process
+Applications will be evaluated for scientific and technical
+merit by (an) appropriate Scientific Review Group(s) convened by the NINDS, in accordance with NIH peer
+review policy and procedures, using the stated review
+criteria. Review assignments will be shown in the eRA Commons.
+As part of the scientific peer review, all applications:
+May undergo a selection process in which only those applications
+deemed to have the highest scientific and technical merit (generally the top
+half of applications under review) will be discussed and assigned an overall impact/priority
+score.
+Will receive a written critique.
+Appeals of initial peer review will not be accepted for applications submitted in
+response to this FOA.
+Applications will be assigned to the appropriate NIH Institute or Center. Applications will compete for available funds
+with all other recommended applications submitted in response to this FOA. Following initial peer review, recommended applications will receive a second level of
+review by the NIH Blueprint Institutes contributing the funds for these awards. The following will be considered in making funding decisions:
+Scientific and technical merit of the proposed project as
+determined by scientific peer review.
+Availability of funds.
+Relevance of the proposed project to program priorities.
+Feasibility of developing a strong intellectual property position
+for compound analogs consistent with achieving the goals of the program. The
+NIH will work with applicants to determine if intellectual property concerns
+raised by reviewers or by NIH staff can be addressed prior to program entry or
+within the program.
+3. Anticipated Announcement and Award Dates
+After the peer review of the application is completed, the
+PD(s)/PI(s) will be able to access his or her Summary Statement (written
+critique) via the eRA Commons.
+Information regarding the disposition of applications is
+available in the NIH
+Grants Policy Statement.
+Section VI. Award Administration Information
+1. Award Notices
+If the application is under consideration for funding, NIH
+will request "just-in-time" information from the applicant as
+described in the NIH
+Grants Policy Statement.
+A formal notification in the form of a Notice of Award (NoA) will be provided
+to the applicant organization for successful applications. The NoA signed by
+the grants management officer is the authorizing document and will be sent via
+email to the grantee’s business official.
+Awardees must comply with any funding restrictions described in Section IV.5. Funding Restrictions. Selection
+of an application for award is not an authorization to begin performance. Any
+costs incurred before receipt of the NoA are at the recipient's risk. These
+costs may be reimbursed only to the extent considered allowable pre-award costs.
+Any application awarded in response to this FOA will be subject to the DUNS,
+CCR Registration, and Transparency Act requirements as noted on the Award
+Conditions and Information for NIH Grants website.
+2. Administrative and National Policy
+Requirements
+All NIH grant and cooperative agreement awards include the NIH
+Grants Policy Statement as part of the NoA. For these terms of
+award, see the NIH Grants
+Policy Statement Part II: Terms and Conditions of NIH Grant Awards, Subpart A:
+General and Part II:
+Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for
+Specific Types of Grants, Grantees, and Activities. More information is
+provided at Award
+Conditions and Information for NIH Grants.
+Cooperative Agreement Terms and Conditions of Award
+The following special terms of award are in addition to, and
+not in lieu of, otherwise applicable U.S. Office of Management and Budget (OMB)
+administrative guidelines, U.S. Department of Health and Human Services (DHHS)
+grant administration regulations at 45 CFR Parts 74 and 92 (Part 92 is
+applicable when State and local Governments are eligible to apply), and other
+HHS, PHS, and NIH grant administration policies.
+The administrative and funding instrument used for this program will be the
+cooperative agreement, an "assistance" mechanism (rather than an
+"acquisition" mechanism), in which substantial NIH programmatic
+involvement with the awardees is anticipated during the performance of the
+activities. Under the cooperative agreement, the NIH purpose is to support and
+stimulate the recipients' activities by involvement in and otherwise working
+jointly with the award recipients in a partnership role; it is not to assume
+direction, prime responsibility, or a dominant role in the activities.
+Consistent with this concept, the dominant role and prime responsibility
+resides with the awardees for the project as a whole, although specific tasks
+and activities may be shared among the awardees and the NIH as defined below.
+The
+PD(s)/PI(s) will have the primary responsibility for:
+Determining experimental approaches, designing protocols,
+conducting experiments, and analyzing and interpreting research data related to
+the compound bioactivity testing funded through this U01.
+Serving as Co-chair of the Project Lead Development Team (LDT),
+presenting project updates in biweekly conference calls and annual face-to-face
+meetings of the BPN Steering Committee in the Washington, DC area.
+With the LDT, assisting in the development of a project milestone
+plan at the outset of the project.
+Coordinating and participating with NIH staff and NIH-contracted
+consultants in all aspects of scientific and technical management of the
+project.
+Collaborating and communicating effectively with NIH service
+contractors to achieve project goals.
+Providing goals and strategies for assay validation, screening
+throughput, and quality control, to the NIH Program Official as requested.
+Ensuring that primary and secondary screening data and assay
+protocols developed as a part of this project are deposited in a centralized
+Blueprint Neurotherapeutics (BPN) database according to the timeline agreed
+upon by the LDT and the NIH Program Official and according to BPN policies.
+Adhering to BPN policies, including those regarding data release,
+intellectual property, and publications.
+Implementing all scientific and policy decisions approved by the
+LDT and the BPN program.
+Submitting periodic milestone progress reports in a standard
+format, as agreed upon by the LDT and BPN program.
+Preparing for annual administrative site visits by NIH staff and
+consultants.
+Working closely with his/her institution's technology transfer
+officials to ensure that royalty agreements, patent filings, and all other
+necessary intellectual property arrangements are completed in a timely manner
+Awardees will retain custody of and have primary
+rights to the data and software developed under these awards, subject to
+Government rights of access consistent with current DHHS, PHS, and NIH
+policies.
+NIH
+staff have substantial programmatic involvement that is above and beyond the
+normal stewardship role in awards, as described below:
+Coordinating and participating in biweekly LDT meetings to
+discuss project status, planning, and implementation.
+With the LDT, assisting in the development of a project milestone
+plan at the outset of the project.
+Providing a perspective on the priorities of the NIH Blueprint
+for Neuroscience Research and BPN.
+Facilitating collaboration among the awardee, NIH-contracted
+consultants, and service providers.
+Enhancing the project progress by providing access to various NIH
+resources when appropriate.
+Providing technical assistance, advice, and coordination to the
+project, although the dominant role and responsibilities for the activities
+funded by the U01 resides with the awardee.
+Coordinating testing of compounds under BPN contracts.
+Providing data from the BPN contractors to the LDT and project
+PD/PI.
+Coordinating reports and presentations of project progress to the
+BPN Steering Committee.
+Serving as scientific liaison among the awardee, other NIH
+program staff, and the BPN Project Team (the committee of NIH staff that
+manages the BPN).
+Reporting periodically on the progress of the project to the BPN
+Project Team.
+The NIH Blueprint Directors Committee (the Directors of the
+Institutes and Centers that comprise the Blueprint) will make decisions on
+project continuation based on Steering Committee recommendations, portfolio
+balance, and budget considerations.
+Additionally, an agency program official or IC program director
+will be responsible for the normal scientific and programmatic stewardship of
+the award and will be named in the award notice.
+Areas
+of Joint Responsibility include:
+Project Lead Development Team (LDT): The LDT will be co-chaired
+by the PD/PI and an NIH-contracted drug development consultant and will include
+additional members from the PD/PI’s group, consultants and NIH staff. This team
+will collaboratively set strategic direction and guide the work flow for the
+project on an ongoing basis. The LDT will meet every two weeks via
+teleconference to analyze and interpret data from the PD/PI and contracted
+laboratories and to formulate the subsequent experimental plan. The team will
+produce progress reports for evaluation by the BPN Steering Committee and BPN
+Project Team as needed.
+BPN Steering Committee: The Steering Committee will be
+responsible for reviewing and evaluating the progress of the BPN projects in
+meeting their milestones and goals, and making recommendations about individual
+projects to the BPN Project Team and the NIH Blueprint Directors Committee (the
+Directors of the Institutes and Centers that comprise the Blueprint). The
+Steering Committee will be composed of 6-8 senior non-federal scientists who
+are not directly involved in the activities of the BPN. The NIH Blueprint
+Directors will appoint members to the Steering Committee. The BPN Program
+Officers, Project Scientists and BPN Project Team members may attend the
+Steering Committee meetings as non-voting participants.
+The BPN Steering Committee will have the following
+involvement:
+The BPN Steering Committee will meet in person at least once a
+year and by conference call quarterly. During part of the face-to-face
+meetings, there will be individual meetings with the project PD/PIs for
+presenting project progress and outcomes
+The Steering Committee will review progress of the individual
+projects and make recommendations for improving project performance.
+Based on progress of individual projects, the Steering Committee
+will assess whether sufficient progress is being made toward accomplishment of
+milestones and make recommendations to the BPN Project Team about allocation of
+funding and resources within the network.
+Dispute
+Resolution:
+Any disagreements that may arise in scientific or
+programmatic matters (within the scope of the award) between award recipients
+and the NIH may be brought to Dispute Resolution. A Dispute Resolution Panel
+composed of three members will be convened. It will have three members: a designee
+of the Steering Committee chosen without NIH staff voting, one NIH designee,
+and a third designee with expertise in the relevant area who is chosen by the
+other two; in the case of individual disagreement, the first member may be
+chosen by the individual awardee. This special dispute resolution procedure
+does not alter the awardee's right to appeal an adverse action that is
+otherwise appealable in accordance with PHS regulation 42 CFR Part 50, Subpart
+D and DHHS regulation 45 CFR Part 16.
+3. Reporting
+When multiple years are involved, awardees will be required
+to submit the Non-Competing
+Continuation Grant Progress Report (PHS 2590) annually and financial
+statements as required in the NIH
+Grants Policy Statement.
+A final progress report, invention
+statement, and the expenditure data portion of the Federal Financial Report are
+required for closeout of an award, as described in the NIH
+Grants Policy Statement .
+The Federal Funding Accountability and Transparency Act of
+2006 (Transparency Act), includes a requirement for awardees of Federal grants
+to report information about first-tier subawards and executive compensation
+under Federal assistance awards issued in FY2011 or later. All awardees of
+applicable NIH grants and cooperative agreements are required to report to
+the Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the NIH
+Grants Policy Statement for additional information on this reporting
+requirement.
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity
+and welcome the opportunity to answer questions from potential applicants.
+Application Submission Contacts
+Grants.gov
+Customer Support (Questions regarding Grants.gov registration and
+submission, downloading or navigating forms)
+Contact Center Phone: 800-518-4726
+Email: support@grants.gov
+GrantsInfo (Questions regarding application instructions and
+process, finding NIH grant resources)
+Telephone 301-435-0714
+TTY 301-451-5936
+Email: GrantsInfo@nih.gov
+eRA Commons Help Desk (Questions regarding eRA Commons
+registration, tracking application status, post submission issues)
+Phone: 301-402-7469 or 866-504-9552 (Toll Free)
+TTY: 301-451-5939
+Email: commons@od.nih.gov
+Scientific/Research Contact(s)
+Primary
+Contact:
+Rebecca Farkas, PhD
+Office of Translational Research
+National Institute of Neurological Disorders and Stroke
+6001 Executive Boulevard
+Neuroscience Center/Room 2109
+Bethesda, MD 20892
+Telephone: (301) 496-1779
+FAX: 301-402-1501
+Email: farkasr@ninds.nih.gov
+NIH
+Blueprint for Neuroscience Research Institute and Center Contacts:
+Tom Greenwell, PhD
+Retinal Neuroscience
+Division of Extramural Research
+National Eye Institute
+Suite 1300 / MSC 9300
+5635 Fishers Lane
+Bethesda, MD 20892
+Telephone: (301) 451-2020
+FAX: 301-402-0528
+Email: greenwellt@mail.nih.gov
+Lorenzo M. Refolo, PhD
+National Institute on Aging
+Division of Neuroscience
+Dementias of Aging Branch
+7201 Wisconsin Ave
+Gateway Bldg, Suite 350
+Bethesda, MD 20892
+Telephone: (301) 594-7576
+Email: refolol@mail.nih.gov
+Qi-Ying Liu, MD, MSci
+Division of Neuroscience and Behavior
+National Institute on Alcohol Abuse and Alcoholism
+5635 Fishers Lane, Room 2053
+Bethesda, MD 20892
+Telephone: (301) 443-2678
+FAX: 301-443-1650
+Email: liuqiy@mail.nih.gov
+Zhaoxia Ren, PhD
+National Institute of Child Health and Human Development
+6100 Executive Blvd; MSC 7510
+Bethesda, MD 20892
+Telephone: (301) 402-9340
+FAX: 301-480-2897
+Email: zren@mail.nih.gov
+Nancy L. Freeman, PhD
+Division of Scientific Programs
+National Institute on Deafness and Other Communication Disorders
+Executive Plaza South-400C
+6120 Executive Blvd; MSC 7180
+Bethesda, MD 20892
+Telephone: (301) 402-3458
+FAX: 301-402-6251
+Email: FreemanN@mail.nih.gov
+John Kusiak, PhD
+National Institute of Dental and Craniofacial Research
+6701 Democracy Blvd; MSC 4878
+Bethesda, MD 20892
+Telephone: (301) 594-7984
+FAX: 301-480-8319
+Email: kusiakj@nidcr.nih.gov
+Elena Koustova, PhD, MBA
+Genetics and Molecular Neurobiology Research Branch
+Division of Basic Neuroscience and Behavioral Research
+National Institute on Drug Abuse
+6001 Executive Boulevard; Room 4292
+Bethesda, MD 20892
+Telephone: (301) 496-8768
+FAX: 301-594-6043
+Email: koustovae@mail.nih.gov
+Cindy Lawler, PhD
+National Institute of Environmental Health Sciences
+530 Davis Dr; MSC K3-15
+Durham, NC 27713
+Telephone: (919) 316-4671
+FAX: 919-541-5064
+Email: lawler@niehs.nih.gov
+Jamie Driscoll
+Division of Neuroscience and Basic Behavioral Science
+National Institute of Mental Health
+6001 Executive Boulevard; Room 7194
+Bethesda, MD 20892
+Telephone: (301) 443-5288
+FAX: 301-451-5615
+Email: jdrisco1@mail.nih.gov
+Rosemarie Filart, MD, MPH, MBA
+Division of Clinical Innovation
+National Center for Advancing Translational Sciences
+6701 Democracy Blvd
+Bethesda, MD 20892-4874
+Telephone: (301) 435-0178/(301)-642-5421
+FAX: 301-480-3661
+Email: Rosemarie.Filart@nih.gov
+Peer Review Contact(s)
+Chief, Scientific Review Branch
+National Institute of Neurological Disorders and Stroke
+Room 3201, MSC 9529
+6001 Executive Boulevard
+Bethesda, MD 20892-9529
+(Rockville, MD 20852 for express/courier service)
+Telephone: (301) 496-9223
+Fax: (301) 402-0182
+E-mail: nindsreview.nih.gov@mail.nih.gov
+Financial/Grants Management Contact(s)
+Tijuanna E. DeCoster, MPA
+Chief Grants Management Officer
+Grants Management Branch
+National Institute of Neurological Disorders and Stroke
+6001 Executive Boulevard, Suite 3290, MSC 9537
+Bethesda, Maryland 20892-9537
+(Rockville, MD 20852 for express/courier service)
+Telephone: 301-496-9231
+Fax: 301-402-0219
+Email: decostert@mail.nih.gov
+Section VIII. Other Information
+Recently issued trans-NIH policy
+notices may affect your application submission. A full list of policy
+notices published by NIH is provided in the NIH
+Guide for Grants and Contracts. All
+awards are subject to the terms and conditions, cost principles, and other
+considerations described in the NIH Grants Policy Statement.
+Authority and Regulations
+Awards are made under the authorization of Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and
+under Federal Regulations 42 CFR Part 52 and 45 CFR Parts 74 and 92.
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+Office of Extramural
+Research (OER)
+National Institutes of Health (NIH)
+9000 Rockville Pike
+Bethesda, Maryland 20892
+Department of Health
+and Human Services (HHS)
+NIH . . . Turning Discovery Into Health
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.

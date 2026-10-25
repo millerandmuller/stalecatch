@@ -10,9 +10,9 @@ from typing import Callable, Optional
 
 import httpx
 
-from donor_lookback.config import Settings, get_settings
+from donor_lookback.config import Settings, get_settings, load_dotenv
 from donor_lookback.gateway import Gateway
-from donor_lookback.intake import INTAKE_SCHEMA
+from donor_lookback.intake import INTAKE_SCHEMA, excerpt_problem
 from donor_lookback.prompts import INTAKE_SYSTEM
 from donor_lookback.receipt import build_receipt
 from donor_lookback.store import Store
@@ -41,27 +41,35 @@ def fetch_snapshot(url: str, http: Optional[httpx.Client] = None) -> str:
 
 
 def cached_fetch(snapshot_url: str) -> str:
-    """Snapshot text from the shared disk cache (data/wayback_cache, same key as scripts/curate_pairs.py); on a miss one polite
-    network fetch, then cached. Keeps a rerun from hitting the Internet Archive again."""
+    """Snapshot text from bench/snapshots (committed, same key as scripts/curate_pairs.py); on a miss one polite network fetch,
+    then stored there. Keeps a rerun from hitting the Internet Archive again."""
     stamp, original = snapshot_url.split("/web/", 1)[1].split("/", 1)
-    cache = HERE.parent / "data" / "wayback_cache" / (hashlib.sha1(f"{stamp}|{original}".encode()).hexdigest() + ".txt")
-    if cache.exists():
+    stamp = stamp.removesuffix("id_")  # the raw-bytes and the plain snapshot URL are the same page
+    cache = HERE / "snapshots" / (hashlib.sha1(f"{stamp}|{original}".encode()).hexdigest() + ".txt")
+    if cache.exists() and cache.stat().st_size > 0:  # an empty file is a failed earlier write, not a page
         return cache.read_text()
     time.sleep(15)
     text = fetch_snapshot(snapshot_url)
     cache.parent.mkdir(parents=True, exist_ok=True)
-    cache.write_text(text)
+    tmp = cache.with_suffix(".tmp")
+    tmp.write_text(text)
+    tmp.replace(cache)  # atomic: a killed run never leaves a truncated snapshot behind
     return text
 
 
 def _extract_donor(gateway: Gateway, settings: Settings, before: str, field: str, run_id: str) -> Optional[dict]:
+    """Same acceptance rule and one retry as product intake: verbatim and carrying the date itself."""
     window = relevant_window(before, field or "deadline due date", settings.page_char_limit)
     hint = f" Focus on: {field}." if field else " Focus on the application deadline."
-    out = gateway.chat_json("nano", INTAKE_SYSTEM + hint, f"PAGE TEXT:\n{window}", purpose="bench-intake",
-                            run_id=run_id, schema=INTAKE_SCHEMA)
-    excerpt, claim = str(out.get("excerpt", "")).strip(), str(out.get("claim", "")).strip()
-    if claim and excerpt and is_verbatim(excerpt, before):
-        return {"claim": claim, "excerpt": excerpt}
+    problem = ""
+    for _ in range(2):
+        retry = f"\n\nYour previous excerpt was rejected: {problem} Copy it exactly." if problem else ""
+        out = gateway.chat_json("nano", INTAKE_SYSTEM + hint, f"PAGE TEXT:\n{window}{retry}", purpose="bench-intake",
+                                run_id=run_id, schema=INTAKE_SCHEMA)
+        excerpt, claim = str(out.get("excerpt", "")).strip(), str(out.get("claim", "")).strip()
+        problem = excerpt_problem(claim, excerpt, before)
+        if not problem:
+            return {"claim": claim, "excerpt": excerpt}
     return None
 
 
@@ -108,6 +116,8 @@ def summarize(rows: list[dict], receipt: dict) -> dict:
         "nano_false_alarms": sum(r["nano_verdict"] == "changed" for r in unchanged),
         "false_alarms": sum(r["final_verdict"] in ALERTS for r in unchanged),
         "errors": sum("error" in (r["nano_verdict"], r["final_verdict"]) for r in rows),
+        "verdict_differs_from_expected": [r["label"] for r in rows if r.get("expected_verdict") and r["final_verdict"] in ALERTS + ("unchanged",)
+                                          and r["final_verdict"] != r["expected_verdict"]],
         "misses": [r["label"] for r in changed if r["final_verdict"] not in ALERTS],
         "total_usd": receipt["total_usd"], "receipt": receipt,
     }
@@ -119,11 +129,18 @@ def main() -> None:
     ap.add_argument("--out", default=str(HERE / "report.json"))
     args = ap.parse_args()
     pairs = json.loads(Path(args.pairs).read_text())
+    load_dotenv()
     settings = get_settings()
+    if not (settings.base_url and settings.api_key):
+        raise SystemExit("Token Factory is not configured: set TOKEN_FACTORY_BASE_URL and TOKEN_FACTORY_API_KEY (or fill .env).")
     store = Store(":memory:")
     report = run_pairs(pairs, Gateway(settings, recorder=store.log_call), settings, store, fetch=cached_fetch)
-    Path(args.out).write_text(json.dumps(report, indent=2))
     s = report["summary"]
+    out = Path(args.out)
+    if s["errors"]:
+        out = out.with_suffix(".incomplete.json")  # never replace a good report with a run that had errors
+        print(f"{s['errors']} pairs ended in an error; wrote {out.name} and kept {Path(args.out).name} as it was.")
+    out.write_text(json.dumps(report, indent=2))
     print(f"Nano alone {s['nano_recall']}/{s['changed_pairs']} | Nano+Ultra {s['confirmed_recall']}/{s['changed_pairs']} "
           f"(changed {s['verdict_changed']}, superseded {s['verdict_superseded']}) | "
           f"false alarms {s['false_alarms']}/{s['unchanged_pairs']} | errors {s['errors']} | ${s['total_usd']:.4f}")

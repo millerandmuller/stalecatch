@@ -1,0 +1,2135 @@
+Department of Health and Human Services
+Part 1. Overview Information
+Participating Organization(s)
+National Institutes of Health (NIH)
+Components
+of Participating Organizations
+This Funding Opportunity Announcement (FOA) is developed
+as a Common Fund initiative through
+the NIH Office of the NIH Director, Office
+of Strategic Coordination. The FOA will be administered by the
+National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) on behalf of the NIH.
+Funding Opportunity Title
+Nuclear Organization and Function
+Interdisciplinary Consortium (NOFIC)(U54)
+Activity Code
+U54 Specialized Center- Cooperative Agreements
+Announcement Type
+New
+Related Notices
+December 23, 2014 - This RFA has been reissued as RFA-RM-14-030.
+December 23, 2014 - Notice of termination of RFA-RM-14-006. See Notice NOT-OD-15-047.
+December 12, 2014 - See Notice NOT-OD-15-040. Notice of Change in Due Date and Applicant Action Required for RFA-RM-006, Nuclear Organization and Function Interdisciplinary Consortium (NOFIC) (U54)
+Funding Opportunity Announcement (FOA) Number
+RFA-RM-14-006
+Companion Funding Opportunity
+RFA-RM-14-007,
+U01 Research Project - Cooperative Agreements
+RFA-RM-14-008,
+U01 Research Project - Cooperative Agreements
+RFA-RM-14-009,
+U01 Research Project - Cooperative Agreements
+RFA-RM-14-010,
+U01 Research Project - Cooperative Agreements
+RFA-RM-14-011,
+U01 Research Project - Cooperative Agreements
+Number of
+Applications
+See Section III. 3.
+Additional Information on Eligibility.
+Catalog of Federal Domestic Assistance (CFDA) Number(s)
+93.310
+Funding Opportunity Purpose
+This FOA seeks to establish technology-development and
+data-production centers whose mission will be to develop, benchmark,
+standardize, and validate the next generation of high-throughput technologies
+that can produce three dimensional physical and functional maps of mammalian
+genomes, develop predictive models of mammalian genome structure-function
+relationships, and test the relevance of new nuclear organizational
+principles within the context of specific biological paradigms and systems.
+Key Dates
+Posted Date
+September 24, 2014
+Open Date (Earliest Submission Date)
+November 16, 2014
+Letter of Intent Due Date(s)
+November 16, 2014
+Application Due Date(s)
+New Date: December 19, 2014 per NOT-OD-15-040. December 16, 2014, by 5:00 PM local time of applicant
+organization. All types of non-AIDS applications allowed for this funding opportunity announcement are due on this date.
+Applicants are encouraged to apply early to allow adequate
+time to make any corrections to errors found in the application during the
+submission process by the due date.
+AIDS Application Due Date(s)
+Not Applicable
+Scientific Merit Review
+February - March, 2015
+Advisory Council Review
+May, 2015
+Earliest Start Date
+July, 2015
+Expiration Date
+New Date: December 20, 2014 per NOT-OD-15-040. December 17, 2014
+Due Dates for E.O. 12372
+Not Applicable
+** ELECTRONIC APPLICATION SUBMISSION REQUIRED**
+NIH’s new Application Submission System &
+Interface for Submission Tracking (ASSIST) is available for the electronic
+preparation and submission of multi-project applications through Grants.gov to
+NIH. Applications to this FOA must be submitted electronically; paper
+applications will not be accepted. ASSIST replaces the Grants.gov downloadable
+forms currently used with most NIH opportunities and provides many features to
+enable electronic multi-project application submission and improve data
+quality, including: pre-population of organization and PD/PI data,
+pre-submission validation of many agency business rules and the generation of
+data summaries in the application image used for review.
+Required Application Instructions
+It is critical that applicants follow the instructions in
+the SF424
+(R&R) Application Guide, except where instructed to do otherwise (in
+this FOA or in a Notice from the NIH Guide for Grants and Contracts)
+and where instructions in the Application Guide are directly related to the
+Grants.gov downloadable forms currently used with most NIH opportunities.
+Conformance to all requirements (both in the Application Guide and the FOA)
+is required and strictly enforced. Applicants must read and follow all
+application instructions in the Application Guide as well as any
+program-specific instructions noted in Section
+IV. When the program-specific instructions deviate from those in the
+Application Guide, follow the program-specific instructions. Applications that
+do not comply with these instructions may be delayed or not accepted for review.
+Table of Contents
+Part 1. Overview Information
+Part 2. Full Text of the Announcement
+Section I.
+Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission
+Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2.
+Full Text of Announcement
+Section I. Funding Opportunity Description
+Background
+It has been more than a decade since the human genome was
+completely sequenced. Despite vastly improved technologies and many
+important foundational discoveries, our understanding of how genomic
+information specifies proper execution of spatial and temporal gene expression
+programs remains to be fully elucidated. This knowledge is essential for
+understanding how cells divide or respond to their environment, for identifying
+the regulatory mechanisms that control development and are dysregulated in
+disease, and for studying phenotypic variations among human populations. It is
+now clear that while mammalian genomes encode genetic information in their
+linear sequence, the appropriate cell type specific expression of their genes
+depends on higher order nuclear organization, from the folding of chromosomes
+into three-dimensional structures, to chromatin loops that connect genes and
+transcriptional regulatory complexes, to larger chromosomal domains and nuclear
+compartments. Defining chromatin interactions and the ways in which
+nuclear architecture constrains/enables interactions, and describing the
+relationships of genomic regions to transcription, RNA processing and chromatin
+regulatory machineries, are likely to reveal how individual cells access, read
+and interpret genetic information. Because this spatial organization of
+genomes is dynamic, we also need to understand how it changes in response to
+environmental challenges and cellular processes such as cell cycle,
+differentiation, or neoplastic transformation. A comprehensive understanding of
+the contribution of the structural and functional organization of the mammalian
+genome to development and disease in both space (3D Nucleome) and time (4D
+Nucleome) will require major efforts.
+The Four-Dimensional Nucleome (4DN) was selected by the NIH
+Leadership as the focus for a Common Fund Program following a series of
+discussions with panels of scientific experts and stakeholders, and with input
+from the broad community solicited via a Request for Information early in 2014
+(NOT-RM-14-010).
+The impetus for its selection as a Common Fund program was the growing
+awareness that understanding the architecture of the cell nucleus may have
+widespread and profound implications for human health and disease, but our
+current ability to study nuclear organization is hindered by a number of
+outstanding technological and conceptual challenges.
+Experts from the research community identified the following
+scientific priorities as areas that represent challenges and opportunities for
+investment by the NIH: 1) next-generation, high-resolution and high-throughput
+tools to explore the relationships between nuclear organization and the
+regulation of gene expression programs, including with single cell resolution;
+2) computational tools to integrate existing data sets, and to manage, analyze,
+and visualize the datasets generated by a community effort; 3) predictive
+models of nuclear structure/function relationships in the context of various
+cellular states or transitions (differentiation, reprogramming, cell cycle, responses
+to external stimuli, disease development); 4) next-generation tools to explore
+nuclear dynamics through controlled disruption of nuclear conformation, and
+imaging in live cells and tissues; and 5) “pilot” maps (using
+in-development technologies) and “reference” maps (using robust and
+validated technologies) of the 3D architecture of the interphase nucleus for a
+variety of eukaryotic cells and tissues.
+The Common Fund 4DN Program has been developed to address
+these critical issues. The overarching goals of the 4DN Program are to
+understand the principles that guide the spatial and temporal organization of
+the nucleus, the role of this organization in orchestrating the transcriptional
+complexity in individual cells and tissues, and the way in which changes in
+nuclear organization affect development and disease processes. The Program
+consists of 6 initiatives, of which this FOA is one. Specifically, the initiatives
+are:
+RFA-RM-14-006 Nuclear Organization and Function Interdisciplinary Consortium (U54)
+RFA-RM-14-007 Nucleomics Tools (U01)
+RFA-RM-14-008 Study of Nuclear Bodies and Compartments (U01)
+RFA-RM-14-009 4D Nucleome Imaging Tools (U01)
+RFA-RM-14-010 4D Nucleome Network – Organizational Hub (U01)
+RFA-RM-14-011 4D Nucleome Network – Data Coordination & Integration Center (U01)
+Awards funded under these FOAs are anticipated to pursue
+research activities conducted by multidisciplinary teams of investigators. In
+addition, all awardees from all 6 initiatives will form the 4DN Network, with
+the overarching goal of determining the fundamental principles of nuclear
+organization. Validation and comparisons across studies will be essential to
+establish these cross-cutting principles so investigators must be willing to
+work collaboratively as part of the Network.
+This initiative is funded through the NIH Common Fund, which
+supports crosscutting programs that are expected to have exceptionally high
+impact. All Common Fund initiatives invite applicants to develop bold,
+innovative, and often-risky approaches to address problems that may seem intractable
+or to seize new opportunities that offer the potential for rapid progress.
+Objective and Scope
+The organization of the three dimensional genome exhibits
+multiple layers of complexity including chromosomal territories, megabase-long
+chromatin domains, DNA looping between enhancers and promoters, or protein-
+and/or RNA-DNA interactions at transcriptionally active or repressive sites,
+all of which contribute to regulating gene expression. Accordingly, the
+organization of the genome is highly dynamic and variable among individual
+cells, making a comprehensive description of genome structure/function
+relationships an extremely important but complex technical challenge. A
+comprehensive understanding of the structure-function conundrums of nuclear architecture
+will require major efforts to map the structural organization of the nucleus in
+space and time, including positional changes of endogenous loci and chromosome
+territories and their interactions with nuclear bodies and machineries involved
+in regulated nuclear functions such as transcription, co-transcriptional
+splicing, or DNA/chromatin replication and repair. It will require an
+integrated effort of genome and epigenome research, nuclear biochemistry and
+biophysics, high-content imaging, and computational modeling, with an emphasis
+on both structural and functional research.
+Recent years have seen the emergence of biochemical
+approaches (such as 3C, 5C, HiC and ChIA-PET) that can measure physical
+interactions among chromatin elements in a genome-wide fashion. These methods,
+which enable high-throughput and systematic mapping of some aspects of the
+three dimensional organization of mammalian genomes, have provided new insight
+into nuclear architecture. However, currently available technologies which largely
+rely on chemical cross-linking, DNA-DNA proximity ligation and restriction
+enzyme digestion are by their nature limited to static ensemble measurements.
+In addition, important features of genome organization and function cannot be
+measured by current technologies, including higher-order nuclear organization
+and dynamics at the chromosomal level, or genome-wide measurements of
+functional interactions between genomic DNA and key regulators of genome
+organization and function such as ncRNAs or promoter/enhancer protein
+complexes. Finally, the early models of genome structure/function relationships
+derived from the use of existing mapping methods have not always been
+convincingly validated for biological relevance.
+While current mapping technologies have provided important
+insight into the nuclear architecture of genomes, improvement and validation of
+existing technologies, and the development of complementary mapping approaches
+need to take place prior to the generation of reliable high-definition reference
+maps of the 3D organization of mammalian genomes. These improvements will
+require an interplay between the production of large physical interaction
+datasets and the development of computational models, leading to new paradigms
+of nuclear structure and function that can be tested or manipulated in the
+context of a specific biological system. As the number of technologies and
+investigators applying them increases, it will be critical to develop
+community-accepted standards for mapping chromatin interactions.
+This FOA seeks to establish technology-development and
+data-production centers to develop experimental approaches that can measure and
+model various aspects of genome organization within the mammalian cell nucleus.
+Successful U54 centers will constitute the Nuclear Organization and Function
+Interdisciplinary Consortium (NOFIC) whose mission will be to benchmark,
+standardize, and validate the next generation of high-throughput technologies
+that can produce dynamic three dimensional physical and functional maps of
+mammalian genomes. NOFIC investigators will also develop predictive models of
+mammalian genome structure-function relationships, and test the relevance of
+new nuclear organizational principles within the context of specific biological
+paradigms and systems. The overarching goal of this initiative is to obtain, by
+the end of the 5-year funding period, a set of complementary mapping strategies
+that can be combined to build comprehensive, whole-genome, and high-definition
+reference maps of the physical and functional organization of mammalian nuclear
+genomes.
+NOFIC will be composed of 5-8 multidisciplinary U54 teams of
+experts in relevant areas of chromatin biology and nuclear organization,
+biophysics, chemistry, and computational modeling. The NOFIC teams will be
+expected to work together on the shared objective of developing and
+benchmarking the next generation of high-throughput technologies that could
+produce genome-wide maps of biologically-relevant physical genomic
+interactions, functional “interactomes” regulating gene expression
+programs, and/or other aspects of genome nuclear organization and function.
+While the development of mapping technologies may require an initial focus on
+only a fraction of the genome, or an order of magnitude improvement of
+genome-wide approaches with low spatial resolution, it is expected that the
+NOFIC "pilot mapping" effort will bring the NOFIC technology toolbox
+to a point where it can be used for the generation of reliable, high-resolution
+reference maps of nuclear organization in mammalian cells by the end of the
+funding period.
+While all NOFIC teams will need to include investigators
+with complementary expertise, U54 projects could vary significantly in size and
+scope. At a minimum, all U54 applications will need to include the following
+three elements:
+1) Mapping Technology Development: develop a new method, or
+greatly improve on an existing technology, to study critical aspects of genome
+organization and/or function in a systematic and high-throughput manner. All
+proposed methods should have the potential to produce reliable and
+biologically-relevant datasets, to be scaled-up for genome-wide analysis and
+"pilot mapping" in mammalian cells, and to be combined with other
+mapping technologies to contribute to the generation of comprehensive three
+dimensional physical and/or functional maps of mammalian genomes;
+2) Data Analysis and Computational Modeling: propose novel
+principles of physical and/or functional organization of the mammalian nuclear
+genome, and formulate predictive models of genome structure/function
+relationships, based on the analysis of the data collected with the
+new/improved mapping technology;
+3) Biological Validation: validate these novel principles of
+nuclear organization and predictive computational models of structure/function
+relationships using biological read-outs such as genome-wide transcriptomics,
+nuclear imaging or measurement of key aspects of cell function. The validation
+of new organizational principles or predictive models could be achieved through
+controlled manipulation of defined organizational elements, the study of their
+evolutionary conservation, or by measuring in a non-disruptive manner the
+establishment, maintenance, and dynamic changes of organizational determinants
+in live cells in the context of processes such as mitosis, cell
+differentiation, or cell reprogramming.
+In addition to addressing the three minimum requirements
+stated above, larger U54 projects could propose additional tool development or
+data generation efforts to further explore genome structure/function
+relationships in a variety of cellular contexts, or integrate new principles of
+nuclear organization with well-documented and defining characteristics of human
+genome organization such as genetic or epigenetic determinants.
+Technology-development and research efforts that could be proposed in addition
+to the three minimum requirements stated above include, but are not limited to:
+Develop strategies for the controlled manipulations of nuclear
+architecture, or high-performance imaging tools to validate predictive models
+of structure/function relationships;
+Develop computational tools to: improve the sensitivity,
+efficiency and/or reliability of existing mapping technologies; integrate
+datasets generated using distinct but complementary technologies, such as
+chromatin interaction measurements, genome-wide transcriptomics and/or nuclear
+imaging data, into coherent models of genome organization;
+Combine novel mapping measurements and principles of nuclear
+organization with known determinants of mammalian genome organization and
+function, such as epigenomic information and genomic regulatory elements
+(Roadmap Epigenomic Program and ENCODE), or disease-associated risk loci
+(GWAS), in order to validate or refine novel principles of nuclear
+organization;
+Develop approaches to measure chromatin structure dynamics with a
+time resolution that allows measurements of genome-wide re-organization during
+events such as the cell cycle or changes in cell fate;
+Develop technologies that allow the production of single-cell
+maps of nuclear organization, or can report on single-cell genome organization
+and function with high-resolution, dynamically in live cells, tissues or model
+organisms.
+To be responsive to this FOA, investigators must develop a
+mapping approach for which the primary means of measurement does not rely on
+imaging technologies, although imaging studies can be used to help with the
+development or validation of the new mapping technology. For the development of
+primarily imaging-based technologies to better understand mammalian genome
+structure and function, the applicant is directed to RFA-RM-14-009.
+Applicants proposing to develop a single method for studying the organization
+of the nuclear genome in relationship to the topography of nuclear bodies and
+nuclear compartments should apply to RFA-RM-14-008.
+Applicants proposing to develop an original chemical or biochemical approach to
+measure an important aspect of genome organization that cannot be adequately
+measured with existing technologies, but are not expecting that this new
+technology can be scaled-up within the current funding period to become a
+validated high-throughput, genome-wide mapping technology, should consider
+applying to RFA-RM-14-007.
+Consortium Responsibilities
+NOFIC investigators, as a group, are expected to agree on
+practical ways to minimize scientific and strategic redundancies between the
+various U54 projects, and to put in place through the NOFIC Steering Committee
+a collaborative framework in which new mapping technologies can be developed
+and combined in a coordinated fashion. In order to develop standard protocols
+for the field and to compare the performance of various mapping approaches when
+used by different laboratories, the NOFIC Steering Committee will be asked to
+identify a small number of common cell types and/or biological systems to be
+used by all NOFIC investigators for “pilot mapping” and validation
+efforts, in addition to the biological platforms originally proposed in the
+individual NOFIC applications. The NOFIC Steering Committee will update NIH
+Staff regularly on the level of performance of the various NOFIC-supported
+mapping technologies, data analysis tools and computational modeling tools, to
+include metrics and measurements of reproducibility, accuracy, biological
+relevance and cost-effectiveness, and work closely with the 4DN Network Data
+Coordination & Integration Center (4DN-DCIC, see RFA-RM-14-011)
+to develop standards and data analysis tools to be used by the broader
+scientific community. Once a set of mapping technologies is deemed sufficiently
+robust and reliable by the NOFIC Steering Committee and the NIH staff, NOFIC
+investigators may be encouraged to start producing a small set of
+“reference maps” in specific cell types and/or tissues that will be
+chosen as a result of consensus deliberations.
+4DN
+Cooperative Agreement
+This FOA uses the U54 Cooperative Agreement mechanism.
+Successful applicants will become members of the larger 4D Nucleome Network
+composed of investigators who have been funded in response to at least one of
+the six related 4DN Network FOAs. In addition to completing the research goals
+outlined in their applications, successful applicants will be expected to work
+collaboratively with all members of the 4D Nucleome Network, including the 4DN
+Network Organizational Hub (RFA-RM-14-010)
+and the 4DN Network Data Coordination & Integration Center (RFA-RM-14-011),
+to help develop common standards, metrics for data generation and storage, and
+data analysis and visualization tools that can be used by the broader
+scientific community. The 4DN Network will encourage the initiation of new
+collaborative research projects across the entire network. Some of these
+interactions could be facilitated by an Opportunity Pool of funds that will be
+managed by the 4DN Organizational Hub and NIH Program Staff.
+A key aspect of this program is the formation of a
+consortium-type partnership amongst all 4DN Network awardees. Shared
+responsibilities derived from the use of the cooperative agreement mechanism
+are described later in this FOA, and will be further articulated during the
+kickoff meeting of the 4DN Network that will take place a few months after
+awards are made. All 4DN Network investigators will be required to attend this
+initial 4DN Kickoff meeting, as well as annual 4DN investigator meetings and
+regular teleconferences with Network members and NIH Staff for the duration of
+the funding cycle.
+All applicants are strongly encouraged to contact NIH Staff
+to discuss the alignment of their proposed work with the goals of this FOA, and
+the 4DN Program. A Technical Assistance teleconference will be held for
+potential applicants. NIH staff will be available to answer questions
+related to this FOA. Time, date, and dial in information for the call
+will be announced in an NIH Guide Notice and will be posted on the 4DN website: http://commonfund.nih.gov/4Dnucleome/index.
+Section II. Award Information
+Funding Instrument
+Cooperative Agreement: A support mechanism used when there
+will be substantial Federal scientific or programmatic involvement.
+Substantial involvement means that, after award, NIH scientific or program
+staff will assist, guide, coordinate, or participate in project activities.
+Application Types Allowed
+New
+The OER
+Glossary and the SF424 (R&R) Application Guide provide details on
+these application types.
+Funds Available and Anticipated Number of Awards
+The total amount of funds available is $10 million total
+costs per year. It is anticipated that 5 - 7 Centers will be supported.
+Although the financial plans of the NIH provide support
+for this program, awards pursuant to this funding opportunity are contingent
+upon the availability of funds and the receipt of a sufficient number of
+meritorious applications. Future year amounts will depend on annual
+appropriations.
+Award Budget
+Application budgets must need to reflect actual needs of the
+proposed project.
+Award Project Period
+The scope of the project should determine the project
+period. The total award period requested for this FOA may not exceed five
+years.
+NIH grants policies as
+described in the NIH Grants
+Policy Statement will apply to the
+applications submitted and awards made in response to this FOA.
+Section III. Eligibility
+Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+Public/State Controlled Institutions of Higher Education
+Private Institutions of Higher Education
+The following types of Higher Education
+Institutions are always encouraged to apply for NIH support as Public or
+Private Institutions of Higher Education:
+Hispanic-serving
+Institutions
+Historically
+Black Colleges and Universities (HBCUs)
+Tribally
+Controlled Colleges and Universities (TCCUs)
+Alaska
+Native and Native Hawaiian Serving Institutions
+Asian
+American Native American Pacific Islander Serving Institutions (AANAPISIs)
+Nonprofits Other Than Institutions of Higher Education
+Nonprofits with 501(c)(3) IRS Status (Other than Institutions of
+Higher Education)
+Nonprofits without 501(c)(3) IRS Status (Other than Institutions
+of Higher Education)
+For-Profit Organizations
+Small Businesses
+For-Profit Organizations (Other than Small Businesses)
+Governments
+State Governments
+County Governments
+City or Township Governments
+Special District Governments
+Indian/Native American Tribal Governments (Federally Recognized)
+Indian/Native American Tribal Governments (Other than Federally
+Recognized)
+Eligible Agencies of the Federal Government including the NIH
+Intramural Program
+U.S. Territory or Possession
+Other
+Independent School Districts
+Public Housing Authorities/Indian Housing Authorities
+Native American Tribal Organizations (other than Federally
+recognized tribal governments)
+Faith-based or Community-based Organizations
+Regional Organizations
+Foreign Institutions
+Non-domestic (non-U.S.) Entities
+(Foreign Institutions) are not eligible to apply.
+Non-domestic (non-U.S.) components of U.S. Organizations are not eligible
+to apply.
+Foreign components, as defined in
+the NIH Grants Policy Statement, are allowed.
+Required Registrations
+Applicant
+Organizations
+Applicant organizations must complete and maintain the
+following registrations as described in the SF 424 (R&R) Application Guide
+to be eligible to apply for or receive an award. All registrations must be
+completed prior to the application being submitted. Registration can take 6
+weeks or more, so applicants should begin the registration process as soon as
+possible. The NIH
+Policy on Late Submission of Grant Applications states that failure to
+complete registrations in advance of a due date is not a valid reason for a
+late submission.
+Dun and Bradstreet
+Universal Numbering System (DUNS) - All registrations require that
+applicants be issued a DUNS number. After obtaining a DUNS number, applicants
+can begin both SAM and eRA Commons registrations. The same DUNS number must be
+used for all registrations, as well as on the grant application.
+System for Award Management (SAM) (formerly CCR) – Applicants must complete and maintain an active
+registration, which
+requires renewal at least annually. The renewal process may
+require as much time as the initial registration. SAM registration includes the
+assignment of a Commercial and Government Entity (CAGE) Code for domestic
+organizations which have not already been assigned a CAGE Code.
+NATO
+Commercial and Government Entity (NCAGE) Code – Foreign organizations
+must obtain an NCAGE code (in lieu of a CAGE code) in order to register in
+SAM.
+eRA Commons - Applicants
+must have an active DUNS number and SAM registration in order to complete the
+eRA Commons registration. Organizations can register with the eRA Commons as
+they are working through their SAM or Grants.gov registration. eRA Commons
+requires organizations to identify at least one Signing Official (SO) and at
+least one Program Director/Principal Investigator (PD/PI) account in order to
+submit an application.
+Grants.gov –
+Applicants must have an active DUNS number and SAM registration in order to
+complete the Grants.gov registration.
+Program
+Directors/Principal Investigators (PD(s)/PI(s))
+All PD(s)/PI(s) must have an eRA Commons account.
+PD(s)/PI(s) should work with their organizational officials to either
+create a new account or to affiliate their existing account with the applicant
+organization in eRA Commons.If the PD/PI is also the organizational Signing
+Official, they must have two distinct eRA Commons accounts, one for each role.
+Obtaining an eRA Commons account can take up to 2 weeks.
+Eligible Individuals (Program Director/Principal
+Investigator)
+Any individual(s) with the skills, knowledge, and resources
+necessary to carry out the proposed research as the Program Director(s)/Principal
+Investigator(s) (PD(s)/PI(s)) is invited to work with his/her organization to
+develop an application for support. Individuals from underrepresented racial
+and ethnic groups as well as individuals with disabilities are always
+encouraged to apply for NIH support.
+For institutions/organizations proposing multiple PDs/PIs, visit the Multiple
+Program Director/Principal Investigator Policy and submission details in the Senior/Key
+Person Profile (Expanded) Component of the SF424 (R&R) Application Guide.
+2. Cost Sharing
+This FOA does not require cost sharing as defined in the NIH
+Grants Policy Statement.
+3. Additional Information on Eligibility
+Number of Applications
+Applicant organizations may submit more than one application,
+provided that each application is scientifically distinct.
+The NIH will not accept duplicate or highly overlapping
+applications under review at the same time. This means that the NIH will
+not accept:
+A new (A0) application that is submitted before issuance of the
+summary statement from the review of an overlapping new (A0) or resubmission
+(A1) application.
+A resubmission (A1) application that is submitted before issuance
+of the summary statement from the review of the previous new (A0) application.
+An application that has substantial overlap with another
+application pending appeal of initial peer review (see NOT-OD-11-101).
+In addition, the NIH will not accept a resubmission (A1)
+application that is submitted later than 37 months after submission of the new
+(A0) application that it follows. The NIH will accept submission:
+To an RFA of an application that was submitted previously as an
+investigator-initiated application but not paid;
+Of an investigator-initiated application that was originally
+submitted to an RFA but not paid; or
+Of an application with a changed grant activity code.
+Section IV. Application and Submission Information
+1. Requesting an
+Application Package
+Applicants can access the SF424 (R&R) application
+package associated with this funding opportunity using the “Apply for
+Grant Electronically” button in this FOA or following the directions
+provided at Grants.gov.
+Most applicants will use NIH’s ASSIST system to
+prepare and submit applications through Grants.gov to NIH. Applications
+prepared and submitted using applicant systems capable of submitting electronic
+multi-project applications to Grants.gov will also be accepted.
+2. Content and Form of Application Submission
+It is critical that applicants follow the instructions in
+the SF424
+(R&R) Application Guide, including Supplemental
+Grant Application Instructions except where instructed in this funding
+opportunity announcement to do otherwise and where instructions in the
+Application Guide are directly related to the Grants.gov downloadable forms
+currently used with most NIH opportunities. Conformance to the requirements in
+the Application Guide is required and strictly enforced. Applications that are
+out of compliance with these instructions may be delayed or not accepted for
+review.
+For information on Application Submission and Receipt, visit Frequently
+Asked Questions – Application Guide, Electronic Submission of Grant
+Applications.
+Letter of Intent
+Although a letter of intent is not required, is not binding,
+and does not enter into the review of a subsequent application, the information
+that it contains allows IC staff to estimate the potential review workload and
+plan the review.
+By the date listed in Part 1. Overview
+Information, prospective applicants are asked to submit a letter of intent
+that includes the following information:
+Descriptive title of proposed activity
+Name(s), address(es), and telephone number(s) of the PD(s)/PI(s)
+Names of other key personnel
+Participating institution(s)
+Number and title of this funding opportunity
+The letter of intent should be sent to:
+Olivier Blondel, Ph.D. (on behalf of the
+NIH Common Fund 4D Nucleome Working Group)
+Program Director, Endocrine Systems
+Biology Program
+Division of Diabetes, Endocrinology and
+Metabolic Diseases
+National Institute of Diabetes and
+Digestive and Kidney Diseases (NIDDK)
+6707 Democracy Boulevard, Room 796
+Bethesda, MD 20892-5460
+Phone: 301-451-7334
+Email: blondelol@niddk.nih.gov
+Page Limitations
+Component
+Types Available in ASSIST
+Research
+Strategy/Program Plan Page Limits
+Overall
+6
+Mapping Tech
+Dvpmt (use for Mapping Technology Development)
+6
+Data Analysis (use for Data Analysis and Modeling)
+6
+Biological Valid (Use for Biological Validation
+Development)
+6
+Tool Dvpmt-Data Gen (use for Additional Tool Development
+or Data Generation)
+6
+Additional page limits described in the SF424 Application
+Guide and the Table of
+Page Limits must be followed.
+Instructions for the Submission of Multi-Component
+Applications
+The following section supplements the instructions found in
+the SF424 (R&R) Application Guide, and should be used for preparing a
+multi-component application.
+The application should consist of the following components:
+Overall: required
+Mapping Technology Development: required
+Data Analysis and Modeling: required
+Biological Validation Development: required
+Additional Tool Development or Data Generation: optional
+Overall Component
+When preparing your application in ASSIST, use Component
+Type ‘Overall’.
+All instructions in the SF424 (R&R) Application Guide
+must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Overall)
+Complete entire form.
+PHS 398 Cover Page Supplement (Overall)
+Note: Human Embryonic Stem Cell lines from
+other components should be repeated in cell line table in Overall component.
+Research & Related Other Project
+Information (Overall)
+Follow standard instructions.
+Project/Performance Site Location(s) (Overall)
+Enter primary site only.
+A
+summary of Project/Performance Sites in the Overall section of the assembled
+application image in eRA Commons compiled from data collected in the other
+components will be generated upon submission.
+Research & Related Senior/Key
+Person Profile (Overall)
+Include only the Project
+Director/Principal Investigator (PD/PI) and any multi-PDs/PIs (if applicable to
+this FOA) for the entire application.
+In addition to stating their relevant expertise,
+applicants should describe when applicable any prior experience in working as
+part of a research consortium, developing consensus approaches for data sharing
+and other research-related topics, or any other significant collaborative
+activities.
+A
+summary of Senior/Key Persons followed by their Biographical Sketches in the
+Overall section of the assembled application image in eRA Commons will be
+generated upon submission.
+Budget (Overall)
+The only budget information included in
+the Overall component is the Estimated Project Funding section of the SF424
+(R&R) Cover.
+A
+budget summary in the Overall section of the assembled application image in eRA
+Commons compiled from detailed budget data collected in the other components
+will be generated upon submission.
+PHS 398 Research Plan
+(Overall)
+Specific
+Aims: The Specific Aims for the Overall Component should
+describe the overall vision for the U54 Center. These Specific Aims should
+not be the same as the specific aims of the other components, but should be
+overarching and at a higher level. Applicants should describe how their
+combined proposed efforts will meet the Research Objectives stated in this FOA.
+It should include general plan for collaborations between the U54 team
+and other components of the 4DN Network such as the 4DN-OH, 4DN-DCIC, NOFIC
+investigators and non-NOFIC 4DN Network investigators.
+Research
+Strategy: The Overall Component should provide a concise vision
+and proposed plan for the Center. What scientific challenges are being
+addressed, what approaches, methods, software, and tools will be generated, and
+how will the Center be useful? The Overall Component should also include
+a concise description of the structure of the Center and how individual
+components of the Center including key personnel will interact. Clearly explain
+the guiding principles of the interaction, particularly between the three main
+components of mapping technology development and data production, data analysis
+and data modeling, and biological data validation. As NOFIC projects will be
+developing significant tools and new data, a proactive outreach to other
+components of the 4DN Research Network and to the larger scientific community
+will accelerate their use and adoption.
+Resource
+Sharing Plan: Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+Organisms, and Genome Wide Association Studies (GWAS)) as provided in the SF424
+(R&R) Application Guide, with the following modification:
+Applicants should describe how they plan
+to interact with other members of the consortium to facilitate the development
+of common standards for the field, and facilitate the timely sharing of data,
+reagents and protocols generated by NOFIC investigators. The resource sharing
+plan for the Overall Component should cover all the activities of the Center.
+Program Staff may negotiate modifications to these plans prior to funding. The
+Sharing Plan for the Overall Component should address at least the following
+three components:
+Data Release Principles and Standards: All applications,
+regardless of the amount of direct costs requested for any one year, should
+include a Data Sharing Plan. Data from this FOA are expected to be shared in an
+easily accessible, machine readable format in order to increase the value of
+the significant public investment. Consistent with achieving the goals of
+this program, the NIH expects that information such as data syntheses, study
+protocols, bioinformatics tools, and any other metadata collected will be
+widely shared with the scientific community for research and made publicly
+available through the 4DN data portal and other data repositories.
+Applicants should indicate their
+willingness to cooperate with the 4DN Program, 4DN Network Steering Committee
+(4DN-SC), NIH staff, and other stakeholders in the development and
+implementation of research and standardization methods, data standards and
+formats, metadata requirements, and quality control metrics for this resource.
+Data sharing: All controlled access data generated through this
+FOA are expected to be deposited into dbGaP (http://www.ncbi.nlm.nih.gov/sites/entrez?db=gap)
+or other NIH Trusted Partners databases. All data without privacy concerns are
+expected to be deposited in appropriate public databases and also made
+available via the 4DN Network Virtual Resource Repository (4DN-VRR) that will
+be built by the 4DN Network Organizational Hub (4DN-OH) to collect, curate, and
+disseminate information regarding data, critical tools, and reagents being
+developed by the 4DN Network. The 4DN-VRR will be accessible through the 4DN
+Network Portal. Applicants should indicate their willingness to abide by all
+data deposition and release policies defined by 4DN-SC and approved by NIH
+staff. In general, rapid deposition of data into repositories will be expected
+to maximize utility to the scientific community. The applicant's
+milestones should reflect the expected broad and rapid data sharing as outlined
+in the new NIH data sharing policy (see http://grants.nih.gov/grants/guide/notice-files/NOT-OD-14-111.html . Additionally, applicants are expected to adhere to future changes
+to NIH-wide data sharing policies. Applicants should provide a specific
+proposal for release of data, and are encouraged to address the issue of
+frequency of the release, based on practical considerations or previous
+experience and the recommendations above. Applicants should address
+whether they anticipate any of their data requiring controlled access. The
+reasonableness of the proposed data sharing plan will be assessed by the
+reviewers.
+Protocol, tool and reagent sharing: The applicant should discuss
+plans for sharing and distribution of non-data resources that will be generated
+by the proposed project, including models, protocols, computational tools,
+biomaterials, and reagents. As one of the essential goals of this program, NIH
+intends that tools and reagents generated by the 4DN Network be broadly
+available and distributed at minimal cost, and without undue intellectual
+property constraints, so that they can be as widely used as possible, thus
+enabling downstream applications for the reagents by the larger scientific
+community. The 4DN-OH will work with all 4DN Network investigators to collect,
+curate, and disseminate information regarding critical tools and reagents being
+developed by the 4DN Network through the 4DN-VRR. 4DN Network investigators and
+the 4DN-OH will develop solutions to facilitate the request and distribution of
+4DN Network-generated tools and reagents within and outside of the 4DN Network
+community. Whether tools and reagents are distributed by individual investigators
+or through public repositories, the 4DN-VRR is expected to serve as a
+"one-stop shop" for all 4DN Network-generated tools and reagents.
+Applicants should also be familiar with the NIH statements regarding
+intellectual property of resources developed with Federal funds (NIH Research Tools Policy (http://grants.nih.gov/grants/intell-property_64FR72090.pdf)
+and other related NIH sharing policies at http://sharing.nih.gov).
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for
+the Appendix as described in the SF424 (R&R) Application Guide.
+Mapping Technology Development
+When preparing your application in ASSIST,
+use Component Type ‘Mapping Tech Dvpmt.’
+All instructions in the SF424 (R&R) Application Guide
+must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Mapping Technology
+Development)
+Complete only the following fields:
+Applicant
+Information
+Type of
+Applicant (optional)
+Descriptive
+Title of Applicant’s Project
+Proposed
+Project Start/Ending Dates
+PHS 398 Cover Page Supplement
+(Mapping Technology Development)
+Enter Human Embryonic Stem Cells in each
+relevant component.
+Research & Related Other Project
+Information (Mapping Technology Development)
+Human
+Subjects: Answer only the ‘Are Human Subjects
+Involved?’ and 'Is the Project Exempt from Federal regulations?’
+questions.
+Vertebrate
+Animals: Answer only the ‘Are Vertebrate Animals
+Used?’ question.
+Project
+Narrative: Do not complete. Note: ASSIST screens will
+show an asterisk for this attachment indicating it is required. However, eRA
+systems only enforce this requirement in the Overall component and applications
+will not receive an error if omitted in other components.
+Project /Performance Site Location(s) (Mapping Technology Development)
+List all performance sites that apply to
+the specific component.
+Note: The Project Performance Site form
+allows up to 300 sites, prior to using additional attachment for additional
+entries.
+Research & Related Senior/Key
+Person Profile (Mapping Technology Development)
+In the Project Director/Principal Investigator section of the form,
+use Project Role of ‘Other’ with Category of ‘Project
+Lead’ and provide a valid eRA Commons ID in the Credential field.
+In the
+additional Senior/Key Profiles section, list Senior/Key persons that are
+working in the component.
+Include a
+single Biographical Sketch for each Senior/Key person listed in the application
+regardless of the number of components in which they participate. When a
+Senior/Key person is listed in multiple components, the Biographical Sketch can
+be included in any one component.
+If more
+than 100 Senior/Key persons are included in a component, the Additional Senior
+Key Person attachments should be used.
+Budget (Mapping Technology Development)
+Budget forms appropriate for the specific
+component will be included in the application package. Budget requests must
+include costs for the PD/PI to attend the initial in-person 4DN Network
+kick-off meeting, and for the PD/PI and up to five other members of the project
+team to attend the annual 4DN Network Investigator's meetings.
+Note:
+The R&R Budget form included in many of the component types allows for up
+to 100 Senior/Key Persons in section A and 100 Equipment Items in section C
+prior to using attachments for additional entries. All other SF424 (R&R)
+instructions apply.
+PHS 398 Research Plan (Mapping Technology Development)
+Specific
+Aims: Applicants must describe all of the following: the
+expected performance goals for their technology, including throughput,
+sensitivity, scalability, capacity for single-cell versus ensemble measurements,
+and ability to measure dynamic changes in mammalian genome organization; how
+the proposed method can produce new, reliable and biologically-relevant
+datasets; how it improves upon or adds to existing mapping technologies; how it
+can be scaled-up for genome-wide analysis and "pilot mapping" in
+mammalian cells; and how it can be combined with other mapping technologies to
+contribute to the generation of comprehensive, three dimensional physical
+and/or functional maps of mammalian genomes..
+Research
+Strategy: As part of the Research Strategy, applicants
+are asked to address the following points:
+1) Significance: Applications to develop
+high-risk, high-impact, broadly applicable technologies and analytical
+techniques allowing genome-wide measurements not currently possible are
+strongly encouraged. Explain the importance of the problem or critical barrier
+to progress in the field that the new/improved technology will address, and how
+the new/improved technology will contribute to a solution. Explain how the
+proposed project will improve scientific knowledge and technical capability by
+providing new tools and experimental approaches to users. Describe how the
+current concepts, methods, or technologies in the field will be changed if the
+Specific Aims are achieved. Critically evaluate existing knowledge and
+approaches that have been or are being applied in the area and specifically
+describe how the proposed approach will advance the field.
+2) Innovation: Innovation for this FOA is
+measured by the ability to deliver emerging or new capabilities to end-users,
+including through integration and automation of proven approaches that
+recognize their resources, workflow, and skills. For example, and for the
+purpose of this component, it might be considered innovative to develop a
+genome-wide mapping technology that solves a recognized unmet need in our
+ability to study the physical and functional nuclear organization of mammalian
+genomes. Innovation in this case might also be heightened by the development of
+a technology that can be easily adopted into routine practice and will give
+users, for example biomedical researchers, new understanding not available from
+existing technologies. Identify the nature of innovations involved and explain
+their importance to the success and potential impact of the application. Describe
+how the performance of the proposed mapping technology compares to the current
+state of the art. To the extent relevant, explain how the application
+challenges and seeks to shift current research paradigms. Explain any
+refinements, improvements, or new applications of theoretical concepts,
+approaches or methodologies, system integration, combinations, scale-up,
+instrumentation, or interventions.
+3) Approach: Technical feasibility for the
+approach should be clearly established by preliminary results so that any risks
+present can be mitigated and alternative approaches discussed. Comparison of
+performance specifications with current practices is expected, such as
+sensitivity, specificity, reproducibility, reliability, portability,
+throughput, and operability by other biological researchers. Describe the
+overall strategy, methodology, and analyses to be used to accomplish the
+specific aims of the project. Discuss potential problems, alternative
+strategies, and benchmarks for success anticipated to achieve the aims.
+If the project is in the early stages of development, describe any strategy to
+establish feasibility, and address the management of any high risk aspects of
+the proposed work. An integrative systems approach or a design-driven
+approach and their appropriateness for the proposed project should be
+described, including plans for collecting, analyzing, interpreting, and
+archiving data. Details for making the performance of technologies
+sufficiently selective, sensitive, or otherwise appropriate for the identified
+problem should be supported with quantitative benchmarks. Potential technical
+challenges and possible alternative approaches to achieve the aims of the
+project should be discussed. The robustness and reproducibility of preliminary
+results should be described along with independent validation or replication of
+results if available. Alternative interpretations of preliminary data,
+including relevant literature in support of or disagreement with the results,
+should be described.
+4) Outreach and Education: as NOFIC
+projects will be developing significant tools and new data, a proactive
+outreach to other components units of the 4DN Research Network and to the larger
+scientific community is required to accelerate their use and adoption.
+Applicants should provide a plan that describes how this outreach will be
+conducted, particularly in areas such as: development of community standards
+for data production and data analysis; relationship and integration of the data
+being generated to other data types or existing datasets relevant to the
+structure/function of mammalian genomes; education outreach to the scientific
+community to facilitate the use and adoption of the new mapping technology.
+Project Timeline: A timeline (Gantt chart)
+including milestones is required. Milestones are intermediate steps towards the
+completion of concrete goals, that create go/no-go decision points in the
+project and must include clear and quantitative criteria for success. Yearly
+quantitative milestones are required in order to provide clear indicators of a
+project's continued success or emergent difficulties and will be used to
+evaluate the application not only in peer review but also in consideration of
+the awarded project for funding of non-competing award years. Milestones and
+the timeline must be provided in a separate heading at the end of the Approach
+section.
+Resource
+Sharing Plan: Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+Organisms, and Genome Wide Association Studies (GWAS)) as provided in the SF424
+(R&R) Application Guide, with the following modification:
+The Resource Sharing Plan for the entire
+U54 application should be included in the Overall Component of the application.
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for
+the Appendix as described in the SF424 (R&R) Application Guide..
+Planned Enrollment Report
+(Mapping Technology Development)
+Not Applicable
+PHS 398 Cumulative Inclusion
+Enrollment Report (Mapping Technology Development)
+Not Applicable
+Data Analysis and Modeling
+When preparing your application in ASSIST, use Component
+Type ‘Data Analysis.’
+All instructions in the SF424 (R&R) Application Guide
+must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Data Analysis
+and Modeling)
+Complete only the following fields:
+Applicant
+Information
+Type of
+Applicant (optional)
+Descriptive
+Title of Applicant’s Project
+Proposed
+Project Start/Ending Dates
+PHS 398 Cover Page Supplement (Data
+Analysis and Modeling)
+Enter Human Embryonic Stem Cells in each
+relevant component.
+Research & Related Other Project
+Information (Data Analysis and Modeling)
+Human
+Subjects: Answer only the ‘Are Human Subjects
+Involved?’ and 'Is the Project Exempt from Federal regulations?’
+questions.
+Vertebrate
+Animals: Answer only the ‘Are Vertebrate Animals
+Used?’ question.
+Project
+Narrative: Do not complete. Note: ASSIST screens will
+show an asterisk for this attachment indicating it is required. However, eRA
+systems only enforce this requirement in the Overall component and applications
+will not receive an error if omitted in other components.
+Project /Performance Site Location(s)
+(Data Analysis and Modeling)
+List all performance sites that apply to
+the specific component.
+Note: The Project Performance Site form
+allows up to 300 sites, prior to using additional attachment for additional
+entries.
+Research & Related Senior/Key Person
+Profile (Data Analysis and Modeling)
+In the
+Project Director/Principal Investigator section of the form, use Project Role
+of ‘Other’ with Category of ‘Project Lead’ and provide
+a valid eRA Commons ID in the Credential field.
+In the
+additional Senior/Key Profiles section, list Senior/Key persons that are
+working in the component.
+Include a
+single Biographical Sketch for each Senior/Key person listed in the application
+regardless of the number of components in which they participate. When a
+Senior/Key person is listed in multiple components, the Biographical Sketch can
+be included in any one component.
+If more
+than 100 Senior/Key persons are included in a component, the Additional Senior
+Key Person attachments should be used.
+Budget (Data Analysis and Modeling)
+Budget forms appropriate for the specific
+component will be included in the application package.
+Note:
+The R&R Budget form included in many of the component types allows for up
+to 100 Senior/Key Persons in section A and 100 Equipment Items in section C
+prior to using attachments for additional entries. All other SF424 (R&R)
+instructions apply.
+PHS 398 Research Plan
+(Data Analysis and Modeling)
+Specific
+Aims: Applicants should describe how the proposed data analysis
+and computational tools will lead to robust predictive models of genome
+structure/function relationships using the datasets generated with the new/improved
+mapping technology.
+Research
+Strategy: As part of the Research Strategy, applicants
+are asked to address the following points:
+1) Significance: Explain the importance of
+the proposed data analysis and predictive modeling strategy in the context of
+the development and use of the new/improved mapping technology. Explain how the
+proposed approach will lead to robust principles/models of nuclear organization
+derived from the use of the new/improved mapping technology, so that this
+technology can be adopted with confidence by the research community. Critically
+evaluate existing knowledge and approaches that have been or are being applied
+to analyze comparable datasets and lead to predictive models of genome
+organization, and specifically describe how the proposed analytical and
+modeling tools will advance the field.
+2) Innovation: Innovation for this FOA is
+measured by the ability to deliver emerging or new capabilities to end-users,
+including through integration and automation of proven approaches that
+recognize their resources, workflow, and skills. For the purpose of this
+component, it might be considered innovative to develop computational tools for
+data analysis and predictive modeling that perform significantly better than
+existing tools, can be convincingly validated for their biological relevance,
+and/or can lead to the predictive modeling of aspects of mammalian genome structure/function
+relationships that simply cannot be achieved with existing analytical tools.
+Innovation in this case might also be heightened by the development of tools
+that can be easily shared and adopted by the community. Identify the nature of
+innovations involved in the data analysis and computational modeling strategy,
+and explain their importance to the success and potential impact of the overall
+application.
+3) Approach: Feasibility for the approach
+should be clearly established by preliminary results, or by the documented
+previous development of similar analytical tools, so that any risks present can
+be mitigated and alternative approaches discussed. Comparison of
+performance specifications with existing and comparable analytical tools is
+expected, such as sensitivity, specificity, reproducibility, reliability and
+operability by other biological researchers. Describe the overall strategy,
+methodology, and analyses to be used to accomplish the specific aims of the
+project. Discuss potential problems, alternative strategies, and
+benchmarks for success anticipated to achieve the aims. If the project is
+in the early stages of development, describe any strategy to establish
+feasibility, and address the management of any high risk aspects of the proposed
+work. Details for making the performance of data analysis and modeling
+tools sufficiently appropriate for the identified problem should be supported
+with quantitative benchmarks. Potential technical challenges and possible
+alternative approaches to achieve the aims of the project should be discussed.
+The robustness and reproducibility of preliminary results should be described
+along with independent validation or replication of results if available.
+Alternative interpretations of preliminary data, including relevant literature
+in support or disagreement with the results, should be described.
+4) Outreach and Education: as NOFIC
+projects will be developing significant new analytical tools related to the
+development of new mapping technologies and to the interpretation of the
+resulting data, a proactive outreach to other units of the 4DN Research Network
+and to the larger scientific community will be required to accelerate their use
+and adoption. Applicants should provide a plan that describes how this outreach
+will be conducted, particularly in areas such as: development of community
+standards for data analysis; relationship and integration of the analytic tools
+being developed to other data types or existing datasets relevant to the
+structure/function of mammalian genomes; education outreach to the scientific
+community to facilitate the use and adoption of the new analytical tools.
+Project Timeline: A timeline (Gantt chart)
+including milestones is required for all studies. Milestones are intermediate
+steps towards the completion of concrete goals, that create go/no-go decision
+points in the project and must include clear and quantitative criteria for
+success. Yearly quantitative milestones are required in order to provide clear
+indicators of a project's continued success or emergent difficulties and will
+be used to evaluate the application not only in peer review but also in
+consideration of the awarded project for funding of non-competing award years.
+Milestones and the timeline must be provided in a separate heading at the end
+of the Approach section.
+Resource
+Sharing Plan: Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+Organisms, and Genome Wide Association Studies (GWAS)) as provided in the SF424
+(R&R) Application Guide, with the following modification:
+The Resource Sharing Plan for the entire
+U54 application should be included in the Overall Component of the application.
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for
+the Appendix as described in the SF424 (R&R) Application Guide.
+Planned Enrollment Report (Data
+Analysis and Modeling)
+Not Applicable
+PHS 398 Cumulative Inclusion
+Enrollment Report (Data Analysis and Modeling)
+Not Applicable
+Biological Validation Development
+When preparing your application in ASSIST, use Component
+Type ‘Biological Valid’
+All instructions in the SF424 (R&R) Application Guide
+must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Biological
+Validation Development)
+Complete only the following fields:
+Applicant
+Information
+Type of
+Applicant (optional)
+Descriptive
+Title of Applicant’s Project
+Proposed
+Project Start/Ending Dates
+PHS 398 Cover Page Supplement (Biological
+Validation Development)
+Enter Human Embryonic Stem Cells in each
+relevant component.
+Research & Related Other Project
+Information (Biological Validation Development )
+Human
+Subjects: Answer only the ‘Are Human Subjects
+Involved?’ and 'Is the Project Exempt from Federal regulations?’
+questions.
+Vertebrate
+Animals: Answer only the ‘Are Vertebrate Animals
+Used?’ question.
+Project
+Narrative: Do not complete. Note: ASSIST screens will
+show an asterisk for this attachment indicating it is required. However, eRA
+systems only enforce this requirement in the Overall component and applications
+will not receive an error if omitted in other components.
+Project /Performance Site Location(s)
+(Biological Validation Development)
+List all performance sites that apply to
+the specific component.
+Note: The Project Performance Site form
+allows up to 300 sites, prior to using additional attachment for additional
+entries.
+Research & Related Senior/Key
+Person Profile (Biological Validation Development)
+In the
+Project Director/Principal Investigator section of the form, use Project Role
+of ‘Other’ with Category of ‘Project Lead’ and provide
+a valid eRA Commons ID in the Credential field.
+In the
+additional Senior/Key Profiles section, list Senior/Key persons that are
+working in the component.
+Include a
+single Biographical Sketch for each Senior/Key person listed in the application
+regardless of the number of components in which they participate. When a
+Senior/Key person is listed in multiple components, the Biographical Sketch can
+be included in any one component.
+If more
+than 100 Senior/Key persons are included in a component, the Additional Senior
+Key Person attachments should be used.
+Budget (Biological Validation
+Development)
+Budget forms appropriate for the specific
+component will be included in the application package.
+Note:
+The R&R Budget form included in many of the component types allows for up
+to 100 Senior/Key Persons in section A and 100 Equipment Items in section C
+prior to using attachments for additional entries. All other SF424 (R&R)
+instructions apply.
+PHS 398 Research Plan
+(Biological Validation Development)
+Specific
+Aims: All projects should propose a detailed plan for the
+biological validation of the data and principles derived from the new
+genome-wide mapping methods early in the technology-development process.
+Applicants should describe the strategy that will be developed to perform the
+validation of predictive models of genome organization or structure/function
+relationships derived from the use of the new/improved mapping technology,
+including cell systems, biological read-outs and/or perturbation experiments to
+be used. When choosing cell systems or experimental platforms in response to
+this initiative, applicants have to keep in mind that the most important
+milestone that needs to be met at the end of the funding period is the
+development of at least one high-throughput, genome-wide mapping strategy that
+can quantitatively and reliably describe an important aspect of nuclear
+organization and/or function in mammalian cells. However, given that the
+development of a new technology can be facilitated by the use of lower
+organisms, and that its biological validation can benefit from measurements in
+whole organisms, the inclusion of non-mammalian cell types or model organisms
+for the purpose of accelerating technology development or biological validation
+is an acceptable option.
+Research
+Strategy: As part of the Research Strategy, applicants
+are asked to address the following points:
+1) Significance: Explain the importance of
+the proposed biological validation strategy in the context of the development
+of new principles/models of physical and/or functional organization of
+mammalian nuclear genomes using high-throughput datasets generated with the
+proposed new/improved mapping technology. Explain how the proposed validation
+strategy will convincingly establish the biological relevance of the new
+principles/models of nuclear organization derived from the proposed mapping
+technology, so that this technology can be adopted with confidence by the
+research community. Critically evaluate existing knowledge and approaches that
+have been or are being applied to validate comparable mapping technologies
+and/or new principles/predictive models of genome organization, and
+specifically describe how the proposed validation strategy compares to these
+existing approaches, and will advance the field.
+2) Innovation: Innovation for this FOA is
+measured by the ability to deliver emerging or new capabilities to end-users,
+including through integration and automation of proven approaches that
+recognize their resources, workflow, and skills. For the purpose of this
+component, it might be considered innovative to develop cell-based validation
+strategies that are more robust and convincing than existing approaches aimed
+at demonstrating the biological relevance of new principles of genome
+organization. Innovation might also be heightened by the development of a
+validation strategy that can be easily adopted into routine practice. Identify
+the nature of innovations involved in the validation strategy, and explain
+their importance to the success and potential impact of the overall
+application.
+3) Approach: Technical feasibility for the
+approach should be clearly established by preliminary results so that any risks
+present can be mitigated and alternative approaches discussed. Describe the
+overall strategy, methodology, and analyses to be used to accomplish the
+specific aims of the project. Discuss potential problems, alternative strategies,
+and benchmarks for success anticipated to achieve the aims. If the
+project is in the early stages of development, describe any strategy to
+establish feasibility, and address the management of any high risk aspects of
+the proposed work. Details for making the performance of technologies
+sufficiently selective, sensitive, or otherwise appropriate for the identified
+problem should be supported with quantitative benchmarks. Potential technical
+challenges and possible alternative approaches to achieve the aims of the
+project should be discussed. The robustness and reproducibility of preliminary
+results should be described along with independent validation or replication of
+results if available. Alternative interpretations of preliminary data,
+including relevant literature in support of or disagreement with the results,
+should be described.
+Project Timeline: A timeline (Gantt chart)
+including milestones is required for all studies. Milestones are intermediate
+steps towards the completion of concrete goals, that create go/no-go decision
+points in the project and must include clear and quantitative criteria for
+success. Yearly quantitative milestones are required in order to provide clear
+indicators of a project's continued success or emergent difficulties and will
+be used to evaluate the application not only in peer review but also in
+consideration of the awarded project for funding of non-competing award years.
+Milestones and the timeline must be provided in a separate heading at the end
+of the Approach section.
+Resource
+Sharing Plan: Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+Organisms, and Genome Wide Association Studies (GWAS)) as provided in the SF424
+(R&R) Application Guide, with the following modification:
+The Resource Sharing Plan for the entire
+U54 application should be included in the Overall Component of the application.
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for
+the Appendix as described in the SF424 (R&R) Application Guide.
+Planned Enrollment Report (Biological
+Validation Development)
+Not Applicable
+PHS 398 Cumulative Inclusion
+Enrollment Report (Biological Validation Development)
+Not Applicable
+Additional Tool Development or Data Generation
+When preparing your application in ASSIST, use Component
+Type ‘Tool Dvpmt-Data Gen.’
+All instructions in the SF424 (R&R) Application Guide
+must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Additional
+Tool Development or Data Generation)
+Complete only the following fields:
+Applicant
+Information
+Type of
+Applicant (optional)
+Descriptive
+Title of Applicant’s Project
+Proposed
+Project Start/Ending Dates
+PHS 398 Cover Page Supplement (Additional
+Tool Development or Data Generation)
+Enter Human Embryonic Stem Cells in each
+relevant component.
+Research & Related Other Project
+Information (Additional Tool Development or Data Generation)
+Human
+Subjects: Answer only the ‘Are Human Subjects
+Involved?’ and 'Is the Project Exempt from Federal regulations?’
+questions.
+Vertebrate
+Animals: Answer only the ‘Are Vertebrate Animals
+Used?’ question.
+Project
+Narrative: Do not complete. Note: ASSIST screens will
+show an asterisk for this attachment indicating it is required. However, eRA
+systems only enforce this requirement in the Overall component and applications
+will not receive an error if omitted in other components.
+Project /Performance Site Location(s)
+(Additional Tool Development or Data Generation)
+List all performance sites that apply to
+the specific component.
+Note: The Project Performance Site form
+allows up to 300 sites, prior to using additional attachment for additional
+entries.
+Research & Related Senior/Key
+Person Profile (Additional Tool Development or Data Generation)
+In the
+Project Director/Principal Investigator section of the form, use Project Role
+of ‘Other’ with Category of ‘Project Lead’ and provide
+a valid eRA Commons ID in the Credential field.
+In the
+additional Senior/Key Profiles section, list Senior/Key persons that are
+working in the component.
+Include a
+single Biographical Sketch for each Senior/Key person listed in the application
+regardless of the number of components in which they participate. When a
+Senior/Key person is listed in multiple components, the Biographical Sketch can
+be included in any one component.
+If more
+than 100 Senior/Key persons are included in a component, the Additional Senior
+Key Person attachments should be used.
+Budget (Additional Tool Development
+or Data Generation)
+Budget forms appropriate for the specific
+component will be included in the application package.
+Note:
+The R&R Budget form included in many of the component types allows for up
+to 100 Senior/Key Persons in section A and 100 Equipment Items in section C
+prior to using attachments for additional entries. All other SF424 (R&R)
+instructions apply.
+PHS 398 Research Plan
+(Additional Tool Development or Data Generation)
+Specific
+Aims: The applicant should articulate how the Specific Aims
+will contribute to a greater understanding of the fundamental principles of the
+nuclear organization of mammalian genomes.
+Research
+Strategy: As part of the Research Strategy, applicants
+are asked to address the following points:
+1) Significance: Explain the importance of
+the problem or critical barrier to progress in the field that this component of
+the grant will address, and how the proposed Specific Aims will contribute to a
+solution. Explain how the proposed project will improve scientific knowledge and
+technical capability by providing new tools and experimental approaches to
+users. Describe how the current concepts, methods, or technologies in the field
+will be changed if the Specific Aims are achieved. Critically evaluate existing
+knowledge and approaches that have been or are being applied in the area and
+specifically describe how the proposed approach will advance the field.
+2) Innovation: Innovation for this FOA is
+measured by the ability to deliver emerging or new capabilities to end-users,
+including through integration and automation of proven approaches that
+recognize their resources, workflow, and skills. Innovation in this case might
+be heightened by the development of a technology, approach or generation of a
+set of data that can be easily adopted by the scientific community and will
+give users, for example biomedical researchers, added experimental capabilities
+or scientific knowledge not available from existing technologies or datasets.
+Identify the nature of innovations involved and explain their importance to the
+success and potential impact of the application, as well as relevance to the
+mission of NOFIC and the 4D Nucleome Research Network. To the extent relevant,
+explain how the application challenges and seeks to shift current research paradigms.
+Explain any refinements, improvements, or new applications of theoretical
+concepts, approaches or methodologies, system integration, combinations,
+scale-up, instrumentation, or interventions.
+3) Approach: Technical feasibility for the
+approach should be clearly established by preliminary results so that any risks
+present can be mitigated and alternative approaches discussed. Comparison of
+performance specifications with current practices is expected, such as
+sensitivity, specificity, reproducibility, reliability, portability,
+throughput, and operability by other biological researchers. Describe the
+overall strategy, methodology, and analyses to be used to accomplish the
+specific aims of the project. Discuss potential problems, alternative
+strategies, and benchmarks for success anticipated to achieve the aims.
+If the project is in the early stages of development, describe any strategy to
+establish feasibility, and address the management of any high risk aspects of
+the proposed work. An integrative systems approach or a design-driven
+approach and their appropriateness for the proposed project should be
+described, including plans for collecting, analyzing, interpreting, and
+archiving data. Details for making the performance of technologies sufficiently
+selective, sensitive, or otherwise appropriate for the identified problem
+should be supported with quantitative benchmarks. Potential technical
+challenges and possible alternative approaches to achieve the aims of the
+project should be discussed. The robustness and reproducibility of preliminary
+results should be described along with independent validation or replication of
+results if available. Alternative interpretations of preliminary data,
+including relevant literature in support or disagreement with the results,
+should be described.
+Project Timeline: A timeline (Gantt chart)
+including milestones is required for all studies. Milestones are intermediate
+steps towards the completion of concrete goals, that create go/no-go decision
+points in the project and must include clear and quantitative criteria for
+success. Yearly quantitative milestones are required in order to provide clear
+indicators of a project's continued success or emergent difficulties and will
+be used to evaluate the application not only in peer review but also in
+consideration of the awarded project for funding of non-competing award years.
+Milestones and the timeline must be provided in a separate heading at the end
+of the Approach section.
+Resource
+Sharing Plan: Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+Organisms, and Genome Wide Association Studies (GWAS)) as provided in the SF424
+(R&R) Application Guide, with the following modification:
+The Resource Sharing Plan for the entire
+U54 application should be included in the Overall Component of the application.
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for
+the Appendix as described in the SF424 (R&R) Application Guide
+Planned Enrollment Report (Additional
+Tool Development or Data Generation)
+Not Applicable
+PHS 398 Cumulative Inclusion
+Enrollment Report (Additional Tool Development or Data Generation)
+Not Applicable
+3. Submission Dates and
+Times
+Part I. Overview Information contains information about Key Dates. Applicants are encouraged to submit applications
+before the due date to ensure they have time to make any application
+corrections that might be necessary for successful submission.
+Organizations must submit applications to Grants.gov (the online portal to find and apply for grants
+across all Federal agencies) using ASSIST or other electronic submission
+systems. Applicants must then complete the submission process by tracking the
+status of the application in the eRA Commons, NIH’s electronic system for grants
+administration.
+Applicants
+are responsible for viewing their application before the due date in the eRA
+Commons to ensure accurate and successful submission.
+Information on the submission process and a definition of
+on-time submission are provided in the SF424 (R&R) Application Guide.
+4. Intergovernmental Review
+(E.O. 12372)
+This initiative is not subject to intergovernmental
+review.
+5. Funding Restrictions
+All NIH awards are subject to the terms and conditions, cost
+principles, and other considerations described in the NIH Grants
+Policy Statement.
+Pre-award costs are allowable only as described in the NIH Grants
+Policy Statement.
+6. Other Submission
+Requirements and Information
+Applications must be submitted electronically following the
+instructions described in the SF424 (R&R) Application Guide. Paper applications will not be accepted.
+For information on how your application will be
+automatically assembled for review and funding consideration after submission
+go to: http://grants.nih.gov/grants/ElectronicReceipt/files/Electronic_Multi-project_Application_Image_Assembly.pdf.
+Applicants must complete all required registrations
+before the application due date. Section
+III. Eligibility Information contains information about registration.
+For assistance with your electronic application or for more information on the electronic submission
+process, visit Applying
+Electronically.
+Important
+reminders:
+All PD(s)/PI(s) and component Project Leads must include their
+eRA Commons ID in the Credential field of the Senior/Key Person Profile
+Component of the SF424(R&R) Application Package. Failure to register
+in the Commons and to include a valid PD/PI Commons ID in the credential field
+will prevent the successful submission of an electronic application to NIH.
+The applicant organization must ensure that the DUNS number it provides on the
+application is the same number used in the organization’s profile in the
+eRA Commons and for the System for Award Management (SAM). Additional
+information may be found in the SF424 (R&R) Application Guide.
+See more
+tips for avoiding common errors.
+Upon receipt, applications will be evaluated for
+completeness by the Center for Scientific Review and responsiveness by components of participating organizations,
+NIH. Applications that are incomplete and/or nonresponsive will not be
+reviewed.
+Applications
+Involving the NIH Intramural Research Program
+The requests by NIH intramural scientists will be limited to
+the incremental costs required for participation. As such, these
+requests will not include any salary and related fringe benefits for career,
+career conditional or other Federal employees (civilian or uniformed service)
+with permanent appointments under existing position ceilings or any costs
+related to administrative or facilities support (equivalent to Facilities and
+Administrative or F&A costs). These costs may include salary for
+staff to be specifically hired under a temporary appointment for the project,
+consultant costs, equipment, supplies, travel, and other items typically listed
+under Other Expenses. Applicants should indicate the number of
+person-months devoted to the project, even if no funds are requested for salary
+and fringe benefits.
+If selected, appropriate funding will be provided by the NIH
+Intramural Program. NIH intramural scientists will participate in this
+program as PDs/PIs in accord with the Terms and Conditions provided in this
+FOA. Intellectual property will be managed in accord with established
+policy of the NIH in compliance with Executive Order 10096, as amended, 45 CFR
+Part 7; patent rights for inventions developed in NIH facilities are NIH
+property unless NIH waives its rights.
+Should an extramural application include collaboration with
+an intramural scientist, no funds for the support of the intramural scientist
+may be requested in the application. The intramural scientist may submit
+a separate request for intramural funding as described above. The intramural
+project should be added as a separate component to the parent application.
+Post Submission Materials
+Applicants are required to follow the instructions for
+post-submission materials, as described in NOT-OD-13-030.
+Section V. Application Review Information
+1.
+Criteria
+Only the review criteria described below will be considered
+in the review process. As part of the NIH mission,
+all applications submitted to the NIH in support of biomedical and behavioral
+research are evaluated for scientific and technical merit through the NIH peer
+review system.
+The Overall Center impact score will emphasize a) the
+overall effectiveness and innovation of the approaches, methods, software,
+tools, and related resources in generating a mapping technology that can
+provide validated, biologically relevant datasets and analytical tools leading
+to a greater understanding of the structural and functional organization of
+mammalian genomes; b) the scientific merit and likely contribution to the field
+of the proposed technology, datasets and predictive modeling tools, c) the
+potential for acceptance of the proposed technology, analytical tools and new
+principles of genome organization by the research community based on technical
+criteria such sensitivity, specificity, reproducibility, reliability,
+portability, throughput, operability and cost-effectiveness, as well as proposed
+efforts to develop community standards and educational outreach; d) the
+qualifications of the Center Director and other staff; e) the quality of the
+plans for management and oversight of the Center; f) the adequacy of plans for
+the release of data, methods, software, tools, and related dissemination
+activities; g) the synergy among the components; h) the contribution to the
+goals and activities of the NOFIC and the 4DN Network. The overall impact
+score for the NOFIC application may be higher or lower than the average of the
+individual components based on assessment of whether the whole is greater than
+the sum of its components
+Overall Impact - Overall
+Reviewers will provide an overall impact score to reflect
+their assessment of the likelihood for the project to exert a sustained,
+powerful influence on the research field(s) involved, in consideration of the
+following review criteria and additional review criteria (as applicable for the
+project proposed).
+Scored Review Criteria - Overall Center
+Reviewers will consider each of the review criteria below in
+the determination of scientific merit, and give a separate score for each. An
+application does not need to be strong in all categories to be judged likely to
+have major scientific impact. For example, a project that by its nature is not
+innovative may be essential to advance a field.
+Significance
+Does the project address an important
+problem or a critical barrier to progress in the field? If the aims of the
+project are achieved, how will scientific knowledge, technical capability,
+and/or clinical practice be improved? How will successful completion of the
+aims change the concepts, methods, technologies, treatments, services, or
+preventative interventions that drive this field?
+Specific
+to this FOA: Will the proposed mapping technology or
+combination of mapping technologies significantly advance our understanding of
+the spatiotemporal organization and function of the genome in the mammalian
+cell nucleus? Will the proposed technologies and strategies enable the study of
+critical aspects of genome organization that cannot be adequately measured with
+existing technologies, or constitute an order of magnitude improvement on
+existing approaches in terms of throughput, sensitivity, scalability or cost?
+Will the project address a problem or critical barrier in understanding the 4D
+organization or function of the mammalian genome for which there is a scarcity
+of other solutions? What is the potential for the proposed approach to be
+widely adopted and easily used by the research community?
+Investigator(s)
+Are the PD(s)/PI(s), collaborators, and
+other researchers well suited to the project? If Early Stage Investigators or
+New Investigators, or in the early stages of independent careers, do they have
+appropriate experience and training? If established, have they demonstrated an
+ongoing record of accomplishments that have advanced their field(s)? If the
+project is collaborative or multi-PD/PI , do the investigators have
+complementary and integrated expertise; are their leadership approach,
+governance and organizational structure appropriate for the project?
+Specific
+to this FOA: Does the project team have appropriate experience
+with developing, optimizing, and validating the proposed technology and related
+analytical and modeling tools in mammalian cells during the proposed funding
+period? Does the project team have a track record of disseminating novel tools
+and techniques broadly?
+Innovation
+Does the application challenge and seek to
+shift current research or clinical practice paradigms by utilizing novel
+theoretical concepts, approaches or methodologies, instrumentation, or
+interventions? Are the concepts, approaches or methodologies, instrumentation,
+or interventions novel to one field of research or novel in a broad sense? Is a
+refinement, improvement, or new application of theoretical concepts, approaches
+or methodologies, instrumentation, or interventions proposed?
+Specific
+to this FOA: Will the proposed approaches or concepts solve
+current technical limitations or gaps in knowledge in creative ways? Does the
+application represent an innovative technological solution for measuring
+important aspect of the nuclear organization of mammalian genomes? Will the
+project deliver new or significantly more precise quantitative measurements to
+potentially change our understanding of the physical and/or functional
+organization of the mammalian nuclear genome?
+Approach
+Are the overall strategy, methodology, and
+analyses well-reasoned and appropriate to accomplish the specific aims of the
+project? Are potential problems, alternative strategies, and benchmarks for
+success presented? If the project is in the early stages of development, will
+the strategy establish feasibility and will particularly risky aspects be managed?
+If the project involves human subjects and/or NIH-defined clinical research,
+are the plans to address 1) the protection of human subjects from research
+risks, and 2) inclusion (or exclusion) of individuals on the basis of
+sex/gender, race, and ethnicity, as well as the inclusion or exclusion of
+children, justified in terms of the scientific goals and research strategy
+proposed?
+Specific
+to this FOA: Are the technology development, analytical and
+modeling tools, and validation approaches adequately described,
+well-integrated, and appropriate to the aims of the project? Is the application
+milestone driven with clear metrics and go/no-go decision points, and are these
+appropriate? Is a timetable with annual, quantitative research milestones
+propose, and are the annual milestones quantitative and realistic? Will
+the proposed technology and the novel principles of nuclear organization that
+are derived from it receive adequate validation, so that this technology has
+the potential to be used, at the end of the funding period, for the production
+of reference maps of nuclear organization in various mammalian cells and
+tissues?
+Environment
+Will the scientific environment in which
+the work will be done contribute to the probability of success? Are the institutional
+support, equipment and other physical resources available to the investigators
+adequate for the project proposed? Will the project benefit from unique
+features of the scientific environment, subject populations, or collaborative
+arrangements?
+Specific
+to this FOA: Are the proposed environment and team-structure
+likely to foster true multi-disciplinary collaborations in pursuit of
+developing and validating an innovative technology?
+Additional Review Criteria - Overall
+As applicable for the project proposed, reviewers will
+evaluate the following additional items while determining scientific and
+technical merit, and in providing an overall impact score, but will not give
+separate scores for these items.
+Protections for Human Subjects
+For research that involves human subjects
+but does not involve one of the six categories of research that are exempt
+under 45 CFR Part 46, the committee will evaluate the justification for
+involvement of human subjects and the proposed protections from research risk
+relating to their participation according to the following five review
+criteria: 1) risk to subjects, 2) adequacy of protection against risks, 3)
+potential benefits to the subjects and others, 4) importance of the knowledge
+to be gained, and 5) data and safety monitoring for clinical trials.
+For research that involves human subjects and meets the criteria for one or
+more of the six categories of research that are exempt under 45 CFR Part 46,
+the committee will evaluate: 1) the justification for the exemption, 2) human
+subjects involvement and characteristics, and 3) sources of materials. For
+additional information on review of the Human Subjects section, please refer to
+the Guidelines
+for the Review of Human Subjects.
+Inclusion of Women, Minorities, and
+Children
+When the proposed project involves human
+subjects and/or NIH-defined clinical research, the committee will evaluate the
+proposed plans for the inclusion (or exclusion) of individuals on the basis of
+sex/gender, race, and ethnicity, as well as the inclusion (or exclusion) of
+children to determine if it is justified in terms of the scientific goals and
+research strategy proposed. For additional information on review of the
+Inclusion section, please refer to the Guidelines
+for the Review of Inclusion in Clinical Research.
+Vertebrate Animals
+The committee will evaluate the
+involvement of live vertebrate animals as part of the scientific assessment
+according to the following five points: 1) proposed use of the animals, and
+species, strains, ages, sex, and numbers to be used; 2) justifications for the
+use of animals and for the appropriateness of the species and numbers proposed;
+3) adequacy of veterinary care; 4) procedures for limiting discomfort,
+distress, pain and injury to that which is unavoidable in the conduct of
+scientifically sound research including the use of analgesic, anesthetic, and tranquilizing
+drugs and/or comfortable restraining devices; and 5) methods of euthanasia and
+reason for selection if not consistent with the AVMA Guidelines on Euthanasia. For
+additional information on review of the Vertebrate Animals section, please
+refer to the Worksheet
+for Review of the Vertebrate Animal Section.
+Biohazards
+Reviewers will assess whether materials or
+procedures proposed are potentially hazardous to research personnel and/or the
+environment, and if needed, determine whether adequate protection is proposed.
+Resubmissions
+Not Applicable
+Renewals
+Not Applicable
+Revisions
+Not Applicable
+Additional Review Considerations - Overall
+As applicable for the project proposed, reviewers will
+consider each of the following items, but will not give scores for these items,
+and should not consider them in providing an overall impact score.
+Applications from Foreign
+Organizations
+Not Applicable
+Select Agent Research
+Reviewers will assess the information
+provided in this section of the application, including 1) the Select Agent(s)
+to be used in the proposed research, 2) the registration status of all entities
+where Select Agent(s) will be used, 3) the procedures that will be used to
+monitor possession use and transfer of Select Agent(s), and 4) plans for
+appropriate biosafety, biocontainment, and security of the Select Agent(s).
+Resource Sharing Plans
+Reviewers will comment on whether the
+following Resource Sharing Plans, or the rationale for not sharing the
+following types of resources, are reasonable: 1) Data
+Sharing Plan; 2) Sharing
+Model Organisms; and 3) Genome Wide
+Association Studies (GWAS)
+Budget and Period of Support
+Reviewers will consider whether the budget
+and the requested period of support are fully justified and reasonable in
+relation to the proposed research.
+2. Review and Selection
+Process
+Applications will be evaluated for scientific and technical
+merit by (an) appropriate Scientific Review Group(s), convened by the Center
+for Scientific Review, in accordance with NIH peer
+review policy and procedures, using the stated review
+criteria. Assignment to a Scientific Review Group will be shown in the eRA
+Commons.
+As part of the scientific peer review, all applications:
+May undergo a selection process in which only those applications
+deemed to have the highest scientific and technical merit (generally the top
+half of applications under review) will be discussed and assigned an overall impact
+score.
+Will receive a written critique.
+Appeals of initial peer review will not be accepted for applications submitted in
+response to this FOA.
+Applications will be assigned on the basis of established
+PHS referral guidelines to the appropriate NIH Institute or Center. Applications
+will compete for available funds with all other recommended applications submitted
+in response to this FOA. Following initial peer review, recommended applications
+will receive a second level of review by the appropriate national Advisory
+Council or Board. The following will be considered in making funding decisions:
+Scientific and technical merit of the proposed project as
+determined by scientific peer review.
+Availability of funds.
+Relevance of the proposed project to program priorities.
+3. Anticipated Announcement
+and Award Dates
+After the peer review of the application is completed, the
+PD/PI will be able to access his or her Summary Statement (written critique)
+via the eRA
+Commons.
+Information regarding the disposition of applications is
+available in the NIH Grants
+Policy Statement.
+Section VI. Award
+Administration Information
+1. Award Notices
+If the application is under consideration for funding, NIH
+will request "just-in-time" information from the applicant as
+described in the NIH Grants
+Policy Statement.
+A formal notification in the form of a Notice of Award (NoA) will be provided
+to the applicant organization for successful applications. The NoA signed by
+the grants management officer is the authorizing document and will be sent via
+email to the grantee’s business official.
+Awardees must comply with any funding restrictions described in Section IV.5. Funding Restrictions. Selection
+of an application for award is not an authorization to begin performance. Any
+costs incurred before receipt of the NoA are at the recipient's risk. These
+costs may be reimbursed only to the extent considered allowable pre-award costs.
+Any application awarded in response to this FOA will be subject to terms and
+conditions found on the Award
+Conditions and Information for NIH Grants website. This includes any
+recent legislation and policy applicable to awards that is highlighted on this
+website.
+2. Administrative and
+National Policy Requirements
+All NIH grant and cooperative agreement awards include the NIH Grants
+Policy Statement as part of the NoA. For these terms of award, see the NIH
+Grants Policy Statement Part II: Terms and Conditions of NIH Grant Awards,
+Subpart A: General and Part II:
+Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for
+Specific Types of Grants, Grantees, and Activities. More information is
+provided at Award
+Conditions and Information for NIH Grants.
+Cooperative Agreement Terms and Conditions of Award
+The following special terms of award are in addition to, and
+not in lieu of, otherwise applicable OMB administrative guidelines, HHS grant
+administration regulations at 45 CFR Parts 74 and 92 (Part 92 is applicable
+when State and local Governments are eligible to apply), and other HHS PHS, and
+NIH grant administration policies.
+The administrative and funding instrument used for this
+program will be the cooperative agreement U54, an "assistance"
+mechanism (rather than an "acquisition" mechanism), in which substantial
+NIH programmatic involvement with the awardees is anticipated during the
+performance of the activities. A Memorandum of Understanding (MOU) developed by
+the NIH Common Fund should serve as a guidance document to provide a framework
+under which relationships between investigators and NIH Program Staff are
+established. Templates for Confidential Disclosure Agreements (CDAs) and
+Collaborative Research Agreements (CRAs) have been developed by the NIH Office
+of Technology Transfer. Under the cooperative agreement, the NIH
+purpose is to support and stimulate the recipients' activities by involvement
+in and otherwise working jointly with the award recipients in a partnership
+role; it is not to assume direction, prime responsibility, or a dominant role
+in the activities. Consistent with this concept, the dominant role and prime
+responsibility resides with the awardees for the project as a whole, although
+specific tasks and activities may be shared among the awardees and the NIH as
+defined below.
+The
+PD(s)/PI(s) will have the primary responsibility for:
+The PD/PI will be primarily responsible for the planning and
+conduct of the operations defined by the terms and conditions of the
+cooperative agreement award.
+The PD/PI will assume responsibility and accountability to the
+applicant organization officials and to the NIH for the performance and proper
+conduct of the research and administrative functions supported under this
+Funding Opportunity Announcement in accordance with the terms and conditions of
+award, as well as all pertinent laws, regulations and policies.
+The PD/PI and his/her staff will be required to participate in a
+cooperative, interactive, and collaborative manner with NIH staff, 4DN Network
+investigators and one another.
+The PD/PI will become a voting member of the NOFIC Steering
+Committee (NOFIC-SC) that will be tasked with establishing guidelines and
+agreements with regard to NOFIC-specific scientific, strategic and
+administrative issues, including but not limited to the development of common
+standards, metrics and measurements of reproducibility, accuracy, biological
+relevance, and cost-effectiveness.
+The PD/PI may also be elected by the NOFIC-SC to represent NOFIC
+investigators on the 4DN Network Steering Committee (4DN-SC) that will be
+tasked with establishing agreements that address the following issues: (1)
+procedures for data sharing among consortium members, data sharing with the
+scientific community outside of the 4DN Network, and data sharing with industry
+partners; (2) procedures for safeguarding confidential information, including
+without limitation, any data generated by the consortium as well as information
+and/or data received from external collaborators; (3) procedures for addressing
+ownership of intellectual property that result from aggregate multi-party data;
+(4) procedures for sharing tools and reagents under an overarching MTA amongst
+consortium members that operationalizes material transfer in an efficient and
+expeditious manner; (5) publication policy for the entire 4DN Network,
+determining timing, authorship and content of co-publications, in order to
+facilitate collaborations and co-publications by consortium members while
+protecting each 4DN Network investigator’s primary ownership and
+authorship of their data and discoveries.
+The PD/PI and his/her staff will maintain the confidentiality of
+the information developed or handled by the NOFIC and the 4DN Network,
+including, without limitation, unpublished data, informatics tools, protocols,
+data analysis, confidential exchanges between members of the 4DN Network, etc.
+per policies approved by the 4DN-SC, as well as any confidential information
+received by third party collaborators.
+The PD/PI must facilitate the public release and dissemination of
+results, data, reagents, technologies and other products generated through this
+4DN award in a timely manner via the 4DN Network Virtual Resource Repository
+(4DN-VRR) that will be built and managed by the 4DN Network Organizational Hub
+(4DN-OH) to collect, curate and disseminate information regarding data,
+critical tools and reagents being developed by the 4DN Network. The
+4DN-VRR will be accessible through the 4DN Network Portal. The PD/PI is expected
+to share data and resources generated through this award in accordance with the
+approved plan for making quality-assured data and materials available to the
+scientific community and the NIH as written in the final version of the grant
+application, and consistent with sharing policies and recommendations developed
+and approved by the NOFIC-SC, the 4DN-SC, NIH sharing policies and the goals of
+the FOA.
+The PD/PI agrees that any industry collaborations should be
+governed by a research collaboration agreement (e.g. CTA, RCA, etc) with terms
+that ensure the collaboration is conducted in accordance with the Cooperative
+Agreement, applicable NIH policies and procedures and any policies and
+procedures developed by the 4DN-OH or the 4DN-SC.
+The PD/PI must operate in accordance with processes and goals as
+delineated in the Funding Opportunity Announcement.
+The PD/PI must operate in accordance with processes, goals, and
+policies established by the 4DN-SC.
+The PD/PI must attend an initial face-to-face meeting of 4DN
+Network PDs/PIs soon after all 4DN Network awards have been made, followed by
+at least one 4DN Network investigator meeting annually.
+Adherence
+to a 4DN Communication Plan:
+A consensus 4DN Communication Plan will be drafted by the
+4DN-SC during the kickoff meeting of the 4DN Network. This plan will clearly
+spell out interactive requirements that all 4DN investigators are expected to
+follow, including:
+Participate on regular conference calls with fellow 4DN
+colleagues through contribution to various sub-committees and working groups;
+Coordinate efforts with other awardees, in particular through
+interactions with the Organizational Hub and the Data Coordination &
+Integration Center;
+Participate and present findings at annual workshops convened by
+Organizational Hub;
+Jointly publish findings in a timely manner; a consensus guidance
+document articulating the clearance mechanism for joint publications will need
+to be developed by the 4DN-SC.
+NIH
+staff have substantial programmatic involvement that is above and beyond the
+normal stewardship role in awards, as described below:
+The NIH will designate program staff, including a Program Officer
+and a Grants Management Specialist to provide stewardship and administrative
+oversight of the cooperative agreement. The Program Officer and Grants
+Management Specialist will be named in the Notice of Grant Award.
+A NIH Project Scientist will be substantially involved in the
+management of the awards resulting from this FOA above and beyond the normal
+stewardship of an NIH Program Official.
+The NIH Project Scientist and Program Officer will review the
+scientific progress of 4DN projects, and review the project for compliance with
+sharing and operating policies developed by the 4DN-SC and the NIH. Based
+on this review, the Project Scientist in conjunction with the Program Officer
+may recommend to the NIH to continue funding, or to withhold or restrict
+support for the grantee for lack of progress or failure to adhere to 4DN
+Network or NIH policies. Review of progress may include regular communications
+between the PD/PI and NIH staff, site visits, or fiscal review. The NIH also
+retains the option of organizing periodic external review of progress of the
+work supported by the 4DN award.
+The NIH reserves the right to terminate any 4DN award in the
+event of (1) A substantial shortfall in accomplishing the management goals and
+responsibilities as stated in the reviewed application, (2) A failure to meet
+the 4DN Network policies and procedures, (3) Substantive changes in the management
+of the 4DN award that are not in keeping with the objectives of the FOA and/or
+(4) failure to make substantial progress towards milestones keeping in mind the
+agreed upon go/no-go decisions.
+Areas
+of Joint Responsibility include:
+4DN
+Network Steering Committee (4DN-SC)
+The awardee agrees to the role and authority of a 4DN
+Network Steering Committee (4DN-SC) that is responsible for joint governance of
+4DN Network activities. The main characteristics and functions of the 4DN-SC
+are as follows:
+The 4DN-SC will be composed at a minimum of its nine voting
+members: the 4DN-OH PD/PI, the 4DN-DCIC PD/PI, three elected members of the
+NOFIC Steering Committee (NOFIC-SC), three peer-elected PDs/PIs representing
+each one of the three technology-development FOAs (RFA-RM-14-007, RFA-RM-14-008
+and RFA-RM-14-009) and one NIH Project Scientist involved in the management of
+the 4DN Network. The 4DN-OH PD/PI and 4DN-DCIC PD/PI will be permanent members
+of the 4DN-SC. All other members of the 4DN-SC will be selected by their peers
+to serve 2-year term on the 4DN-SC. Renewal or continuation of 4DN-SC
+membership will be decided during the in-person meeting of the 4DN-SC at the
+2nd and 4th annual 4DN Network Investigator Meeting. Other designated NIH
+program staff, 4DN-OH staff, 4DN-DCIC staff or external experts may attend the
+4DN-SC meetings on a regular or ad-hoc basis, but will be ex officio
+(non-voting) members.
+The 4DN-SC will be constituted at the 4DN Network kick-off
+meeting, and will meet at least quarterly, including at least once in-person
+during the annual 4DN Network Investigator Meeting.
+The first meeting of the 4DN-SC will be chaired by the NIH
+representative on the 4DN-SC. Following that initial meeting, a Chairperson for
+the 4DN-SC will be chosen by the NIH amongst the 4DN-SC to serve a two-year
+term. The Chairperson is responsible for coordinating the 4DN-SC activities,
+for preparing meeting agendas and for chairing 4DN-SC meetings. After two years
+of service, NIH staff may ask the 4DN-SC Chairperson to serve a second 2-year
+term, or choose a replacement for that role. NIH staff may also choose to
+replace the 4DN-SC Chair at any time based on poor job performance or failure
+to follow the relevant procedures and guidelines.
+All major scientific and policy decisions will be determined by
+voting policies as established by the 4DN-SC. Specific activities of the 4DN-SC
+will include, but are not limited to: developing collaborative protocols;
+identifying impediments to success and strategies to overcome them; developing
+shared tools for disseminating information about the 4DN Network projects;
+identifying opportunities for sharing techniques, materials, information and
+tools developed within each individual 4DN Network project; facilitating
+communication and fostering collaboration across the 4DN Network; reviewing
+progress of the 4DN Network towards meeting the overall Network goals;
+developing publication policies to facilitate collaborations and
+co-publications by consortium members; developing data standards, metadata
+requirements, data quality standards, and submission and release policies;
+ensuring the 4DN Network leverages existing NIH resources and programs; making
+recommendations on the possible use of the “opportunity pool” of
+funds, such as topics for initiatives or tool/reagent-development
+projects that can benefit the 4DN Network activities; reviewing the
+progress of applications or projects that will use "opportunity pool"
+funds; helping organize the scientific Agenda for the annual 4DN Network Investigator
+Meeting.
+Trans-4DN Network subcommittees and working groups may be
+constituted following recommendations and approval by the 4DN-SC, to help the
+4DN-SC with scientific planning activities, development of common 4DN Network
+standards and policies, etc.
+The 4DN-OH is responsible for providing and maintaining a record
+of minutes of all 4DN-SC meetings, which will be approved by the 4DN-SC.
+The 4DN-SC activities and decisions will consider the advice of
+the NOFIC-SC, various trans-4DN Network subcommittees and working groups, and
+the 4DN-ESP.
+NIH Project Scientists involved with the management of the 4DN
+Network will help the 4DN-SC develop and draft sharing and operating policies
+that are in accordance with NIH guidelines. NIH Project Scientists, in concert
+with the 4DN-SC, will also have the option to redirect activities or operations
+being pursued within the 4DN-OH and 4DN-DCIC if it is considered beneficial to
+the overall program.
+The 4DN-OH PD/PI and 4DN-DCIC PD/PI will be responsible for
+accepting and implementing the goals, priorities, procedures, protocols, and
+policies agreed upon by the 4DN-SC. The 4DN-OH PI, the 4DN-DCIC PI, and the
+4DN-SC Chair will jointly report progress with regard to overall 4DN Network
+activities and the development of new 4DN Network policies at the annual 4DN
+Investigator Meeting.
+NOFIC
+Steering Committee (NOFIC-SC)
+The main characteristics and functions of the NOFIC-SC are
+as follows:
+The NOFIC-SC will be composed at a minimum of the following
+voting members: all NOFIC U54 PDs/PIs, one representative of the 4DN-DCIC and
+one NIH Project Scientist involved in the management of the NOFIC. A staff
+member of the 4DN-OH will facilitate NOFIC-SC meetings and teleconferences and
+generate minutes that will need to be approved by the NOFIC-SC. Other
+individuals involved with the management of the 4DN Network could participate
+as Ex Officio (non-voting members) to the NOFIC-SC, in a permanent or ad hoc
+fashion, as needed and agreed upon by the voting members of the NOFIC-SC. These
+individuals could include various members of the 4DN-DCIC and the 4DN-OH,
+non-PI NOFIC investigators, or 4DN Network investigators who are not part of
+NOFIC. NIH staff and 4DN external experts will always be allowed to attend
+meetings and teleconferences of the NOFIC-SC as non-voting participants.
+The NOFIC-SC will be constituted at the 4DN Network kick-off
+meeting, and will meet at least quarterly, including at least once in-person
+during the annual 4DN Network Investigator Meeting. The first meeting of the
+NOFIC-SC will be chaired by the NIH representative on the NOFIC-SC. Following
+that initial meeting, a Chairperson for the NOFIC-SC will be chosen by the NIH
+amongst NOFIC U54 PDs/PIs to serve a two-year term. The Chairperson is
+responsible for coordinating the NOFIC-SC activities, for preparing meeting
+agendas and for chairing NOFIC-SC meetings. After two years of service, NIH
+staff may ask the NOFIC-SC Chairperson to serve a second 2-year term, or chose
+a replacement for that role. NIH staff may also choose to replace the NOFIC-SC
+Chair at any time based on poor job performance or failure to follow the
+relevant procedures and guidelines. During its initial meeting, the NOFIC-SC
+will also elect three NOFIC representatives to the 4DN-SC.
+Specific activities of the NOFIC-SC will include, but are not
+limited to: facilitate communication and foster collaborations across the
+NOFIC; identify opportunities for sharing techniques, materials, information
+and tools developed by NOFIC investigators; develop data standards, metadata
+requirements, data quality standards in close collaboration with the 4DN-DCIC;
+identify common cell types and/or biological systems to be used by all NOFIC
+investigators for the development of performance and reproducibility standards,
+NOFIC-wide “pilot mapping” efforts using combinations of mapping
+technologies, or the validation of models of structure/function relationships
+across NOFIC projects; review progress of the NOFIC towards meeting the overall
+goal of developing a set of complementary mapping strategies that can be
+combined to build comprehensive, whole-genome, and high-definition reference
+maps of the physical and functional organization of mammalian nuclear genomes
+and update NIH Staff regularly on the level of performance of the various
+NOFIC-supported mapping technologies, data analysis tools and computational
+modeling tools, to include metrics and measurements of reproducibility,
+accuracy, biological relevance and cost-effectiveness; help NIH assess when
+specific mapping technologies are sufficiently robust, validated and reliable
+to be used for the building of reference maps of genome organization in
+mammalian cells, at which point NIH staff may encourage NOFIC investigators to
+start producing a small set of such “reference maps” in specific
+cell types and/or tissues that will be chosen through consensus deliberations
+by the NOFIC-SC; make recommendations to the 4DN-SC on the possible use of the
+“opportunity pool” of funds, by proposing topics for initiatives or
+tool/reagent-development projects that can benefit NOFIC and 4DN Network
+activities;
+NOFIC subcommittees and working groups may be constituted
+following recommendations and approval by the NOFIC-SC, to help the NOFIC-SC
+with strategic planning activities, development of standards and policies, etc.
+The 4DN-OH is responsible for providing and maintaining a record
+of minutes of all NOFIC-SC meetings, which will be approved by the NOFIC-SC.
+The NOFIC-SC activities and decisions will consider the advice of
+the 4DN-SC, various trans-4DN Network subcommittees and working groups, and the
+4DN Network External Scientific Panel (4DN-ESP, defined below).
+NIH Project Scientists involved with the management of the NOFIC
+will help the NOFIC-SC develop and draft sharing and operating policies that
+are in accordance with NIH guidelines. NIH Project Scientists, in concert with
+the NOFIC-SC, will also have the option to redirect activities or operations
+being pursued within the NOFIC and 4DN-DCIC if it is considered beneficial to the
+overall program.
+4DN
+Network External Scientific Panel (4DN-ESP)
+An independent panel of 3-6 External Experts will be
+appointed by NIH and meet by teleconference with the 4DN-SC at least once a
+year. The 4DN-ESP will be updated on progress and provide feedback to NIH on
+adjustments and future directions for the 4DN Network activities. NIH
+staff will appoint a 4DN-ESP Chair who will attend the annual 4DN Network
+Investigator Scientific Retreat and be invited to participate ex officio in
+4DN-SC meetings. All members of the 4DN-ESP will be given the opportunity
+to listen to 4DN-SC meetings and to attend the annual 4DN Network Investigator
+Scientific Retreat. The 4DN-OH will support costs for 4DN-ESP members to
+participate in the 4DN Network Investigator Annual Meeting.
+Dispute
+Resolution:
+Disagreements that may arise in scientific/technical
+matters, publication/authorship matters or programmatic matters (within the
+scope of the award) between award recipients, or between award recipients and
+the NIH, may be brought to arbitration after first attempting to resolve the
+issue through the 4DN-SC or its subcommittees, as appropriate. An
+Arbitration Panel composed of three members will be convened. The Panel
+will be composed of: a designee of the 4DN-SC chosen without NIH staff voting,
+one NIH designee, and a third designee with expertise in the relevant area who
+is chosen by the other two members; in the case of individual disagreement, the
+first member may be chosen by the individual awardee. This special dispute
+resolution procedure in no way affects the awardee's right to appeal an adverse
+action in accordance with PHS regulations at 42 CFR Part 50, Subpart D, and HHS
+regulations at 45 CFR Part 16
+3. Reporting
+When multiple years are involved, awardees will be required
+to submit the Non-Competing Continuation Grant Progress Report (PHS 2590 or RPPR)
+annually and financial statements as required in the NIH
+Grants Policy Statement.
+A final progress report, invention
+statement, and the expenditure data portion of the Federal Financial Report are
+required for closeout of an award, as described in the NIH Grants
+Policy Statement.
+The Federal Funding Accountability and Transparency Act of
+2006 (Transparency Act), includes a requirement for awardees of Federal grants
+to report information about first-tier subawards and executive compensation
+under Federal assistance awards issued in FY2011 or later. All awardees
+of applicable NIH grants and cooperative agreements are required to report
+to the Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the NIH Grants
+Policy Statement for additional information on this reporting
+requirement.
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity
+and welcome the opportunity to answer questions from potential applicants.
+Application Submission Contacts
+eRA Commons Help Desk (Questions regarding eRA Commons
+registration, submitting and tracking an application, documenting system
+problems that threaten submission by the due date, post submission issues)
+Telephone: 301-402-7469 or 866-504-9552 (Toll Free)
+Finding Help Online: http://grants.nih.gov/support/index.html
+Email: commons@od.nih.gov
+Grants.gov Customer Support (Questions
+regarding Grants.gov registration and submission, downloading forms and
+application packages)
+Contact Center Telephone: 800-518-4726
+Web ticketing system: https://grants-portal.psc.gov/ContactUs.aspx
+Email: support@grants.gov
+GrantsInfo (Questions regarding application instructions and
+process, finding NIH grant resources)
+Telephone: 301-435-0714
+Email: GrantsInfo@nih.gov
+Scientific/Research Contact(s)
+Olivier Blondel, Ph.D.
+National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+Telephone: 301-451-7334
+Email: blondelol@niddk.nih.gov
+Judy Mietz, Ph.D.
+National Cancer Institute (NCI)
+Telephone: 240-276-6250
+Email: mietzj@mail.nih.gov
+Peer Review Contact(s)
+David Balasundaram, Ph.D.
+Scientific Review Officer
+Center for Scientific Review (CSR)
+Telephone: 301-435-1022
+Email: balasundaramd@csr.nih.gov
+Financial/Grants Management Contact(s)
+Craig E. Bagdon, MPA
+National Institute of Diabetes and Digestive and Kidney
+Diseases (NIDDK)
+Telephone: 301-594-2115
+Email: bagdonc@niddk.nih.gov
+Section VIII. Other
+Information
+Recently issued trans-NIH policy
+notices may affect your application submission. A full list of policy
+notices published by NIH is provided in the NIH
+Guide for Grants and Contracts. All
+awards are subject to the terms and conditions, cost principles, and other
+considerations described in the NIH Grants Policy Statement.
+Authority and Regulations
+Awards are made under the authorization of Sections 301 and
+405 of the Public Health Service Act as amended (42 USC 241 and 284) and under
+Federal Regulations 42 CFR Part 52 and 45 CFR Parts 74 and 92.
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+Department of Health
+and Human Services (HHS)
+NIH... Turning Discovery Into Health®
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.

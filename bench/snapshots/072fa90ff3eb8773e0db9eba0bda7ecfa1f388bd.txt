@@ -1,0 +1,198 @@
+National Science Foundation - Where Discoveries Begin
+Contact
+Help
+Skip to main content
+NSB
+NSB
+✕
+Research Areas
+Biological Sciences (BIO)
+Computer and Information Science and Engineering (CISE)
+Education and Human Resources (EHR)
+Engineering (ENG)
+Environmental Research and Education (ERE)
+Geosciences (GEO)
+Integrative Activities (OIA)
+International Science and Engineering (OISE)
+Mathematical and Physical Sciences (MPS)
+Social, Behavioral and Economic Sciences (SBE)
+Related Links
+Interdisciplinary Research
+NSF Organization List
+Staff Directory
+Understanding NSF Research
+Funding
+About Funding
+Browse Funding Opportunities A-Z
+Due Dates
+Find Funding
+Merit Review
+Policies and Procedures
+Preparing Proposals
+Recent Opportunities
+Transformative Research
+Related Links
+Proposal and Award Policies and Procedures Guide (PAPPG)
+Research.gov
+FastLane
+Funding Opportunities For
+Graduate Students
+K-12 Educators
+Postdoctoral Fellows
+Undergraduate Students
+Small Business
+Awards
+About Awards
+Award Statistics (Budget Internet Info System)
+Award Conditions
+Managing Awards
+Policies and Procedures
+Presidential and Honorary Awards
+Search Awards
+Related Links
+Research.gov
+FastLane
+NSF Public Access Repository (NSF-PAR)
+Document Library
+All Documents
+National Center for Science and Engineering Statistics (NCSES)
+Obtaining Documents
+Search Documents
+News
+All News
+For News Media
+Multimedia Gallery
+NSF Director's Newsletter
+Search News
+Special Reports
+Speeches and Lectures
+Related Links
+About NSF Logo
+Events
+About NSF
+About NSF
+Broadening Participation/Diversity
+Budget
+Career Opportunities
+Contracting Opportunities
+History
+National Science Board (NSB)
+NSF and Congress
+NSF Toolkit
+Office of Diversity and Inclusion
+Organization List
+Partners
+Performance Assessment Information
+Staff Directory
+Transparency and Accountability
+Visit NSF
+Funding
+About Funding
+Browse Funding Opportunities A-Z
+Due Dates
+Find Funding
+Merit Review
+Policies and Procedures
+Preparing Proposals
+Recent Opportunities
+Small Business
+Transformative Research
+Home
+Funding
+Email
+Print
+Share
+Crosscutting
+Next Generation Cyberinfrastructure Tools
+This program has been archived.
+CONTACTS
+Name
+Dir/Div
+Name
+Dir/Div
+Miriam
+Heller
+Lawrence
+E.
+Brandt
+Joan
+Maling
+SBE/BCS
+Jacqueline
+Meszaros
+NSB
+Kevin
+L.
+Thompson
+CISE/ACI
+PROGRAM GUIDELINES
+Solicitation
+05-563
+Important Information for Proposers
+A revised version of the NSF Proposal & Award Policies & Procedures Guide (PAPPG) (NSF 17-1), is
+effective for proposals submitted, or due, on or after January 30, 2017. Please be advised that, depending
+on the specified due date, the guidelines contained in NSF 17-1 may apply to proposals submitted in response to this
+funding opportunity.
+DUE DATES
+Archived
+SYNOPSIS
+Researchers in the social and behavioral sciences and computer and information sciences have many important synergistic relationships.One way in which this is manifest is in the development and utilization of data. On the one hand, social and behavioral scientists find new ways to create and analyze data in their endeavors to describe human and organizational behavior. On the other hand, computer and information scientists conduct research that yields new ways to improve both domain-specific and general-purpose tools to analyze and visualize scientific data -- such as improving processing power, enhanced interoperability of data from different sources, data mining, data integration, information indexing and data confidentiality protection - or what we have termed cyberinfrastructure tools.
+This solicitation invites proposals for "information infrastructure testbeds", each of which would include the development of the next generation of cyberinfrastructure tools applied to data from various sources collected in two areas of research fundamental to social and behavioral scientists: organizations and individuals. The tools that are developed on these platforms must not only change ways in which social and behavioral scientists research the behavior of organizations and individuals, but also serve sciences more broadly.
+It is envisioned that proposals for the "organization information testbed" will address three specific components:
+the development of tools that facilitate the integration of qualitative and quantitative information from heterogeneous sources, multiple media, and/or multiple modes;
+investment in basic research that addresses the protection of the confidentiality of respondents in computerized, widely accessible databases; and
+the development of incentives, standards and policies for collecting, storing, archiving, accessing, and publishing research results using organization-relevant information.
+It is envisioned that proposals for the "individual information testbed" should concern cyberinfrastructure tools that can be applied to both large scale and distributed data-sets. Proposals should address cyberinfrastructure tools that facilitate automatic collection, integration, annotation, archiving, accessing, and analyzing of
+existing distributed data sets and/or
+extensive audio and video recordings and details of physical artifacts, while paying special attention to
+the protection of the confidentiality of participant identity in widely accessible, computerized databases.
+National Science Foundation
+Research.gov
+News
+All News
+Multimedia Gallery
+Funding & Awards
+A-Z Index of Funding Opportunities
+Find Funding
+Award Search
+Proposal & Award Policies Procedures Guide (PAPPG)
+Recently Announced Funding Opportunities
+Upcoming Funding Opportunity Due Dates
+Document Library &
+About NSF
+Document Library
+About NSF
+Careers
+Staff Directory
+About Services
+Application Submission
+ACM$ (Award Cash Management Service)
+Notifications & Requests
+Project Reports
+Proposal Status
+Public Access
+User Management
+NSF Award Highlights
+Research Spending & Results
+Contact
+Contact Help Desk
+Feedback
+Text Only Version
+View Mobile Site
+Facebook
+Twitter
+LinkedIn
+YouTube
+See all NSF social media
+Website Policies
+Budget and Performance
+Inspector General
+Privacy
+FOIA
+No FEAR Act
+USA.gov
+Accessibility
+Plain Language
+Contact
+Research.gov
+National Science Foundation, 4201 Wilson Boulevard, Arlington, Virginia 22230, USA Tel: (703) 292-5111, FIRS: (800) 877-8339 | TDD: (800) 281-8749

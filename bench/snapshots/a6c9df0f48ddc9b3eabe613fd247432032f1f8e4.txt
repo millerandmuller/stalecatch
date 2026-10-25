@@ -1,0 +1,869 @@
+Department of Health and Human Services
+Part 1. Overview Information
+Participating Organization(s)
+National Institutes of Health (NIH)
+U.S. Environmental Protection Agency (EPA)
+NOTE: This is a joint effort of NIH and EPA and includes requirements of both agencies. Applicants are encouraged to contact NIH and EPA with questions about requirements.
+Components of Participating Organizations
+National Institute of Environmental Health Sciences (NIEHS)
+Eunice Kennedy Shriver National Center of Child Health and Human Development (NICHD)
+National Institute on Minority Health and Health Disparities (NIMHD)
+National Center for Environmental Research (NCER)
+Funding Opportunity Title
+Centers of Excellence on Environmental Health Disparities Research (P50)
+Activity Code
+P50 Specialized Centers
+Announcement Type
+New
+Related Notices
+November 06, 2014 - See Notice NOT-ES-15-004. Notice of Technical Assistance Webinar for RFA-ES-14-010 "Centers of Excellence on Environmental Health Disparities Research (P50)"
+Funding Opportunity Announcement (FOA) Number
+RFA-ES-14-010
+Companion Funding Opportunity
+None
+Number of Applications
+See Section III. 3. Additional Information on Eligibility.
+Catalog of Federal Domestic Assistance (CFDA) Number(s)
+93.113, 93.865, 93.307, 66.509
+Funding Opportunity Purpose
+This Funding Opportunity Announcement (FOA) encourages grant applications to support Centers of Excellence on Environmental Health Disparities Research to stimulate basic and applied research on environmental health disparities. The proposed research is expected to develop innovative approaches to understand environmentally-driven health disparities and improve access to healthy environments for vulnerable populations and communities. The proposed Centers are expected to support research efforts, mentoring, research translation and information dissemination.
+Key Dates
+Posted Date
+October 30, 2014
+Open Date (Earliest Submission Date)
+December 9, 2014
+Letter of Intent Due Date(s)
+December 9, 2014
+Application Due Date(s)
+January 9, 2015 by 5:00 PM local time of applicant organization. All types of non-AIDS applications allowed for this funding opportunity announcement are due on this date.
+Applicants are encouraged to apply early to allow adequate time to make any corrections to errors found in the application during the submission process by the due date.
+AIDS Application Due Date(s)
+Not Applicable
+Scientific Merit Review
+March 2015
+Advisory Council Review
+June 2015
+Earliest Start Date
+July 1, 2015
+Expiration Date
+January 10, 2015
+Due Dates for E.O. 12372
+Not Applicable
+** ELECTRONIC APPLICATION SUBMISSION REQUIRED**
+NIH’s new Application Submission System & Interface for Submission Tracking (ASSIST) is available for the electronic preparation and submission of multi-project applications through Grants.gov to NIH. Applications to this FOA must be submitted electronically; paper applications will not be accepted. ASSIST replaces the Grants.gov downloadable forms currently used with most NIH opportunities and provides many features to enable electronic multi-project application submission and improve data quality, including: pre-population of organization and PD/PI data, pre-submission validation of many agency business rules and the generation of data summaries in the application image used for review.
+Required Application Instructions
+It is critical that applicants follow the instructions in the SF424 (R&R) Application Guide, except where instructed to do otherwise (in this FOA or in a Notice from the NIH Guide for Grants and Contracts) and where instructions in the Application Guide are directly related to the Grants.gov downloadable forms currently used with most NIH opportunities. Conformance to all requirements (both in the Application Guide and the FOA) is required and strictly enforced. Applicants must read and follow all application instructions in the Application Guide as well as any program-specific instructions noted in Section IV. When the program-specific instructions deviate from those in the Application Guide, follow the program-specific instructions. Applications that do not comply with these instructions may be delayed or not accepted for review.
+You will be sent to ASSIST to prepare and submit your application. Problems accessing or using ASSIST should be directed to the eRA Commons Help Desk.
+Table of Contents
+Part 1. Overview Information
+Part 2. Full Text of the Announcement
+Section I. Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2. Full Text of Announcement
+Section I. Funding Opportunity Description
+Background
+The conditions in which people are born, grow, live, work and age shape their health and wellbeing over their life course. These conditions, commonly referred to as "social determinants of health," influence health outcomes and include factors such as access to affordable healthy food, potable water, green space, safe housing, clean air and supportive social networks. Social determinants of health are in turn shaped by wider forces, including economics, social policies, politics and personal and community beliefs and value systems. The unequal distribution of these conditions and their determinants across various populations is increasingly understood as a significant contributor to persistent and pervasive health disparities. A focus on health equity calls for addressing the determinants of health that put particular social groups at a disadvantage for positive health outcomes.
+Within the context of social determinants of health, “environmental determinants” stand out as critical for reducing and preventing health disparities because they are amenable to intervention and prevention strategies. The term ‘‘environmental determinants’’ encompasses the natural environment, built environment and social environment. Thus, environmental influences are not limited to physical, chemical, or biological agents and natural amenities, but also include social and economic stressors, institutional processes and resiliency factors.
+For the purpose of this FOA, ‘‘environmental health disparities’’ (EHDs) are defined as inequities in illnesses that are mediated by disproportionate exposures associated with the physical, chemical, biological, social, natural and built environments. Evidence suggests that health-disparate populations, which include racial and ethnic minorities (African Americans, Hispanics, Asian Americans, American Indian/Alaska Natives, Native Hawaiians and other Pacific Islanders), inner city, and rural and low-income populations, generally experience higher levels of exposure to physical and chemical environmental hazards, as well as the cumulative effects of exposure to multiple environmental hazards and social stressors such as poverty, psychosocial stress and lifelong patterns of discrimination. Positive effects of the natural environment, such as buffering of anthropogenic and natural hazards and available opportunities for healthful behaviors, can also be disproportionately limited in these populations. Public health interventions, urban planning and public education programs are recognized approaches that can be used to achieve health and environmental equity and can create healthier and safer environments for everyone. In addition, addressing EHDs is a strategic goal of the NIH and EPA, as are programs to address the modifiable factors contributing to EHDs.
+Purpose
+Existing programs established independently by the EPA, NIEHS and NIMHD have fostered collaboration across disciplines and enabled multidisciplinary teams of community and academic experts from diverse backgrounds to conduct research on health disparities and environmental health disparities. For example, NIEHS and EPA environmental health research has contributed to the development of evidence-based solutions for environmental inequities, and EPA’s previous partnership with the National Institute on Minority Health and Health Disparities (NIMHD) Centers of Excellence (COEs) programs have supported significant scientific advances and contributions to easing the disproportionate health burden in underserved populations and in reducing health disparities. These collaborative programs have explored crucial areas that affect health-disparate communities by including research linking environmental, biological, and non-biological determinants of health, and by using approaches such as community-based participatory research (CBPR) and community-engagement, education and training, and information dissemination as key elements of the Centers.
+Building on the strengths of these efforts, EPA, NIEHS, NIMHD, and NICHD are issuing a joint research program, “Centers of Excellence on Environmental Health Disparities Research” (EHD Research Centers), to stimulate basic and applied research in this area. Outcomes of this research are expected to promote innovative approaches to mitigate environmentally driven health disparities and improved access to healthy environments for vulnerable populations. The proposed EHD Research Centers will support research efforts, mentoring, capacity building, and research translation and information dissemination. In addition, the EHD Centers will support an optional pilot project program designed to further encourage and sustain active participation of EHD Center partners in the full range of the EHD center activities by providing sub-awards to partner organizations during years 2 through 4. Pilot projects may be used to seed emerging research areas, explore new methodologies or approaches, or develop new regional partnerships and collaborations that could evolve into independently funded research and/or demonstration projects.
+Research objectives and topics in this FOA are based on public comments received in response to a Request for Information (RFI) that was issued in October 2012, (NOT-MD-12-002 ) and feedback received from participants at the NIMHD, EPA and NIEHS workshop at the December 2012 Summit on the Science of Eliminating Health Disparities.
+Specific Areas of Interest/Expected Outputs and Outcomes
+Specific Areas of Research Interest
+A Center of Excellence (COE) on Environmental Health Disparities Research should propose to conduct original, innovative, multi- and trans-disciplinary research to advance understanding, mitigation and prevention of environmentally driven health disparities and to improve access to healthy and sustainable environments for vulnerable populations. This includes investigations of diseases or conditions of major public health importance with a known environmental component such as cardiovascular disease, cancer, diabetes, infant mortality, and obesity. Research associated with ongoing/cumulative environmental exposures is also encouraged when significant or disproportionate disparities for racial and ethnic populations, low income populations, specific life stages, and medically underserved populations are known to exist.
+Longitudinal research or retrospective studies are encouraged to answer research questions that go beyond findings of current cross-sectional studies. Additionally, research studies exploring multiple factors that cut across a single or multiple diseases or conditions are of interest, and translational research is strongly encouraged.
+Investigators, in coordination with their community partners, are encouraged to conduct basic, biological, clinical, epidemiological, behavioral and/or social scientific investigations of disease conditions associated with significant morbidity and mortality in low socio-economic status (SES) and health-disparate populations, and to determine whether specific windows of susceptibility (i.e., life stages associated with enhanced sensitivity) put individuals in these populations at greater risk of illness and health disparities. Of particular interest are studies that focus on environmentally driven health disparities integrating etiology, genetics and diagnosis. Investigators are also encouraged to conduct studies in geographic areas that have been understudied for the suite of factors that contribute to environmental health disparities; e.g., in inner city or rural and remote communities, tribal communities (on and off reservations), migrant communities, and/or immigrant communities.
+Program Goals
+NIEHS, NIMHD, NICHD, and EPA are seeking research that proposes multidisciplinary research activities that will generate innovative approaches to mitigate environmentally driven health disparities and could improve access to healthy and sustainable environments for vulnerable populations. This initiative is expected to achieve goals and objectives in the following areas:
+Research
+Stimulate basic and applied research that takes an integrated and systems approach to assessing and potentially mitigating environmentally driven health disparities
+Establish and support multidisciplinary research (basic, clinical, and environmental health sciences and social sciences, including disciplines such as anthropology, economics, sociology, and communications)
+Develop tools and methodologies for data capture, measurement, analysis, and risk assessment that foster integration of the multiple factors that contribute to environmental health disparities (EHD)
+Capacity and Mentoring
+Develop infrastructure and build capacity to expand existing collaborations and/or to establish new partnerships with other researchers and/or with organizations conducting environmental health disparities research
+Build capacity of affected community partners and other stakeholders and include as active members of the research team, to assist with the development of research questions, and to provide input to the translation of scientific findings into locally appropriate language and effective delivery formats
+Recruit and mentor investigators to conduct environmental health disparities research, including investigators from health disparities populations.
+Communication and Translation
+Disseminate scientific knowledge that is culturally appropriate and targeted to specific health-disparate communities, developed through research collaborations with researchers and members of affected communities
+Generate information and new knowledge that directly benefit impacted communities and population groups within those communities and leads to improved diagnosis, health care, intervention, and prevention strategies
+Identified research priorities and approaches are categorized below into five research topics. Applications should propose innovative research that addresses one or more of the Research Priority Areas below. Examples of research topics for each of these priority areas can be found at the NIH website: http://www.niehs.nih.gov/research/supported/dert/programs/justice/foa/index.cfm .
+Research Priority Area 1
+Cumulative Effects of Multi Environmental, Physical, and Social Stressors: How do the cumulative effects of exposures to multiple environmental chemical contaminants combine with the effects of social stressors to affect health? What is the role of genetics and epigenetics in relation to environmental exposures and social stressors? What multidisciplinary approaches or methods would best characterize these combined effects or interactions?
+Research Priority Area 2
+Differential Exposures: How are different socioeconomic groups exposed differentially to environmental hazards and contaminants and what are the drivers for such exposures scenarios? How does differential exposure information increase our understanding of environmental contributions to disproportionate impacts on health?
+Research Priority Area 3
+Land Use Considerations and Health Disparities: How do different land uses and land use decision-making processes contribute to environmental health disparities? What are the impacts of resource extraction on environmental health disparities? What approaches could communities take to reduce or prevent impacts from land use that lead to environmental health disparities?
+Research Priority Area 4
+Built Environment, Housing and Transportation: How does proximity to transportation infrastructure affect the levels and types of exposures? How does poverty contribute to indoor and outdoor air pollution in residential settings?
+Research Priority Area 5
+Environmental Sustainability and Health Disparities: How do sustainable approaches reduce disproportionate health burdens and build community resilience? How will improvements in environmental health literacy enable sustainable lifestyle and community levels changes to improve health?
+Applicants must study one or more environmental agent(s)/chemical(s)/stressor(s) to which there is human exposure and or the potential for exposure. This could include any endocrine disrupting chemical(s), neurotoxicants(s), synthetic/organic pollutants, organic solvents, flame retardants, particulate matter (PM) or other air pollutants, pesticides, perfluorinated compounds, plasticizers, metals and/or emerging contaminants of concern (such as nanomaterials). The inclusion of social determinants of health (SDH) and/or non-chemical stressors, as modifying factor(s), is strongly encouraged in at least one of the projects and where possible, in other components of the Center application. Non-chemical stressors (e.g., social determinants of health such as nutrition, social conditions, stress, socioeconomic status, race/ethnicity, and cultural factors) cannot be considered alone, but applicants are encouraged to include them as secondary or modifying variables to the primary environmental stressor(s). Applicants are strongly encouraged to translate and apply their research findings into linguistically-appropriate information for affected communities, the general public, and for health professionals and public health professionals with the ultimate goal of improving community health and achieving health equity.
+Note: The term “output” means an environmental activity, effort, and/or associated work products related to an environmental goal or objective, that will be produced or provided over a period of time or by a specified date. The term “outcome” means the result, effect or consequence that will occur from carrying out an environmental program or activity that is related to an environmental or programmatic goal or objective.
+Outputs expected from the research funded under this FOA may include, but are not limited to:
+Multimedia measurements; databases; exposure factors; models; and biomarkers of exposure, susceptibility, and/or effects for use in risk analyses and development of prevention strategies
+Tools and methods to assess exposure, cumulative health effects, and disproportionate health risks and impacts
+Increased number of individuals from cross-disciplinary fields relevant to environmental health sciences research participating in EHD community-engaged research
+Greater number of community members and other stakeholders actively engaged in the research process
+Peer-reviewed articles and synthesis reports
+Outcomes and potential benefits of the proposed research could include, but are not limited to:
+Increased understanding of the complex interactions of biological, environmental, and social domains over time and their influence on EHD
+Translation of basic science and/or population-based research findings into public health initiatives to reduce or eliminate disproportionate exposures, health impacts and environmental health disparities
+Translation and sharing of evidence-based research findings with relevant stakeholders, such as state and local health departments and local planning departments, to improve community health and promote health equity
+Broader dissemination and wider use of validated tools and methods for more rigorous analyses of the role of environmental determinants in health disparities
+Behavioral changes that reduce or mitigate disproportionate exposures at both the individual and community level
+Enhanced individual and community resilience
+Greater trust among partners
+Increased scientific and environmental health literacy of research partners
+The specific Strategic Goals from the NIEHS Strategic Plan that relate to this FOA are:
+Goal 2: Understand individual susceptibility across the life span to diseases resulting from environmental factors to facilitate prevention and decrease public health burden,
+Goal 3: Transform exposure science by enabling consideration of the totality of human exposures and links to biological pathways,
+Goal 4: Understand how combined environmental exposures affect disease pathogenesis, [and] understand how socioeconomic and behavioral factors interact with other environmental exposures to impact human health outcomes,
+Goal 6: Establish an environmental health disparities research agenda to understand the disproportionate risks of disease, and to define and support public health and prevention solutions in affected populations, and
+Goal 11: Promote bidirectional communication and collaboration between researchers and stakeholders in order to advance research translation in the environmental health sciences.
+For more information as to the research priorities for NIEHS, please see
+http://www.niehs.nih.gov/about/strategicplan/ .
+For more information regarding the research priorities for NICHD, please see
+https://www.nichd.nih.gov/vision/pages/index.aspx
+For more information regarding the research priorities for NIMHD, please see
+http://www.nimhd.nih.gov/
+The specific Strategic Goal and Objective from EPA’s Strategic Plan that relate to this FOA are:
+Goal 3: Cleaning Up Communities and Advancing Sustainable Development, Objective 3.1: Promote Sustainable and Livable Communities. The EPA’s FY 2014-18 Strategic Plan can be found at
+http://www2.epa.gov/planandbudget/strategicplan .
+EPA Requirements
+To be eligible for EPA funding consideration, a project’s focus must consist of activities within the statutory terms of EPA’s financial assistance authorities; specifically, the statute(s) listed below (see section VIII). Generally, a project must address the causes, effects, extent, prevention, reduction, and elimination of air pollution, water pollution, solid/hazardous waste pollution, toxic substances control, or pesticide control depending on which statute(s) is listed in Section VIII. These activities should relate to the gathering or transferring of information or advancing the state of knowledge. Applications should emphasize this “learning” concept, as opposed to “fixing” an environmental problem via a well-established method. Applications relating to other topics which are sometimes included within the term “environment” such as recreation, conservation, restoration, protection of wildlife habitats, etc., must describe the relationship of these topics to the statutorily required purpose of pollution prevention and/or control.
+EPA has specific application guidance for research that involves human subjects. Please see the last paragraph of this section for further information pertaining to the need of this guidance, and Section IV, “EPA Human Subjects Research Statement (HSRS)” of this FOA for specific instructions.
+Agency policy and ethical considerations prevent EPA technical staff and managers from providing applicants with information that may create an unfair competitive advantage. Consequently, EPA employees will not review, comment, advise, and/or provide technical assistance to applicants preparing applications in response to EPA FOAs. EPA employees cannot endorse any particular application.
+These awards may involve the collection of “Geospatial Information,” which includes information that identifies the geographic location and characteristics of natural or constructed features or boundaries on the Earth or applications, tools, and hardware associated with the generation, maintenance, or distribution of such information. This information may be derived from, among other things, a Geographic Positioning System (GPS), remote sensing, mapping, charting, and surveying technologies, or statistical data.
+This FOA provides the opportunity for the submission of applications for projects that may involve human subjects research. Human subjects research supported by the EPA is governed by EPA Regulation 40 CFR Part 26 (Protection of Human Subjects). This includes the Common Rule at subpart A and prohibitions and additional protections for pregnant women and fetuses, nursing women, and children at subparts B, C, and D. Research meeting the regulatory definition of intentional exposure research found in subpart B is prohibited by that subpart in pregnant women, nursing women, and children. Research meeting the regulatory definition of observational research found in subparts C and D is subject to the additional protections found in those subparts for pregnant women and fetuses (subpart C) and children (subpart D). All applications must include a Human Subjects Research Statement (HSRS, as described in Section IV), and if the project involves human subjects research, it will be subject to an additional level of review prior to funding decisions being made as described in Section V of this FOA.
+Please note that surveys, interviews, and focus groups with individuals may constitute human subjects research.
+The additional level of review is conducted by the EPA Human Subjects Research Review Official (HSRRO). In making a determination about conditional and later final approval, the HSRRO will apply both EPA Regulation 40 CFR 46 and EPA Policy Order 1000.17 Change A1, where human exposure research is interpreted as any intervention that manipulates subjects’ environment (i.e., modifies subjects’ exposure). For more specific information including guidance and training, see:
+http://www.epa.gov/osainter/phre/support.htm
+http://www.epa.gov/osa/pdfs/phre/phre_course/index.htm
+For human subjects research applications, many scientific and ethical considerations must be addressed by the study sponsor and research team, including, but not limited to, those related to recruitment, retention, participant compensation, third-party issues, researcher-participant interactions, researcher-community interactions, communications, interventions, and education. All such research must comply with the requirements of the Common Rule (40 CFR Part 26), and any human observational exposure studies must also adhere to the principles set forth in the Scientific and Ethical Approaches for Observational Exposure Studies (SEAOES) (EPA/600/R-08/062) (http://www.epa.gov/nerl/sots/SEAOES_doc20080707.pdf ) document. SEAOES, which was published by researchers in EPA and which discusses the principles for the ethical conduct of human research studies, serves as a resource for applicants interested in applying under this FOA. References to “SEAOES Principles” in this FOA refers, in general, to the issues of interest in conducting human subjects research studies that maintain the highest scientific and ethical standards and safety during the conduct of these studies. All applications must include a Human Subjects Research Statement (HSRS; described in Section IV) and if the project involves human subjects research, it will be subject to an additional level of review prior to funding decisions being made as described in Section V of this FOA.
+Recipients of NIH and EPA grant funds must comply with all applicable Federal statutes (such as those included in appropriations acts) regulations, and policies (see Section VIII ).
+Section II. Award Information
+Funding Instrument
+Grant: A support mechanism providing money, property, or both to an eligible entity to carry out an approved project or activity.
+Application Types Allowed
+New
+The OER Glossary and the SF424 (R&R) Application Guide provide details on these application types.
+Funds Available and Anticipated Number of Awards
+NIH and EPA intend to fund approximately 5 awards, corresponding to $5.1 million per year, for 5 years beginning in fiscal year 2015. Future year amounts will depend on annual appropriations.
+EPA and NIH plan to concurrently fund Centers with funding shared by EPA and NIH and managed by both EPA and NIH. Centers will be supported by two awards: one which provides the EPA portion of the budget, and a companion award which provides the NIH portion of the budget. The program will be jointly managed by EPA and NIH.
+In appropriate circumstances, EPA reserves the right to partially fund applications by funding discrete portions or phases of proposed projects. If EPA decides to partially fund a application, it will do so in a manner that does not prejudice any applicants or affect the basis upon which the application, or portion thereof, was evaluated and selected for award, and therefore maintains the integrity of the competition and selection process.
+Both NIH and EPA reserve the right to reject all applications and make no awards, or make fewer awards than anticipated and to make additional awards under this announcement, consistent with the policies of the Agencies, if additional funding becomes available after the original selections are made. Any additional selections for awards will be made no later than six months after the original selection decisions.
+The number of awards is contingent upon NIH and EPA appropriations and the submission of a sufficient number of meritorious applications.
+Award Budget
+An application may request up to $1 million total costs per year (including both direct and indirect [Facilities and Administrative] costs) annually for 5 years.
+Award Project Period
+The total project period may not exceed 5 years.
+NIH grants policies as described in the NIH Grants Policy Statement will apply to the applications submitted and awards made in response to this FOA.
+Section III. Eligibility Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+Public/State Controlled Institutions of Higher Education
+Private Institutions of Higher Education
+The following types of Higher Education Institutions are always encouraged to apply for support as Public or Private Institutions of Higher Education:
+Hispanic-serving Institutions
+Historically Black Colleges and Universities (HBCUs)
+Tribally Controlled Colleges and Universities (TCCUs)
+Alaska Native and Native Hawaiian Serving Institutions
+Asian American Native American Pacific Islander Serving Institutions (AANAPISIs)
+Nonprofits Other Than Institutions of Higher Education
+Nonprofits with 501(c)(3) IRS Status (Other than Institutions of Higher Education)
+Nonprofits without 501(c)(3) IRS Status (Other than Institutions of Higher Education)
+Governments
+State Governments
+County Governments
+City or Township Governments
+Special District Governments
+Indian/Native American Tribal Governments (Federally Recognized)
+Indian/Native American Tribal Governments (Other than Federally Recognized)
+U.S. Territory or Possession
+Other
+Independent School Districts
+Public Housing Authorities/Indian Housing Authorities
+Native American Tribal Organizations (other than Federally recognized tribal governments)
+Faith-based or Community-based Organizations
+Regional Organizations
+Note: Nonprofit organizations described in Section 501(c) (4) of the Internal Revenue Code that lobby are not eligible to apply for EPA funding. Profit-making firms are also not eligible to receive grants from EPA under this program.
+Eligible Non-Profit Organizations
+Any corporation, trust, association, cooperative, or other organization that is operated primarily for scientific, educational, service, charitable, or similar purposes in the public interest; is not organized for profit; and uses net proceeds to maintain, improve, or expand the operations of the organization. Non-profit organizations include institutions of higher education, hospitals, and tribal organizations (that is, Indian entities other than federally recognized Indian tribal governments).
+National laboratories funded by Federal Agencies (Federally-Funded Research and Development Centers, “FFRDCs”) may not apply. FFRDC employees may cooperate or collaborate with eligible applicants within the limits imposed by applicable legislation and regulations. They may participate in planning, conducting, and analyzing the research directed by the applicant, but may not direct projects on behalf of the applicant organization. The institution, organization, or governance receiving the award may provide funds through its assistance agreement from the EPA to an FFRDC for research personnel, supplies, equipment, and other expenses directly related to the research. However, salaries for permanent FFRDC employees may not be provided through this mechanism.
+Federal Agencies may not apply
+Foreign Institutions
+Non-domestic (non-U.S.) Entities (Foreign Institutions) are not eligible to apply.
+Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.
+Foreign components, as defined in the NIH Grants Policy Statement, are not allowed.
+Required Registrations
+Applicant Organizations
+Applicant organizations must complete and maintain the following registrations as described in the SF 424 (R&R) Application Guide to be eligible to apply for or receive an award. All registrations must be completed prior to the application being submitted. Registration can take 6 weeks or more, so applicants should begin the registration process as soon as possible. The NIH Policy on Late Submission of Grant Applications states that failure to complete registrations in advance of a due date is not a valid reason for a late submission.
+Dun and Bradstreet Universal Numbering System (DUNS) - All registrations require that applicants be issued a DUNS number. After obtaining a DUNS number, applicants can begin both SAM and eRA Commons registrations. The same DUNS number must be used for all registrations, as well as on the grant application.
+System for Award Management (SAM) (formerly CCR) – Applicants must complete and maintain an active registration, which requires renewal at least annually. The renewal process may require as much time as the initial registration. SAM registration includes the assignment of a Commercial and Government Entity (CAGE) Code for domestic organizations which have not already been assigned a CAGE Code.
+eRA Commons - Applicants must have an active DUNS number and SAM registration in order to complete the eRA Commons registration. Organizations can register with the eRA Commons as they are working through their SAM or Grants.gov registration. eRA Commons requires organizations to identify at least one Signing Official (SO) and at least one Program Director/Principal Investigator (PD/PI) account in order to submit an application.
+Grants.gov – Applicants must have an active DUNS number and SAM registration in order to complete the Grants.gov registration.
+Program Directors/Principal Investigators (PD(s)/PI(s))
+All PD(s)/PI(s) must have an eRA Commons account. PD(s)/PI(s) should work with their organizational officials to either create a new account or to affiliate their existing account with the applicant organization in eRA Commons.If the PD/PI is also the organizational Signing Official, they must have two distinct eRA Commons accounts, one for each role. Obtaining an eRA Commons account can take up to 2 weeks.
+Eligible Individuals (Program Director/Principal Investigator)
+Any individual(s) with the skills, knowledge, and resources necessary to carry out the proposed research as the Program Director(s)/Principal Investigator(s) (PD(s)/PI(s)) is invited to work with his/her organization to develop an application for support. Individuals from underrepresented racial and ethnic groups as well as individuals with disabilities are always encouraged to apply for NIH support.
+For institutions/organizations proposing multiple PDs/PIs, visit the Multiple Program Director/Principal Investigator Policy and submission details in the Senior/Key Person Profile (Expanded) Component of the SF424 (R&R) Application Guide.
+Federal employees are not eligible to serve in a principal leadership role on an assistance agreement, and may not receive salaries or augment their Agency’s appropriations in other ways through awards made under this program.
+2. Cost Sharing
+This FOA does not require cost sharing as defined in the NIH Grants Policy Statement.
+3. Additional Information on Eligibility
+Number of Applications
+Applicant organizations may submit more than one application, provided that each application is scientifically distinct.
+The NIH will not accept duplicate or highly overlapping applications under review at the same time. This means that the NIH will not accept:
+A new (A0) application that is submitted before issuance of the summary statement from the review of an overlapping new (A0) or resubmission (A1) application.
+A resubmission (A1) application that is submitted before issuance of the summary statement from the review of the previous new (A0) application.
+An application that has substantial overlap with another application pending appeal of initial peer review (see NOT-OD-11-101).
+In addition, the NIH will not accept a resubmission (A1) application that is submitted later than 37 months after submission of the new (A0) application that it follows. The NIH will accept submission:
+To an RFA of an application that was submitted previously as an investigator-initiated application but not paid;
+Of an investigator-initiated application that was originally submitted to an RFA but not paid; or
+Of an application with a changed grant activity code.
+Section IV. Application and Submission Information
+1. Requesting an Application Package
+Applicants can access the SF424 (R&R) application package associated with this funding opportunity using the “Apply for Grant Electronically” button in this FOA or following the directions provided at Grants.gov.
+Most applicants will use NIH’s ASSIST system to prepare and submit applications through Grants.gov to NIH. Applications prepared and submitted using applicant systems capable of submitting electronic multi-project applications to Grants.gov will also be accepted.
+2. Content and Form of Application Submission
+It is critical that applicants follow the instructions in the SF424 (R&R) Application Guide, including Supplemental Grant Application Instructions except where instructed in this funding opportunity announcement to do otherwise and where instructions in the Application Guide are directly related to the Grants.gov downloadable forms currently used with most NIH opportunities. Conformance to the requirements in the Application Guide is required and strictly enforced. Applications that are out of compliance with these instructions may be delayed or not accepted for review.
+For information on Application Submission and Receipt, visit Frequently Asked Questions – Application Guide, Electronic Submission of Grant Applications.
+Letter of Intent
+Although a letter of intent is not required, is not binding, and does not enter into the review of a subsequent application, the information that it contains allows IC staff to estimate the potential review workload and plan the review.
+By the date listed in Part 1. Overview Information, prospective applicants are asked to submit a letter of intent that includes the following information:
+Descriptive title of proposed activity
+Name(s), address(es), and telephone number(s) of the PD(s)/PI(s)
+Names of other key personnel
+Participating institution(s)
+Number and title of this funding opportunity
+The letter of intent should be sent to:
+Alfonso Latoni, Ph.D.
+National Institute of Environmental Health Sciences
+Telephone: 919-541-7571
+Email: alfonso.latoni@nih.gov
+Page Limitations
+Component Types Available in ASSIST
+Research Strategy/Program Plan Page Limits
+Overall
+12
+Admin Core (use for Administrative Core)
+12
+CEC (use for Community Engagement Core)
+6
+Project (use for Research Projects)
+12
+Pilot (use for Pilot Program)
+6
+FSC (use for Facility/Services Core(s))
+6
+Additional page limits described in the SF424 Application Guide and the Table of Page Limits must be followed.
+Instructions for the Submission of Multi-Component Applications
+The following section supplements the instructions found in the SF424 (R&R) Application Guide, and should be used for preparing a multi-component application.
+The application should consist of the following components:
+Overall - Required
+Administrative Core - Required
+Community Engagement Core (CEC) - Required
+Research Project - Required: minimum of 2, maximum of 3
+Pilot Program: optional
+Facility/Services Core(s) (FSC): optional
+Overall Component
+When preparing your application in ASSIST, use Component Type ‘Overall’.
+All instructions in the SF424 (R&R) Application Guide must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Overall)
+Complete entire form.
+PHS 398 Cover Page Supplement (Overall)
+Note: Human Embryonic Stem Cell lines from other components should be repeated in cell line table in Overall component.
+Research & Related Other Project Information (Overall)
+Follow standard instructions.
+Facilities and Other Resources: Describe the dedicated facilities to be utilized by the EHD Research Center.
+Project/Performance Site Location(s) (Overall)
+Enter primary site only.
+A summary of Center/Performance Sites in the Overall section of the assembled application image in eRA Commons compiled from data collected in the other components will be generated upon submission.
+Research & Related Senior/Key Person Profile (Overall)
+Include only the Center Director/Principal Investigator (PD/PI) and any multi-PDs/PIs (if applicable to this FOA) for the entire application.
+A summary of Senior/Key Persons followed by their Biographical Sketches in the Overall section of the assembled application image in eRA Commons will be generated upon submission.
+Budget (Overall)
+The only budget information included in the Overall component is the Estimated Project Funding section of the SF424 (R&R) Cover.
+A budget summary in the Overall section of the assembled application image in eRA Commons compiled from detailed budget data collected in the other components will be generated upon submission.
+PHS 398 Research Plan (Overall)
+Specific Aims: Specific aims should be built around serving the goals of the program project.
+Research Strategy: Applicants must provide an overall description of the proposed Center of Excellence on Environmental Health Disparities Research (EHD Research Center). The scientific focus must be environmentally driven health disparities. The description should include the specific aims/goals and objectives, the type of research to be conducted, the mandatory cores, and disciplines involved, disease/conditions, risk factors or determinants, etc. To the extent possible, discuss expected improvement (such as a reduction in a disparity) that could result from the proposed research, over any relevant baseline for the proposed disease, condition, or significant activity.
+The inclusion of social determinants of health (SDH) and/or non-chemical stressors, as modifying factor(s), is strongly encouraged in at least one of the projects and where possible, in other components of the Center. Non-chemical stressors include mediating and modifying factors such as poverty, economic deprivation, discrimination, lack of health care, fear of crime, diet and nutrition, physical activity, psychosocial factors, socioeconomic status and the design of the built environment (e.g., settings: home, school, recreational areas). Non-chemical stressors, social and cultural factors, and settings cannot be considered alone, but applicants are encouraged to include them as secondary or modifier variables to the primary environmental stressor(s).
+Letters of Support: Letters of support should be provided where appropriate to demonstrate collaboration, access to resources, institutional commitment, etc. Letters of support for the P50 Center overall should be included with the Overall Component. For program activities to be conducted off site, i.e., at an institution other than the applicant institution, a letter of assurance or comparable documentation, signed by the collaborator as well as the off-site institutional official, must be submitted with the application
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for the Appendix as described in the SF424 (R&R) Application Guide.
+Administrative Core
+When preparing your application in ASSIST, use Component Type ‘Admin Core.’
+All instructions in the SF424 (R&R) Application Guide must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Administrative Core)
+Complete only the following fields:
+Applicant Information
+Type of Applicant (optional)
+Descriptive Title of Applicant’s Project
+Proposed Project Start/Ending Dates
+PHS 398 Cover Page Supplement (Administrative Core)
+Enter Human Embryonic Stem Cells in each relevant component.
+Research & Related Other Project Information (Administrative Core)
+Human Subjects: Answer only the ‘Are Human Subjects Involved?’ and 'Is the Project Exempt from Federal regulations?’ questions.
+Vertebrate Animals: Answer only the ‘Are Vertebrate Animals Used?’ question.
+Project Narrative: Do not complete. Note: ASSIST screens will show an asterisk for this attachment indicating it is required. However, eRA systems only enforce this requirement in the Overall component and applications will not receive an error if omitted in other components.
+Project /Performance Site Location(s) (Administrative Core)
+List all performance sites that apply to the specific component.
+Note: The Project Performance Site form allows up to 300 sites, prior to using additional attachment for additional entries.
+Research & Related Senior/Key Person Profile (Administrative Core)
+In the Project Director/Principal Investigator section of the form, use Project Role of ‘Other’ with Category of ‘Core Lead’ and provide a valid eRA Commons ID in the Credential field.
+In the additional Senior/Key Profiles section, list Senior/Key persons that are working in the component.
+Include a single Biographical Sketch for each Senior/Key person listed in the application regardless of the number of components in which they participate. When a Senior/Key person is listed in multiple components, the Biographical Sketch can be included in any one component.
+If more than 100 Senior/Key persons are included in a component, the Additional Senior Key Person attachments should be used. Individuals in senior leadership positions should provide intellectual, administrative, and scientific leadership for the Center and are critical to its overall effectiveness and evolution. These individuals should be in place and committed to a defined percent effort.
+Budget (Administrative Core)
+Budget forms appropriate for the specific component will be included in the application package.
+Annual EHD Research Center Meetings: Each EHD Research Center must support the organization of the annual meetings in venues to be determined in collaboration with the Center investigators and NIEHS, NIMHD, NICHD, and EPA. The applicant should budget travel funds for Center members to travel to the annual 1-2 day meeting and at a minimum cover the Center Director, research project Investigators, and CEC Directors.
+Note: The R&R Budget form included in many of the component types allows for up to 100 Senior/Key Persons in section A and 100 Equipment Items in section C prior to using attachments for additional entries. All other SF424 (R&R) instructions apply.
+PHS 398 Research Plan (Administrative Core)
+Specific Aims: The administrative core is intended to provide oversight and coordination of Center research, community outreach and career development activities. State the aims for the Administrative Core.
+Research Strategy: Applicants should describe the administrative structure of the center and the roles and responsibilities of all key personnel. The administrative core is responsible for: 1) the allocation and oversight of all EHD Center resources, 2) establishing and maintaining all partnerships, advisory and executive boards, cores, and community activities essential to the success of the EHD center, 3) the selection of key personnel and the minority health or environmental health disparities research to be conducted within the center, and 4) working with the local IRB(s) to ensure that all projects involving human subjects or vertebrate animal subjects are in full compliance at all times and that appropriate measures and safe guards are in place and utilized for ongoing data safety and data monitoring.
+A successful application will include a well-integrated project plan. Within the Administrative Core, the specific administrative and organizational structure that is needed to support the research and the synergies enabled by the Center needs to be clearly articulated. Projects will be multidisciplinary and interdisciplinary and will draw from a variety of resources. Thus, a well thought out and carefully described organizational structure will be required.
+A narrative description should be provided that includes the planning and coordination of research activities; the integration of cross-disciplinary research; the tracking of progress towards Center outputs and outcomes, the oversight of fiscal and resource management; and the maintenance of ongoing communication with NIEHS, NIMHD, NICHD and EPA. Indicate who will be responsible for each of these activities. Describe the role(s) of advisory groups and consultants, but names of potential advisory group members should not be solicited or submitted in the application. Describe the approach, procedures, and controls for ensuring that awarded grant funds will be expended in a timely and efficient manner and detail how project objectives will be successfully achieved in accordance with the project schedule and milestones within the grant period.
+Career Development. In order to foster the next generation of creative new scientists in environmental health disparities research, Centers are required to support the research career development of new, junior faculty-level investigators. We encourage applicants to consider inclusion of up to five early stage investigators. These individuals should be designated for Career Development in the application. These individuals will be expected to devote a minimum of 3 person-months of the award and have a long-term commitment to research of environmental health disparities. The Career Development Investigators (CDIs) may hold either a health professional doctorate (M.D., D.O, Pharm. D., doctoral degree in nursing, or other equivalent degree) or a research doctoral degree (Ph.D., or equivalent); should have fewer than eight years of postdoctoral experience (excluding clinical training years) at the time the application is submitted; and should have demonstrated outstanding abilities in basic, clinical or population based research. Designated CDIs must meet the NIH definition of Early Stage Investigator, (http://grants.nih.gov/grants/glossary.htm#EarlyStageInvestigator(ESI)). The Core Lead must develop and describe a career development plan proposed to be undertaken by the CDIs. The Career Development plan should be included as part of the Administrative Core. If the candidate(s) are unknown at time of submission, a general plan to recruit the CDIs is required.
+Describe how the Administrative Core will coordinate the research activities with existing training resources, activities or programs at the institution. A plan for tracking the impact of the Center on investigator mentoring should be described.
+Describe how the Administrative Core will coordinate meetings of Center investigators with investigators from other Centers including active participation in planning the annual meeting.
+Additionally, through the efforts of the administrative core, each EHD Center is expected to become a valued, trusted, institution-wide resource for expanding the capacity and competence of the institution, and that of NIH- and EPA-funded researchers and students in conducting minority health and environmental health disparities research. The center PD/PI is also expected to interact with the administrative leadership of the institution to enhance the success of the center, including its partners.
+Letters of Support: Include letters of support for any collaborative/cooperative arrangements, subcontracts, or consultants. The Core Lead must provide a letter of recommendation for the designated Career Development Investigator(s), if one is identified at the time of application. A letter from the CDI candidate(s) outlining his/her career goals should also be included in the application.
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for the Appendix as described in the SF424 (R&R) Application Guide.
+Planned Enrollment Report (Administrative Core)
+Not Applicable
+PHS 398 Cumulative Inclusion Enrollment Report (Administrative Core)
+Not Applicable
+Community Engagement Core
+When preparing your application in ASSIST, use Component Type ‘CEC.’
+All instructions in the SF424 (R&R) Application Guide must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Community Engagement Core)
+Complete only the following fields:
+Applicant Information
+Type of Applicant (optional)
+Descriptive Title of Applicant’s Project
+Proposed Project Start/Ending Dates
+Research & Related Other Project Information (Community Engagement Core)
+Human Subjects: Answer only the ‘Are Human Subjects Involved?’ and 'Is the Project Exempt from Federal regulations?’ questions.
+Vertebrate Animals: Answer only the ‘Are Vertebrate Animals Used?’ question.
+Project Narrative: Do not complete. Note: ASSIST screens will show an asterisk for this attachment indicating it is required. However, eRA systems only enforce this requirement in the Overall component and applications will not receive an error if omitted in other components.
+Project /Performance Site Location(s) (Community Engagement Core)
+List all performance sites that apply to the specific component.
+Note: The Project Performance Site form allows up to 300 sites, prior to using additional attachment for additional entries.
+Research & Related Senior/Key Person Profile (Community Engagement Core)
+In the Project Director/Principal Investigator section of the form, use Project Role of ‘Other’ with Category of ‘Core Lead’ and provide a valid eRA Commons ID in the Credential field.
+In the additional Senior/Key Profiles section, list Senior/Key persons that are working in the component.
+Include a single Biographical Sketch for each Senior/Key person listed in the application regardless of the number of components in which they participate. When a Senior/Key person is listed in multiple components, the Biographical Sketch can be included in any one component.
+If more than 100 Senior/Key persons are included in a component, the Additional Senior Key Person attachments should be used.
+Budget (Community Engagement Core)
+Budget forms appropriate for the specific component will be included in the application package.
+Note: The R&R Budget form included in many of the component types allows for up to 100 Senior/Key Persons in section A and 100 Equipment Items in section C prior to using attachments for additional entries. All other SF424 (R&R) instructions apply.
+PHS 398 Research Plan (Community Engagement Core)
+Specific Aims: The CEC will oversee dissemination of scientific knowledge that is culturally appropriate and targeted to specific health-disparate communities, developed through research collaborations with researchers and members of communities. Specific aims of the CEC should be built around serving the goals of the research projects.
+Research Strategy: The Community Engagement Core (CEC) will oversee engagement of community groups and members, provide culturally sensitive translation of research findings to appropriate stakeholders, promote dialogue between Center members and identified stakeholders, and build capacity in environmental health literacy and risk prevention.
+The CEC is a critical bridge between the Center and the relevant stakeholders that may have concerns about environmental health disparities. How each CEC is arranged will depend on the overall goals of the EHD Center, the proposed research, and the needs and capabilities of the stakeholders and of the applicant institution.
+The goals of the CEC are to develop, implement, and advance: 1) strategies to strengthen environmental health literacy of the public, policy-makers, and clinical professionals; 2) approaches to foster and sustain bi-directional dialogue between identified stakeholders and Center members for appropriate translation and application of scientific findings of the Center; 3) training efforts for community residents so that they may be participants in the full research spectrum, in particular the design, conduct, and communication of community-engaged health disparity interventions; and 4) strategies to assess the effectiveness of these activities and their contributions to the overall mission of the Center.
+To meet these goals, it is essential for CECs to state clear and measurable objectives; identify specific EHD issues; demonstrate alignment to the Center’s mission; identify existing and future partners; prioritize short, mid, and long-term activities to be implemented; list and describe expected products; state anticipated impacts and their significance for environmental public health; and define evaluation tools to measure the impact of core activities. For approaches to plan and evaluate the CEC, see Partnerships for Environmental Public Health Evaluation Metrics Manual published by National Institute of Environmental Health Sciences at http://www.niehs.nih.gov/pephmetrics.
+CEC activities must contribute to improvements within the community (broadly defined) and scientific advancements within the Center. Examples of community improvements include, increased environmental health literacy, greater knowledge of environmental contributions to health disparities, and ways to recognize, prevent, reduce or eliminate them. Scientific advancements may include improved interventions based on local knowledge, improved cultural competency of Center members, and strengthened community-engaged research approaches. All proposed activities must include an evaluation plan to assess the effectiveness and/or efficacy of the activities.
+Describe the membership of the CEC and types of expertise to be recruited to enhance effective communication strategies. Describe the type of innovative methods that may be used to enhance CEC activities including ways of interacting with stakeholders or identified end-users of materials.
+Describe plans of how the CEC Leads will be able to access the effectiveness of their developed products and whenever possible.
+Describe how the CEC will interact with Center PD/PIs and the Administrative Core to develop materials and assist with the overall goals of the Center.
+Describe how the CEC will develop, enhance, and ensure a productive working relationship between the community and EHD Center researchers.
+Centers are encouraged to submit all Center-produced community engagement materials to the NIH and EPA through the Partnerships for Environmental Public Health (PEPH) Resource Center while also sending them directly to project officers at EPA and NIH. The PEPH Resource Center is a database management system created by NIEHS that facilitates entry, archiving, management, viewing and downloading of educational and community engagement materials. The Resource Center fosters the sharing and exchange of materials between grantees, reducing duplication of effort while promoting the advancement of new communications strategies, as well as facilitating broader outreach to the environmental health research community, stake holders and the public. NIEHS will facilitate gaining access to this database and NIEHS will be responsible for managing and maintaining the repository and facilitating community engagement efforts.
+Letters of Support: Applicants should provide letter(s) of support from community organizations to be involved in the Center and/or representatives of affected communities indicating support for the Center and proposed research, mentoring, outreach and capacity building activities.
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for the Appendix as described in the SF424 (R&R) Application Guide.
+Planned Enrollment Report (Community Engagement Core)
+When conducting clinical research, follow all instructions for completing Planned Enrollment Reports as described in the SF424 (R&R) Application Guide.
+PHS 398 Cumulative Inclusion Enrollment Report (Community Engagement Core)
+When conducting clinical research, follow all instructions for completing Cumulative Inclusion Enrollment Report as described in the SF424 (R&R) Application Guide.
+Research Project
+When preparing your application in ASSIST, use Component Type ‘Project.’
+Each research project must address a significant issue in minority health or environmental health disparities. Environmentally driven health disparities research involving multidisciplinary teams is encouraged.
+All instructions in the SF424 (R&R) Application Guide must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Research Project)
+Complete only the following fields:
+Applicant Information
+Type of Applicant (optional)
+Descriptive Title of Applicant’s Project
+Proposed Project Start/Ending Dates
+PHS 398 Cover Page Supplement (Research Project)
+Enter Human Embryonic Stem Cells in each relevant component.
+Research & Related Other Project Information (Research Projects)
+Human Subjects: Answer only the ‘Are Human Subjects Involved?’ and 'Is the Project Exempt from Federal regulations?’ questions.
+Vertebrate Animals: Answer only the ‘Are Vertebrate Animals Used?’ question.
+Project Narrative: Do not complete. Note: ASSIST screens will show an asterisk for this attachment indicating it is required. However, eRA systems only enforce this requirement in the Overall component and applications will not receive an error if omitted in other components.
+Project /Performance Site Location(s) (Research Project)
+List all performance sites that apply to the specific component.
+Note: The Project Performance Site form allows up to 300 sites, prior to using additional attachment for additional entries.
+Research & Related Senior/Key Person Profile (Research Project)
+In the Project Director/Principal Investigator section of the form, use Project Role of ‘Other’ with Category of ‘Project Lead’ and provide a valid eRA Commons ID in the Credential field.
+In the additional Senior/Key Profiles section, list Senior/Key persons that are working in the component.
+Include a single Biographical Sketch for each Senior/Key person listed in the application regardless of the number of components in which they participate. When a Senior/Key person is listed in multiple components, the Biographical Sketch can be included in any one component.
+If more than 100 Senior/Key persons are included in a component, the Additional Senior Key Person attachments should be used.
+A Lead or multiple Co-Leads from the same or different institutions may conduct the proposed research. The research team can include senior and junior faculty, post-doctoral or other trainees, as well as community members, all with the appropriate justification.
+Budget (Research Project)
+Budget forms appropriate for the specific component will be included in the application package.
+Note: The R&R Budget form included in many of the component types allows for up to 100 Senior/Key Persons in section A and 100 Equipment Items in section C prior to using attachments for additional entries. All other SF424 (R&R) instructions apply.
+PHS 398 Research Plan (Research Project)
+Specific Aims: State the aims of the project. Specific aims should be built around serving the goals of the research project.
+Research Strategy: The Research Project must be pertinent to the central goal of the program.
+The Research project should represent both a separate and an interdependent research effort. The benefits associated with being part of the program project must also be addressed.
+Protection of Human Subjects: The following should be included in addition to the information requested in the SF 424 (R&R) Application Guide.
+EPA Human Subjects Research Statement (HSRS)
+Human subjects research supported by the EPA is governed by EPA Regulation 40 CFR Part 26 (Protection of Human Subjects). This includes the Common Rule at subpart A and prohibitions and additional protections for pregnant women and fetuses, nursing women, and children at subparts B, C, and D. While retaining the same notation, subparts B, C, and Dare substantively different in 40 CFR 26 than in the more commonly cited 45 CFR 46. Particularly noteworthy is that research meeting the regulatory definition of intentional exposure research found in subpart B is prohibited by that subpart in pregnant women, nursing women, and children. EPA Policy Order 1000.17 Change A1 further clarifies this definition to include any intervention that manipulates their environment (i.e. modifies subjects’ exposure). Research meeting the regulatory definition of observational research (any research that is not intentional exposure research) found in subparts C and D is subject to the additional protections found in those subparts for pregnant women and fetuses (subpart C) and children (subpart D). These subparts also differ markedly from the language in 45 CFR 46. For more information, please see: http://www.epa.gov/osa/phre/project.htm.
+Procedures for the review and oversight of human research subject to 40 CFR Part 26 are also provided in EPA Order 1000.17 Change A1 (http://www.epa.gov/phre/pdf/epa-order-1000_17-a1.pdf). These include review of projects for EPA-supported human research by the EPA Human Subjects Research Review Official (HSRRO). EPA Order 1000.17 Change A1 requires preliminary approval by the HSRRO of all proposed EPA-supported human research before the agreement can be entered into. Additional requirements must be met and final approval received from the HSRRO before the research can begin. When reviewing human observational exposure studies, EPA Order 1000.17 Change A1 requires the HSRRO to apply the principles described in the SEAOES document (http://www.epa.gov/nerl/sots/SEAOES_doc20080707.pdf) and grant approval only to studies that adhere to those principles.
+All applications submitted under this FOA must include a HSRS as described below. Please use the definitions below to determine whether the proposed research involves human subjects, and then prepare a HSRS as explained below in the “HSRS Requirements” section.
+Definitions (from 40 CFR Part 26 Subparts A, B, and C) to determine the involvement of human subjects in proposed research:
+"Human subject" means a living individual about whom an investigator (whether professional or student) conducting research obtains (1) data through intervention or interaction with the individual, or (2) identifiable private information.
+"Intervention" includes both physical procedures by which data are gathered and manipulations of the subject or the subject's environment that are performed for research purposes.
+"Interaction" includes communication or interpersonal contact between investigator and subject.
+"Private information" includes information about behavior that occurs in a context in which an individual can reasonably expect that no observation or recording is taking place, and information which has been provided for specific purposes by an individual and which the individual can reasonably expect will not be made public (for example, a medical record).
+"Individually identifiable" means the identity of the subject is or may readily be ascertained by the investigator or associated with the information.
+"Research involving the intentional exposure of a human subject" means a study of a substance in which the exposure to the substance experienced by a human subject participating in the study would not have occurred but for the human subject’s participation in the study. In addition, EPA Policy 1000.17 Change A1 requires the HSRRO to conceptualize intentional exposure research quite broadly:
+(1) Research that includes the gathering of physiological measurements (e.g. monitoring a subject's cardio respiratory performance) or the collection of body fluids, tissue or expired air from subjects; or (2) Research that requires subjects to perform specific tasks other than their normal activities or manipulates their environment (e.g., modifies their exposure); or (3) Research that gathers or records private information (as defined in 40 CFR 26.102 (f)(2)) in a manner that associates such information with an identifiable subject .
+"Observational research" means any human research that does not meet the definition of research involving intentional exposure of a human subject. Please note that surveys, interviews, and focus groups with individuals may constitute human subjects research. Additional information is available at: http://www.epa.gov/osainter/phre/support.htm
+Human Subjects Research Statement (HSRS) Requirements
+If the proposed research does not involve human subjects as defined above, provide the following statement in your application package as your HSRS: “The proposed research does not involve human subjects.” Applicants should provide a clear justification about how the proposed research does not meet the definition (for example, all samples come from deceased individuals OR samples are purchased from a commercial source and provided without identifiers, etc.).
+If the proposed research does involve human subjects, then include in your application package a HSRS that addresses each applicable section listed below, referencing the specific location of the information in the Research Plan, providing the information in the HSRS, or explaining why the section does not apply to the proposed research. (Not all will apply.) Please use the definitions provided above to ensure consistency in the interpretation of terminology. Do not exceed four consecutively numbered, 8.5x11-inch pages of single-spaced, standard 12-point type with 1-inch margins.
+NOTE: Before EPA approves any research involving human subjects, the requirements of the regulations at 40 CFR Part 26 must be met. Also, before EPA approves human observational exposure research, EPA will examine it to ensure consistency with the SEAOES Principles. The federal Office for Human Research Protections requires that federally funded human subjects research only be conducted at facilities covered by a Federalwide Assurance (FWA). An FWA is a document that designates the Institutional Review Board that will review and oversee the research, specifies the ethical principles under which the research will be conducted, and names the individuals who will be responsible for the proper conduct of the research. The factors below are not intended to be exhaustive of all those needed for the HSRRO to provide the final approval necessary for research to be conducted, but provide a basis upon which the HSRRO may grant the conditional approval necessary for the funding process to begin.
+Items 1 – 9 must be completed for all studies involving human subjects. For studies involving intentional exposures (i.e. increases, decreases, or otherwise modifies subjects’ exposure), also complete Items 10 -14.
+1. Human Subjects involvement, characteristics, and design: Describe the proposed involvement of human subjects in the work being proposed.
+2. Benefits of research/value to society: Discuss the potential benefits of the research to the research participants and others, including the value of the knowledge to be gained by the research.
+3. Potential risks to subjects: Describe the potential risks to human subjects (e.g., physical, psychological, financial, legal, or other) and assess their likelihood and seriousness to the human subjects.
+4. Protection against risks: Describe planned procedures for protecting against or minimizing potential risks and assess their likely effectiveness.
+5. Protection of privacy and confidentiality: Describe how data, specimens, and/or records will be collected, managed, and protected, including at collaborating sites, if any, as well as at the primary site.
+6. Protection of vulnerable groups: Explain the rationale for inclusion of vulnerable populations and describe the additional protections in place, if any, for protecting vulnerable populations in the research.
+7. Risk/benefit relationship: Justify how the risks are reasonable in relation to expected benefits.
+8. Informed Consent Process: Describe planned procedures for the process of obtaining and maintaining informed consent. Include a description of the circumstances under which consent will be sought and obtained, who will seek it, the nature of the information to be provided to prospective subjects, and the method of documenting consent.
+9. Relationship between researcher and community: If the research will take place in a community setting, describe the procedures in place for defining the community, obtaining its involvement in the research, and establishing and maintaining trust.
+Items 10-14: Projects involving the intentional exposure (i.e. increases, decreases, or otherwise modifies subjects’ exposure) of human subjects require additional justification. Note that intentional exposure of children, pregnant women or nursing women is prohibited, according to 40 CFR Part 26, subpart B. Please refer to the definition of “intentional exposure” described earlier in this section.
+Please also note that projects involving intentional exposure of human subjects should only be considered if they have the potential of providing a clear health or environmental benefit or if acquisition of such information is not obtainable by any other means. In no case should the exposure cause lasting harm to study participants.
+Provide the following for intentional exposure studies:
+10. Justification for exposure: Please provide the scientific background and rationale for the study design, subject selection, and value of the study to public health. Include any information about previous animal studies and (if available) human observational studies that justify the need for exposure research.
+11. Participant Selection and Informed Consent: Describe how subjects will be recruited for the study and how both participant selection and the informed consent process described earlier conform to best practices in exposure research.
+12. Compensation for Research Participation: Describe the amount of compensation being offered to participants, as well as the distribution plan, and justify these practices with respect to best practices in exposure research.
+13. Compensation for Research-Related Injury: Discuss how you plan to ensure that participants receive needed medical care for injuries incurred in the study, without cost to the participants.
+14. Appropriate Review and Oversight: Describe the constitution of the IRB that will review this research and defend its ability to consider whether the study(ies) has the potential of providing a clear health or environmental benefit to the community. In addition, describe the procedures for reporting adverse events or unanticipated problems to the IRB, as well as how these events will be analyzed with respect to risk to subjects.
+The EPA HSRRO must also consider the following items to determine if the necessary conditions for scientifically and ethically acceptable intentional human dosing studies have been satisfied in order to approve intentional exposure research:
+prior animal studies and, if available, human observational studies;
+a demonstrated need for the knowledge to be obtained from intentional human dosing studies;
+justification and documentation of a research design and statistical analysis that are appropriate to address an important scientific question, including adequate power to detect appropriate effects;
+an acceptable balance of risks and benefits, and minimization of risks to participants;
+equitable selection of participants;
+free and informed consent of participants; and
+review by an appropriately constituted IRB.
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for the Appendix as described in the SF424 (R&R) Application Guide.
+Planned Enrollment Report (Research Project)
+When conducting clinical research, follow all instructions for completing Planned Enrollment Reports as described in the SF424 (R&R) Application Guide.
+PHS 398 Cumulative Inclusion Enrollment Report (Research Project)
+When conducting clinical research, follow all instructions for completing Cumulative Inclusion
+Enrollment Report as described in the SF424 (R&R) Application Guide.
+Pilot Program
+When preparing your application in ASSIST, use Component Type ‘Pilot.’
+All instructions in the SF424 (R&R) Application Guide must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Pilot Program)
+Complete only the following fields:
+Applicant Information
+Type of Applicant (optional)
+Descriptive Title of Applicant’s Project
+Proposed Project Start/Ending Dates
+PHS 398 Cover Page Supplement (Pilot Program)
+Enter Human Embryonic Stem Cells in each relevant component.
+Research & Related Other Project Information (Pilot Program)
+Human Subjects: Answer only the ‘Are Human Subjects Involved?’ and 'Is the Project Exempt from Federal regulations?’ questions.
+Vertebrate Animals: Answer only the ‘Are Vertebrate Animals Used?’ question.
+Project Narrative: Do not complete. Note: ASSIST screens will show an asterisk for this attachment indicating it is required. However, eRA systems only enforce this requirement in the Overall component and applications will not receive an error if omitted in other components.
+Project /Performance Site Location(s) (Pilot Program)
+List all performance sites that apply to the specific component.
+Note: The Project Performance Site form allows up to 300 sites, prior to using additional attachment for additional entries.
+Research & Related Senior/Key Person Profile (Pilot Program)
+In the Project Director/Principal Investigator section of the form, use Project Role of ‘Other’ with Category of ‘Program Lead’ and provide a valid eRA Commons ID in the Credential field.
+In the additional Senior/Key Profiles section, list Senior/Key persons that are working in the component.
+Include a single Biographical Sketch for each Senior/Key person listed in the application regardless of the number of components in which they participate. When a Senior/Key person is listed in multiple components, the Biographical Sketch can be included in any one component.
+If more than 100 Senior/Key persons are included in a component, the Additional Senior Key Person attachments should be used.
+Budget (Pilot Program)
+Budget forms appropriate for the specific component will be included in the application package.
+Note: The R&R Budget form included in many of the component types allows for up to 100 Senior/Key Persons in section A and 100 Equipment Items in section C prior to using attachments for additional entries. All other SF424 (R&R) instructions apply.
+PHS 398 Research Plan (Pilot Program)
+Specific Aims: State the aims for the pilot program. Specific aims should be built around serving the goals of the Center.
+Research Strategy:
+Describe the overall scope of the pilot project program; expected number of projects to be supported each year; eligibility requirements; solicitation, submission, review, and selection criteria and processes; procedures for program oversight and evaluation; limits on dollars available and number of years of support per project. Also describe the support and resources in place to ensure sound research design, including appropriate statistical analyses. Describe the aims and objectives that will be pursued to encourage and sustain active participation of EHD Center partners in the full range of research, implementation and dissemination efforts. Do not include detailed grant applications or descriptions of specific pilot projects.
+Describe the internal institutional plans and procedures to ensure that EHD Center funded pilot projects will comply fully with all applicable Federal regulations, policies and guidelines for research involving human subjects, including the evaluation of risks and protections in project applications, appropriate ethical oversight of funded projects, and plans for data and safety monitoring for clinical trials, if applicable.
+Plans for soliciting pilot projects must include provisions for mentoring when appropriate. If new and early-stage investigators (as defined by NIH) are eligible to serve as pilot project leaders, describe mentoring activities to be provided during the pilot project planning, execution, and post-completion phases; how mentors for such investigators will be selected; and how mentoring activities will be evaluated. If a suitable mentor is not available within the applicant institution, appropriate mentors may be enlisted from outside institutions.
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for the Appendix as described in the SF424 (R&R) Application Guide.
+Planned Enrollment Report (Pilot Program)
+When conducting clinical research, follow all instructions for completing Planned Enrollment Reports as described in the SF424 (R&R) Application Guide.
+PHS 398 Cumulative Inclusion Enrollment Report (Pilot Program)
+When conducting clinical research, follow all instructions for completing Cumulative Inclusion Enrollment Report as described in the SF424 (R&R) Application Guide.
+Facility/Services Core(s)
+When preparing your application in ASSIST, use Component Type ‘FSC’
+All instructions in the SF424 (R&R) Application Guide must be followed, with the following additional instructions, as noted.
+SF424 (R&R) Cover (Facility/Services Core(s))
+Complete only the following fields:
+Applicant Information
+Type of Applicant (optional)
+Descriptive Title of Applicant’s Project
+Proposed Project Start/Ending Dates
+PHS 398 Cover Page Supplement (Facility/Services Core(s))
+Enter Human Embryonic Stem Cells in each relevant component.
+Research & Related Other Project Information (Facility/Services Core(s))
+Human Subjects: Answer only the ‘Are Human Subjects Involved?’ and 'Is the Project Exempt from Federal regulations?’ questions.
+Vertebrate Animals: Answer only the ‘Are Vertebrate Animals Used?’ question.
+Project Narrative: Do not complete . Note: ASSIST screens will show an asterisk for this attachment indicating it is required. However, eRA systems only enforce this requirement in the Overall component and applications will not receive an error if omitted in other components.
+Project /Performance Site Location(s) (Facility/Services Core(s))
+List all performance sites that apply to the specific component.
+Note: The Project Performance Site form allows up to 300 sites, prior to using additional attachment for additional entries.
+Research & Related Senior/Key Person Profile (Facility/
+Services Core(s))
+In the Project Director/Principal Investigator section of the form, use Project Role of ‘Other’ with Category of ‘Core Lead’ and provide a valid eRA Commons ID in the Credential field.
+In the additional Senior/Key Profiles section, list Senior/Key persons that are working in the component.
+Include a single Biographical Sketch for each Senior/Key person listed in the application regardless of the number of components in which they participate. When a Senior/Key person is listed in multiple components, the Biographical Sketch can be included in any one component.
+If more than 100 Senior/Key persons are included in a component, the Additional Senior Key Person attachments should be used.
+Budget (Facility/Services Core(s))
+Budget forms appropriate for the specific component will be included in the application package.
+Note: The R&R Budget form included in many of the component types allows for up to 100 Senior/Key Persons in section A and 100 Equipment Items in section C prior to using attachments for additional entries. All other SF424 (R&R) instructions apply.
+PHS 398 Research Plan (Facility/Services Core(s))
+Specific Aims: State the specific aims of the Core.
+Research Strategy: Describe the function of the Core as a resource to the program. This section must clearly present the facilities, techniques, and professional skills that the Core will provide. As justification for the Core, briefly indicate the specific Research Projects that will use the resources of the core. A Facility/Services Core is principally designed as a service or resource component; it would be highly unusual to include research in a core (a possible exception would be methodology development). Please contact the NIEHS, NIMHD or NICHD Scientific/Research staff if you require guidance on this issue.
+Describe the role of the Core as a resource to the program as a whole. Discuss ways in which these centralized services will produce an economy of effort and/or savings in overall costs compared to their inclusion as part of each project in the program. To aid in the review of your application it is recommended that you prepare, in tabular form, information concerning the research projects that each Core unit would serve and the proportion of the cost of the Facility/Services Core unit associated with each research project involved.
+Letters of Support: Include letters of support where appropriate to demonstrate collaborations, access to resources, institutional commitment, etc.
+Resource Sharing Plan: Individuals are required to comply with the instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model Organisms, and Genome Wide Association Studies (GWAS)) as provided in the SF424 (R&R) Application Guide.
+Appendix: Do not use the Appendix to circumvent page limits. Follow all instructions for the Appendix as described in the SF424 (R&R) Application Guide.
+Planned Enrollment Report (Facility/Services Core(s))
+When conducting clinical research, follow all instructions for completing Planned Enrollment Reports as described in the SF424 (R&R) Application Guide.
+PHS 398 Cumulative Inclusion Enrollment Report (Facility/ Services Core(s))
+When conducting clinical research, follow all instructions for completing Cumulative Inclusion Enrollment Report as described in the SF424 (R&R) Application Guide.
+3. Submission Dates and Times
+Part I. Overview Information contains information about Key Dates. Applicants are encouraged to submit applications before the due date to ensure they have time to make any application corrections that might be necessary for successful submission.
+Organizations must submit applications to Grants.gov (the online portal to find and apply for grants across all Federal agencies) using ASSIST or other electronic submission systems. Applicants must then complete the submission process by tracking the status of the application in the eRA Commons, NIH’s electronic system for grants administration.
+Applicants are responsible for viewing their application before the due date in the eRA Commons to ensure accurate and successful submission.
+Information on the submission process and a definition of on-time submission are provided in the SF424 (R&R) Application Guide.
+4. Intergovernmental Review (E.O. 12372)
+This initiative is not subject to intergovernmental review.
+5. Funding Restrictions
+All NIH awards are subject to the terms and conditions, cost principles, and other considerations described in the NIH Grants Policy Statement.
+Pre-award costs are allowable only as described in the NIH Grants Policy Statement.
+For EPA awards: Executive Order 12372, “Intergovernmental Review of Federal Programs,” does not apply to the EPA’s Office of Research and Development's research and training programs unless EPA has determined that the activities that will be carried out under the application (a) require an Environmental Impact Statement (EIS), or (b) do not require an EIS but will be newly initiated at a particular site and require unusual measures to limit the possibility of adverse exposure or hazard to the general public, or (c) have a unique geographic focus and are directly relevant to the governmental responsibilities of a State or local government within that geographic area.
+If EPA determines that Executive Order 12372 applies to an application, the applicant must follow the procedures in 40 CFR Part 29. The applicant must notify their state's single point of contact (SPOC). To determine whether their state participates in this process, and how to comply, applicants should consult http://www.whitehouse.gov/omb/grants_spoc/. If an applicant is in a State that does not have a SPOC, or the State has not selected research and development grants for intergovernmental review, the applicant must notify directly affected State, area wide, regional and local entities of its application.
+EPA will notify the successful applicant(s) if Executive Order 12372 applies to its application prior to award.
+EPA awards are subject to the following funding restrictions:
+EPA awards funds to one eligible applicant as the recipient even if other eligible applicants are named as partners or co-applicants or members of a coalition or consortium. The recipient is accountable to EPA for the proper expenditure of funds. IF the grant is funded by both NIH and EPA, then the recipient is accountable to EPA and NIH for the proper expenditure of funds.
+All award decisions are subject to the availability of funds. In accordance with the Federal Grant and Cooperative Agreement Act, 31 U.S.C. 6301 et seq., the primary purpose of an assistance agreement is to accomplish a public purpose of support or stimulation authorized by federal statute, rather than acquisition for the direct benefit or use of the Agency. In issuing a grant, the EPA and NIH anticipate that there will be no substantial EPA involvement in the design, implementation, or conduct of the research. However, the EPA and NIH will monitor research progress through a variety of means, including annual reports provided by grantees and other contacts, as well as site visits with the PD/PI or MPD/PI).
+EPA funding may be used to provide subgrants or subawards of financial assistance, which includes using subawards or subgrants to fund partnerships, provided the recipient complies with applicable requirements for subawards or subgrants including those contained in 40 CFR Parts 30 or 31, as appropriate. Applicants must compete contracts for services and products, including consultant contracts, and conduct cost and price analyses to the extent required by the procurement provisions of the regulations at 40 CFR Parts 30 or 31, as appropriate. The regulations also contain limitations on consultant compensation. Applicants are not required to identify subawardees/subgrantees and/or contractors (including consultants) in their application. However, if they do, the fact that an applicant selected for award has named a specific subawardee/subgrantee, contractor, or consultant in the application EPA selects for funding does not relieve the applicant of its obligations to comply with subaward/subgrant and/or competitive procurement requirements as appropriate. Please note that applicants may not award sole source contracts to consulting, engineering or other firms assisting applicants with the application based solely on the firm's role in preparing the application.
+Successful applicants cannot use subgrants or subawards to avoid requirements in EPA grant regulations for competitive procurement by using these instruments to acquire commercial services or products from for-profit organizations to carry out its assistance agreement. The nature of the transaction between the recipient and the subawardee or subgrantee must be consistent with the standards for distinguishing between vendor transactions and subrecipient assistance under Subpart B Section .210 of OMB Circular A-133, and the definitions of subaward at 40 CFR 30.2(ff) or subgrant at 40 CFR 31.3, as applicable. Neither EPA nor NIH will be a party to these transactions. Applicants acquiring commercial goods or services must comply with the competitive procurement standards in 40 CFR Part 30 or 40 CFR Part 31.36 and cannot use a subaward/subgrant as the funding mechanism.
+Each proposed project must be able to be completed within the project period and with the initial award of funds. Applicants should request the entire amount of money needed to complete the project. Recipients should not anticipate additional funding beyond the initial award of funds for a specific project.
+EPA Award Procedures: Applicants to be recommended for EPA funding will be required to submit additional information and an electronic version of the revised project abstract. They may also be asked to provide responses to comments or suggestions offered by the peer reviewers and/or a revised budget. EPA Project Officers will contact the PD/PI or MPI/PI to obtain these materials. Before or after an award, applicants may be required to provide additional quality assurance documentation.
+EPA Quality Assurance Documentation: For Centers with projects involving data collection or processing, conducting surveys, environmental measurements, modeling, or the development of environmental technology (whether hardware-based or via new techniques), EPA will require the recipient to submit a Quality Management Plan and other appropriate quality assurance documentation on the processes that will be used to assure that results of the research satisfy the intended project objectives. This is not required for application submission, but will be required for any applications that EPA chooses to recommend for funding. More detailed information on requirements can be found at http://www.epa.gov/ncer/guidance/qa.html.
+Generally, applicants are not prohibited from submitting the same or virtually the same application to EPA under multiple competitions, if appropriate. However, if an applicant does so, and the application is selected for award under another competition, that may affect their ability to receive an award under this competition for that application.
+6. Other Submission Requirements and Information
+Applications must be submitted electronically following the instructions described in the SF424 (R&R) Application Guide. Paper applications will not be accepted.
+For information on how your application will be automatically assembled for review and funding consideration after submission go to: http://grants.nih.gov/grants/ElectronicReceipt/files/Electronic_Multi-project_Application_Image_Assembly.pdf.
+Applicants must complete all required registrations before the application due date. Section III. Eligibility Information contains information about registration.
+For assistance with your electronic application or for more information on the electronic submission process, visit Applying Electronically.
+Important reminders:
+All PD(s)/PI(s) and component Project Leads must include their eRA Commons ID in the Credential field of the Senior/Key Person Profile Component of the SF424(R&R) Application Package. Failure to register in the Commons and to include a valid PD/PI Commons ID in the credential field will prevent the successful submission of an electronic application to NIH.
+The applicant organization must ensure that the DUNS number it provides on the application is the same number used in the organization’s profile in the eRA Commons and for the System for Award Management (SAM). Additional information may be found in the SF424 (R&R) Application Guide.
+See more tips for avoiding common errors.
+Upon receipt, applications will be evaluated for completeness by the Center for Scientific Review and responsiveness by NIEHS, NIMHD and NICHD. Applications that are incomplete and/or nonresponsive will not be reviewed.
+In order to expedite review, applicants are requested to notify the NIEHS Referral Office by email at alfonso.latoni@niehs.nih.gov when the application has been submitted. Please include the FOA number and title, PD/PI name, and title of the application.
+Budget for Submissions to EPA
+Please note that when formulating budgets for applications, applicants must not include management fees or similar charges in excess of the direct costs and indirect costs at the rate approved by the applicants cognizant audit agency, or at the rate provided for by the terms of the agreement negotiated with EPA. The term "management fees or similar charges" refers to expenses added to the direct costs in order to accumulate and reserve funds for ongoing business expenses, unforeseen liabilities, or for other similar costs that are not allowable under EPA assistance agreements. Management fees or similar charges may not be used to improve or expand the project funded under this agreement, except to the extent authorized as a direct cost of carrying out the scope of work.
+All costs incurred under this program must be allowable under 40 CFR 30.27 or 40 CFR 31.22, as applicable, and the applicable Office of Management and Budget (OMB) Cost Circulars: 2 CFR Part 225 (State, local, or Indian tribal governments), 2 CFR Part 230 (non-profit organizations), or 2 CFR Part 220 (Educational institutions). Copies of these circulars can be found at http://www.whitehouse.gov/omb/circulars/. In accordance with applicable law, regulation, and policy, any recipient of funding must agree to comply with restrictions on using assistance funds for unauthorized lobbying, fund-raising, or political activities (i.e., lobbying members of Congress or lobbying for other federal grants, cooperative agreements, or contracts). Funds generally cannot be used to pay for travel by federal agency staff. Proposed project activities must also comply with all state and federal regulations applicable to the project area. The applicant must also review the funding opportunity announcement or any other programmatic funding restrictions applicable to this program. If awarded funding, the recipient must refer to the terms and conditions of its award for other funding restrictions applicable to its award. It is the responsibility of the recipient to ensure compliance with these requirements.
+Confidentiality
+By submitting an application in response to this Funding Opportunity Announcement, the applicant grants the EPA permission to make limited disclosures of the application to technical reviewers both within and outside the Agency for the express purpose of assisting the Agency with evaluating the application. Information from a pending or unsuccessful application will be kept confidential to the fullest extent allowed under law; information from a successful application may be publicly disclosed to the extent permitted by law.
+EPA recommends that you do not include confidential business information (“CBI”) in your application. However, if confidential business information is included, it will be treated in accordance with 40 CFR 2.203. Applicants must clearly indicate which portion(s) of their application they are claiming as CBI. EPA will evaluate such claims in accordance with 40 CFR Part 2. If no claim of confidentiality is made, EPA is not required to make the inquiry to the applicant otherwise required by 40 CFR 2.204(c)(2) prior to disclosure. The Agency protects competitive applications from disclosure under applicable provisions of the Freedom of Information Act prior to the completion of the competitive selection process.
+Post Submission Materials
+Applicants are required to follow the instructions for post-submission materials, as described in NOT-OD-13-030
+Section V. Application Review Information
+1. Criteria
+Only the review criteria described below will be considered in the review process. As part of the NIH mission, all applications submitted to the NIH in support of biomedical and behavioral research are evaluated for scientific and technical merit through the NIH peer review system.
+Overall Impact - Overall
+Reviewers will provide an overall impact score to reflect their assessment of the likelihood for the Center to exert a sustained, powerful influence on the research field(s) involved, in consideration of the following review criteria and additional review criteria (as applicable for the Center proposed).
+Scored Review Criteria - Overall Program
+Reviewers will consider each of the review criteria below in the determination of scientific merit, and give a separate score for each. An application does not need to be strong in all categories to be judged likely to have major scientific impact. For example, a Center that by its nature is not innovative may be essential to advance a field.
+Significance
+Does the Center address an important problem or a critical barrier to progress in the field? If the aims of the Center are achieved, how will scientific knowledge, technical capability, and/or clinical practice be improved? How will successful completion of the aims change the concepts, methods, technologies, treatments, services, or preventative interventions that drive this field?
+Investigator(s)
+Are the PD(s)/PI(s), collaborators, and other researchers well suited to the Center? If Early Stage Investigators or New Investigators, or in the early stages of independent careers, do they have appropriate experience and training? If established, have they demonstrated an ongoing record of accomplishments that have advanced their field(s)? If the Center is collaborative or multi-PD/PI , do the investigators have complementary and integrated expertise; are their leadership approach, governance and organizational structure appropriate for the Center?
+Innovation
+Does the application challenge and seek to shift current research or clinical practice paradigms by utilizing novel theoretical concepts, approaches or methodologies, instrumentation, or interventions? Are the concepts, approaches or methodologies, instrumentation, or interventions novel to one field of research or novel in a broad sense? Is a refinement, improvement, or new application of theoretical concepts, approaches or methodologies, instrumentation, or interventions proposed?
+Approach
+Are the overall strategy, methodology, and analyses well-reasoned and appropriate to accomplish the specific aims of the Center? Are potential problems, alternative strategies, and benchmarks for success presented? If the project is in the early stages of development, will the strategy establish feasibility and will particularly risky aspects be managed?
+If the Center involves human subjects and/or NIH-defined clinical research, are the plans to address 1) the protection of human subjects from research risks, and 2) inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion or exclusion of children, justified in terms of the scientific goals and research strategy proposed?
+Environment
+Will the scientific environment in which the work will be done contribute to the probability of success? Are the institutional support, equipment and other physical resources available to the investigators adequate for the project proposed? Will the project benefit from unique features of the scientific environment, subject populations, or collaborative arrangements?
+Additional Review Criteria - Overall Program
+As applicable for the Center proposed, reviewers will evaluate the following additional items while determining scientific and technical merit, and in providing an overall impact score, but will not give separate scores for these items.
+FOA-Specific Review Criteria
+Does the Center consist of a cohesive and multidisciplinary focus? Does a coordinated interrelationship exist between the research projects and cores? Are the components of the Center related to the common theme of the Center?
+What is the scientific gain of combining the component parts into a Center? Is there evidence of the degree of synergy (degree of interaction, collaborative research opportunities) that will be stimulated by the Center? How do the research projects and cores relate to the central theme and the ability of the Center to meet its long range goals?
+Are appropriate or relevant SDH and/or non-chemical stressor(s) as a modifying factor/modifying factor for chemical stressor(s) included and well described (as appropriate)? Will the specific scientific objectives of each project benefit significantly from, or depend upon collaborative interactions with other projects in the program (i.e., objectives that can be uniquely accomplished, specific contributions to the accomplishments of objectives in other projects, objectives that can be accomplished with greater effectiveness and/or economy of effort)?
+Have the investigators adequately conceptualized the Center’s expected results and potential benefits to the broader public?
+Overall Impact - Administrative Core
+Reviewers will provide an overall impact score to reflect their assessment of the likelihood for the Administrative Core to exert a sustained, powerful influence on the research field(s) involved, in consideration of the following review criteria (as applicable for the core proposed).
+Review Criteria- Administrative Core
+As applicable for the projects proposed, reviewers will evaluate the following additional items while determining scientific and technical merit, and in providing an overall impact score, but will not give separate scores for these items.
+Administration
+What is the decision-making and evaluation process within the proposed Center? Is it adequate for the evaluation of research productivity, allocation of funds, and management of the resources? Are procedures clearly outlined to measure and track Center goals, outputs and outcomes?
+How will the Administrative Core promote joint planning and evaluation activities as well as collaborations and interactions among different Research Projects of the Centers?
+What are the academic environment and resources in which the research will be conducted? Are there available and appropriate space, equipment, human subjects, animals, or other resources as required by the project goals? Do these resources allow for potential interaction with scientist(s) from other departments to complete the scope of work as proposed?
+What is the institutional commitment to the Center, including fiscal responsibility and management capability of the institution to assist the PD/PI and his/her staff in following DHHS, PHS, NIH and EPA policy?
+Are the approach, procedures, and controls for ensuring timely and efficient expenditure of awarded grant funds well defined and acceptable? Is the approach for ensuring successful achievement of project objectives adequate and in accordance with the proposal's project schedule and milestones?
+If the community engagement is discussed as a function of the Administrative Core, then the following criteria must be included in the evaluation. Are the Center’s activities appropriate to the needs of the community involved? How will the Center facilitate regular communication and coordination among investigators and relevant stakeholders with concerns focused on environmental health disparities or environmental exposures? How are the stakeholders involved in other aspects of the Center and how they will interact with Center activities and develop a relationship with the Center Investigators? If a Community Advisory Board is proposed, does it have appropriate and adequate membership to be successful?
+Career Development
+What are the Center’s plans for supporting the research career development of new junior level faculty members?
+Does the Center’s plan provide high quality mentoring of junior investigators so as to foster their research careers?
+Is a mentoring plan proposed, and if so, is the plan adequate?
+What are the Center’s plans for monitoring the progression and development of new junior level faculty members?
+Overall Impact - Research Projects
+Reviewers will provide an overall impact score to reflect their assessment of the likelihood for the project to exert a sustained, powerful influence on the research field(s) involved, in consideration of the following review criteria.
+Scored Review Criteria - Research Projects
+Reviewers will consider each of the review criteria below in the determination of scientific merit, and give a separate score for each. A project does not need to be strong in all categories to be judged likely to have major scientific impact.
+Significance
+Does the project address an important problem or a critical barrier to progress in the field? If the aims of the project are achieved, how will scientific knowledge, technical capability, and/or clinical practice be improved? How will successful completion of the aims change the concepts, methods, technologies, treatments, services, or preventative interventions that drive this field?
+Investigator(s)
+Are the PD(s)/PI(s), collaborators, and other researchers well suited to the project? If Early Stage Investigators or New Investigators, or in the early stages of independent careers, do they have appropriate experience and training? If established, have they demonstrated an ongoing record of accomplishments that have advanced their field(s)? If the project is collaborative or multi-PD/PI, do the investigators have complementary and integrated expertise; are their leadership approach, governance and organizational structure appropriate for the project?
+Innovation
+Does the application challenge and seek to shift current research or clinical practice paradigms by utilizing novel theoretical concepts, approaches or methodologies, instrumentation, or interventions? Are the concepts, approaches or methodologies, instrumentation, or interventions novel to one field of research or novel in a broad sense? Is a refinement, improvement, or new application of theoretical concepts, approaches or methodologies, instrumentation, or interventions proposed?
+Approach
+Are the overall strategy, methodology, and analyses well-reasoned and appropriate to accomplish the specific aims of the project? Are potential problems, alternative strategies, and benchmarks for success presented? If the project is in the early stages of development, will the strategy establish feasibility and will particularly risky aspects be managed?
+If the project involves human subjects and/or NIH-defined clinical research, are the plans to address 1) the protection of human subjects from research risks, and 2) inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion or exclusion of children, justified in terms of the scientific goals and research strategy proposed?
+Environment
+Will the scientific environment in which the work will be done contribute to the probability of success? Are the institutional support, equipment and other physical resources available to the investigators adequate for the project proposed? Will the project benefit from unique features of the scientific environment, subject populations, or collaborative arrangements?
+Additional Review Criteria - Research Projects
+As applicable for the project proposed, reviewers will evaluate the following additional items while determining scientific and technical merit, and in providing an overall impact score, but will not give separate scores for these items.
+If the Research Project(s) include(s) Community Based Participatory Research as an aspect of the Project, then the following criteria will be included in the evaluation.
+Are the Center’s activities appropriate to the needs of the community involved?
+Is the research proposed focused on children’s environmental health or the exposure under investigation?
+Is a mechanism present for regular communication and coordination among investigators and relevant stakeholders with concerns focused on children’s environmental health or environmental exposures?
+Are the stakeholders involved in other aspects of the Center?
+Does a productive working relationship exist between Center investigators and community stakeholders?
+Overall Impact - Community Engagement Core
+Reviewers will provide an overall impact score to reflect their assessment of the likelihood for the Community Engagement Core to exert a sustained, powerful influence on the research field(s) involved, in consideration of the following review criteria and additional review criteria (as applicable for the core proposed).
+Review Criteria - Community Engagement Core
+As applicable for the projects proposed, reviewers will evaluate the following additional items while determining scientific and technical merit, and in providing an overall impact score, but will not give separate scores for these items.
+Vision and Objectives
+Does the Center clearly define its “Community” or set of stakeholders?
+Are the plans for the establishment of a Community Engagement Core appropriate to the particular community setting and adequate for success? Are the plans aligned to the Center’s mission?
+Are the Center’s activities appropriate to the needs of the community involved? Are these activities based on or do they reference specific cultural constraints of the community?
+Are objectives for CEC clear and measurable? Do they prioritize short, mid and long-term activities? Are evaluation plans defined to measure the impact of core activities? If so, are the evaluation plans appropriate?
+Bi-directional Dialogue
+Does a productive working relationship exist between Center investigators and community stakeholders? Have particular community groups or organizations been identified and are their support and commitment adequate and appropriate? Is there documentation of their commitment to the Center and/or specific projects?
+Does the Center propose a plan to facilitate and strengthen dialogue with its identified community? How will the Center facilitate regular communication and coordination among investigators and relevant stakeholders with concerns focused on environmental health disparities? How will the Center ensure that the perspectives and opinions of relevant stakeholders are shared with the study team?
+How are the stakeholders involved in other aspects of the Center and how they will interact with Center activities and develop a relationship with the Center Investigators?
+If a Community Advisory Board is proposed, does it have an appropriate and broadly representative membership to be successful?
+Are the detailed plans and approaches for dissemination from the Core adequate for success? Do these dissemination plans incorporate locally appropriate language(s) and preferred methods of delivery, use terminology that is appropriate for the general public, or provide for translation into other languages when necessary? How successful have Center Investigators been in the past with community partnerships in research?
+Environmental Health Literacy and Capacity Building
+How will the proposed activities under the Community Engagement Core enhance community capacity to engage in the research and scientific process?
+Are formal plans in place for building the environmental health literacy and numeracy of community partners?
+Leadership and staff expertise
+Is the CEC Director qualified for the position? Does he or she demonstrate expertise in public health, community-engagement, health communication, or other relevant disciplines at the Master’s or Doctoral level?
+Does the proposed staff possess suitable expertise to fulfill the stated objectives of the CEC?
+Overall Impact - Pilot Program
+Reviewers will provide an overall impact score to reflect their assessment of the likelihood for the Pilot Program to exert a sustained, powerful influence on the research field(s) involved, in consideration of the following review criteria (as applicable for the core proposed).
+Review Criteria - Pilot Program
+As applicable for the projects proposed, reviewers will evaluate the following items while determining scientific and technical merit, and in providing an overall impact score, but will not give separate scores for these items.
+Are the plans for the Pilot Project Element aligned to the Center’s mission and theme? How well does the EHD Center plan to review and distribute funds for the pilot? Is the process fair and transparent? Does it encourage young investigators or researchers from other disciplines? Does the EHD Center plan to use pilot project funds in a manner that encourages innovative ideas of importance to environmental health disparities, high risk, and/or emerging areas? Will the EHD Center use the Pilot Project Element in order to fill gaps in research areas relevant to the scientific focus of the EHD Center?
+Overall Impact - Facility/Services Core
+Reviewers will provide an overall impact score to reflect their assessment of the likelihood for the Facility/Services Core to exert a sustained, powerful influence on the research field(s) involved, in consideration of the following review criteria and additional review criteria (as applicable for the core proposed).
+Review Criteria - Facility/Services Core
+As applicable for the projects proposed, reviewers will evaluate the following additional items while determining scientific and technical merit, and in providing an overall impact score, but will not give separate scores for these items.
+What is the Core's utility to Center investigators? Does the additional Core provide services for two or more research projects that are judged to have substantial merit?
+What is the quality of the facility or services provided? What are the availability and/or adequacy of the physical space, laboratory, clinic and/or equipment proposed for the Core?
+Are the services provided cost-effective? Are the qualifications of the personnel involved, their experience, and commitment to the Core appropriate?
+Additional Review Criteria - Overall Program, Administrative Core, Community Engagement Core, Facility/Service Core(s), Pilot and Projects
+Protections for Human Subjects
+For research that involves human subjects but does not involve one of the six categories of research that are exempt under 45 CFR Part 46, the committee will evaluate the justification for involvement of human subjects and the proposed protections from research risk relating to their participation according to the following five review criteria: 1) risk to subjects, 2) adequacy of protection against risks, 3) potential benefits to the subjects and others, 4) importance of the knowledge to be gained, and 5) data and safety monitoring for clinical trials.
+For research that involves human subjects and meets the criteria for one or more of the six categories of research that are exempt under 45 CFR Part 46, the committee will evaluate: 1) the justification for the exemption, 2) human subjects involvement and characteristics, and 3) sources of materials. For additional information on review of the Human Subjects section, please refer to the Guidelines for the Review of Human Subjects.
+Inclusion of Women, Minorities, and Children
+When the proposed project involves human subjects and/or NIH-defined clinical research, the committee will evaluate the proposed plans for the inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion (or exclusion) of children to determine if it is justified in terms of the scientific goals and research strategy proposed. For additional information on review of the Inclusion section, please refer to the Guidelines for the Review of Inclusion in Clinical Research.
+Vertebrate Animals
+The committee will evaluate the involvement of live vertebrate animals as part of the scientific assessment according to the following five points: 1) proposed use of the animals, and species, strains, ages, sex, and numbers to be used; 2) justifications for the use of animals and for the appropriateness of the species and numbers proposed; 3) adequacy of veterinary care; 4) procedures for limiting discomfort, distress, pain and injury to that which is unavoidable in the conduct of scientifically sound research including the use of analgesic, anesthetic, and tranquilizing drugs and/or comfortable restraining devices; and 5) methods of euthanasia and reason for selection if not consistent with the AVMA Guidelines on Euthanasia. For additional information on review of the Vertebrate Animals section, please refer to the Worksheet for Review of the Vertebrate Animal Section.
+Biohazards
+Reviewers will assess whether materials or procedures proposed are potentially hazardous to research personnel and/or the environment, and if needed, determine whether adequate protection is proposed.
+Resubmissions
+Not Applicable
+Renewals
+Not Applicable
+Revisions
+Not Applicable
+Additional Review Considerations - Overall Program
+As applicable for the Center proposed, reviewers will consider each of the following items, but will not give scores for these items, and should not consider them in providing an overall impact score.
+Applications from Foreign Organizations
+Not Applicable
+Select Agent Research
+Reviewers will assess the information provided in this section of the application, including 1) the Select Agent(s) to be used in the proposed research, 2) the registration status of all entities where Select Agent(s) will be used, 3) the procedures that will be used to monitor possession use and transfer of Select Agent(s), and 4) plans for appropriate biosafety, biocontainment, and security of the Select Agent(s).
+Resource Sharing Plans
+Reviewers will comment on whether the following Resource Sharing Plans, or the rationale for not sharing the following types of resources, are reasonable: 1) Data Sharing Plan; 2) Sharing Model Organisms; and 3) Genome Wide Association Studies (GWAS).
+Budget and Period of Support
+Reviewers will consider whether the budget and the requested period of support are fully justified and reasonable in relation to the proposed research.
+2. Review and Selection Process
+Applications will be evaluated for scientific and technical merit by (an) appropriate Scientific Review Group(s), convened by the Center for Scientific Review-NIH} in accordance with NIH peer review policy and procedures, using the stated review criteria. Assignment to a Scientific Review Group will be shown in the eRA Commons.
+As part of the scientific peer review, all applications:
+May undergo a selection process in which only those applications deemed to have the highest scientific and technical merit (generally the top half of applications under review) will be discussed and assigned an overall impact score.
+Will receive a written critique.
+Appeals of initial peer review will not be accepted for applications submitted in response to this FOA.
+Applications will be assigned on the basis of established referral guidelines to the appropriate NIH Institute or Center. Applications will compete for available funds with all other recommended applications submitted in response to this FOA. Following initial peer review, recommended applications will receive a second level of review by the National Advisory Environmental Health Sciences Councill. The following will be considered in making funding decisions:
+Scientific and technical merit of the proposed project as determined by scientific peer review.
+Availability of funds.
+Relevance of the proposed project to program priorities.
+NIEHS-EPA Joint Funding Decision
+Since these applications will be jointly funded by both agencies, both agencies program and grants management staff will use the above considerations in making funding recommendations to NIEHS, NIMHD and NICHD leadership and the National Center for Environmental Research senior management for joint final funding decisions. All Centers are intended to be jointly funded by both agencies; however, specific research projects involving intervention studies that include protected populations (including children or pregnant and nursing women) cannot be funded by EPA and may be funded solely by NIH.
+EPA Review and Selection Process Post Peer Review
+EPA's internal review criteria for all applications under consideration for EPA support:
+Applications discussed and receiving final overall impact scores as a result of the NIH peer review will undergo an internal programmatic review, as described below, conducted by technical experts from the EPA, including individuals from the Office of Research and Development (ORD) and program and regional offices involved with the science or engineering proposed. The focus of the programmatic review is to evaluate relevance and past performance.
+All other applications are automatically declined.
+After the peer review, those applicants receiving numerical final overall impact scores will be asked to provide additional information for the programmatic review pertaining to the proposed Principal Investigator's (PI) (in the case of Multiple-PI applications, the Lead/Contact PI’s) "Past Performance and Reporting History." The applicant must provide the EPA Project Officer with information on the proposed Lead/Contact PI's past performance and reporting history under prior Federal agency assistance agreements (assistance agreements include grants and cooperative agreements but not contracts) in terms of: (i) the level of success in managing and completing each agreement, and (ii) history of meeting the reporting requirements under each agreement.
+This information is required only for the proposed Lead/Contact PI's performance under Federal assistance agreements initiated within the last three years that were similar in size and scope to the proposed project.
+The specific information required for each agreement is shown below, and must be provided within one week of EPA's request. A maximum of three pages will be permitted for the response; excess pages will not be reviewed. Note: If no prior past performance information and/or reporting history exists, you will be asked to so state.
+1. Name of Granting Agency.
+2. Grant number.
+3. Grant title.
+4. Brief description of the grant.
+5. A description of how the agreement is similar in size and scope to the proposed project and whether or not it was successfully managed and completed; if not successfully managed and completed, provide an explanation.
+6. Information relating to the proposed / Lead/Contact PI's past performance in reporting on progress towards achieving the expected results (outputs/outcomes) under the agreement. Include the history of submitting timely progress/final technical reports, describe how progress towards achieving the expected results was reported/documented, and if such progress was not being made, provide an explanation of whether, and how, this was reported.
+7. Total (all years) grant dollar value.
+8. Project period.
+9. Technical contact (project officer), telephone number, and Email address (if available).
+The purpose of the programmatic review is to ensure an integrated research portfolio for the Agency and help determine which applications to recommend for award. In conducting the programmatic review, the EPA will consider information provided by the applicant and may consider information from other sources, including prior and current grantors and agency files.
+The EPA internal programmatic review panel will assess (EPA considers relevance more important than the Lead/Contact PD/PI's past performance):
+1. The relevance of the proposed science to EPA research priorities, including alignment with ORD's Sustainable and Healthy Communities Programs Research Priorities at http://www2.epa.gov/epa-research/sustainable-and-health-communities-strategic-research-action-plan-2012-2016.
+2. The proposed Lead/Contact PD/PI's past performance [under Federal agency assistance agreements (assistance agreements include grants and cooperative agreements but not contracts) initiated within the last three years that were similar in size and scope to the proposed project] in two areas: First, in successfully managing and completing these prior Federal assistance projects, including whether there is a satisfactory explanation for any lack of success; and Second, in reporting progress toward achieving results under these agreements, including the proposed Lead/Contact PD/PI's history of submitting timely progress/final technical reports that adequately describe the progress toward achieving the expected results (outputs/outcomes) under the agreements. Any explanation of why progress toward achieving the results was not made will also be considered. Applicants whose proposed Lead/Contact PD/PI has no relevant past performance and/or reporting history, or for whom this information is not available, will be evaluated neither favorably nor unfavorably on these elements.
+EPA Human Subjects Research Statement (HSRS) Review
+Applications being considered for funding after the EPA Programmatic Review that involve human subjects research studies will have their HSRS reviewed by EPA’s Human Subjects Research Review Official (HSRRO) prior to award. The HSRRO will review the information provided in the HSRS and the Research Plan to determine if the ethical treatment of human subjects is described in a manner appropriate for conditional approval to be granted.
+Final EPA funding decisions are made by the NCER Director based on the results of the peer review, the internal programmatic review and, where applicable, the EPA HSRRO’s assessment of the applicant’s HSRS (see Section IV). In addition, in making the final funding decisions, the NCER Director may also consider program balance and available funds.
+Applicants selected for funding will be required to provide additional information listed below under “Award Notices.” The application will then be forwarded to EPA’s Grants and Interagency Agreement Management Division for award in accordance with the EPA’s procedures.
+Generally, following EPA’s evaluation of applications, all applicants will be notified regarding their status. Final applications and forms will be requested, as necessary, from those eligible entities whose application has been successfully evaluated and preliminarily recommended for award. Those entities will be provided with instructions and a due date for submittal of the final application package.
+3. Anticipated Announcement and Award Dates
+After the peer review of the application is completed, the PD/PI will be able to access his or her Summary Statement (written critique) via the eRA Commons.
+Information regarding the disposition of applications is available in the NIH Grants Policy Statement.
+Section VI. Award Administration Information
+1. Award Notices
+For applications selected for funding by both EPA and NIH, each agency will conduct its own pre-award administrative review and issue a Notice of Award (NoA) reflecting that agency's funding commitment. Program staff from both agencies will coordinate prior to award issuance to ensure that any overlap between the awards is addressed. If the application is under consideration for funding, NIH will request "just-in-time" information from the applicant as described in the NIH Grants Policy Statement. If the application is under consideration for funding by NIH, NIH will request "just-in-time" information from the applicant as described in the NIH Grants Policy Statement. Separate requests for "just-in-time" information will also come from EPA to address EPA specific concerns and components (e.g. E.O. 12372 Applicability, and Past Performance and Reporting History). The applicant should address any response to the agency that has made the request, and should not assume that "just-in-time" information provided to NIH or EPA is automatically transmitted to the other agency.
+A formal notification in the form of a Notice of Award (NoA) will be provided to the applicant organization for successful applications. The NoA signed by the grants management officer is the authorizing document and will be sent via email to the grantee’s business official.
+Awardees must comply with any funding restrictions described in Section IV.5. Funding Restrictions. Selection of an application for award is not an authorization to begin performance. Any costs incurred before receipt of the NoA are at the recipient's risk. These costs may be reimbursed only to the extent considered allowable pre-award costs.
+Any application awarded in response to this FOA will be subject to terms and conditions found on the Award Conditions and Information for NIH Grants website. This includes any recent legislation and policy applicable to awards that is highlighted on this website.
+For EPA funding, applicants recommended for funding will be required to submit additional certifications and an electronic version of the revised project abstract. They may also be asked to provide responses to comments or suggestions offered by the peer reviewers and/or submit a revised budget. EPA Project Officers will contact the Lead PI/Contact PI to obtain these materials. Before or after an award, applicants may be required to provide additional quality assurance documentation.
+For EPA, the official notification of an award will be made by the Agency’s Grants and Interagency Agreement Management Division. Applicants are cautioned that only a grants officer is authorized to bind the Government to the expenditure of funds; preliminary selection by the NCER Director in the Office of Research and Development does not guarantee an award will be made. For example, statutory authorization, funding, or other issues discovered during the award process may affect the ability of EPA to make an award to an applicant. The award notice, signed by an EPA grants officer, is the authorizing document and will be provided through electronic or postal mail.
+Non-profit applicants that are recommended for EPA funding under this announcement are subject to pre-award administrative capability reviews consistent with Sections 8b., 8c. and 9d. of EPA Order 5700.8 - Policy on Assessing Capabilities of Non-Profit Applicants for Managing Assistance Awards (http://www.epa.gov/ogd/grants/award/5700_8.pdf). In addition, non-profit applicants that qualify for funding may, depending on the size of the award, be required to fill out and submit to the Grants Management Office the Administrative Capabilities Form with supporting documents contained in Appendix A of EPA Order 5700.8.
+Disputes related to this assistance agreement competition will be resolved in accordance with the dispute resolution procedures set forth in 70 FR 3629, 3630 (January 26, 2005) which can be found at http://www.epa.gov/ogd/competition/resolution.htm. Questions regarding disputes may be referred to the Eligibility Contact identified below.
+Prior Approval of Pilot Projects
+Awardee-selected projects that involve clinical trials or studies involving greater than minimal risk to human subjects require prior approval by NIH prior to initiation.
+The awardee institution will provide NIH with written study protocols that address risks and protections for human subjects in accordance with NIH’s Instructions for Preparing the Human Subjects Section of the Research Plan.
+The awardee institution will provide NIH with specific plans for data and safety monitoring, and will notify the IRB and NIH of serious adverse events and unanticipated problems, consistent with NIH DSMP policies.
+2. Administrative and National Policy Requirements
+All NIH grant and cooperative agreement awards include the NIH Grants Policy Statement as part of the NoA. For these terms of award, see the NIH Grants Policy Statement Part II: Terms and Conditions of NIH Grant Awards, Subpart A: General and Part II: Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for Specific Types of Grants, Grantees, and Activities. More information is provided at Award Conditions and Information for NIH Grants.
+Cooperative Agreement Terms and Conditions of Award
+Not Applicable
+Notices and Requirements for EPA Funding
+Expectations and responsibilities of EPA/NCER grantees are summarized in this section, although the terms grant and grantee are used. See http://www.epa.gov/ncer/guidance for the full terms and conditions associated with an award, including which activities require prior approval from the EPA.
+a. Meetings: Principal Investigators will be expected to budget for, and participate in, All-Investigators Meetings (also known as progress reviews) approximately once per year with EPA and NIH scientists and other grantees to report on research activities and discuss issues of mutual interest.
+b. Approval of Changes after Award: Prior written approval of changes may be required from EPA. Examples of these changes are contained in 40 C.F.R. 30.25. Note: prior written approval is also required from the EPA Award Official for incurring costs more than 90 calendar days prior to award.
+c. Human Subjects: A grant applicant must agree to meet all EPA requirements for studies using human subjects prior to implementing any work with these subjects. These requirements are given in 40 CFR Part 26. Studies involving intentional exposure of human subjects who are children or pregnant or nursing women are prohibited by Subpart B of 40 CFR Part 26. For observational studies involving children or pregnant women and fetuses please refer to Subparts C & D of 40 CFR Part 26. U.S. Department of Health and Human Services regulations at 45 CFR Part 46.101(e) have long required "... compliance with pertinent Federal laws or regulations which provide additional protection for human subjects." EPA’s regulation 40 CFR Part 26 is such a pertinent Federal regulation. Therefore, the applicant's Institutional Review Board (IRB) approval must state that the applicant's study meets the EPA's regulations at 40 CFR Part 26. No work involving human subjects, including recruiting, may be initiated before the EPA has received a copy of the applicant’s IRB approval of the project and the EPA has also provided approval. Where human subjects are involved in the research, the recipient must provide evidence of subsequent IRB reviews, including amendments or minor changes of protocol, as part of annual reports.
+Guidance and training for investigators conducting EPA-funded research involving human subjects may be obtained here:
+http://www.epa.gov/osainter/phre/support.htm
+http://www.epa.gov/osa/pdfs/phre/phre_course/index.htm
+d. A grant recipient must agree to comply with the Animal Welfare Act of 1966 (P.L. 89-544), as amended, 7 U.S.C. 2131-2159. The recipient must also agree to abide by the "U.S. Government Principles for the Utilization and Care of Vertebrate Animals used in Testing, Research, and Training." (50 Federal Register 20864-20865 (May 20, 1985))
+* This clause applies if a research facility (defined as any school (except elementary or secondary), institution, organization or person) receives funds under a grant from a federal agency for the purpose of carrying out research, tests, or experiments involving animals.
+e. The following provisions apply to EPA-funded awards: Congress, through OMB, has instructed each federal agency to implement Information Quality Guidelines designed to "provide policy and procedural guidance...for ensuring and maximizing the quality, objectivity, utility, and integrity of information, including statistical information, disseminated by Federal agencies." The EPA's implementation may be found at http://epa.gov/quality/exmural.html#genreqts. These procedures may apply to data generated by grant recipients if those data are disseminated as described in the Guidelines.
+EPA has the right to obtain, reproduce, publish, or otherwise use the data first produced under the awards to be made by EPA under this FOA and authorize others to receive, reproduce, publish, or otherwise use such data for Federal purposes under 40 C.F.R. § 30.36(c). In addition, pursuant to 40 C.F.R. § 30.36(d), if EPA receives a Freedom of Information Act request for research data that (1) relates to published research findings produced under an EPA award and (2) was used by the Federal Government in developing an agency action that has the force and effect of law, then EPA shall request, and the award recipient shall provide, within a reasonable time, the research data so that it may be made available to the public through procedures established under the FOIA.
+In accordance with 40 CFR 31.34 (for state, local and Indian tribal governments) or 40 CFR 30.36, as applicable, EPA reserves a royalty-free, nonexclusive and irrevocable right to reproduce, publish, or otherwise use, and to authorize others to use, for Federal Government purposes, copyrighted works developed under a grant, subgrant or contract under a grant or subgrant. Examples of federal purpose include but are not limited to: (1) Use by EPA and other federal employees for official Government purposes; (2) Use by federal contractors performing specific tasks for the Government; (3) Publication in EPA documents provided the document does not disclose trade secrets (e.g. software codes) and the work is properly attributed to the recipient through citation or otherwise; (4) Reproduction of documents for inclusion in federal depositories; (5) Use by state, tribal and local governments that carry out delegated federal environmental programs as “co-regulators” or act as official partners with EPA to carry out a national environmental program within their jurisdiction; and (6) Limited use by other grantees to carry out federal grants provided the use is consistent with the terms of EPA’s authorization to the grantee to use the copyrighted material.
+f. NIH grants policies as described in the NIH Grants Policy Statement and the Grants Compliance and Oversight section will apply to the applications submitted and NIH awards made in response to this FOA. Recipients of NIH and EPA grant funds must comply with all applicable Federal statutes (such as those included in appropriations acts) regulations, and policies. Additionally, they must also comply with their institutional requirements.
+Subaward and Executive Compensation Reporting: Applicants must ensure that they have the necessary processes and systems in place to comply with the sub-award and executive total compensation reporting requirements established under OMB guidance at 2 CFR Part 170, unless they qualify for an exception from the requirements, should they be selected for funding.
+EPA Pre-Application Assistance and Communications: In accordance with EPA's Assistance Agreement Competition Policy (EPA Order 5700.5A1), EPA staff will not meet with individual applicants to discuss draft applications, provide informal comments on draft applications, or provide advice to applicants on how to respond to ranking criteria. Applicants are responsible for the contents of their applications. However, consistent with the provisions in the announcement, EPA will respond to questions from individual applicants regarding threshold eligibility criteria, administrative issues related to the submission of the application, and requests for clarification about any of the language or provisions in the announcement. Please note that applicants should raise any questions they may have about the FOA language to the contact identified in Section VII as soon as possible so that any questions about the FOA language may be resolved prior to submitting an application. In addition, if necessary, EPA may clarify threshold eligibility issues with applicants prior to making an eligibility determination.
+Website References in FOA: Any non-federal websites or website links included in this FOA are provided for application preparation and/or informational purposes only. U.S. EPA does not endorse any of these entities or their services. In addition, EPA does not guarantee that any linked, external websites referenced in this FOA comply with Section 508 (Accessibility Requirements) of the Rehabilitation Act.
+Unpaid Federal Tax Liabilities and Felony Convictions for Non-Profit and For-Profit Organizations: Awards made under this announcement are subject to the provisions contained in the Consolidated Appropriations Act, 2014, Public Law 113-76, Division G, Title IV, Sections 422 and 423 regarding unpaid federal tax liabilities and federal felony convictions, which have been included in prior appropriations acts also. These provisions (and the prior ones) prohibit EPA from awarding funds made available by the Act (and the prior appropriations acts) to any for-profit or non-profit organization: (1) subject to any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability; or (2) that was convicted of a felony criminal conviction under any Federal law within 24 months preceding the award, unless EPA has considered suspension or debarment of the corporation, based on these tax liabilities or convictions, and determined that such action is not necessary to protect the Government’s interests. Non-profit or for-profit organizations that are covered by these prohibitions are ineligible to receive an award under this announcement.
+Exchange Network: EPA, states, territories, and tribes are working together to develop the National Environmental Information Exchange Network, a secure, Internet- and standards-based way to support electronic data reporting, sharing, and integration of both regulatory and non-regulatory environmental data. States, tribes and territories exchanging data with each other or with EPA, should make the Exchange Network and the Agency's connection to it, the Central Data Exchange (CDX), the standard way they exchange data and should phase out any legacy methods they have been using. More information on the Exchange Network is available at http://www.exchangenetwork.net.
+EPA personnel will take appropriate actions in situations where it is determined that an applicant may have an unfair competitive advantage, or the appearance of such, in competing for awards under this announcement. Affected applicants will be provided an opportunity to respond before any final action is taken.
+In accordance with EPA's Policy to Assure the Competency of Organizations Generating Environmental Measurement Data under Agency-Funded Assistance Agreements, successful applicants/recipients for awards under this competition that are expected to exceed $200,000 in federal funding that involve the generation or use of environmental data must demonstrate competency to perform such work either prior to award, or if that is not practicable or will delay the award, prior to beginning any work involving the generation or use of environmental data under the agreement. Applicants that demonstrate competency prior to award must maintain competency, as appropriate, during the award period. Applicants that do not address competency prior to award must demonstrate competency prior to beginning any work involving the generation or use of environmental data under the agreement and maintain competency, as appropriate, during the award period. A copy of the Policy is available online at http://www.gpo.gov/fdsys/pkg/FR-2013-04-29/html/2013-10043.htm or a copy may also be requested by contacting the person listed in Section VII of the announcement.
+3. Reporting
+Awardees are expected to follow the reporting requirements listed on all Notices of Award resulting from their application. This means that awardees will be responsible for submitting progress reports, financial reports, closeout reports, etc. to each agency in the timeframe and format specified by that agency.
+The awardee is responsible for reporting to both agencies any requests for prior approval that impact both Notices of Award.
+NIH Reporting Requirements
+When multiple years are involved, awardees will be required to submit the Non-Competing Continuation Grant Progress Report (PHS 2590 or RPPR) annually and financial statements as required in the NIH Grants Policy Statement.
+A final progress report, invention statement, and the expenditure data portion of the Federal Financial Report are required for closeout of an award, as described in the NIH Grants Policy Statement.
+The Federal Funding Accountability and Transparency Act of 2006 (Transparency Act), includes a requirement for awardees of Federal grants to report information about first-tier subawards and executive compensation under Federal assistance awards issued in FY2011 or later. All awardees of applicable NIH grants and cooperative agreements are required to report to the Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the NIH Grants Policy Statement for additional information on this reporting requirement.
+EPA Reporting Requirements
+An EPA grant recipient is expected to manage assistance agreement funds efficiently and effectively and make sufficient progress towards completing the project activities described in the research plan in a timely manner. The assistance agreement will include terms/conditions implementing this requirement.
+EPA grant recipients must agree to provide annual progress reports, with associated summaries, and a final report with an executive summary. The summaries will be posted on EPA/NCER’s website.
+A grant recipient must agree to provide copies of any peer reviewed journal article(s) resulting from the research during the project period. In addition, the recipient should notify the EPA Project Officer of any papers published after completion of the grant that were based on research supported by the grant. NCER posts references to all publications resulting from a grant on the NCER web site.
+Acknowledgement of EPA Support
+EPA’s full or partial support must be acknowledged in journal articles, oral or poster presentations, news releases, interviews with reporters and other communications. Any documents developed under this agreement that are intended for distribution to the public or inclusion in a scientific, technical, or other journal shall include the following statement or another as specified by EPA’s project officer:
+This publication [article] was developed under Assistance Agreement No.________ awarded by the U.S. Environmental Protection Agency to [name of recipient]. It has not been formally reviewed by EPA. The views expressed in this document are solely those of [name of recipient or names of authors] and do not necessarily reflect those of the Agency. EPA does not endorse any products or commercial services mentioned in this publication.
+A graphic that may be converted to a slide or used in other ways, such as on a poster, is located at http://epa.gov/ncer/guidance/star_images.html. EPA expects recipients to use this graphic in oral and poster presentations
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity and welcome the opportunity to answer questions from potential applicants.
+Application Submission Contacts
+eRA Commons Help Desk (Questions regarding eRA Commons registration, submitting and tracking an application, documenting system problems that threaten submission by the due date, post submission issues)
+Telephone: 301-402-7469 or 866-504-9552 (Toll Free)
+Finding Help Online: http://grants.nih.gov/support/index.html
+Email: commons@od.nih.gov
+Grants.gov Customer Support (Questions regarding Grants.gov registration and submission, downloading forms and application packages)
+Contact Center Telephone: 800-518-4726
+Web ticketing system: https://grants-portal.psc.gov/ContactUs.aspx
+Email: support@grants.gov
+GrantsInfo (Questions regarding application instructions and process, finding NIH grant resources)
+Telephone: 301-435-0714
+Email: GrantsInfo@nih.gov
+Scientific/Research Contact(s)
+Symma Finn, PhD
+National Institute of Environmental Health Sciences (NIEHS)
+Telephone: 919-541-4258
+Email: finns@niehs.nih.gov
+Claudia Thompson, PhD
+National Institute of Environmental Health Sciences (NIEHS)
+Telephone: 919-541-4638
+Email: thompso1@niehs.nih.gov
+Richard Callan, MPH
+US Environmental Protection Agency (EPA)
+Telephone: 703-347-8051
+Email: callan.richard@epa.gov
+Sylvana Li, PhD
+US Environmental Protection Agency (EPA)
+Telephone: 703-347-8048
+Email: li.sylvana@epa.gov
+Regina Smith James, M.D.
+Eunice Kennedy Shriver National Institute of Child Health & Human Development (NICHD)
+Telephone: 301-435-2692
+Email: rjames@mail.nih.gov
+Nishadi DeAbrew Rajapakse, PhD, MHS
+National Institute on Minority Health and Health Disparities (NIMHD)
+Telephone: 301-496-4338
+Email: Chandima.Rajapakse@nih.gov
+Peer Review Contact(s)
+Wenchi Liang, DDS, PhD
+NIH Center for Scientific Review (CSR)
+Telephone: 301-435-0681
+Email: wenchi.liang@nih.gov
+Financial/Grants Management Contact(s)
+Barbara Gittleman
+National Institute of Environmental Health Sciences (NIEHS)
+Telephone: 919-541-0585
+Email: gittlemanbj@mail.nih.gov
+Bryan Clark
+Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+Telephone: 301-435-6975
+Email: clarkb1@mail.nih.gov
+Priscilla Grant, JD
+National Institute on Minority Health & Health Disparities (NIMHD)
+Telephone: 301-594-8412
+Email: grantp@mail.nih.gov
+Section VIII. Other Information
+Recently issued trans-NIH policy notices may affect your application submission. A full list of policy notices published by NIH is provided in the NIH Guide for Grants and Contracts. All awards are subject to the terms and conditions, cost principles, and other considerations described in the NIH Grants Policy Statement.
+Authority and Regulations
+Awards are made under the authorization of Sections 301, 405, and 463 of the Public Health Service Act as amended (42 USC 241, 284, and 285l) and under Federal Regulations 42 CFR Part 52 and 45 CFR Parts 74 and 92.
+The EPA authority for this FOA and resulting awards is contained in the Safe Drinking Water Act, Section 1442, 42 U.S.C. 300j-1; the Toxic Substances Control Act, Section 10, 15 U.S.C. 2609; the Federal Insecticide, Fungicide, and Rodenticide Act, Section 20, 7 U.S.C. 136r; the Clean Air Act, Section 103, 42 U.S.C. 7403; the Clean Water Act, Section 104, 33 U.S.C. 1254; and the Solid Waste Disposal Act, Section 8001, 42 U.S.C. 6981. For research with an international aspect, the above statutes are supplemented, as appropriate, by the National Environmental Policy Act, Section 102(2)(F).
+Applicable EPA regulations include: 40 CFR Part 30 (Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and Other Non-Profit Organizations), 40 CFR Part 31 (Uniform Administrative Requirements for Grants and Cooperative Agreements to State and Local Governments) and 40 CFR Part 40 (Research and Demonstration Grants). Applicable OMB Circulars include: OMB Circular A-21 (Cost Principles for Educational Institutions) relocated to 2 CFR Part 220 (http://www.access.gpo.gov/nara/cfr/waisidx_08/2cfr220_08.html), OMB Circular A-87 (Cost Principles for State, Local and Indian Tribal Governments) relocated to 2 CFR Part 225 (http://www.access.gpo.gov/nara/cfr/waisidx_10/2cfr225_10.html), and OMB Circular A-122 (Cost Principles for Non-Profit Organizations) relocated to 2 CFR Part 230 (http://www.access.gpo.gov/nara/cfr/waisidx_07/2cfr230_07.html).
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+Department of Health
+and Human Services (HHS)
+NIH... Turning Discovery Into Health®
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.

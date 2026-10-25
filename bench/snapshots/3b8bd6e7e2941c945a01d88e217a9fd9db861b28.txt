@@ -1,0 +1,261 @@
+Skip to main content
+National Science Foundation - Where Discoveries Begin
+search
+toggle menu
+Contact
+Help
+Search
+search
+Search
+search
+NSB
+NSB
+close✕
+Research Areas
+Biological Sciences (BIO)
+Computer and Information Science and Engineering (CISE)
+Education and Human Resources (EHR)
+Engineering (ENG)
+Environmental Research and Education (ERE)
+Geosciences (GEO)
+Integrative Activities (OIA)
+International Science and Engineering (OISE)
+Mathematical and Physical Sciences (MPS)
+Social, Behavioral and Economic Sciences (SBE)
+Related Links
+Interdisciplinary Research
+NSF Organization List
+Responsible and Ethical Conduct of Research
+Staff Directory
+Understanding NSF Research
+Funding
+About Funding
+Browse Funding Opportunities A-Z
+Due Dates
+Find Funding
+Merit Review
+Policies and Procedures
+Preparing Proposals
+Recent Opportunities
+Transformative Research
+Funding Related Links
+Proposal and Award Policies and Procedures Guide (PAPPG)
+Research.gov
+FastLane
+Funding Opportunities For
+Graduate Students
+K-12 Educators
+Postdoctoral Fellows
+Undergraduate Students
+Small Business
+Awards
+About Awards
+Award Statistics (Budget Internet Info System)
+Award Conditions
+Managing Awards
+Policies and Procedures
+Presidential and Honorary Awards
+Search Awards
+Related Links
+Research.gov
+FastLane
+NSF Public Access Repository (NSF-PAR)
+Document Library
+All Documents
+National Center for Science and Engineering Statistics (NCSES)
+Obtaining Documents
+Search Documents
+News
+All News
+For News Media
+Multimedia Gallery
+News Archive
+Search News
+Special Reports
+Speeches and Lectures
+Related Links
+About NSF Logo
+Events
+About NSF
+About NSF
+Broadening Participation/Diversity
+Budget and Performance
+Career Opportunities
+Contracting Opportunities
+History
+National Science Board (NSB)
+NSF and Congress
+NSF Toolkit
+Office of Diversity and Inclusion
+Organization List
+Partners
+Remote Participant Support
+Responsible and Ethical Conduct of Research
+Staff Directory
+Transparency and Accountability
+Visit NSF
+Funding
+About Funding
+Browse Funding Opportunities A-Z
+Due Dates
+Find Funding
+Merit Review
+Policies and Procedures
+Preparing Proposals
+Recent Opportunities
+Small Business
+Transformative Research
+Home
+Funding
+Email
+Print
+Share
+NSF-wide
+Harnessing the Data Revolution (HDR): Institutes for Data-Intensive Research in Science and Engineering - Frameworks (I-DIRSE-FW)
+N
+NSF Wide Programs
+CONTACTS
+Name
+Email
+Phone
+Room
+Amy
+Walton
+HDR-DIRSE@nsf.gov
+(703)292-4538
+Nandini
+Kannan
+HDR-DIRSE@nsf.gov
+(703)292-8104
+John
+C.
+Cherniavsky
+HDR-DIRSE@nsf.gov
+(703)292-5136
+Cheryl
+L.
+Eavey
+HDR-DIRSE@nsf.gov
+(703)292-7269
+Larry
+Gottlob
+HDR-DIRSE@nsf.gov
+(703)292-4383
+Lin
+He
+HDR-DIRSE@nsf.gov
+(703)292-4956
+Daryl
+W.
+Hess
+HDR-DIRSE@nsf.gov
+(703)292-4942
+Tracy
+Kimbrel
+HDR-DIRSE@nsf.gov
+(701)292-7924
+Anthony
+Kuh
+HDR-DIRSE@nsf.gov
+(703)292-2210
+Alexis
+Lewis
+HDR-DIRSE@nsf.gov
+(703)292-2624
+Vyacheslav (Slava)
+Lukin
+HDR-DIRSE@nsf.gov
+(703)292-7382
+Peter
+H.
+McCartney
+HDR-DIRSE@nsf.gov
+(703)292-8470
+Triantafillos
+J.
+Mountziaris
+HDR-DIRSE@nsf.gov
+(703)292-2894
+Nigel
+Sharp
+HDR-DIRSE@nsf.gov
+(703)292-4905
+Sylvia
+Spengler
+HDR-DIRSE@nsf.gov
+(703)292-8930
+Eva
+Zanzerkia
+HDR-DIRSE@nsf.gov
+(703)292-4734
+PROGRAM GUIDELINES
+Solicitation
+19-549
+Important Information for Proposers
+A revised version of the NSF Proposal & Award Policies & Procedures Guide (PAPPG) (NSF 20-1), is
+effective for proposals submitted, or due, on or after June 1, 2020. Please be advised that, depending
+on the specified due date, the guidelines contained in NSF 20-1 may apply to proposals submitted in response to this
+funding opportunity.
+SYNOPSIS
+In 2016, the National Science Foundation (NSF) unveiled a set of “Big Ideas,” 10 bold, long-term research and process ideas that identify areas for future investment at the frontiers of science and engineering (see https://www.nsf.gov/news/special_reports/big_ideas/index.jsp). The Big Ideas represent unique opportunities to position our Nation at the cutting edge of global science and engineering leadership by bringing together diverse disciplinary perspectives to support convergence research. As such, when responding to this solicitation, even though proposals must be submitted to CISE/OAC, once received, the proposals will be managed by a cross-disciplinary team of NSF Program Directors.
+NSF’s Harnessing the Data Revolution (HDR) Big Idea is a national-scale activity to enable new modes of data-driven discovery that will allow fundamental questions to be asked and answered at the frontiers of science and engineering. Through this NSF-wide activity, HDR will generate new knowledge and understanding, and accelerate discovery and innovation. The HDR vision is realized through an interrelated set of efforts in:
+Foundations of data science;
+Algorithms and systems for data science;
+Data-intensive science and engineering;
+Data cyberinfrastructure; and
+Education and workforce development.
+Each of these efforts is designed to amplify the intrinsically multidisciplinary nature of the emerging field of data science. The HDR Big Idea will establish theoretical, technical, and ethical frameworks that will be applied to tackle data-intensive problems in science and engineering, contributing to data-driven decision-making that impacts society.
+This solicitation is for Frameworks for Data-Intensive Research in Science and Engineering (DIRSE) as part of the HDR Institutes activity. These Frameworks represent one path of a conceptualization phase aimed at developing Institutes as part of the NSF investment in the HDR Big Idea.
+The HDR Institutes activity seeks to create an integrated fabric of interrelated institutes that can accelerate discovery and innovation in multiple areas of data-intensive science and engineering. The HDR Institutes will achieve this by harnessing diverse data sources and developing and applying new methodologies, technologies, and infrastructure for data management and analysis. The HDR Institutes will support convergence between science and engineering research communities as well as expertise in data science foundations, systems, applications, and cyberinfrastructure. In addition, the HDR Institutes will enable breakthroughs in science and engineering through collaborative, co-designed programs to formulate innovative data-intensive approaches to address critical national challenges.
+HDR Institutes will be developed through a two-phase process involving conceptualization followed by convergence. The conceptualization phase will be implemented in FY 2019 via two complementary funding opportunities. The first opportunity in FY 2019 will encourage individuals with compelling data-intensive science and engineering problems and/or technical expertise to self-organize into teams with the aim of developing innovative, collaborative research proposals through an Ideas Lab process. The second opportunity in FY 2019, described in this solicitation, will encourage applications from teams of researchers proposing frameworks for integrated sets of science and engineering problems and data science solutions. The conceptualization phase will result in two-year awards aimed at building communities, defining research priorities, and developing interdisciplinary prototype solutions. NSF anticipates implementing the subsequent convergence and co-design phase in the 2021 timeframe with awards that integrate and scale successful prototypes and new ideas into larger, more comprehensive HDR Institutes that bring together multiple science and engineering communities with computer and computational scientists, mathematicians, statisticians, and information scientists around common data science approaches.
+The overarching goal of the HDR Institutes DIRSE Frameworks solicitation is to foster convergent approaches to data-driven research in science and engineering. Frameworks will consist of interdisciplinary teams to conceptualize and pilot new modalities for collaboration and convergence that go beyond institutional walls and traditional disciplinary boundaries, to build innovative connections between scientific groups and data scientists and engineers, to integrate research infrastructure and education infrastructure. The Frameworks should focus on science and engineering areas that: (1) are at a “tipping point” where a timely investment in data-intensive approaches has the maximum potential for a transformative effect, (2) have needs that can benefit from interdisciplinary investments in data analytics infrastructure, and (3) represent investment priorities for the participating NSF directorates during, and beyond, the lifetime of the HDR Big Idea. Specific outcomes expected from the Frameworks include identification of frontier science and engineering challenge problems and the associated data and data-science barriers or tipping points, as well as development of new strategies and innovative approaches to foster scientific breakthroughs involving researchers from diverse scientific backgrounds.
+What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
+Map of Recent Awards Made Through This Program
+National Science Foundation
+Research.gov
+News and Gallery
+Media Inquiries
+Multimedia Gallery
+Funding & Awards
+A-Z Index of Funding Opportunities
+Find Funding
+Award Search
+Proposal & Award Policies Procedures Guide (PAPPG)
+Recently Announced Funding Opportunities
+Upcoming Funding Opportunity Due Dates
+Document Library
+& About NSF
+Document Library
+About NSF
+Careers
+Staff Directory
+About Services
+ACM$ (Award Cash Management Service)
+Notifications & Requests
+Project Reports
+Proposal Status
+Public Access
+User Management
+NSF Award Highlights
+Research Spending & Results
+Contact
+Contact Help Desk
+Feedback
+Facebook
+Twitter
+Instagram
+YouTube
+See all NSF social media
+Website Policies
+Budget and Performance
+Inspector General
+Privacy
+FOIA
+No FEAR Act
+USA.gov
+Accessibility
+Plain Language
+Contact
+Help
+Research.gov
+National Science Foundation, 2415 Eisenhower Avenue, Alexandria, Virginia 22314, USA Tel: (703) 292-5111, FIRS: (800) 877-8339 | TDD: (800) 281-8749

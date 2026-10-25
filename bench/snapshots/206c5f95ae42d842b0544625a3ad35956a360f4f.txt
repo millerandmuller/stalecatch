@@ -1,0 +1,935 @@
+Department
+of Health and Human Services
+Part 1. Overview Information
+Participating Organization(s)
+National Institutes of Health (NIH)
+Components of Participating
+Organizations
+National Institute of Diabetes and Digestive and Kidney
+Diseases (NIDDK)
+Funding Opportunity Title
+Limited Competition for Clinical Trials in Type 1 Diabetes
+(UC4)
+Activity Code
+UC4 High Impact Research and Research Infrastructure - Cooperative Agreement
+Programs
+Announcement Type
+New
+Related Notices
+February 8, 2013 - See Notice NOT-DK-13-004. Change of Application Due Date.
+Funding Opportunity Announcement (FOA) Number
+RFA-DK-12-511
+Companion Funding Opportunity
+None
+Number of Applications
+See Section III. 3.
+Additional Information on Eligibility.
+Catalog of Federal Domestic Assistance (CFDA) Number(s)
+93.847
+Funding Opportunity Purpose
+This limited competition Funding Opportunity Announcement
+(FOA) is open only to applicants who received an R34 clinical trial planning
+grant funded through RFA
+DK-11-010. This FOA will support the conduct of the clinical trials
+proposed in the R34 applications. These trials are designed to improve
+glycemic control and/or treat or reduce diabetes complications.
+Key Dates
+Posted Date
+December 14, 2012
+Open Date (Earliest Submission Date)
+February 15, 2013
+Letter of Intent Due Date(s)
+February 15, 2013
+Application Due Date(s)
+(Extended to April 3, 2013 per NOT-DK-13-004), Originally March 15, 2013, by 5:00 PM local time of applicant
+organization.
+AIDS Application Due Date(s)
+Not Applicable
+Scientific Merit Review
+June/July 2013
+Advisory Council Review
+October
+2013
+Earliest Start Date
+December 2013
+Expiration Date
+(Extended to April 4, 2013 per NOT-DK-13-004), Originally March 16, 2013
+Due Dates for E.O. 12372
+Not Applicable
+Required Application Instructions
+It is critical that applicants follow the instructions in
+the SF424
+(R&R) Application Guide, except where instructed to do otherwise (in
+this FOA or in a Notice from the NIH
+Guide for Grants and Contracts). Conformance to all requirements (both
+in the Application Guide and the FOA) is required and strictly enforced. Applicants
+must read and follow all application instructions in the Application Guide as
+well as any program-specific instructions noted in Section IV. When the program-specific
+instructions deviate from those in the Application Guide, follow the
+program-specific instructions. Applications that do not comply with
+these instructions may be delayed or not accepted for review.
+A compatible version
+of Adobe Reader is required for download.
+For Assistance downloading this or any Grants.gov application package, please contact Grants.gov Customer Support
+at http://www07.grants.gov/contactus/contactus.jsp.
+Table of Contents
+Part 1. Overview Information
+Part 2. Full Text of the Announcement
+Section I. Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission
+Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2.
+Full Text of Announcement
+Section I. Funding Opportunity Description
+Background
+Type 1 diabetes is a serious chronic illness. The results of
+the Diabetes Control and Complications Trial and its long-term follow-up
+through the Epidemiology of Diabetes Interventions and Complications study
+clearly demonstrate the efficacy of good glucose control in preventing the
+long-term vascular complications of diabetes. Nevertheless, despite efforts of
+patients to keep their glucose levels as normal as possible, it is still nearly
+impossible for individuals with type 1 diabetes to achieve the precise level of
+glucose control attained by a healthy pancreas. Therefore, individuals with
+type 1 diabetes inevitably experience both hypo- and hyperglycemia; the latter
+may result in organ damage that produces morbidity for the individual and
+contributes to the high cost of health care for society. In the US, diabetes
+is the leading cause of new cases of blindness in working age adults,
+non-traumatic lower leg amputations and kidney failure. No organ system is
+immune from the microvascular damage caused by hyperglycemia. Heart disease is
+increased by up to ten-fold in people with type 1 diabetes compared to the
+general age-matched population. In addition, individuals with diabetes have a
+life span that is reduced by up to 15 years.
+Therefore, NIH wishes to test interventions to improve
+clinical management of type 1 diabetes across the lifespan. These trials should
+be designed to improve glycemic control and/or treat or reduce diabetes
+complications. If successful, the results of such trials should be of practical
+importance to clinical management and applicable immediately.
+Purpose
+This limited competition FOA is open only to applicants
+who received a R34 clinical trial planning grant funded through RFA DK-11-010.
+This FOA will support the conduct of the clinical trials proposed in the R34
+applications. These trials are designed to improve glycemic control and/or
+treat or reduce diabetes complications.
+The NIH Clinical Trial Planning Grant (R34; http://grants.nih.gov/grants/funding/r34.htm)
+is intended to support all administrative study group activities that are
+required in order to begin recruitment of subjects. These activities include,
+but are not limited to: establishing the research team, developing tools for
+data management and oversight of the research, defining recruitment strategies,
+finalizing the protocol, writing the Manual of Operations, establishing a data
+and safety monitoring plan, and initiating the IRB approval process.
+As outlined in RFA
+DK-11-010, it is expected that during the early funding period of the R34
+grant, the investigators will revise the protocol based on considerations
+raised in peer review. NIH will then seek external input that will guide
+priorities for the support of a limited number of full clinical trials selected
+from the funded R34 protocols. Based on feedback from the External Evaluation
+Committee, the investigators may make further revisions to the protocol before
+responding to this FOA.
+This FOA uses the UC4 mechanism, a cooperative agreement
+award. Each trial conducted will work with an appropriate NIH IC Project
+Scientist, who will be substantially involved with the awardees, consistent
+with the Cooperative Agreement mechanism. In addition, an NIH program official
+will work with the investigators to provide budgetary oversight and assure
+proper distribution of funds across study. The NIH will appoint a Data and
+Safety Monitoring Board. It is expected that all in-person study group meetings
+and DSMB meetings will be held in the Bethesda, MD area.
+Applicants are encouraged to contact NIH staff to discuss
+the application process.
+Section II. Award Information
+Funding Instrument
+Cooperative Agreement: A support mechanism used when there
+will be substantial Federal scientific or programmatic involvement.
+Substantial involvement means that, after award, NIH scientific or program
+staff will assist, guide, coordinate, or participate in project activities.
+Application Types Allowed
+New
+The OER
+Glossary and the SF424 (R&R) Application Guide provide details on
+these application types.
+Funds Available and Anticipated Number of Awards
+NIDDK intends to commit $26 million in FY 2013 to fund
+up to two awards.
+Award Budget
+Application budgets are not limited, but need to reflect
+actual needs of the proposed project.
+Award Project Period
+The scope of the proposed project should determine the
+project period. The maximum period is 5 years.
+NIH grants policies as
+described in the NIH
+Grants Policy Statement will apply
+to the applications submitted and awards made in response to this FOA.
+Section III. Eligibility
+Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+Public/State Controlled Institutions of Higher Education
+Private Institutions of Higher Education
+The following types of Higher Education Institutions
+are always encouraged to apply for NIH support as Public or Private
+Institutions of Higher Education:
+Hispanic-serving
+Institutions
+Historically
+Black Colleges and Universities (HBCUs)
+Tribally
+Controlled Colleges and Universities (TCCUs)
+Alaska
+Native and Native Hawaiian Serving Institutions
+Asian
+American Native American Pacific Islander Serving Institutions (AANAPISIs)
+Nonprofits Other Than Institutions of Higher Education
+Nonprofits with 501(c)(3) IRS Status (Other than Institutions of
+Higher Education)
+Nonprofits without 501(c)(3) IRS Status (Other than Institutions
+of Higher Education)
+For-Profit Organizations
+Small Businesses
+For-Profit Organizations (Other than Small Businesses)
+Governments
+State Governments
+County Governments
+City or Township Governments
+Special District Governments
+Indian/Native American Tribal Governments (Federally Recognized)
+Indian/Native American Tribal Governments (Other than Federally
+Recognized)
+Eligible Agencies of the Federal Government
+U.S. Territory or Possession
+Other
+Independent School Districts
+Public Housing Authorities/Indian Housing Authorities
+Native American Tribal Organizations (other than Federally recognized
+tribal governments)
+Faith-based or Community-based Organizations
+Regional Organizations
+This limited competition FOA is open only to organizations
+who received a R34 clinical trial planning grant funded through RFA
+DK-11-010.
+Foreign Institutions
+Non-domestic (non-U.S.) Entities (Foreign Institutions) are
+not eligible to apply.
+Non-domestic (non-U.S.) components of U.S. Organizations are not eligible
+to apply.
+Foreign components, as defined in
+the NIH Grants Policy Statement, are allowed.
+Required Registrations
+Applicant organizations must complete the following registrations
+as described in the SF424 (R&R) Application Guide to be eligible to apply
+for or receive an award. Applicants must have a valid Dun and Bradstreet
+Universal Numbering System (DUNS) number in order to begin each of the following
+registrations.
+System for
+Award Management (SAM)– must maintain an active entity registration
+(formerly CCR registration), to be renewed at least annually. Use the Sam.gov
+“Manage Entity” function to manage your entity registrations. See the Grants
+Registration User Guide at SAM.gov for additional information.
+Grants.gov
+eRA Commons
+All Program Directors/Principal Investigators (PD(s)/PI(s))
+must also work with their institutional officials to register with the eRA
+Commons or ensure their existing eRA Commons account is affiliated with the eRA
+Commons account of the applicant organization.
+All registrations must be completed by the application due date. Applicant
+organizations are strongly encouraged to start the registration process at
+least 6 weeks prior to the application due date.
+Eligible Individuals (Program Director/Principal
+Investigator)
+Any individual(s) with the skills, knowledge, and resources
+necessary to carry out the proposed research as the Program Director(s)/Principal
+Investigator(s) (PD(s)/PI(s)) is invited to work with his/her organization to
+develop an application for support. Individuals from underrepresented racial
+and ethnic groups as well as individuals with disabilities are always
+encouraged to apply for NIH support.
+For institutions/organizations proposing multiple PDs/PIs, visit the Multiple
+Program Director/Principal Investigator Policy and submission details in the Senior/Key
+Person Profile (Expanded) Component of the SF424 (R&R) Application Guide.
+Only
+applicants who received a R34 clinical trial planning grant funded through RFA
+DK-11-010 are
+eligible to apply to this FOA.
+2. Cost Sharing
+This FOA does not require cost sharing as defined in the NIH
+Grants Policy Statement.
+3. Additional Information on Eligibility
+Number of Applications
+Applicant organizations may submit more than one application,
+provided that each application is scientifically distinct.
+NIH will not accept any application that is essentially the
+same as one already reviewed within the past thirty-seven months (as described
+in the NIH
+Grants Policy Statement), except for submission:
+To an RFA of an application that was submitted previously as an
+investigator-initiated application but not paid;
+Of an investigator-initiated application that was originally submitted
+to an RFA but not paid; or
+Of an application with a changed grant activity code.
+Section IV. Application and Submission Information
+1. Requesting an
+Application Package
+Applicants must download the SF424 (R&R) application
+package associated with this funding opportunity using the “Apply for Grant
+Electronically” button in this FOA or following the directions provided at Grants.gov.
+2. Content and Form of Application Submission
+It is critical that applicants follow the instructions in
+the SF424
+(R&R) Application Guide, except where instructed in this funding
+opportunity announcement to do otherwise. Conformance to the requirements in
+the Application Guide is required and strictly enforced. Applications that are
+out of compliance with these instructions may be delayed or not accepted for
+review.
+For information on Application Submission and Receipt, visit Frequently
+Asked Questions – Application Guide, Electronic Submission of Grant
+Applications.
+Letter of Intent
+Although a letter of intent is not required, is not binding,
+and does not enter into the review of a subsequent application, the information
+that it contains allows IC staff to estimate the potential review workload and
+plan the review.
+By the date listed in Part 1. Overview
+Information, prospective applicants are asked to submit a letter of intent
+that includes the following information:
+Descriptive title of proposed research
+Name(s), address(es), and telephone number(s) of the PD(s)/PI(s)
+Names of other key personnel
+Participating institution(s)
+Number and title of this funding opportunity
+The letter of intent should be sent to:
+Francisco Calvo, Ph.D.
+Chief, Review Branch
+National Institute of Diabetes and Digestive and
+Kidney Diseases (NIDDK)
+6707 Democracy Boulevard, Room 752
+Bethesda, MD 20892-5452
+Telephone: 301-594-8897
+Email: calvof@mail.nih.gov
+Required and Optional Components
+The forms package associated with this FOA includes all
+applicable components, mandatory and optional. Please note that some
+components marked optional in the application package are required for
+submission of applications for this FOA. Follow all instructions in the SF424
+(R&R) Application Guide to ensure you complete all appropriate “optional”
+components.
+Page Limitations
+All page limitations described in the SF424 Application
+Guide and the Table of
+Page Limits must be followed.
+R&R Budget Component
+The UC4 budget should include the cost of investigator
+meetings, as well as two DSMB meetings annually.
+PHS 398 Research Plan Component
+All instructions in the SF424 (R&R) Application Guide
+must be followed, with the following additional instructions:
+Research
+Strategy
+This section should include a discussion of the
+significance of the problem being studied and the potential impact of the
+results of the trial; a description of the study design, including power
+analysis; a timeline for study conduct and a management plan for the conduct of
+the trial, including coordination across sites; feasibility of recruitment;
+plans for subject randomization and recruitment and retention; plans for
+monitoring of subject safety; and a description of the data monitoring and data
+analysis plan The UC4 application should highlight any changes to the protocol
+and all key decisions made during the R34 period.
+Inclusion
+of Women and Minorities
+Applicants should include a table describing the
+demographics of the available population at every site.
+Resource Sharing Plan
+Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+Organisms, and Genome Wide Association Studies (GWAS)) as provided in the SF424
+(R&R) Application Guide.
+Appendix
+Do not use the Appendix to circumvent page limits. Follow
+all instructions for the Appendix as described in the SF424 (R&R)
+Application Guide, with the following modification:
+Appendix should include complete study protocol and template
+informed consents.
+3. Submission Dates and
+Times
+Part I. Overview Information contains information about Key Dates. Applicants are encouraged to submit applications
+before the deadline to ensure they have time to make any application
+corrections that might be necessary for successful submission.
+Organizations must submit applications via Grants.gov, the online portal to find and apply for grants
+across all Federal agencies. Applicants must then complete the submission
+process by tracking the status of the application in the eRA Commons, NIH’s electronic system for grants
+administration.
+Applicants
+are responsible for viewing their application before the deadline in the eRA
+Commons to ensure accurate and successful submission.
+Information on the submission process and a definition of
+on-time submission are provided in the SF424 (R&R) Application Guide.
+4. Intergovernmental Review
+(E.O. 12372)
+This initiative is not subject to intergovernmental
+review.
+5. Funding Restrictions
+All NIH awards are subject to the terms and conditions, cost
+principles, and other considerations described in the NIH
+Grants Policy Statement.
+Pre-award costs are allowable only as described in the NIH
+Grants Policy Statement.
+Since these awards will be issued with a 5-year budget and
+project period from the same fiscal year, the grantee will not have any
+authority for an automatic extension nor will one be permitted with NIH prior
+approval. Funds will not be available for expenditure beyond June 30th of
+the 5th fiscal year after the period of availability. Thus, extensions of
+the budget/project period will not be allowed.
+6. Other Submission
+Requirements and Information
+Applications must be submitted electronically following the
+instructions described in the SF424 (R&R) Application Guide. Paper applications will not be accepted.
+Applicants must complete all required registrations
+before the application due date. Section
+III. Eligibility Information contains information about registration.
+For assistance with your electronic application or for more information on the electronic submission
+process, visit Applying
+Electronically.
+Important
+reminders:
+All PD(s)/PI(s) must include their eRA Commons ID in the
+Credential field of the Senior/Key Person Profile Component of the
+SF424(R&R) Application Package. Failure to register in the Commons
+and to include a valid PD/PI Commons ID in the credential field will prevent
+the successful submission of an electronic application to NIH.
+The applicant organization must ensure that the DUNS number it provides on the
+application is the same number used in the organization’s profile in the eRA
+Commons and for the System for Award Management (SAM). Additional information
+may be found in the SF424 (R&R) Application Guide.
+See more
+tips for avoiding common errors.
+Upon receipt, applications will be evaluated for
+completeness by the Center for Scientific Review and responsiveness by NIDDK, NIH. Applications that are
+incomplete and/or nonresponsive will not be reviewed.
+In order to expedite review, applicants are requested to
+notify the NIDDK Referral Office by email at calvof@mail.nih.gov when the application
+has been submitted. Please include the FOA number and title, PD/PI name, and
+title of the application.
+Post Submission Materials
+Applicants are required to follow the instructions for
+post-submission materials, as described in NOT-OD-10-115.
+Section V. Application Review Information
+1.
+Criteria
+Only the review criteria described below will be considered
+in the review process. As part of the NIH mission,
+all applications submitted to the NIH in support of biomedical and behavioral
+research are evaluated for scientific and technical merit through the NIH peer
+review system.
+Overall Impact
+Reviewers will provide an overall impact score to reflect
+their assessment of the likelihood for the project to exert a sustained,
+powerful influence on the research field(s) involved, in consideration of the
+following review criteria and additional review criteria (as applicable for the
+project proposed).
+Scored Review Criteria
+Reviewers will consider each of the review criteria below in
+the determination of scientific merit, and give a separate score for each. An
+application does not need to be strong in all categories to be judged likely to
+have major scientific impact. For example, a project that by its nature is not
+innovative may be essential to advance a field.
+Significance
+Does the project address an important problem or a
+critical barrier to progress in the field? If the aims of the project are
+achieved, how will scientific knowledge, technical capability, and/or clinical
+practice be improved? How will successful completion of the aims change the
+concepts, methods, technologies, treatments, services, or preventative
+interventions that drive this field?
+Investigator(s)
+Are the PD(s)/PI(s), collaborators, and other
+researchers well suited to the project? If Early Stage Investigators or New
+Investigators, or in the early stages of independent careers, do they have
+appropriate experience and training? If established, have they demonstrated an
+ongoing record of accomplishments that have advanced their field(s)? If the
+project is collaborative or multi-PD/PI, do the investigators have
+complementary and integrated expertise; are their leadership approach,
+governance and organizational structure appropriate for the project? Does the PD/PI
+have experience in organizing and managing multi-center clinical studies?
+Innovation
+Does the application challenge and seek to shift
+current research or clinical practice paradigms by utilizing novel theoretical
+concepts, approaches or methodologies, instrumentation, or interventions? Are
+the concepts, approaches or methodologies, instrumentation, or interventions
+novel to one field of research or novel in a broad sense? Is a refinement,
+improvement, or new application of theoretical concepts, approaches or
+methodologies, instrumentation, or interventions proposed? Since this FOA does
+not solicit trials for new technologies or new therapeutics, innovation should
+be judged by the potential changes in clinical practice that would result from
+a successful trial.
+Approach
+Are the overall strategy, methodology, and analyses
+well-reasoned and appropriate to accomplish the specific aims of the project?
+Are potential problems, alternative strategies, and benchmarks for success
+presented? If the project is in the early stages of development, will the
+strategy establish feasibility and will particularly risky aspects be
+managed?
+If the project involves clinical research, are the plans for 1) protection of
+human subjects from research risks, and 2) inclusion of minorities and members
+of both sexes/genders, as well as the inclusion of children, justified in terms
+of the scientific goals and research strategy proposed? Are the intervention
+and the outcome(s) of the proposed clinical trial supported by strong
+preliminary data? If surrogate endpoints are proposed as outcomes measures,
+have they been established to be predictors of clinical outcome? If successful,
+will the proposed future clinical trial be of practical importance to clinical
+management and applicable immediately?
+Environment
+Will the scientific environment in which the work
+will be done contribute to the probability of success? Are the institutional
+support, equipment and other physical resources available to the investigators
+adequate for the project proposed? Will the project benefit from unique
+features of the scientific environment, subject populations, or collaborative
+arrangements? Is the study population required for the proposed trial
+available?
+Additional Review Criteria
+As applicable for the project proposed, reviewers will
+evaluate the following additional items while determining scientific and
+technical merit, and in providing an overall impact score, but will not give
+separate scores for these items.
+Protections for Human Subjects
+For research that involves human subjects but does
+not involve one of the six categories of research that are exempt under 45 CFR
+Part 46, the committee will evaluate the justification for involvement of human
+subjects and the proposed protections from research risk relating to their
+participation according to the following five review criteria: 1) risk to
+subjects, 2) adequacy of protection against risks, 3) potential benefits to the
+subjects and others, 4) importance of the knowledge to be gained, and 5) data
+and safety monitoring for clinical trials.
+For research that involves human subjects and meets the criteria for one or
+more of the six categories of research that are exempt under 45 CFR Part 46,
+the committee will evaluate: 1) the justification for the exemption, 2) human
+subjects involvement and characteristics, and 3) sources of materials. For
+additional information on review of the Human Subjects section, please refer to
+the Human
+Subjects Protection and Inclusion Guidelines.
+Inclusion of Women, Minorities, and
+Children
+When the proposed project involves clinical research,
+the committee will evaluate the proposed plans for inclusion of minorities and
+members of both genders, as well as the inclusion of children. For additional
+information on review of the Inclusion section, please refer to the Human
+Subjects Protection and Inclusion Guidelines.
+Vertebrate Animals
+The committee will evaluate the involvement of live
+vertebrate animals as part of the scientific assessment according to the
+following five points: 1) proposed use of the animals, and species, strains,
+ages, sex, and numbers to be used; 2) justifications for the use of animals and
+for the appropriateness of the species and numbers proposed; 3) adequacy of
+veterinary care; 4) procedures for limiting discomfort, distress, pain and
+injury to that which is unavoidable in the conduct of scientifically sound
+research including the use of analgesic, anesthetic, and tranquilizing drugs
+and/or comfortable restraining devices; and 5) methods of euthanasia and reason
+for selection if not consistent with the AVMA Guidelines on Euthanasia. For
+additional information on review of the Vertebrate Animals section, please
+refer to the Worksheet
+for Review of the Vertebrate Animal Section.
+Biohazards
+Reviewers will assess whether materials or procedures
+proposed are potentially hazardous to research personnel and/or the
+environment, and if needed, determine whether adequate protection is proposed.
+Resubmissions
+Not Applicable
+Renewals
+Not Applicable
+Revisions
+Not Applicable
+Additional Review Considerations
+As applicable for the project proposed, reviewers will
+consider each of the following items, but will not give scores for these items,
+and should not consider them in providing an overall impact score.
+Applications from Foreign
+Organizations
+Not Applicable
+Select Agent Research
+Reviewers will assess the information provided in
+this section of the application, including 1) the Select Agent(s) to be used in
+the proposed research, 2) the registration status of all entities where Select
+Agent(s) will be used, 3) the procedures that will be used to monitor
+possession use and transfer of Select Agent(s), and 4) plans for appropriate
+biosafety, biocontainment, and security of the Select Agent(s).
+Resource Sharing Plans
+Reviewers will comment on whether the following
+Resource Sharing Plans, or the rationale for not sharing the following types of
+resources, are reasonable: 1) Data
+Sharing Plan; 2) Sharing
+Model Organisms; and 3) Genome Wide
+Association Studies (GWAS).
+Budget and Period of Support
+Reviewers will consider whether the budget and the
+requested period of support are fully justified and reasonable in relation to
+the proposed research.
+2. Review and Selection
+Process
+Applications will be evaluated for scientific and technical
+merit by (an) appropriate Scientific Review Group(s) convened by NIDDK, in
+accordance with NIH peer
+review policy and procedures, using the stated review
+criteria. Assignment to a Scientific Review Group will be shown in the eRA
+Commons.
+As part of the scientific peer review, all applications:
+Will receive a written critique.
+Appeals of initial peer review will not be accepted for applications submitted in
+response to this FOA.
+Applications will be assigned to the appropriate NIH
+Institute or Center. Applications will compete for available funds with all
+other recommended applications submitted in response to this FOA. Following
+initial peer review, recommended applications will receive a second level of
+review by the NDDK Advisory Council. The following will be considered in making
+funding decisions:
+Scientific and technical merit of the proposed project as
+determined by scientific peer review.
+Availability of funds.
+Relevance of the proposed project to program priorities.
+3. Anticipated Announcement
+and Award Dates
+After the peer review of the application is completed, the
+PD/PI will be able to access his or her Summary Statement (written critique)
+via the eRA
+Commons.
+Information regarding the disposition of applications is
+available in the NIH
+Grants Policy Statement.
+Section VI. Award
+Administration Information
+1. Award Notices
+If the application is under consideration for funding, NIH
+will request "just-in-time" information from the applicant as
+described in the NIH
+Grants Policy Statement.
+A formal notification in the form of a Notice of Award (NoA) will be provided
+to the applicant organization for successful applications. The NoA signed by
+the grants management officer is the authorizing document and will be sent via
+email to the grantee’s business official.
+Awardees must comply with any funding restrictions described in Section IV.5. Funding Restrictions. Selection
+of an application for award is not an authorization to begin performance. Any
+costs incurred before receipt of the NoA are at the recipient's risk. These
+costs may be reimbursed only to the extent considered allowable pre-award costs.
+Any application awarded in response to this FOA will be subject to the DUNS, SAM
+Registration, and Transparency Act requirements as noted on the Award
+Conditions and Information for NIH Grants website.
+2. Administrative and
+National Policy Requirements
+All NIH grant and cooperative agreement awards include the NIH
+Grants Policy Statement as part of the NoA. For these terms of award,
+see the NIH
+Grants Policy Statement Part II: Terms and Conditions of NIH Grant Awards,
+Subpart A: General and Part II:
+Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for
+Specific Types of Grants, Grantees, and Activities. More information is
+provided at Award
+Conditions and Information for NIH Grants.
+Cooperative Agreement Terms and Conditions of Award
+The following special terms of award are in addition to,
+and not in lieu of, otherwise applicable U.S. Office of Management and Budget
+(OMB) administrative guidelines, U.S. Department of Health and Human Services
+(DHHS) grant administration regulations at 45 CFR Parts 74 and 92 (Part 92 is
+applicable when State and local Governments are eligible to apply), and other
+HHS, PHS, and NIH grant administration policies.
+The administrative and funding instrument used for this program will be the
+cooperative agreement, an "assistance" mechanism (rather than an
+"acquisition" mechanism), in which substantial NIH programmatic
+involvement with the awardees is anticipated during the performance of the
+activities. Under the cooperative agreement, the NIH purpose is to support and
+stimulate the recipients' activities by involvement in and otherwise working
+jointly with the award recipients in a partnership role; it is not to assume
+direction, prime responsibility, or a dominant role in the activities.
+Consistent with this concept, the dominant role and prime responsibility
+resides with the awardees for the project as a whole, although specific tasks
+and activities may be shared among the awardees and the NIH as defined below.
+The
+PD(s)/PI(s) will have the primary responsibility for:
+1. Developing the research design and study protocol,
+including definition of objectives and approaches, sample size and power
+calculations, and establishing procedures for participant recruitment and
+follow-up, data collection, quality control, interim data and safety
+monitoring, final data analysis and interpretation, and publication of results.
+2. Establishing a Steering Committee to implement,
+coordinate and manage the project(s). Awardee(s) will name investigators to
+serve as members on a Steering Committee and other subcommittees, as
+appropriate, meeting periodically. Awardees will be required to accept and
+implement the common protocol(s) and procedures approved by the Steering
+Committee.
+3. Implementing collection of data specified by the
+study protocol, by the Steering Committee. For a multi-center study, each awardee/site
+is required to ensure that data will be submitted expeditiously to the Data
+Coordinating Center. Additionally, individual investigators/sites must
+demonstrate the ability to implement the strategy specifically designed for
+their individual study population.
+4. Establishing procedures for data quality and
+completeness. Awardees are responsible for ensuring accurate and timely
+assessment of the progress of each study, including development of procedures
+to ensure that data collection and management are: (1) adequate for quality
+control and analysis; (2) for clinical trials, as simple as appropriate in
+order to facilitate cooperation/referral of study participants by physicians to
+avoid unnecessary expense; and (3) sufficiently staffed across the participating
+institutions. For research involving multiple awards, a plan for analysis of
+pooled data will be developed by the Steering Committee.
+5. Submitting interim progress reports, when
+requested, to the NIDDK Program Official including as a minimum, summary data
+on protocol performance. For coordinated multiple awards or a multi-site single
+award, the NIDDK Program Official may require additional information from
+individual awardees/sites. Such reports are in addition to the required annual
+noncompeting continuation progress report.
+6. Establishing procedures, where applicable, for all
+participating institutions in coordinated awards to comply with FDA regulations
+for studies involving investigational agents or devices and to comply with the
+requirements of 45 CFR Part 46 for the protection of human subjects, and the
+NIH policy requirements for the inclusion of women, minorities and children.
+7. Reporting of the study findings. The awardee(s)
+will retain custody of and have primary rights to the data developed under
+these awards, subject to the Government rights of access consistent with
+current HHS, PHS and NIH policies. The awardee must also be adherent to Study
+Publication and Presentation Policy. The NIDDK will have access to and may
+periodically review all data generated under an award. NIDDK staff may
+co-author publications of findings with awardees consistent with NIH and study
+policies.
+8. Support or other involvement of industry or any
+other third party in the study -- e.g., participation by the third party;
+involvement of study resources or citing the name of the study or NIDDK
+support; or special access to study results, primary data/summary information,
+or resources -- may be advantageous and appropriate. However, except for
+licensing of patents or copyrights, support or involvement of any third party
+is permitted only after concurrence by NIDDK.
+9. Study investigators are encouraged to publish and
+to release publicly and disseminate results and other products of the study, in
+accordance with study protocols and steering committee policies on
+publications.
+10. Maintaining confidentiality of information: The
+awardee(s) will maintain the confidentiality of the information developed by
+the investigators (i.e., protocols, data analysis, conclusions, etc.) as well
+as proprietary information of a company collaborating with the study.
+11. The NIDDK has established Central Biosample,
+Genetic, and Data Repositories for the
+archival and storage of data and biosamples collected
+in large, multi-site studies funded by NIDDK. The PD/PI or his/her designee
+will coordinate with the NIDDK Data Repository to prepare the collected data
+for eventual archiving and distribution. In addition, if applicable, the PD/PI
+or his/her designee will work with the NIDDK Biosample Repository to coordinate
+procedures for coding, shipping, processing, receipt, and storage of study
+samples that are to be maintained in the Repository. All samples and data
+transferred to the Repositories will be under the custodianship of the NIDDK,
+although the study’s Steering Committee will have proprietary control of and
+exclusive access to the samples and data for an agreed-upon period of time.
+Subsequently samples and data will be available to the wider scientific
+community in accordance with the NIH policy on Data Sharing (http://grants.nih.gov/grants/policy/data_sharing/ and, http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#goals and http://grants.nih.gov/grants/policy/data_sharing/data_sharing_faqs.htm).
+12. The Food and Drug Administration Amendments Act
+of 2007 (FDAAA or US Public Law 110-85) was passed on September 27, 2007. The
+law requires mandatory registration and results reporting for certain clinical
+trials of drugs, biologics, and devices. If applicable, the PD/PI or his/her
+designee will perform the mandatory study registration and reporting of study
+results to ClinicalTrials.gov. For more information about this law and
+requirements for sponsors and/or investigators, visit the PRS and U.S. Public
+Law 110-85 Information Page at http://prsinfo.clinicaltrials.gov/fdaaa.html
+An
+NIDDK Project Scientist will have substantial programmatic involvement that is
+above and beyond the normal stewardship role in awards, as described below:
+1. Serve as the contact point for all facets of the
+scientific interaction with the awardee (s). As required for the coordination
+of activities and to expedite progress, NIDDK may designate additional NIDDK
+staff to provide advice to the awardee on specific scientific and/or analytic issues.
+Such staff may include another Project Scientist or Analyst, who will provide
+direct technical assistance to the awardees to optimize the conduct and/or
+analysis of the study; or who may assist in the coordination of activities
+across multiple sites.
+2. For multi-center studies, participation in the
+Steering Committee that oversees study conduct. The NIDDK Project Scientist or
+designee will be a full participant and voting member of the Steering Committee
+and, if applicable, subcommittees.
+3. Serving as a resource to study investigators with
+respect to other ongoing NIDDK activities that may be relevant to the study to
+facilitate compatibility with the NIDDK missions and avoid unnecessary
+duplication of effort.
+4. Substantial involvement assisting in the design
+and coordination of research activities for awardees as elaborated below:
+a.
+Assisting by providing advice in the management and technical performance of
+the investigations, coordinating required regulatory clearances for
+investigational agents used in the study, which are held by NIDDK. The NIDDK
+may reserve the right to cross file or independently file an Investigational
+New Drug Application or an Investigational Device Exemption form with the FDA.
+b. The
+NDDK Project Scientist or designee may coordinate activities among awardees by
+assisting in the design, development, and coordination of a common research or
+clinical protocol and statistical evaluations of data; in the preparation of
+questionnaires and other data recording forms; and in the publication of
+results.
+c.
+Reviewing procedures for assessing data quality and study performance
+monitoring.
+d. The
+NIDDK Project Scientist or designee may be co-authors on study publications. In
+general, to warrant co-authorship, NIDDK staff must have contributed to the
+following areas: (a) design of the concepts or experiments being tested; (b)
+performance of significant portions of the activity; (c) participate in
+analysis and interpretation of study results and (d) preparation and authorship
+of pertinent manuscripts.
+In addition, a separate NIDDK Program Official identified in
+the Notice of Grant Award will be responsible for the normal stewardship and
+monitoring of the award including review and approval of all progress reports
+and all budgetary decisions. Additional responsibilities include.
+1. Interacting with the principal investigator(s) on
+a regular basis to monitor study progress. Monitoring may include: regular
+communications with the principal investigator and staff, periodic site visits,
+observation of field data collection and management techniques, quality
+control, fiscal review, and other relevant matters; as well as attendance at
+Steering Committee, data safety and monitoring board, and related meetings. The
+NIDDK retains, as an option, periodic review of progress by researchers not
+involved with the study.
+2. Reviewing and approving protocols prior to
+implementation to insure they are within the scope of peer review, for safety
+considerations, as required by Federal regulations.
+3. The NIDDK Program Official will monitor protocol
+progress, and may request that a protocol study be closed to accrual for
+reasons including: (a) accrual rate insufficient to complete study in a timely
+fashion; (b) accrual goals met early; (c) poor protocol performance; (d)
+patient safety and regulatory concerns; (e) study results that are already
+conclusive; and (f) emergence of new information that diminishes the scientific
+importance of the study question. The NIDDK will not permit further expenditures
+of NIDDK funds for a study after requesting closure except as specifically
+approved by the NIDDK.
+4. Making recommendations for continued funding based
+on: a) overall study progress, including sufficient patient and/or data
+accrual; b) cooperation in carrying out the research (e.g., attendance at
+Steering Committee meetings, implementation of group decisions, compliance with
+the terms of award and reporting requirements); and/or c) maintenance of a high
+quality of research, which will allow pooling of data and comparisons across
+multiple cooperative agreement awards for common data elements.
+5. Appointment of a Data and Safety Monitoring Board
+(DSMB) as appropriate; the NIDDK Program Official or their designee will serve
+as the Executive Secretary and/or NIDDK program representative on the DSMB.
+Areas
+of Joint Responsibility include:
+In addition to the interactions defined above, NIDDK Project
+Scientist and Awardees shall share responsibility for the following activities:
+1. Steering Committee
+A Steering Committee organized by the study
+investigator(s) will be the main governing body of the study.
+The Steering Committee has primary responsibility to
+design research activities, establish priorities, develop common protocols and
+manuals, questionnaires and other data recording forms, establish and maintain
+quality control among awardees, review progress, monitor patient accrual,
+coordinate and standardize data management, and cooperate on the publication
+of results. Major scientific decisions regarding the core data will be
+determined by the Steering Committee. The Steering Committee will document
+progress in written reports to the NIDDK Program Official, and will provide
+periodic supplementary reports upon request.
+The Steering Committee will be composed of all Program
+Director(s)/Principal Investigator(s), (including those of data coordinating
+/statistical centers, if any) and co-investigators as deemed necessary, and the
+NIDDK Project Scientist. The final structure of the Steering Committee and
+voting procedures will be established at the first meeting. The NIDDK Project
+Scientist will have voting membership on the Steering Committee, and as
+appropriate, its subcommittees. The frequency of Steering Committee meetings
+will be dictated by a vote of the members of the Steering Committee.
+A Chairperson of the Steering Committee, other than
+the NIDDK Project Scientist, will be selected by the NIDDK. The Chairperson
+provides leadership to the Committee by conducting the Steering Committee
+meetings, representing the study group to the External Oversight Committee
+established by the NIDDK (see item D2 below) and by interacting closely with
+the awardees during protocol development and implementation.
+2. External Study Oversight
+An independent Data and Safety Monitoring Board will
+be established by the NIDDK for Phase III clinical trials or other high risk
+studies as appropriate. The Data and Safety Monitoring Board will review
+interim results periodically and provide guidance to the NIDDK.
+Dispute
+Resolution:
+Any disagreements that may arise in scientific or
+programmatic matters (within the scope of the award) between award recipients
+and the NIH may be brought to Dispute Resolution. A Dispute Resolution Panel
+composed of three members will be convened. It will have three members: a
+designee of the Steering Committee chosen without NIH staff voting, one NIH
+designee, and a third designee with expertise in the relevant area who is
+chosen by the other two; in the case of individual disagreement, the first
+member may be chosen by the individual awardee. This special dispute resolution
+procedure does not alter the awardee's right to appeal an adverse action that
+is otherwise appealable in accordance with PHS regulation 42 CFR Part 50,
+Subpart D and DHHS regulation 45 CFR Part 16.
+3. Reporting
+Progress reports for multi-year funded awards are due
+annually on or before the anniversary of the budget/project period start date
+of award. The reporting period for multi-year funded award progress report is
+the calendar year preceding the anniversary date of the award. Information on
+the content of the progress report and instructions on how to submit the report
+are posted at http://grants.nih.gov/grants/policy/myf.htm
+A final progress report, invention statement, and the
+expenditure data portion of the Federal Financial Report are required for
+closeout of an award, as described in the NIH
+Grants Policy Statement.
+The Federal Funding Accountability and Transparency Act of
+2006 (Transparency Act), includes a requirement for awardees of Federal grants
+to report information about first-tier subawards and executive compensation
+under Federal assistance awards issued in FY2011 or later. All awardees of
+applicable NIH grants and cooperative agreements are required to report to
+the Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the NIH
+Grants Policy Statement for additional information on this reporting
+requirement.
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity
+and welcome the opportunity to answer questions from potential applicants.
+Application Submission Contacts
+Grants.gov
+Customer Support (Questions regarding Grants.gov registration and
+submission, downloading or navigating forms)
+Contact Center Phone: 800-518-4726
+Email: support@grants.gov
+GrantsInfo (Questions regarding application instructions and
+process, finding NIH grant resources)
+Telephone 301-435-0714
+TTY 301-451-5936
+Email: GrantsInfo@nih.gov
+eRA Commons Help Desk (Questions regarding eRA Commons
+registration, tracking application status, post submission issues)
+Phone: 301-402-7469 or 866-504-9552 (Toll Free)
+TTY: 301-451-5939
+Email: commons@od.nih.gov
+Scientific/Research Contact(s)
+Teresa L. Z. Jones, M.D.
+Division of Diabetes, Endocrinology and Metabolic Diseases
+National Institute of Diabetes and Digestive and Kidney
+Diseases (NIDDK)
+Telephone: 301-435-2996
+Email: jonester@mail.nih.gov
+Peer Review Contact(s)
+Francisco Calvo, Ph.D.
+Chief, Review Branch
+National Institute of Diabetes and Digestive and Kidney
+Diseases (NIDDK)
+Telephone: 301-594-8897
+Email: calvof@mail.nih.gov
+Financial/Grants Management Contact(s)
+Diana O'Donovan
+Grants Management Branch
+National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+Telephone: 301-594-8868
+Email: odonovand@mail.nih.gov
+Section VIII. Other
+Information
+Recently issued trans-NIH policy
+notices may affect your application submission. A full list of policy
+notices published by NIH is provided in the NIH
+Guide for Grants and Contracts. All
+awards are subject to the terms and conditions, cost principles, and other
+considerations described in the NIH Grants Policy Statement.
+Authority and Regulations
+Awards are made under the authorization of Sections 301 and
+405 of the Public Health Service Act as amended (42 USC 241 and 284) and under
+Federal Regulations 42 CFR Part 52 and 45 CFR Parts 74 and 92.
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+Office of Extramural
+Research (OER)
+National Institutes of Health (NIH)
+9000 Rockville Pike
+Bethesda, Maryland 20892
+Department of Health
+and Human Services (HHS)
+NIH . . . Turning Discovery Into Health
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.

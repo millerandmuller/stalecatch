@@ -27,7 +27,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from bench.run_bench import wayback_raw  # noqa: E402
 from donor_lookback.textutil import html_to_text  # noqa: E402
 
-CACHE = Path(__file__).resolve().parent.parent / "data" / "wayback_cache"
+CACHE = Path(__file__).resolve().parent.parent / "bench" / "snapshots"  # committed: reruns and the bench need no archive access
 CDX = "https://web.archive.org/cdx/search/cdx"
 MONTH = r"(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)"
 DATE_LINE = re.compile(rf"(?i)(deadline|due|apply by|submit by|closes?|close on|application period|open until|opens?|received by|no later than).*({MONTH}\.? \d{{1,2}}|\d{{1,2}} {MONTH}|\d{{1,2}}/\d{{1,2}}/\d{{2,4}})")

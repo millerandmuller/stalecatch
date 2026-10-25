@@ -1,0 +1,535 @@
+Department of Health and Human Services
+Part 1. Overview Information
+Participating Organization(s)
+National Institutes of Health (NIH)
+Components of Participating Organizations
+Office of Strategic Coordination (Common Fund)
+This Funding Opportunity Announcement (FOA) is developed as a Common Fund initiative (https://commonfund.nih.gov/) through the NIH Office of the NIH Director, Office of Strategic Coordination (https://dpcpsi.nih.gov/). All NIH Institutes and Centers participate in Common Fund initiatives. The FOA will be administered by the National Center for Advancing Translational Sciences (NCATS) on behalf of the NIH.
+Funding Opportunity Title
+Platform Clinical Trials of Genome Editors in Multiple Diseases (UG3/UH3, Clinical Trial Required)
+Activity Code
+UG3/UH3 Exploratory/Developmental Phased Award Cooperative Agreement
+Announcement Type
+New
+Related Notices
+April 26, 2022 - Request for Information (RFI): Inviting Comments and Suggestions on the Potential Development of a Challenge Prize for Transformative Genome Editor Delivery Technologies.See Notice NOT-RM-22-013
+Funding Opportunity Announcement (FOA) Number
+RFA-RM-22-016
+Companion Funding Opportunity
+RFA-RM-22-014
+, U01
+Research Project (Cooperative Agreements)
+RFA-RM-22-015
+, U19
+Research Program (Cooperative Agreement)
+RFA-RM-22-017
+, U24
+Resource-Related Research Project (Cooperative Agreements)
+Number of Applications
+See Section III. 3. Additional Information on Eligibility.
+Assistance Listing Number(s)
+93.310
+Funding Opportunity Purpose
+The purpose of this FOA is to provide support for applications that propose a novel genome editing clinical trial that includes at least two different diseases, using the same genome editor, route of administration, and delivery system.
+Key Dates
+Posted Date
+April 11, 2022
+Open Date (Earliest Submission Date)
+June 17, 2022
+Letter of Intent Due Date(s)
+June 17, 2022
+Application Due Dates
+Review and Award Cycles
+New
+Renewal / Resubmission / Revision (as allowed)
+AIDS
+Scientific Merit Review
+Advisory Council Review
+Earliest Start Date
+July 19, 2022
+Not Applicable
+Not Applicable
+November 2022
+January 2023
+April 2023
+All applications are due by 5:00 PM local time of applicant organization.
+Applicants are encouraged to apply early to allow adequate time to make any corrections to errors found in the application during the submission process by the due date.
+Expiration Date
+July 20, 2022
+Due Dates for E.O. 12372
+Not Applicable
+Required Application Instructions
+It is critical that applicants follow the instructions in the Research (R) Instructions in the SF424 (R&R) Application Guide, except where instructed to do otherwise (in this FOA or in a Notice from NIH Guide for Grants and Contracts ).
+Conformance to all requirements (both in the Application Guide and the FOA) is required and strictly enforced. Applicants must read and follow all application instructions in the Application Guide as well as any program-specific instructions noted in Section IV. When the program-specific instructions deviate from those in the Application Guide, follow the program-specific instructions.
+Applications that do not comply with these instructions may be delayed or not accepted for review.
+There are several options available to submit your application through Grants.gov to NIH and
+Department of Health and Human Services partners. You must use one of these submission
+options to access the application forms for this opportunity.
+Use the NIH ASSIST system to prepare, submit and track your application online.
+Use an institutional system-to-system (S2S) solution to prepare and submit your application
+to Grants.gov and eRA Commons to track your
+application. Check with your institutional officials regarding availability.
+Use Grants.gov
+Workspace to prepare and submit your application and eRA Commons to track your application.
+Table of Contents
+Part 1. Overview Information
+Key Dates
+Part 2. Full Text of Announcement
+Section I. Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2. Full Text of Announcement
+Section I. Funding Opportunity Description
+Background
+The NIH Somatic Cell Genome Editing (SCGE) program is funded through the NIH Common Fund, which supports cross-cutting programs that are expected to have exceptionally high impact. All Common Fund initiatives invite investigators to develop bold and innovative approaches to address problems that may seem intractable or to seize new opportunities that offer the potential for transformation of research processes.
+The simplicity and broad applicability of targeted and programmable genome editing approaches, including but not limited to those based on CRISPR-Cas9, raise the possibility of a fundamentally new way to treat a variety of genetic diseases. However, many challenges need to be overcome before such techniques could be widely used in the clinic. To maximize the potential of genome editing technology, the SGCE program was developed to accelerate the translation of genome editing technology into clinical applications.
+Based on input received from stakeholders from academia, industry, and regulatory agencies, as well as the substantial progress in the field of genome editing since the launch of the first five-year phase of the SCGE program, the second five-year phase of SCGE will focus on translating and accelerating safe and effective genome editing therapeutics into the clinic. Specifically, SCGE Phase 2 will support the following initiatives: 1) Technologies and Assays for Therapeutic Genome Editing INDs; 2) IND-enabling Studies of Somatic Genome Editing Therapeutic Leads; 3) Platform Clinical Trials of Somatic Genome Editing for Multiple Diseases and 4) Somatic Cell Genome Editing Translational Coordination and Dissemination Center (TCDC).
+The SCGE program will involve collaborative research by a consortium of grantees with differing expertise to develop, optimize and demonstrate improved candidate genome editing therapeutic as treatments for human disease. Recipients from all four SCGE program components will form a consortium, governed by a steering committee of investigators and NIH staff that will develop consensus policies and procedures for Consortium-wide activities such as data and resource sharing. Collectively, these initiatives are intended to substantially expand the number of genetic diseases treated by in vivo genome editing, ultimately allowing this technology to achieve its potential as a therapeutic platform to treat genetic disease.
+The traditional path to drug development is to develop a single drug to treat a single disease.
+In contrast, technologies such as genome editing are fundamentally different, in that they are therapeutic platforms that are in principle applicable to a large number of diseases. Therefore, clinical trial design and the associated regulatory pathway should reflect the therapeutic platform capacity of genome editing. The purpose of this FOA is to provide support for applications that propose a novel in vivo genome editing clinical trial for at least two different diseases, using the same genome editor, route of administration, and delivery system. It is expected that projects supported under this RFA will identify strategies to increase the efficiency of the process of obtaining regulatory approval for initiating and carrying out clinical genome editing trials of more than one disease, as compared to completely independent IND applications and clinical trials for each disease.
+We anticipate that dissemination of the data generated and knowledge gained by projects supported by this FOA will allow genome editing technology to achieve its promise as a therapeutic platform for the treatment of genetic diseases.
+Program Formation and Governance
+The awards funded under this FOA will be cooperative agreements (see Section VI.2. Cooperative Agreement Terms and Conditions of Award). Close interactions among the recipients and NIH will be required to maintain this complex program. The whole SCGE program governance will rest with the SCGE Program Steering Committee in collaboration with NIH program officials, with advice from Program Consultants (PCs) providing critical scientific and managerial insights, and subject to oversight by the NIH SCGE Working Group. The NIH SCGE Working Group consists of NIH programmatic staff from multiple Institutes and Centers of the NIH as well as the Office of the Director. This group will be primarily responsible for the stewardship of the SCGE program. The SCGE Working Group is co-chaired by the Director of the National Center for Advancing Translational Sciences (NCATS) and the Director of the National Institute for Neurological Disorders and Stroke (NINDS). It reports to the Directors of the Office of Strategic Coordination/Common Fund and the Division of Program Coordination, Planning, and Strategic Initiatives for final funding decisions.
+Research Scope and Objectives
+The funding opportunity will utilize a UG3/UH3 cooperative agreement mechanism. This funding mechanism involves two Phases. The application must propose a well-defined set of milestones for the UG3 phase as well as the UH3 phase. Milestones are required for both phases in the application.
+Utilization of milestones is a key characteristic of this FOA. A milestone is defined as a scheduled event in the project timeline, signifying the completion of a major project, activity, or set of tasks. This FOA will utilize a two-phase, milestone-driven cooperative agreement (UG3/UH3) mechanism consisting of an Investigational New Drug (IND) enabling studies phase of up to three years (UG3) and a pragmatic or implementation trial execution phase (UH3). Projects should include well-defined milestones for the planning phase (UG3) and annual milestones for the trial conduct phase (UH3). It is understood that the proposed milestones for the UH3 phase will be revised as activities in the UG3 phase progress. In the event of an award, the PD/PI and NIH staff will negotiate a final list of milestones for each year of support.
+UG3 Phase:
+The UG3 phase, which can be up to 3 years, is intended to support Investigational New Drug (IND) enabling studies, including translational bench/in vitro, and animal studies as necessary, to support the preparation and submission of the IND. Because the focus of this FOA is a streamlined regulatory pathway for in vivo genome editing clinical trials, formal meetings with the FDA (i.e. an INTERACT meeting and pre-IND meeting) are an essential aspect of projects supported by this FOA. These regulatory meetings will be required as milestones during the UG3 phase.
+The primary objective of this FOA is identification of more streamlined and efficient pathway to clinical trial start up for two or more diseases, in comparison to entirely independent INDs and clinical trials for each disease. As part of this goal, investigators will be expected to provide information to the Translational Coordination and Dissemination Center (TCDC) about the general approach to obtaining the IND for the proposed clinical trial of more than one disease to the TCDC, so that information can be disseminated within and outside the consortium.
+The proposed clinicals trial must utilize the same genome editor, route of administration, and in vivo delivery system for both diseases. The editor may be delivered in the form of DNA, mRNA, peptide nucleic acids, or protein, using either viral or non-viral based systems. Any genome editor, including but not limited to those that create a double-strand break, base editors, prime editors, RNA editors, or epigenome editors, can be chosen for use. Collaborations with commercial entities that are developing genome editing therapeutics are encouraged. Applicants are strongly encouraged to employ project management principles as appropriate. Applications that address plans to proactively confront potential delays or risks in meeting the milestones are strongly encouraged. Applications must include a milestone plan for both the UG3 and UH3 phases.
+The following are examples of projects that would be considered non-responsive to this FOA:
+A clinical genome editing trial in a single disease, even if targeting different causative genes
+Projects involving editing cells ex vivo, followed by injection of edited cells into patients
+Transition from UG3 to UH3
+Applicants and recipients of UG3 funding should note that the UG3 award does not guarantee subsequent UH3 funding. Only UG3 projects that have met the scientific milestones and other requirements negotiated between the NIH and applicant prior to funding will be eligible for transition to the second UH3 Phase. As noted above, obtaining regulatory approval from the US Food and Drug Administration (FDA) to proceed with the clinical trial of more than one disease is the main criterion for transitioning from UG3 to the UH3. The specific form of this regulatory approval will depend upon discussions with the FDA. Examples of regulatory approaches include but are not limited to a single investigational new drug (IND) authorization for two or more diseases, or two or more related INDs in which each substantially cross-references the other(s) based upon the use of the same editor and same delivery vehicle for both diseases.
+Investigators who have achieved UG3 milestones will be eligible to submit a non-competing application for transition to the UH3 phase. These applications will be administratively reviewed by NIH Program staff.
+Prior to submission of UH3 transition applications, investigators must (1) secure IND authorization(s) and (2) provide documentation of this authorization or approval to NCATS before a funding decision for the UH3 phase will be made. Necessary drugs, devices, or other resources must be obtained by the end of the UG3 award to allow for the successful launch and execution of the proposed clinical trial in the UH3 phase.
+As part of this noncompeting UH3 transition application, investigators will be asked to provide contingency plans and address feasibility of continued clinical observation of patients beyond the UH3 phase. Such contingency plans may be developed during the UG3 period. While such plans will be required for NIH administrative review of the UH3 application, they are not required as part of applications in response to this FOA. Final funding decisions for the UH3 phase will be based on successful completion of the UG3 milestones, UH3 milestones and plans, scientific priorities, and funds availability.
+UH3 Phase:
+If the transition is made, the UH3 phase of the cooperative agreement will also support the subsequent small clinical trial(s), which must involve at least two different diseases.
+NIH understands that at the time of submission of applications under this FOA (RFA-RM-22-016), all details and plans for the clinical trial may not have been finalized. However sufficient detail should be provided to allow for effective review of the proposed activities to be performed during the UH3 phase. Finalized clinical trial protocols, registration of the clinical trial in ClinicalTrials.gov, completion of regulatory approvals, information on enrollment of the first subjects, and contingency plans for continued clinical observation of patients beyond the UH3 phase, will be required with the submission of the UH3 phase non-competing application to NIH, as described above. Milestones and timelines for the UH3 phase are required at the time of application but may be revised at the time of the UG3/UH3 transition. Less than satisfactory progress in the UH3 phase may lead to phasing out the award.
+In preparing applications to this FOA, investigators should be aware of and plan to address all requirements for gene editing clinical trials as identified in the relevant FDA Guidance documents (see https://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances).
+Pre-application Information Session
+A technical assistance teleconference will be held for potential applicants. NIH staff will be available to answer questions related to this and companion FOAs. Time, date, and dial in information for the call will be announced in an NIH Guide Notice and will be posted on the SCGE program website: https://commonfund.nih.gov/editing.
+See Section VIII. Other Information for award authorities and regulations.
+Section II. Award Information
+Funding Instrument
+Cooperative Agreement: A support mechanism used when there will be substantial Federal scientific or programmatic involvement. Substantial involvement means that, after award, NIH scientific or program staff will assist, guide, coordinate, or participate in project activities. See Section VI.2 for additional information about the substantial involvement for this FOA.
+Application Types Allowed
+New
+The OER Glossary and the SF424 (R&R) Application Guide provide details on these application types. Only those application types listed here are allowed for this FOA.
+Clinical Trial?
+Required: Only accepting applications that propose clinical trial(s).
+Need help determining whether you are doing a clinical trial?
+Funds Available and Anticipated Number of Awards
+The NIH Common Fund intends to commit approximately $10M in FY23, $20M in FY24-25, and $12M in FY26-27 to fund two awards, contingent upon NIH appropriations and the submission of a sufficient number of meritorious applications.
+Award Budget
+Application budgets should not exceed $3M direct costs for Y1 (FY2023), $6.5M direct costs per year for Y2 (FY2024) and Y3 (FY2025), or $4M direct costs per year for Y4 (FY2026) and Y5 (FY2027). Application budgets need to reflect the actual needs of the proposed project.
+Award Project Period
+The project period for this FOA is anticipated to be 5 years (FY2023-2027). The maximum period of funding for the UG3 is three years.
+NIH grants policies as described in the NIH Grants Policy Statement will apply to the applications submitted and awards made from this FOA.
+Section III. Eligibility Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+Public/State Controlled Institutions of Higher Education
+Private Institutions of Higher Education
+The following types of Higher Education Institutions are always encouraged to apply for NIH support as Public or Private Institutions of Higher Education:
+Hispanic-serving Institutions
+Historically Black Colleges and Universities (HBCUs)
+Tribally Controlled Colleges and Universities (TCCUs)
+Alaska Native and Native Hawaiian Serving Institutions
+Asian American Native American Pacific Islander Serving Institutions (AANAPISIs)
+Nonprofits Other Than Institutions of Higher Education
+Nonprofits with 501(c)(3) IRS Status (Other than Institutions of Higher Education)
+Nonprofits without 501(c)(3) IRS Status (Other than Institutions of Higher Education)
+For-Profit Organizations
+Small Businesses
+For-Profit Organizations (Other than Small Businesses)
+Local Governments
+State Governments
+County Governments
+City or Township Governments
+Special District Governments
+Indian/Native American Tribal Governments (Federally Recognized)
+Indian/Native American Tribal Governments (Other than Federally Recognized)
+Federal Government
+Eligible Agencies of the Federal Government, including the Intramural NIH Program
+U.S. Territory or Possession
+Other
+Independent School Districts
+Public Housing Authorities/Indian Housing Authorities
+Native American Tribal Organizations (other than Federally recognized tribal governments)
+Faith-based or Community-based Organizations
+Regional Organizations
+Foreign Institutions
+Non-domestic (non-U.S.) Entities (Foreign Institutions) are not eligible to apply.
+Non-domestic (non-U.S.) components of U.S. Organizations are eligible to apply.
+Foreign components, as defined in the NIH Grants Policy Statement, are allowed.
+Required Registrations
+Applicant organizations
+Applicant organizations must complete and maintain the following registrations as described in the SF 424 (R&R) Application Guide to be eligible to apply for or receive an award. All registrations must be completed prior to the application being submitted. Registration can take 6 weeks or more, so applicants should begin the registration process as soon as possible. The NIH Policy on Late Submission of Grant Applications states that failure to complete registrations in advance of a due date is not a valid reason for a late submission.
+System for Award Management (SAM) – Applicants must complete and maintain an active registration, which requires renewal at least annually. The renewal process may require as much time as the initial registration. SAM registration includes the assignment of a Commercial and Government Entity (CAGE) Code for domestic organizations which have not already been assigned a CAGE Code.
+NATO Commercial and Government Entity (NCAGE) Code – Foreign organizations must obtain an NCAGE code (in lieu of a CAGE code) in order to register in SAM.
+Unique Entity Identifier (UEI)- A UEI is issued as part of the SAM.gov registration process. SAM registrations prior to fall 2021 were updated to include a UEI. For applications due on or after January 25, 2022, the UEI must be provided on the application forms (e.g., FORMS-G); the same UEI must be used for all registrations, as well as on the grant application.
+Dun and Bradstreet Universal Numbering System (DUNS) – Organization registrations prior to April 2022 require applicants to obtain a DUNS prior to registering in SAM. By April 2022, the federal government will stop using the DUNS number as an entity identifier and will transition to the Unique Entity Identifier (UEI) issued by SAM. Prior to April 2022, after obtaining a DUNS number, applicants can begin both SAM and eRA Commons registrations. The same DUNS number must be used for all registrations, as well as on the grant application.
+eRA Commons - Once the unique organization identifier (DUNS prior to April 2022; UEI after April 2022) is established, organizations can register with eRA Commons in tandem with completing their full SAM and Grants.gov registrations; all registrations must be in place by time of submission. eRA Commons requires organizations to identify at least one Signing Official (SO) and at least one Program Director/Principal Investigator (PD/PI) account in order to submit an application.
+Grants.gov – Applicants must have an active SAM registration in order to complete the Grants.gov registration.
+Program Directors/Principal Investigators (PD(s)/PI(s))
+All PD(s)/PI(s) must have an eRA Commons account. PD(s)/PI(s) should work with their organizational officials to either create a new account or to affiliate their existing account with the applicant organization in eRA Commons. If the PD/PI is also the organizational Signing Official, they must have two distinct eRA Commons accounts, one for each role. Obtaining an eRA Commons account can take up to 2 weeks.
+Eligible Individuals (Program Director/Principal Investigator)
+Any individual(s) with the skills, knowledge, and resources necessary to carry out the proposed research as the Program Director(s)/Principal Investigator(s) (PD(s)/PI(s)) is invited to work with his/her organization to develop an application for support. Individuals from underrepresented racial and ethnic groups as well as individuals with disabilities are always encouraged to apply for NIH support.
+For institutions/organizations proposing multiple PDs/PIs, visit the Multiple Program Director/Principal Investigator Policy and submission details in the Senior/Key Person Profile (Expanded) Component of the SF424 (R&R) Application Guide.
+2. Cost Sharing
+This FOA does not require cost sharing as defined in the NIH Grants Policy Statement.
+3. Additional Information on Eligibility
+Number of Applications
+Applicant organizations may submit more than one application, provided that each application is scientifically distinct.
+The NIH will not accept duplicate or highly overlapping applications under review at the same time, per 2.3.7.4 Submission of Resubmission Application. This means that the NIH will not accept:
+A new (A0) application that is submitted before issuance of the summary statement from the review of an overlapping new (A0) or resubmission (A1) application.
+A resubmission (A1) application that is submitted before issuance of the summary statement from the review of the previous new (A0) application.
+An application that has substantial overlap with another application pending appeal of initial peer review (see 2.3.9.4 Similar, Essentially Identical, or Identical Applications)
+Section IV. Application and Submission Information
+1. Requesting an Application Package
+The application forms package specific to this opportunity must be accessed through ASSIST, Grants.gov Workspace or an institutional system-to-system solution. Links to apply using ASSIST or Grants.gov Workspace are available in Part 1 of this FOA. See your administrative office for instructions if you plan to use an institutional system-to-system solution.
+2. Content and Form of Application Submission
+It is critical that applicants follow the instructions in the Research (R) Instructions in the SF424 (R&R) Application Guide except where instructed in this funding opportunity announcement to do otherwise. Conformance to the requirements in the Application Guide is required and strictly enforced. Applications that are out of compliance with these instructions may be delayed or not accepted for review.
+Letter of Intent
+Although a letter of intent is not required, is not binding, and does not enter into the review of a subsequent application, the information that it contains allows IC staff to estimate the potential review workload and plan the review.
+By the date listed in Part 1. Overview Information, prospective applicants are asked to submit a letter of intent that includes the following information:
+Descriptive title of proposed activity
+Name(s), address(es), and telephone number(s) of the PD(s)/PI(s)
+Names of other key personnel
+Participating institution(s)
+Number and title of this funding opportunity
+The letter of intent should be sent to:
+Philip J. ("Pj") Brooks, Ph.D.
+Telephone: 301-443-0513
+Email: pj.brooks@mail.nih.gov
+Page Limitations
+All page limitations described in the SF424 Application Guide and the Table of Page Limits must be followed.
+Instructions for Application Submission
+The following section supplements the instructions found in the SF424 (R&R) Application Guide and should be used for preparing an application to this FOA.
+SF424(R&R) Cover
+All instructions in the SF424 (R&R) Application Guide must be followed.
+SF424(R&R) Project/Performance Site Locations
+All instructions in the SF424 (R&R) Application Guide must be followed.
+SF424(R&R) Other Project Information
+All instructions in the SF424 (R&R) Application Guide must be followed.
+For applications that propose a Phase III clinical trial or its equivalent for a rare or neglected disease only: The applicant must provide documentation that the application meets the criteria for Phase III rare disease or condition clinical trial. The NCATS program official may provide a letter confirming that the indication meets the definition of a rare and neglected disease. NCATS will not provide support for a Phase III trial for a disease that affects more than 200,000 people in the U.S.
+SF424(R&R) Senior/Key Person Profile
+All instructions in the SF424 (R&R) Application Guide must be followed.
+The PD(s)/PI(s) of the clinical trial must be experienced in the conduct of clinical trials in the target disease or related diseases, including success in meeting milestones and timelines, and have expertise in the content area of the proposed clinical trial. The experience of each PD/PI and all Key Personnel must be carefully documented and roles and responsibilities must be well-defined. In addition, the responsibilities and authority of each PD/PI must be specified. The application must ensure that a multidisciplinary team of appropriate personnel (clinical trialist, clinician, Project Manager, study coordinator(s), etc.) are proposed at the contributing institutions to facilitate the implementation of all aspects of the clinical trial, including recruitment of subjects, design/implementation of the trial protocol, and coordination of roles/responsibilities.
+R&R Budget
+All instructions in the SF424 (R&R) Application Guide must be followed.
+Applicant must provide a detailed budget and budget justification for each budget period of the UG3 and UH3 at the time of application. All applicants must budget for travel for personnel to attend two meetings per year in the Washington, DC metropolitan area.
+Applicants are eligible for reimbursement of Facilities and Administrative Costs in accordance with the NIH Grants Policy Statement Section 7.4.
+R&R Subaward Budget
+All instructions in the SF424 (R&R) Application Guide must be followed.
+PHS 398 Cover Page Supplement
+All instructions in the SF424 (R&R) Application Guide must be followed.
+PHS 398 Research Plan
+All instructions in the SF424 (R&R) Application Guide must be followed, with the following additional instructions:
+Specific Aims:
+Include aims for both the UG3 Phase and UH3 Phase clinical trial (1 page).
+Research Strategy:
+Background
+Describe the genome editor, delivery system, and target tissue for the trial.
+Provide any completed IND-enabling studies for the genome editor and delivery system as preliminary data. These data may be obtained from in vitro studies, as well as one or more in vivo animal models representative of the intended patient population. Given the aggressive timeline for the work to be carried out under this FOA, investigators are expected to have substantial preclinical data on hand regarding the proposed editor and delivery system prior to submitting the application. At a minimum, this would include proof of concept data in an animal model of at least one of the proposed diseases, using the intended editor and delivery system.
+Describe collaborations with commercial entities that are developing genome editing technologies, if applicable.
+Address how the approach for clinical trial design of more than one disease results in increased efficiency compared to the standard approach of two or more independent clinical trials.
+UG3 Phase (non-clinical activities):
+A description of all non-clinical testing necessary to support the filing of an IND and to obtain IRB approval for the clinical trial, including the standards to which the testing will comply (e.g., Good Laboratory Practices (GLP), Good Manufacturing Practices (GMP), etc.
+The development of in vitro assays to identify and test guide RNAs to be used for the two diseases in the clinical trial.
+Plans for contact with and submissions to the FDA in the form of pre-submission meetings and IND submissions. Applicants are encouraged to describe any other meetings with FDA personnel.
+The UG3 phase will also support the development of the protocol, manual of operations, and other resources necessary to the performance of the trial; further development of study partnerships; finalization and Institutional Review Board/Data and Safety Monitoring Board approval of the trial protocol and informed consent(s)/assent(s); activation of clinical sites; and initiation of recruitment, which is expected to begin by the end of the UG3 phase.
+A project timeline in the form of a Gantt chart for both the UG3 and UH3 phases, with all milestones included, to obtain regulatory approval to conduct the clinical trial. Required milestones include an INTERACT meeting, and a pre-IND meeting.
+UH3 Phase: Clinical Trial
+Describe the diseases to be studied, the clinical characteristics, and current and projected prevalence of the number of patients with each of the proposed diseases that will be studied in the clinical trial.
+For each disease, identify one or more clinically robust and meaningful outcome measures, based on prior natural history data, input from both clinicians and patients, and/or supporting literature. The clinical trial outcome measures can be the same for both diseases.
+Discuss the feasibility of conducting the proposed clinical trial, anticipated challenges, and proposed solutions.
+A project timeline in the form of a Gantt chart, with milestones included for the start-up and conduct of the clinical trial should be included.
+UH3 Phase research strategy for the clinical trial, including milestones and timeline, should also be included in the PHS Human Subjects and Clinical Trials Information forms.
+Milestone Plan:
+Applications must include a Milestone Plan. The Milestone plan should:
+Provide a detailed timeline for the anticipated attainment of each milestone and the overall goal.
+Identify any impediments that could require an addendum to the research plan, milestones, or timeline with a discussion of alternative approaches.
+A timeline (Gantt chart) including milestones is required for all studies. Yearly quantitative milestones are required in order to provide clear indicators of a project's continued success.
+The filename "Milestone Plan-PI-NAME.pdf" should be used, must not exceed 50 characters, and will be reflected in the final image bookmarking for easy access by reviewers. The Milestone Plan is limited to 3 pages. Applications that do not include the Milestone Plan will be considered incomplete and will not be reviewed.
+Other attachments
+Letters of support: Include a letter of support from the company supplying the genome editing technology to be used in the clinical trial, if applicable.
+Trial Management Plan: A description of how the proposed trial will be managed must be provided as an attachment using the filename "Trial Management Plan.pdf" and may not exceed 5 pages. Describe the strategy that will be used throughout the project to ensure that management activities of the clinical trial are met including directly supporting the needs of scientific study leadership to identify barriers, make timely responses, and optimize the allocation of limited resources to meet pre-defined study objectives. This description should include:
+The role of the project manager
+A risk assessment plan
+A risk management plan that addresses strategies to mitigate inadequate progress toward achieving the UG3 and/or UH3 core milestones. The plan would identify a range of strategies to address impediments to study progress or feasibility, and propose solutions using study resources.
+Key methodology and standard operating procedures governing resource management, study deployment, operations/execution, and study closure.
+How the study team will resolve issues in a timely manner, including plans to pro-actively evaluate and prioritize study risks and issue corrective responses.
+Processes required for orderly project closure including how the study will comply with the NIH Data Sharing Policy, and biorepository plans if specimens will be stored after the planned study testing and analyses are complete.
+In summary, the trial management plan should provide sufficient detail to demonstrate the ability to achieve the goals of the clinical trial on-budget and on-time and to successfully manage and mitigate risks.
+Clinical Site(s)/Network Description (if applicable): If a clinical trial will be conducted using the infrastructure of an existing Network, a Network Description Plan should be provided as an attachment using the filename "Network Description.pdf" and may not exceed 6 pages. This description should include:
+Name of Network
+Number of years and funding remaining to support the Network infrastructure and any information on the continuance of the Network
+Strategies for data recovery and the follow-up of enrolled trial participants.
+Infrastructure capacity and availability of patient populations considering current ongoing trials within the Network
+Plans to incorporate the current Network infrastructure into the proposed trial, including participant recruitment, trial implementation, and central coordination and data management, data analysis, or statistical analysis
+Plans to utilize master clinical trial agreements and a single IRB
+Clinical Trial Research Experience: Applicants should provide a list of clinical trials that demonstrate their experiences in trial coordination over the last 5 years, without duplicating information in biosketches. The table should be provided as an attachment, maximum length of 3 pages, using the filename “Clinical Trial Experience." The table should also include the following for each trial listed: start and completion date; percent of target accrued; whether the trials reached completion; and, if applicable, the date of first publication.
+Resource Sharing Plan: Individuals are required to comply with the instructions for the Resource Sharing Plans as provided in the SF424 (R&R) Application Guide.
+The following modifications also apply:
+All applications, regardless of the amount of direct costs requested for any one year, should address a Data Sharing Plan.
+Applicants should indicate their willingness to abide by all data deposition, quality control metrics, standardization, metadata requirements, data and software release, and public copyright license policies developed by the SCGE Program Steering Committee and approved by NIH staff. A primary goal of the SCGE program is to facilitate discoveries by the broad scientific community, thereby accelerating the translation of genome editing technologies into treatments for human disease. Restrictive licensing terms and sharing practices for SCGE-generated data, tools, and resources could substantially diminish their value and public benefit. Accordingly, recipients should manage data, resources, protocols, tools, and software in a way that achieves this goal. Sharing practices that would hinder, prevent or block access to or use of SCGE program data, tools, and resources for research purposes will be considered to be hindering the goals of the SCGE program. The development of policies, methods, and standards for such sharing is critically important. The NIH expects that the recipients, through the SCGE Program Steering Committee, will develop such policies, methods, and standards in concert with the NIH. These policies, methods, and standards will remain consistent with NIH-wide policies on data and resource sharing.
+Applicants should indicate their willingness to make some applicant-generated animal and/or human samples from genome-editing therapeutic studies to other Consortium members. recipients are encouraged to collaborate with other SCGE Consortium members to help evaluate the utility and performance of the assay(s) to further advance the field.
+Specific Plan for Data Sharing: Consistent with achieving the goals of this program, the NIH expects that information such as collected data, technical protocols, and any other metadata collected under this FOA is to be deposited as appropriate into existing, publicly available data repositories that are easily accessible, and in machine readable format. Where appropriate, applicants should identify such repositories and plans for deposition. For datatypes that lack suitable public repositories, applicants should indicate their willingness to identify an appropriate alternative solution that is consistent with achieving the goals of the program. Data should also be made available as appropriate via the SCGE Phase II Platform that will serve as the central access point for information regarding data, critical tools, protocols and reagents being developed by the SCGE program. If applicable, applicants must abide by the NIH Genomic Data Sharing Policy (https://gds.nih.gov/) and should indicate their agreement to it in the data sharing plan.
+Specific Plan for Protocol, Tool, and Reagent Sharing: As one of the primary goals of this program is to advance research through development, establishment, broad dissemination and use of community resources across the research community, NIH intends that protocols, tools, and reagents generated by the SCGE program be broadly available and distributed at no to minimal cost, and without undue intellectual property constraints, so that they can be as widely used as possible for research purposes by the larger scientific community, while encouraging rapid adoption and commercialization of the technologies for the development of genome editing therapies. For all applications and where otherwise applicable, the applicant should discuss plans for sharing and distribution of non-data resources that will be generated by the proposed project, including animal strains, protocols, biomaterials, and reagents. The SCGE TCDC will work with all SCGE program investigators to collect, curate, and disseminate information regarding tools and reagents being developed by the program and to disseminate this information through the SCGE Toolkit and other sources as appropriate and consistent with achieving the goals of the program.
+Specific Plan for Sharing Software: A software dissemination plan, with appropriate timelines, is expected in applications that are developing software. There is no prescribed single license for software produced in this project; however, reviewers will be asked to evaluate the software sharing and dissemination plan based on its likely impact. A dissemination plan guided by the following principles is thought to promote the largest impact:
+The software should be freely available to biomedical researchers and educators in the non-profit sector, such as institutions of education, research institutions, and government laboratories.
+The terms should also permit the dissemination and commercialization of enhanced or customized versions of the software, or incorporation of the software or pieces of it into other software packages.
+To preserve utility to the community, the software should be transferable such that another individual or team can continue development in the event that the original investigators are unwilling or unable to do so.
+The terms of software availability should include the ability of researchers outside the project and its collaborating projects to modify the source code and to share modifications with other colleagues. An applicant should take responsibility for creating the original and subsequent “official” versions of a piece of software.
+Applicants are asked to propose a plan to manage and disseminate the improvements or customizations of their tools and resources by others. This proposal may include a plan to incorporate the enhancements into the “official” core software, may involve the creation of an infrastructure for plug-ins, or may describe some other solution.
+Any software dissemination plans represent a commitment by the institution (and its subcontractors as applicable) to support and abide by the plan.
+Applicants should also be familiar with the NIH statements regarding intellectual property of resources developed with Federal funds (NIH Research Tools Policy (http://grants.nih.gov/grants/intell-property_64FR72090.pdf) and other related NIH sharing policies at http://sharing.nih.gov).
+Prior to funding, NIH Program Staff may negotiate modifications to the Sharing Plan with the applicant.
+Appendix:
+Only limited Appendix materials are allowed. Follow all instructions for the Appendix as described in the SF424 (R&R) Application Guide.
+PHS Human Subjects and Clinical Trials Information
+When involving human subjects research, clinical research, and/or NIH-defined clinical trials (and when applicable, clinical trials research experience) follow all instructions for the PHS Human Subjects and Clinical Trials Information form in the SF424 (R&R) Application Guide, with the following additional instructions:
+If you answered “Yes” to the question “Are Human Subjects Involved?” on the R&R Other Project Information form, you must include at least one human subjects study record using the Study Record: PHS Human Subjects and Clinical Trials Information form or Delayed Onset Study record.
+Study Record: PHS Human Subjects and Clinical Trials Information
+All instructions in the SF424 (R&R) Application Guide must be followed.
+Delayed Onset Study
+Note: Delayed onset does NOT apply to a study that can be described but will not start immediately (i.e., delayed start).All instructions in the SF424 (R&R) Application Guide must be followed.
+PHS Assignment Request Form
+All instructions in the SF424 (R&R) Application Guide must be followed.
+3. Unique Entity Identifier and System for Award Management (SAM)
+See Part 1. Section III.1 for information regarding the requirement for obtaining a unique entity identifier and for completing and maintaining active registrations in System for Award Management (SAM), NATO Commercial and Government Entity (NCAGE) Code (if applicable), eRA Commons, and Grants.gov
+4. Submission Dates and Times
+Part I. Overview Information contains information about Key Dates and times. Applicants are encouraged to submit applications before the due date to ensure they have time to make any application corrections that might be necessary for successful submission. When a submission date falls on a weekend or Federal holiday, the application deadline is automatically extended to the next business day.
+Organizations must submit applications to Grants.gov (the online portal to find and apply for grants across all Federal agencies). Applicants must then complete the submission process by tracking the status of the application in the eRA Commons, NIH’s electronic system for grants administration. NIH and Grants.gov systems check the application against many of the application instructions upon submission. Errors must be corrected and a changed/corrected application must be submitted to Grants.gov on or before the application due date and time. If a Changed/Corrected application is submitted after the deadline, the application will be considered late. Applications that miss the due date and time are subjected to the NIH Policy on Late Application Submission.
+Applicants are responsible for viewing their application before the due date in the eRA Commons to ensure accurate and successful submission.
+Information on the submission process and a definition of on-time submission are provided in the SF424 (R&R) Application Guide.
+5. Intergovernmental Review (E.O. 12372)
+This initiative is not subject to intergovernmental review.
+6. Funding Restrictions
+All NIH awards are subject to the terms and conditions, cost principles, and other considerations described in the NIH Grants Policy Statement.
+Pre-award costs are allowable only as described in the NIH Grants Policy Statement.
+7. Other Submission Requirements and Information
+Applications must be submitted electronically following the instructions described in the SF424 (R&R) Application Guide. Paper applications will not be accepted.
+Applicants must complete all required registrations before the application due date. Section III. Eligibility Information contains information about registration.
+For assistance with your electronic application or for more information on the electronic submission process, visit How to Apply – Application Guide. If you encounter a system issue beyond your control that threatens your ability to complete the submission process on-time, you must follow the Dealing with System Issues guidance. For assistance with application submission, contact the Application Submission Contacts in Section VII.
+Important reminders:
+All PD(s)/PI(s) must include their eRA Commons ID in the Credential fieldof the Senior/Key Person Profile form. Failure to register in the Commons and to include a valid PD/PI Commons ID in the credential field will prevent the successful submission of an electronic application to NIH. See Section III of this FOA for information on registration requirements.
+The applicant organization must ensure that the unique entity identifier (DUNS number or UEI as required) provided on the application is the same number used in the organization’s profile in the eRA Commons and for the System for Award Management. Additional information may be found in the SF424 (R&R) Application Guide.
+See more tips for avoiding common errors.
+Upon receipt, applications will be evaluated for completeness and compliance with application instructions by the Center for Scientific Review and responsiveness by components of participating organizations, NIH. Applications that are incomplete, non-compliant and/or nonresponsive will not be reviewed.
+Applications Involving the NIH Intramural Research Program
+The requests by NIH intramural scientists will be limited to the incremental costs required for participation. As such, these requests will not include any salary and related fringe benefits for career, career conditional or other Federal employees (civilian or uniformed service) with permanent appointments under existing position ceilings or any costs related to administrative or facilities support (equivalent to Facilities and Administrative or F&A costs). These costs may include salary for staff to be specifically hired under a temporary appointment for the project, consultant costs, equipment, supplies, travel, and other items typically listed under Other Expenses. Applicants should indicate the number of person-months devoted to the project, even if no funds are requested for salary and fringe benefits.
+If selected, appropriate funding will be provided by the NIH Intramural Program. NIH intramural scientists will participate in this program as PDs/PIs in accord with the Terms and Conditions provided in this FOA. Intellectual property will be managed in accord with established policy of the NIH in compliance with Executive Order 10096, as amended, 45 CFR Part 7; patent rights for inventions developed in NIH facilities are NIH property unless NIH waives its rights.
+Should an extramural application include the collaboration with an intramural scientist, no funds for the support of the intramural scientist may be requested in the application. The intramural scientist may submit a separate request for intramural funding as described above and, in the NIH, Intramural Source Book.
+Post Submission Materials
+Applicants are required to follow the instructions for post-submission materials, as described in the policy. Any instructions provided here are in addition to the instructions in the policy.
+Section V. Application Review Information
+1. Criteria
+Only the review criteria described below will be considered in the review process. Applications submitted to the NIH in support of the NIH mission are evaluated for scientific and technical merit through the NIH peer review system.
+A proposed Clinical Trial application may include study design, methods, and intervention that are not by themselves innovative but address important questions or unmet needs. Additionally, the results of the clinical trial may indicate that further clinical development of the intervention is unwarranted or lead to new avenues of scientific investigation.
+Overall Impact
+Reviewers will provide an overall impact score to reflect their assessment of the likelihood for the project to exert a sustained, powerful influence on the research field(s) involved, in consideration of the following review criteria and additional review criteria (as applicable for the project proposed).
+Scored Review Criteria
+Reviewers will consider each of the review criteria below in the determination of scientific merit, and give a separate score for each. An application does not need to be strong in all categories to be judged likely to have major scientific impact. For example, a project that by its nature is not innovative may be essential to advance a field.
+Significance
+Does the project address an important problem or a critical barrier to progress in the field? Is the prior research that serves as the key support for the proposed project rigorous? If the aims of the project are achieved, how will scientific knowledge, technical capability, and/or clinical practice be improved? How will successful completion of the aims change the concepts, methods, technologies, treatments, services, or preventative interventions that drive this field?
+Are the scientific rationale and need for a clinical trial to test the proposed hypothesis or intervention well supported by preliminary data, clinical and/or preclinical studies, or information in the literature or knowledge of biological mechanisms? For trials focusing on clinical or public health endpoints, is this clinical trial necessary for testing the safety, efficacy or effectiveness of an intervention that could lead to a change in clinical practice, community behaviors or health care policy? For trials focusing on mechanistic, behavioral, physiological, biochemical, or other biomedical endpoints, is this trial needed to advance scientific understanding?
+Investigator(s)
+Are the PD(s)/PI(s), collaborators, and other researchers well suited to the project? If Early Stage Investigators or those in the early stages of independent careers, do they have appropriate experience and training? If established, have they demonstrated an ongoing record of accomplishments that have advanced their field(s)? If the project is collaborative or multi-PD/PI, do the investigators have complementary and integrated expertise; are their leadership approach, governance and organizational structure appropriate for the project?
+Specific to this FOA:
+Does the Clinical Trial Experience attachment demonstrate strong expertise of the personnel to conduct the proposed trial?
+Are the roles/responsibilities of the Project Manager and other key personnel adequate to monitor study progress and identify/manage risks?
+Is the project management expertise strongly represented among the key personnel?
+With regard to the proposed leadership for the project, do the PD/PI(s) and key personnel have the expertise, experience, and ability to organize, manage and implement the proposed clinical trial and meet milestones and timelines? Do they have appropriate expertise in study coordination, data management and statistics? For a multicenter trial, is the organizational structure appropriate and does the application identify a core of potential center investigators and staffing for a coordinating center?
+Innovation
+Does the application challenge and seek to shift current research or clinical practice paradigms by utilizing novel theoretical concepts, approaches or methodologies, instrumentation, or interventions? Are the concepts, approaches or methodologies, instrumentation, or interventions novel to one field of research or novel in a broad sense? Is a refinement, improvement, or new application of theoretical concepts, approaches or methodologies, instrumentation, or interventions proposed?
+Does the design/research plan include innovative elements, as appropriate, that enhance its sensitivity, potential for information or potential to advance scientific knowledge or clinical practice?
+Approach
+Are the overall strategy, methodology, and analyses well-reasoned and appropriate to accomplish the specific aims of the project? Have the investigators included plans to address weaknesses in the rigor of prior research that serves as the key support for the proposed project? Have the investigators presented strategies to ensure a robust and unbiased approach, as appropriate for the work proposed? Are potential problems, alternative strategies, and benchmarks for success presented? If the project is in the early stages of development, will the strategy establish feasibility and will particularly risky aspects be managed? Have the investigators presented adequate plans to address relevant biological variables, such as sex, for studies in vertebrate animals or human subjects?
+If the project involves human subjects and/or NIH-defined clinical research, are the plans to address 1) the protection of human subjects from research risks, and 2) inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion or exclusion of individuals of all ages (including children and older adults), justified in terms of the scientific goals and research strategy proposed?
+Specific to this FOA:
+Is the timeline feasible to complete all requirements for obtaining an IND(s) for the proposed clinical trial(s) by the end of the UG3 phase (3-year maximum), as described in the milestone plan?
+Does the application adequately address the following, if applicable
+Study Design
+Is the study design justified and appropriate to address primary and secondary outcome variable(s)/endpoints that will be clear, informative and relevant to the hypothesis being tested? Is the scientific rationale/premise of the study based on previously well-designed preclinical and/or clinical research? Given the methods used to assign participants and deliver interventions, is the study design adequately powered to answer the research question(s), test the proposed hypothesis/hypotheses, and provide interpretable results? Is the trial appropriately designed to conduct the research efficiently? Are the study populations (size, gender, age, demographic group), proposed intervention arms/dose, and duration of the trial, appropriate and well justified?
+Are potential ethical issues adequately addressed? Is the process for obtaining informed consent or assent appropriate? Is the eligible population available? Are the plans for recruitment outreach, enrollment, retention, handling dropouts, missed visits, and losses to follow-up appropriate to ensure robust data collection? Are the planned recruitment timelines feasible and is the plan to monitor accrual adequate? Has the need for randomization (or not), masking (if appropriate), controls, and inclusion/exclusion criteria been addressed? Are differences addressed, if applicable, in the intervention effect due to sex/gender and race/ethnicity?
+Are the plans to standardize, assure quality of, and monitor adherence to, the trial protocol and data collection or distribution guidelines appropriate? Is there a plan to obtain required study agent(s)? Does the application propose to use existing available resources, as applicable?
+Data Management and Statistical Analysis
+Are planned analyses and statistical approach appropriate for the proposed study design and methods used to assign participants and deliver interventions? Are the procedures for data management and quality control of data adequate at clinical site(s) or at center laboratories, as applicable? Have the methods for standardization of procedures for data management to assess the effect of the intervention and quality control been addressed? Is there a plan to complete data analysis within the proposed period of the award?
+Environment
+Will the scientific environment in which the work will be done contribute to the probability of success? Are the institutional support, equipment and other physical resources available to the investigators adequate for the project proposed? Will the project benefit from unique features of the scientific environment, subject populations, or collaborative arrangements?
+If proposed, are the administrative, data coordinating, enrollment and laboratory/testing centers, appropriate for the trial proposed?
+Does the application adequately address the capability and ability to conduct the trial at the proposed site(s) or centers? Are the plans to add or drop enrollment centers, as needed, appropriate?
+If international site(s) is/are proposed, does the application adequately address the complexity of executing the clinical trial?
+If multi-sites/centers, is there evidence of the ability of the individual site or center to: (1) enroll the proposed numbers; (2) adhere to the protocol; (3) collect and transmit data in an accurate and timely fashion; and, (4) operate within the proposed organizational structure?
+Additional Review Criteria
+As applicable for the project proposed, reviewers will evaluate the following additional items while determining scientific and technical merit, and in providing an overall impact score, but will not give separate scores for these items.
+Study Timeline
+Is the study timeline described in detail, taking into account start-up activities, the anticipated rate of enrollment, and planned follow-up assessment? Is the projected timeline feasible and well justified? Does the project incorporate efficiencies and utilize existing resources (e.g., CTSAs, practice-based research networks, electronic medical records, administrative database, or patient registries) to increase the efficiency of participant enrollment and data collection, as appropriate?
+Are potential challenges and corresponding solutions discussed (e.g., strategies that can be implemented in the event of enrollment shortfalls)?
+Protections for Human Subjects
+For research that involves human subjects but does not involve one of the categories of research that are exempt under 45 CFR Part 46, the committee will evaluate the justification for involvement of human subjects and the proposed protections from research risk relating to their participation according to the following five review criteria: 1) risk to subjects, 2) adequacy of protection against risks, 3) potential benefits to the subjects and others, 4) importance of the knowledge to be gained, and 5) data and safety monitoring for clinical trials.
+For research that involves human subjects and meets the criteria for one or more of the categories of research that are exempt under 45 CFR Part 46, the committee will evaluate: 1) the justification for the exemption, 2) human subjects involvement and characteristics, and 3) sources of materials. For additional information on review of the Human Subjects section, please refer to the Guidelines for the Review of Human Subjects.
+Inclusion of Women, Minorities, and Individuals Across the Lifespan
+When the proposed project involves human subjects and/or NIH-defined clinical research, the committee will evaluate the proposed plans for the inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion (or exclusion) of individuals of all ages (including children and older adults) to determine if it is justified in terms of the scientific goals and research strategy proposed. For additional information on review of the Inclusion section, please refer to the Guidelines for the Review of Inclusion in Clinical Research.
+Vertebrate Animals
+The committee will evaluate the involvement of live vertebrate animals as part of the scientific assessment according to the following criteria: (1) description of proposed procedures involving animals, including species, strains, ages, sex, and total number to be used; (2) justifications for the use of animals versus alternative models and for the appropriateness of the species proposed; (3) interventions to minimize discomfort, distress, pain and injury; and (4) justification for euthanasia method if NOT consistent with the AVMA Guidelines for the Euthanasia of Animals. Reviewers will assess the use of chimpanzees as they would any other application proposing the use of vertebrate animals. For additional information on review of the Vertebrate Animals section, please refer to the Worksheet for Review of the Vertebrate Animal Section.
+Biohazards
+Reviewers will assess whether materials or procedures proposed are potentially hazardous to research personnel and/or the environment, and if needed, determine whether adequate protection is proposed.
+Resubmissions
+Not Applicable
+Renewals
+Not Applicable
+Revisions
+Not Applicable
+Additional Review Considerations
+As applicable for the project proposed, reviewers will consider each of the following items, but will not give scores for these items, and should not consider them in providing an overall impact score.
+Applications from Foreign Organizations
+Not Applicable.
+Select Agent Research
+Reviewers will assess the information provided in this section of the application, including 1) the Select Agent(s) to be used in the proposed research, 2) the registration status of all entities where Select Agent(s) will be used, 3) the procedures that will be used to monitor possession use and transfer of Select Agent(s), and 4) plans for appropriate biosafety, biocontainment, and security of the Select Agent(s).
+Resource Sharing Plans
+Reviewers will comment on whether the following Resource Sharing Plans, or the rationale for not sharing the following types of resources, are reasonable: (1) Data Sharing Plan; (2) Sharing Model Organisms; and (3) Genomic Data Sharing Plan (GDS).
+Authentication of Key Biological and/or Chemical Resources:
+For projects involving key biological and/or chemical resources, reviewers will comment on the brief plans proposed for identifying and ensuring the validity of those resources.
+Budget and Period of Support
+Reviewers will consider whether the budget and the requested period of support are fully justified and reasonable in relation to the proposed research.
+2. Review and Selection Process
+Applications will be evaluated for scientific and technical merit by (an) appropriate Scientific Review Group(s) convened by the Center for Scientific Review, in accordance with NIH peer review policy and procedures, using the stated review criteria. Assignment to a Scientific Review Group will be shown in the eRA Commons.
+As part of the scientific peer review, all applications will receive a written critique.
+Applications may undergo a selection process in which only those applications deemed to have the highest scientific and technical merit (generally the top half of applications under review) will be discussed and assigned an overall impact score.
+Appeals of initial peer review will not be accepted for applications submitted in response to this FOA.
+Applications will be assigned to the appropriate NIH Institute or Center. Applications will compete for available funds with all other recommended applications submitted in response to this FOA. Following initial peer review, recommended applications will receive a second level of review by the appropriate national Advisory Council or Board. The following will be considered in making funding decisions:
+Scientific and technical merit of the proposed project as determined by scientific peer review.
+Availability of funds.
+Relevance of the proposed project to program priorities.
+3. Anticipated Announcement and Award Dates
+After the peer review of the application is completed, the PD/PI will be able to access his or her Summary Statement (written critique) via the eRA Commons. Refer to Part 1 for dates for peer review, advisory council review, and earliest start date.
+Information regarding the disposition of applications is available in the NIH Grants Policy Statement.
+Section VI. Award Administration Information
+1. Award Notices
+If the application is under consideration for funding, NIH will request "just-in-time" information from the applicant as described in the NIH Grants Policy Statement.
+A formal notification in the form of a Notice of Award (NoA) will be provided to the applicant organization for successful applications. The NoA signed by the grants management officer is the authorizing document and will be sent via email to the recipient's business official.
+Recipients must comply with any funding restrictions described in Section IV.5. Funding Restrictions. Selection of an application for award is not an authorization to begin performance. Any costs incurred before receipt of the NoA are at the recipient's risk. These costs may be reimbursed only to the extent considered allowable pre-award costs.
+Any application awarded in response to this FOA will be subject to terms and conditions found on the Award Conditions and Information for NIH Grants website. This includes any recent legislation and policy applicable to awards that is highlighted on this website.
+Individual awards are based on the application submitted to, and as approved by, the NIH and are subject to the IC-specific terms and conditions identified in the NoA.
+ClinicalTrials.gov: If an award provides for one or more clinical trials. By law (Title VIII, Section 801 of Public Law 110-85), the "responsible party" must register and submit results information for certain “applicable clinical trials” on the ClinicalTrials.gov Protocol Registration and Results System Information Website (https://register.clinicaltrials.gov). NIH expects registration and results reporting of all trials whether required under the law or not. For more information, see https://grants.nih.gov/policy/clinical-trials/reporting/index.htm
+Institutional Review Board or Independent Ethics Committee Approval: Recipient institutions must ensure that all protocols are reviewed by their IRB or IEC. To help ensure the safety of participants enrolled in NIH-funded studies, the recipient must provide NIH copies of documents related to all major changes in the status of ongoing protocols.
+Data and Safety Monitoring Requirements: The NIH policy for data and safety monitoring requires oversight and monitoring of all NIH-conducted or -supported human biomedical and behavioral intervention studies (clinical trials) to ensure the safety of participants and the validity and integrity of the data. Further information concerning these requirements is found at http://grants.nih.gov/grants/policy/hs/data_safety.htm and in the application instructions (SF424 (R&R) and PHS 398).
+Investigational New Drug or Investigational Device Exemption Requirements: Consistent with federal regulations, clinical research projects involving the use of investigational therapeutics, vaccines, or other medical interventions (including licensed products and devices for a purpose other than that for which they were licensed) in humans under a research protocol must be performed under a Food and Drug Administration (FDA) investigational new drug (IND) or investigational device exemption (IDE).
+2. Administrative and National Policy Requirements
+All NIH grant and cooperative agreement awards include the NIH Grants Policy Statement as part of the NoA. For these terms of award, see the NIH Grants Policy Statement Part II: Terms and Conditions of NIH Grant Awards, Subpart A: General and Part II: Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for Specific Types of Grants, Recipients, and Activities, including of note, but not limited to:
+Federalwide Research Terms and Conditions
+Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment
+Acknowledgment of Federal Funding
+If a recipient is successful and receives a Notice of Award, in accepting the award, the recipient agrees that any activities under the award are subject to all provisions currently in effect or implemented during the period of the award, other Department regulations and policies in effect at the time of the award, and applicable statutory provisions.
+Should the applicant organization successfully compete for an award, recipients of federal financial assistance (FFA) from HHS must administer their programs in compliance with federal civil rights laws that prohibit discrimination on the basis of race, color, national origin, disability, age and, in some circumstances, religion, conscience, and sex (including gender identify, sexual orientation, and pregnancy). This includes ensuring programs are accessible to persons with limited English proficiency and persons with disabilities. The HHS Office for Civil Rights provides guidance on complying with civil rights laws enforced by HHS. Please see https://www.hhs.gov/civil-rights/for-providers/provider-obligations/index.html and https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html
+HHS recognizes that research projects are often limited in scope for many reasons that are nondiscriminatory, such as the principal investigator’s scientific interest, funding limitations, recruitment requirements, and other considerations. Thus, criteria in research protocols that target or exclude certain populations are warranted where nondiscriminatory justifications establish that such criteria are appropriate with respect to the health or safety of the subjects, the scientific study design, or the purpose of the research. For additional guidance regarding how the provisions apply to NIH grant programs, please contact the Scientific/Research Contact that is identified in Section VII under Agency Contacts of this FOA.
+Recipients of FFA must ensure that their programs are accessible to persons with limited English proficiency. For guidance on meeting the legal obligation to take reasonable steps to ensure meaningful access to programs or activities by limited English proficient individuals see https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-english-proficiency/fact-sheet-guidance/index.htmlandhttps://www.lep.gov.
+For information on an institution’s specific legal obligations for serving qualified individuals with disabilities, including reasonable accommodations and making services accessible to them, see http://www.hhs.gov/ocr/civilrights/understanding/disability/index.html.
+HHS funded health and education programs must be administered in an environment free of sexual harassment, see https://www.hhs.gov/civil-rights/for-individuals/sex-discrimination/index.html. For information about NIH's commitment to supporting a safe and respectful work environment, who to contact with questions or concerns, and what NIH's expectations are for institutions and the individuals supported on NIH-funded awards, please see https://grants.nih.gov/grants/policy/harassment.htm.
+For guidance on administering programs in compliance with applicable federal conscience protection and associated anti-discrimination laws see https://www.hhs.gov/conscience/conscience-protections/index.html and https://www.hhs.gov/conscience/religious-freedom/index.html.
+Please contact the HHS Office for Civil Rights for more information about obligations and prohibitions under federal civil rights laws at https://www.hhs.gov/ocr/about-us/contact-us/index.html or call 1-800-368-1019 or TDD 1-800-537-7697.
+In accordance with the statutory provisions contained in Section 872 of the Duncan Hunter National Defense Authorization Act of Fiscal Year 2009 (Public Law 110-417), NIH awards will be subject to the Federal Awardee Performance and Integrity Information System (FAPIIS) requirements. FAPIIS requires Federal award making officials to review and consider information about an applicant in the designated integrity and performance system (currently FAPIIS) prior to making an award. An applicant, at its option, may review information in the designated integrity and performance systems accessible through FAPIIS and comment on any information about itself that a Federal agency previously entered and is currently in FAPIIS. The Federal awarding agency will consider any comments by the applicant, in addition to other information in FAPIIS, in making a judgement about the applicant’s integrity, business ethics, and record of performance under Federal awards when completing the review of risk posed by applicants as described in 45 CFR Part 75.205and 2 CFR Part 200.206 “Federal awarding agency review of risk posed by applicants.” This provision will apply to all NIH grants and cooperative agreements except fellowships.
+Cooperative Agreement Terms and Conditions of Award
+The following special terms of the award are in addition to, and not in lieu of, otherwise applicable U.S. Office of Management and Budget (OMB) administrative guidelines, U.S. Department of Health and Human Services (DHHS) grant administration regulations at 45 CFR Part 75, 2 CFR 200, and other HHS, PHS, and NIH grant administration policies. The administrative and funding instrument used for this program will be the cooperative agreement, an "assistance" mechanism (rather than an "acquisition" mechanism), in which substantial NIH programmatic involvement with the awardees is anticipated during the performance of the activities. Under the cooperative agreement, the NIH's purpose is to support and stimulate the recipients' activities by involvement in and otherwise working jointly with the award recipients in a partnership role; it is not to assume direction, prime responsibility, or a dominant role in the activities. Consistent with this concept, the dominant role and prime responsibility reside with the awardees for the project as a whole, although specific tasks and activities may be shared among the awardees and the NIH as defined below.
+The PD(s)/PI(s) will have the primary responsibility for:
+Determining research approaches, designing protocols, setting project milestones, and conducting research.
+Participation in regulatory meetings.
+Participating in group activities, including a Consortium-wide SCGE Program Steering Committee and subcommittees as needed.
+The SCGE Consortium will meet in person at least twice a year and the SCGE Program Steering Committee will recommend the frequency of other in-person and teleconference meetings.
+Providing reports and data in a timely fashion as agreed upon by the SCGE Program Steering Committee.
+Submitting all required data, SOPs, protocols, and resources as soon as they are scheduled for submission to the SCGE TCDC for quality control and compilation in the SCGE Phase II Platform.
+Preparing abstracts, presentations, and publications and collaborating Consortium-wide in making the public and professionals aware of the program.
+Assessing and disseminating data, protocols, and methods developed for or derived from the SCGE program within and outside the Consortium.
+Adhering to policies regarding data sharing and publication established by the NIH and the SCGE Program Steering Committee.
+Abiding by common definitions, protocols, and procedures, as chosen by a majority vote of the SCGE Program Steering Committee.
+Submitting periodic progress reports in a standard format, as agreed upon by the SCGE Program Steering Committee and NIH SCGE Working Group.
+Attending and participating in SCGE Program Steering Committee meetings; accepting and implementing decisions by the NIH SCGE Working Group, as appropriate.
+Overseeing all aspects of the organization and execution of the studies outlined in the application and approved by NIH Working Group program staff after peer review. Putting all study materials and procedure manuals into the public domain. Recipients are expected to publish and publicly disseminate results, data, and other products of the study, concordant with governance policies and protocols. Publications and oral presentations of work performed under this agreement will require appropriate acknowledgment of support by NIH.
+NIH staff have substantial programmatic involvement that is above and beyond the normal stewardship role in awards, as described below:
+The Program Official will be responsible for the normal scientific and programmatic stewardship of the award to be named in the award notice. Additionally, prior to funding an application, the Program Official will contact the applicant to discuss the proposed milestones and any changes suggested by NIH staff or the NIH review panel. The Program Official and Project Scientist will negotiate with the applicant and agree on a final set of approved milestones which will be specified in the Notice of Award. The NIH Program Official, in consultation with the Project Scientist and NIH SCGE Working Group, will be responsible for the review and recommendation for future funding including determining if the award recipient has met the milestones for the transition from the UG3 to the UH3 phase.
+The NIH Project Scientist(s) will have substantial scientific and programmatic involvement during the conduct of this activity through technical assistance, advice, and coordination. However, the role of NIH staff will be to facilitate and not to direct the activities. The Project Scientist(s) will participate as members of the SCGE Program Steering Committee. The Project Scientist(s) will have the following substantial involvement:
+Participating with the other SCGE Program Steering Committee members in addressing issues that arise with SCGE planning, operation, assessment, and data analysis. The Project Scientist(s) will assist and facilitate the group process and not direct it.
+Serving as a liaison, helping to coordinate activities, including acting as a liaison to other NIH Institutes/Centers, and as an information resource for the recipients. The Project Scientist(s) will also help coordinate the efforts of the SCGE Consortium with other groups conducting similar efforts.
+Attending all SCGE Program Steering Committee meetings, assisting in developing standard operating procedures, and consistent policies for dealing with situations that require coordinated action. The Project Scientist(s) will be responsible for working with the recipient as needed to manage the logistic aspects of the SCGE program.
+Reporting periodically on SCGE progress to the Common Fund SCGE Working Group and through it to the NIH Common Fund.
+Serving on subcommittees of the SCGE Program Steering Committee as appropriate.
+Assisting recipients in the development, if needed, of policies for dealing with situations that require coordinated action.
+Providing advice in the management and technical performance of the award.
+Assisting in promoting the availability of the data and related resources developed in the course of this program to the scientific community at large.
+Participating in data analyses, interpretations, and, where warranted, co-authorship of the publication of results of studies conducted through the program.
+Comparing actual results to the benchmarks and criteria identified in the application and negotiated prior to award; recipients who do not accomplish the negotiated milestones shall submit a milestone report which will include a discussion of why the milestones were not met in the agreed-upon timeframe, and propose a corrective action plan. The corrective recruitment action plan shall include: amended milestones, plans to achieve the amended milestones, and any additional items required by NIH Working Group staff. The plan shall be provided to NIH Working Group staff no later than 2 months following the missed milestone.
+Overseeing the adequacy of adverse event management and reporting and having regular communications with the PD/PI and study team, which may include attendance at the DSMB and related committee meetings.
+Reviewing the progress of the study, and of each participating facility, through consideration of the annual reports, site visits, volunteer logs, etc. This review may include, but is not limited to, compliance with the study protocol, meeting enrollment targets, adherence to uniform data collection procedures, and the timeliness and quality of data reporting. Facilitate coordination among NIH-supported clinical trials networks and research groups, clinical research support programs, and other U.S. Government agencies, promoting collaborations and facilitating information exchange.
+Other NIH SCGE Working Group staff may assist the award recipient as designated by the Program Official.
+NIH reserves the right to withhold funding or curtail an award in the event of:
+a substantial shortfall in accomplishing the management goals and responsibilities as stated in the reviewed application,
+failure to meet procedures and/or negotiated milestones, and/or
+substantive changes in the management of award(s) that are not in keeping with the objectives of the FOA.
+Areas of Joint Responsibility include:
+The SCGE Program Steering Committee will serve as the main scientific body of the program. The SCGE Program Steering Committee will be responsible for coordinating the activities being conducted by the program and is the committee through which the NIH SCGE Working Group formally interacts with the SCGE investigators. The SCGE Program Steering Committee membership will include PD(s)/PI(s) of each SCGE award (limited to one person for a Project with multiple PIs), other staff as needed (ex-officio) and the NIH Project Scientist(s). The SCGE Program Steering Committee may add additional members, and other government staff may attend the SCGE Program Steering Committee meetings as desired. Each award recipient Steering Committee member will have one vote, and the NIH Program Scientist(s) together will have one vote.
+The SCGE Program Steering Committee may establish subcommittees as needed to address particular issues, which will include representatives from the program and the NIH, and possibly other experts. The SCGE Program Steering Committee will have the overall responsibility of assessing and prioritizing the progress of the various subcommittees.
+The SCGE award recipient agrees to work collaboratively to:
+Provide secure, accurate, and timely data, SOP, protocol, and resource submission.
+Participate in presenting and publishing new processes and substantive findings.
+Assess and disseminate the SCGE Phase II Platform.
+Participate in the governance of the SCGE program as a member of the SCGE Program Steering Committee.
+Make some recipient-generated animal and/or human samples from genome-editing therapeutic studies to other Consortium members. Recipients are encouraged to collaborate with other SCGE Consortium members to help evaluate the utility and performance of the assay(s) to further advance the field.
+Interact with other relevant NIH activities, as needed, to promote synergy and consistency among similar projects.
+Program Consultants (PCs):
+PCs will be responsible for reviewing and evaluating the progress of the entire SCGE program. PCs will also, as appropriate and at the request of the NIH SCGE Working Group, provide input to the NIH about the progress of the individual SCGE projects in meeting their individual and Consortium goals and milestones. The PCs will include 4-6 senior, non-federal scientific experts who are not directly involved in the activities of the SCGE program. NIH will appoint PCs and may adjust the roster of PCs in response to program needs. The SCGE POs, PSs, NIH SCGE Working Group, and other NIH staff may attend the PC meetings.
+The PCs will meet at least once a year, in conjunction with a meeting of the SCGE Program Steering Committee in the DC Metro area, to allow the PCs to interact directly with the PD/PI(s), and by phone or email, at other times as needed.
+Annually, the PC members will provide their individual assessments to the NIH of the progress of the SCGE Consortium, and, as necessary, will present recommendations regarding any changes to the SCGE program. The assessments and recommendations will be provided, through the NIH SCGE Working Group, to the Director of the Office of Strategic Coordination, NIH.
+Dispute Resolution:
+Any disagreements that may arise in scientific or programmatic matters (within the scope of the award) between award recipients and the NIH may be brought to Dispute Resolution. A Dispute Resolution Panel composed of three members will be convened. It will have three members: a designee of the Steering Committee chosen without NIH staff voting, one NIH designee, and a third designee with expertise in the relevant area who is chosen by the other two; in the case of individual disagreement, the first member may be chosen by the individual recipient. This special dispute resolution procedure does not alter the recipient's right to appeal an adverse action that is otherwise appealable in accordance with PHS regulation 42 CFR Part 50, Subpart D and DHHS regulation 45 CFR Part 16.
+3. Reporting
+When multiple years are involved, recipients will be required to submit the Research Performance Progress Report (RPPR) annually and financial statements as required in the NIH Grants Policy Statement.
+A final RPPR, invention statement, and the expenditure data portion of the Federal Financial Report are required for closeout of an award, as described in the NIH Grants Policy Statement. NIH FOAs outline intended research goals and objectives. Post award, NIH will review and measure performance based on the details and outcomes that are shared within the RPPR, as described at 45 CFR Part 75.301 and 2 CFR Part 200.301.
+The Federal Funding Accountability and Transparency Act of 2006 (Transparency Act), includes a requirement for recipients of Federal grants to report information about first-tier subawards and executive compensation under Federal assistance awards issued in FY2011 or later. All recipients of applicable NIH grants and cooperative agreements are required to report to the Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the NIH Grants Policy Statement for additional information on this reporting requirement.
+In accordance with the regulatory requirements provided at 45 CFR 75.113 and Appendix XII to 45 CFR Part 75, recipients that have currently active Federal grants, cooperative agreements, and procurement contracts from all Federal awarding agencies with a cumulative total value greater than $10,000,000 for any period of time during the period of performance of a Federal award, must report and maintain the currency of information reported in the System for Award Management (SAM) about civil, criminal, and administrative proceedings in connection with the award or performance of a Federal award that reached final disposition within the most recent five-year period. The recipient must also make semiannual disclosures regarding such proceedings. Proceedings information will be made publicly available in the designated integrity and performance system (currently FAPIIS). This is a statutory requirement under section 872 of Public Law 110-417, as amended (41 U.S.C. 2313). As required by section 3010 of Public Law 111-212, all information posted in the designated integrity and performance system on or after April 15, 2011, except past performance reviews required for Federal procurement contracts, will be publicly available. Full reporting requirements and procedures are found in Appendix XII to 45 CFR Part 75 – Award Term and Conditions for Recipient Integrity and Performance Matters.
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity and welcome the opportunity to answer questions from potential applicants.
+Application Submission Contacts
+eRA Service Desk (Questions regarding ASSIST, eRA Commons, application errors and warnings, documenting system problems that threaten submission by the due date, and post-submission issues)
+Finding Help Online: http://grants.nih.gov/support/ (preferred method of contact)
+Telephone: 301-402-7469 or 866-504-9552 (Toll Free)
+General Grants Information (Questions regarding application instructions, application processes, and NIH grant resources)
+Email: GrantsInfo@nih.gov (preferred method of contact)
+Telephone: 301-945-7573
+Grants.gov Customer Support (Questions regarding Grants.gov registration and Workspace)
+Contact Center Telephone: 800-518-4726
+Email: support@grants.gov
+Scientific/Research Contact(s)
+Philip J. ("Pj") Brooks, Ph.D.
+National Center for Advancing Translational Sciences (NCATS)
+Telephone: 301-443-0513
+Email: pj.brooks@mail.nih.gov
+Peer Review Contact(s)
+Center for Scientific Review
+Email: FOAReviewContact@csr.nih.gov
+Financial/Grants Management Contact(s)
+Katie Matthews
+National Center for Advancing Translational Sciences (NCATS)
+Telephone: 301-827-7060
+Email: katie.matthews@nih.gov
+Section VIII. Other Information
+Recently issued trans-NIH policy notices may affect your application submission. A full list of policy notices published by NIH is provided in the NIH Guide for Grants and Contracts. All awards are subject to the terms and conditions, cost principles, and other considerations described in the NIH Grants Policy Statement.
+Authority and Regulations
+Awards are made under the authorization of Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 2 Part CFR 200, 42 CFR Part 52 and 45 CFR Part 75.
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+Department of Health
+and Human Services (HHS)
+NIH... Turning Discovery Into Health®
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.

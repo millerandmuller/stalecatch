@@ -2,8 +2,8 @@
 .git
 .env
 .env.*
-data
+data/*
+!data/recorded_run.json
 .pytest_cache
 __pycache__
 *.pyc
-bench/report.json

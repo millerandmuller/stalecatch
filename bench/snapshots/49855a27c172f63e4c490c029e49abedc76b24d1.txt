@@ -1,0 +1,190 @@
+National Science Foundation - Where Discoveries Begin
+Contact
+Help
+search
+Skip to main content
+NSB
+NSB
+✕
+Research Areas
+Biological Sciences (BIO)
+Computer and Information Science and Engineering (CISE)
+Education and Human Resources (EHR)
+Engineering (ENG)
+Environmental Research and Education (ERE)
+Geosciences (GEO)
+Integrative Activities (OIA)
+International Science and Engineering (OISE)
+Mathematical and Physical Sciences (MPS)
+Social, Behavioral and Economic Sciences (SBE)
+Related Links
+Interdisciplinary Research
+NSF Organization List
+Staff Directory
+Understanding NSF Research
+Funding
+About Funding
+Browse Funding Opportunities A-Z
+Due Dates
+Find Funding
+Merit Review
+Policies and Procedures
+Preparing Proposals
+Recent Opportunities
+Transformative Research
+Related Links
+Proposal and Award Policies and Procedures Guide (PAPPG)
+Research.gov
+FastLane
+Funding Opportunities For
+Graduate Students
+K-12 Educators
+Postdoctoral Fellows
+Undergraduate Students
+Small Business
+Awards
+About Awards
+Award Statistics (Budget Internet Info System)
+Award Conditions
+Managing Awards
+Policies and Procedures
+Presidential and Honorary Awards
+Search Awards
+Related Links
+Research.gov
+FastLane
+NSF Public Access Repository (NSF-PAR)
+Document Library
+All Documents
+National Center for Science and Engineering Statistics (NCSES)
+Obtaining Documents
+Search Documents
+News
+All News
+For News Media
+Multimedia Gallery
+NSF Director's Newsletter
+Search News
+Special Reports
+Speeches and Lectures
+Related Links
+About NSF Logo
+Events
+About NSF
+About NSF
+Broadening Participation/Diversity
+Budget and Performance
+Career Opportunities
+Contracting Opportunities
+History
+National Science Board (NSB)
+NSF and Congress
+NSF Toolkit
+Office of Diversity and Inclusion
+Organization List
+Partners
+Staff Directory
+Transparency and Accountability
+Visit NSF
+Funding
+About Funding
+Browse Funding Opportunities A-Z
+Due Dates
+Find Funding
+Merit Review
+Policies and Procedures
+Preparing Proposals
+Recent Opportunities
+Small Business
+Transformative Research
+Home
+Funding
+Email
+Print
+Share
+Division of Computer and Network Systems
+NSF/Intel Partnership on Information-Centric Networking in Wireless Edge Networks
+(ICN-WEN)
+CONTACTS
+Name
+Email
+Phone
+Room
+David
+Corman
+dcorman@nsf.gov
+(703) 292-8950
+Darleen
+L.
+Fisher
+dlfisher@nsf.gov
+(703) 292-8950
+Thyagarajan
+Nandagopal
+tnandago@nsf.gov
+(703) 292-8950
+PROGRAM GUIDELINES
+Solicitation
+16-586
+Important Information for Proposers
+A revised version of the NSF Proposal & Award Policies & Procedures Guide (PAPPG) (NSF 17-1), is
+effective for proposals submitted, or due, on or after January 30, 2017. Please be advised that, depending
+on the specified due date, the guidelines contained in NSF 17-1 may apply to proposals submitted in response to this
+funding opportunity.
+SYNOPSIS
+Next-generation wireless networks, utilizing a wide swath of wireless spectrum and an array of novel technologies in the wired and wireless domains, are on the cusp of unleashing a broadband revolution with promised peak bit rates of tens of gigabits per second and latencies of less than a millisecond. Such innovations will make possible a new set of applications such as autonomous vehicles, industrial robotics, tactile Internet applications, virtual and augmented reality, and dense Internet of Things (IoT) deployments. A key requirement of these applications is fast information response time that is invariant as a function of the bandwidth demanded, users/devices supported, and data generated, of which low-latency wireless access time is only one component. Intrinsic security, seamless mobility, scalable content caching, and discovery/distribution services are also essential for such applications.
+This solicitation seeks unique data network architectures featuring an information plane using an Information-Centric Networking (ICN) approach and addressing discovery, movement, delivery, management, and protection of information within a network, along with the abstraction of an underlying communication plane creating opportunities for new efficiencies and optimizations across communications technologies that could also address latency and scale requirements.
+RELATED URLS
+ICN-WEN Webinar - July 28, 2016 - Presentation, Audio and Transcript are here!
+What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
+Map of Recent Awards Made Through This Program
+National Science Foundation
+Research.gov
+News
+All News
+Multimedia Gallery
+Funding & Awards
+A-Z Index of Funding Opportunities
+Find Funding
+Award Search
+Proposal & Award Policies Procedures Guide (PAPPG)
+Recently Announced Funding Opportunities
+Upcoming Funding Opportunity Due Dates
+Document Library &
+About NSF
+Document Library
+About NSF
+Careers
+Staff Directory
+About Services
+Application Submission
+ACM$ (Award Cash Management Service)
+Notifications & Requests
+Project Reports
+Proposal Status
+Public Access
+User Management
+NSF Award Highlights
+Research Spending & Results
+Contact
+Contact Help Desk
+Feedback
+Text Only Version
+View Mobile Site
+Facebook
+Twitter
+LinkedIn
+YouTube
+See all NSF social media
+Website Policies
+Budget and Performance
+Inspector General
+Privacy
+FOIA
+No FEAR Act
+USA.gov
+Accessibility
+Plain Language
+Contact
+Research.gov
+National Science Foundation, 4201 Wilson Boulevard, Arlington, Virginia 22230, USA Tel: (703) 292-5111, FIRS: (800) 877-8339 | TDD: (800) 281-8749

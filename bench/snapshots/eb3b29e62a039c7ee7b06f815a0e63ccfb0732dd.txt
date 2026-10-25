@@ -1,0 +1,1501 @@
+Department of Health
+and Human Services
+Part 1. Overview Information
+Participating Organization(s)
+National Institutes of Health (NIH)
+Components of Participating
+Organizations
+National Heart, Lung, and Blood Institute (NHLBI)
+Funding Opportunity Title
+The NIH Centers for Accelerated Innovations (U54)
+Activity Code
+U54 Specialized Center- Cooperative Agreements
+Announcement Type
+New
+Related Notices
+August 10, 2012 - See Notice NOT-HL-12-148. Notice of Clarification to Section IV6 Special Instructions.
+Funding Opportunity Announcement (FOA) Number
+RFA-HL-13-008
+Companion Funding Opportunity
+None
+Number of Applications
+In response to this FOA, an institution can only submit,
+or be part of, a single application. Applications should include detailed
+evidence of significant institutional commitment.
+See Section III. 3.
+Additional Information on Eligibility.
+Catalog of Federal Domestic Assistance (CFDA) Number(s)
+93.233, 93.837, 93.838, 93.839
+Funding Opportunity Purpose
+The NIH Centers for Accelerated Innovations (NCAI) will
+develop Centers that (1) solicit and select promising emerging technologies,
+such as therapeutics (e.g., drugs, biologics), preventatives, diagnostics,
+devices, tools, etc. and (2) facilitate their translation to commercialized
+products that improve patient care and enhance health. The NCAI will nurture
+the development of high priority early-stage technologies within the NHLBI’s
+mission in a manner consistent with business case development and regulatory
+requirements by providing (1) funding for product definition studies (e.g.
+feasibility studies, prototype development, or proof-of-concept studies), (2)
+unified and coordinated access to expertise in areas required for early
+technology development, including scientific, regulatory, reimbursement,
+business, legal, and project management, and (3) training and hands-on experience
+in entrepreneurism. Establishing public-private partnerships and providing
+non-federal funds will be critical for success.
+Key Dates
+Posted Date
+May 17, 2012
+Letter of Intent Due Date
+August 19, 2012
+Application Due Date(s)
+September 19, 2012
+AIDS Application Due Date(s)
+Not Applicable
+Scientific Merit Review
+March 2013
+Advisory Council Review
+May 2013
+Earliest Start Date(s)
+August 2013
+Expiration Date
+September 20, 2012
+Due Dates for E.O. 12372
+Not Applicable
+Required Application Instructions
+It is critical that applicants follow the instructions in
+the PHS398
+Application Guide except where instructed to do otherwise (in this FOA or
+in a Notice from the NIH Guide
+for Grants and Contracts). Conformance to all requirements (both in
+the Application Guide and the FOA) is required and strictly enforced. While
+some links are provided, applicants must read and follow all application
+instructions in the Application Guide as well as any program-specific
+instructions noted in Section IV. When
+the program-specific instructions deviate from those in the Application Guide,
+follow the program-specific instructions. Applications that do not
+comply with these instructions may be delayed or not accepted for review.
+Note: A new version of the paper PHS 398 application form and instructions
+(revised 6/2009) must now be used. Download the new application form and instructions
+from http://grants.nih.gov/grants/forms.htm.
+Table of Contents
+Part 1. Overview Information
+Part 2. Full Text of Announcement
+Section I. Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission
+Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2. Full Text of
+Announcement
+Section
+I. Funding Opportunity Description
+Purpose
+This program will establish Centers that will create
+infrastructure and processes to provide the support required to translate novel
+early stage scientific advances and discoveries into commercially viable
+products [such as therapeutics (e.g., drugs, biologics), preventatives,
+diagnostics, devices, tools, etc.] that improve patient care and advance public
+health. The NIH Centers for Accelerated Innovations (NCAI) will foster the
+development of high priority early-stage technologies that address diseases
+within the NHLBI’s mission in a manner consistent with business case
+development and regulatory requirements by (1) providing funding for scientific
+product definition studies (feasibility, validation, prototype development, or
+proof of concept studies); (2) providing unified and coordinated access to
+expertise in areas required for early technology development, including
+scientific, regulatory, reimbursement, business, legal, and project management;
+(3) leveraging existing NIH resources, such as Science Moving Towards Research Translation
+and Therapy (SMARTT) and the Clinical
+and Translational Science Awards (CTSAs); (4) establishing novel
+partnerships and strengthening existing alliances between stakeholders,
+including public, private, non-profit, and academic sectors; (5) providing
+Innovators with training and hands-on experience in entrepreneurism; and (6)
+creating cultural and systemic changes by providing the necessary resources to
+proactively and more rapidly move from breakthrough innovations to products
+that will have health, economic, and societal impact.
+Background
+Cardiovascular and lung diseases account for 3 of the 4
+leading causes of death, 4 of the 10 leading causes of infant death, $382
+billion in health care dollars per year, and 22% of the total economic costs of
+illness, injuries, and death. Over twenty-three million blood transfusions are
+performed per year at the cost of approximately $10 billion dollars. Although
+NIH invests billions of dollars a year in biomedical research, which has led to
+great advances in scientific tools and biological insights, there are barriers
+to effectively translating basic science discoveries from academia to patient
+benefit. These barriers include (1) a gap in funding on a national level
+between basic research discoveries and scientific proof of feasibility or
+validation studies required for early stage technology development; (2) a lack
+of knowledge and understanding by academic researchers about how new
+technologies are brought to market; and (3) a lack of access to sufficient
+technology development and commercialization resources that are required for
+early stage technology development. A new approach is required to enable early
+stage collaboration between academia, government, non-profit organizations, and
+industry to de-risk academic discoveries for hand-off to the private sector for
+commercial development.
+Centers Overview
+For this Funding Opportunity Announcement (FOA), the
+following definitions apply:
+Center – the consortium formed by the parent institution and its
+associated institutions that contribute technology or perform technology
+research and provide training, mentorship, networking, and other development
+activities. These associated institutions will be referred to as Partners in
+this FOA.
+Innovator - the inventor or driver of the technology.
+Technology –therapeutics, preventatives, diagnostics, devices,
+tools, etc.
+Product definition studies - feasibility studies, prototype development,
+or proof-of-concept studies.
+Each Center will have the expertise required to identify
+(solicit and select) and develop promising early stage technologies in order to
+accelerate their translation into commercial technologies to enhance human health.
+Each Center will provide (1) funding to conduct product definition studies,
+whose support is predicated upon the review of proposals for medical need,
+scientific merit, and commercial potential, (2) resources and expertise
+[business plan development, market research, intellectual property (IP)
+protection, regulatory submission, evaluation and review processes,
+reimbursement, project management, etc.], and, (3) educational and networking
+activities with linkages to local or virtual resources. To achieve these
+objectives, each Center will focus on research projects that have progressed to
+a point where a potential commercial product can be envisioned, but additional
+research and development efforts are required to define the product
+(demonstrate feasibility and proof-of-concept).
+Each Center should establish under these cooperative
+agreements an infrastructure that will both promote the technology and nurture
+the Innovator along the pathway towards commercialization. The intent is also
+to facilitate and stimulate the academic community to commercialize technology by
+reducing the barriers associated with navigating an unfamiliar technology and
+business development pathway.
+Research Scope
+The Centers will select early stage technologies that
+address unmet medical needs or offer great scientific opportunities and offer
+either immediate commercial potential or otherwise present compelling reasons
+for continued development (e.g. targets a rare disease). NHLBI program
+priority areas for technology development research include technologies to
+detect, prevent, or treat cardiovascular, lung, blood and sleep disorders as
+follows:
+Cardiovascular Diseases: heart failure, atherothrombosis, and
+heart attack, high blood pressure, atrial fibrillation along with other atrial
+and ventricular arrhythmias, sudden cardiac death, adult and pediatric
+congenital heart disease, cardiovascular complications of diabetes and obesity,
+acquired valve disease, cardiomyopathies, and peripheral vascular diseases.
+Lung Diseases and Sleep Disorders: asthma, bronchopulmonary
+dysplasia, chronic obstructive pulmonary disease, cystic fibrosis, respiratory
+neurobiology, sleep-disordered breathing, critical care and acute lung injury,
+developmental biology and pediatric pulmonary diseases, immunologic and
+fibrotic pulmonary disease, rare lung disorders, pulmonary vascular disease,
+and pulmonary complications of AIDS and tuberculosis.
+Blood Diseases and Resources: sickle cell disease (SCD), the
+thalassemias, Fanconi anemia, Diamond-Blackfan anemia and other bone marrow
+failure syndromes, iron chelation, fetal hemoglobin production, white blood
+cell disorders, myeloproliferative and myelodysplastic syndromes, hematopoietic
+stem cell transplantation and novel cell-based therapies, transfusion medicine
+(red blood cells, platelets, and plasma) and blood banking including
+technologies to store and process blood, thrombosis and hemostatic disorders
+including but not limited to idiopathic thrombocytopenic Purpura (ITP),
+thrombotic thrombocytopenic purpura (TTP), hemophilia, and coagulation factor
+deficiencies and disorders.
+Centers should support the further development of
+technologies requiring product definition studies. Applications proposing
+Centers that will support hypothesis driven research will not be considered,
+and will be returned to the applicant institution without review.
+Specific Requirements
+Through a combination of in-house efforts and collaboration,
+each NIH Center funded under this FOA will perform functions as described in
+section IV.6 to specifically address the critical knowledge and funding gaps
+that hinder the early steps needed to turn novel discoveries into technologies
+for biomedical advancement and patient care.
+Center leadership must possess the necessary operational, business,
+and scientific expertise with a documented track record of success in
+transitioning technologies from the discovery phase to product
+commercialization. In addition, each Center is required to demonstrate the core
+competencies necessary to fulfill the objectives of this FOA, including access
+to expertise in business plan development, market research, IP protection,
+regulatory and reimbursement processes, project management, clinical studies,
+and appropriate domain experts. Centers will have the ability to support
+projects that cover various facets of technology development ranging from early
+stage laboratory-based technology feasibility or validation studies through
+clinical testing. Centers will support the development of relevant technologies
+using a milestone driven approach to transition technologies from the Center to
+the next appropriate source of independent financing or strategic partner with
+the ultimate goal of commercialization.
+An important characteristic of the Centers is the ability to
+collaborate effectively with entities that possess the resources and expertise
+required to commercialize technologies developed through the Center. A Center
+should have a structure that takes into account the full range of technology
+development expertise (including business, legal, regulatory, clinical,
+scientific, etc.) and partnerships necessary to facilitate identifying and
+developing discoveries into technologies that address defined medical and
+scientific needs. Each Center should establish under these cooperative
+agreements an infrastructure that will promote this type of leveraged
+interaction to successfully develop the technologies accepted into the Center.
+The cooperative approach outlined in this FOA allows for interactions among
+successful applicants, with the assistance of the NHLBI, the US Food and Drug
+Administration (FDA), and the US Patent and Trademark Office (USPTO), the
+Office of Entrepreneurship and Innovation (OIE), and the Centers for Medicare
+and Medicaid Services (CMS) to promote the development of integrated plans and
+processes required to conduct product-definition studies that facilitate
+translation and commercialization.
+Each Center must demonstrate access to adequate numbers of
+technologies within the NHLBI priorities described above such that
+approximately three new technologies are accepted into the Center for
+development per year. It is expected that at least 6 technologies (3 new) will
+be under some form of development each year from years 2 through 6 of the award
+and that appropriate negotiated agreements will be in place between the Center
+Partners for both the technology development and for access to the research
+investigators. Use or development of standardized simplified institutional
+agreements to streamline interactions and decrease barriers to technology
+transfer and commercialization are strongly encouraged.
+This FOA will provide funding for a Skills Development
+Component to provide Innovators with hands-on learning experience about the
+design and conduct of product definition studies and the commercialization
+processes required for transitioning a technology out of academic labs.
+Activities could include, but are not limited to, conducting the required
+scientific and business product definition studies, training in market
+assessment and business plan development, and interacting with potential
+strategic partners and investors. The skills development programs could range
+from didactic education to mentoring. Examples include, but are not limited
+to:
+supporting travel for innovators to attend established courses in
+technology development
+developing and implementing local courses on entrepreneurism, as
+well as local focused forums, seminar series, and workshops on technology
+development
+organizing investor/strategic partner match-making forums
+organizing and implementing small business grant development and
+review sessions
+Cross-disciplinary (science, business, regulatory, etc.)
+career development is highly encouraged to achieve the goal of exposing
+Innovators to the myriad processes required to translate discoveries into
+marketable products. Providing the broader investigator community with access
+to forums, seminars, workshops and related activities is encouraged.
+Federal funding provided under this FOA for these Centers is
+not expected to be adequate to fully fund the completion of the high quality
+work necessary for a technology to exit the Center. Hence, it is expected that
+the Center will have additional funding identified at the time of application and
+committed at the time of award that can augment the federal investment for
+product definition studies. Further, it is expected that the Centers will
+develop a financially self-sustaining architecture through agreements with the
+source institutions allowing for revenue from licensing, milestone payments,
+royalties, or other mechanisms.
+Section
+II. Award Information
+Funding Instrument
+Cooperative Agreement
+Application Types Allowed
+New
+The OER
+Glossary and the PHS398 Application Guide provide details on these
+application types.
+Funds Available and Anticipated Number of Awards
+The number of awards is contingent upon NIH
+appropriations, and the submission of a sufficient number of meritorious
+applications.
+The NHLBI intends to commit up to $2 million total costs
+to fund at least one award for fiscal year 2013.
+For a Center, the NHLBI intends to commit up to $4 million
+total costs per year for years 2 – 6 and up to $2 million total costs for
+year 7.
+Award Budget
+An applicant for a Center may request a project period of
+up to 7 years. The NHLBI’s maximum total budget for a Center is $24M for a
+7-year funding period.
+Award Project Period
+Up to seven years.
+NIH grants policies as
+described in the NIH
+Grants Policy Statement will apply
+to the applications submitted and awards made in response to this FOA.
+Section
+III. Eligibility Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+Public/State Controlled Institutions of Higher Education
+Private Institutions of Higher Education
+The following types of Higher Education Institutions
+are always encouraged to apply for NIH support as Public or Private
+Institutions of Higher Education:
+Hispanic-serving
+Institutions
+Historically
+Black Colleges and Universities (HBCUs)
+Tribally
+Controlled Colleges and Universities (TCCUs)
+Alaska
+Native and Native Hawaiian Serving Institutions
+Nonprofits Other Than Institutions of Higher Education
+Nonprofits with 501(c)(3) IRS Status (Other than Institutions of
+Higher Education)
+Nonprofits without 501(c)(3) IRS Status (Other than Institutions
+of Higher Education)
+For-Profit Organizations
+Small Businesses
+For-Profit Organizations (Other than Small Businesses)
+Governments
+State Governments
+County Governments
+City or Township Governments
+Special District Governments
+Indian/Native American Tribal Governments (Federally Recognized)
+Indian/Native American Tribal Governments (Other than Federally
+Recognized)
+Eligible Agencies of the Federal Government
+U.S. Territory or Possession
+Other
+Independent School Districts
+Public Housing Authorities/Indian Housing Authorities
+Native American Tribal Organizations (other than Federally
+recognized tribal governments)
+Faith-based or Community-based Organizations
+Regional Organizations
+Foreign Institutions
+Non-domestic (non-U.S.) Entities (Foreign Institutions) are
+not eligible to apply.
+Non-domestic (non-U.S.) components of U.S. Organizations are not eligible
+to apply.
+Foreign components, as defined in the NIH
+Grants Policy Statement, are not allowed.
+Required Registrations
+Applicant organizations must complete the following registrations
+as described in the PHS398 Application Guide to be eligible to apply for or
+receive an award. Applicants must have a valid Dun and Bradstreet Universal
+Numbering System (DUNS) number in order to begin each of the following
+registrations.
+Central Contractor Registration (CCR) – must maintain an active registration, to be renewed at least annually
+eRA Commons
+All Program Director(s)/Principal Investigator(s) (PD(s)/PI(s))
+must also work with their institutional officials to register with the eRA
+Commons or ensure their existing eRA Commons account is affiliated with the eRA
+Commons account of the applicant organization.
+All registrations must be completed by the application due
+date. Applicant organizations are strongly encouraged to start the registration
+process at least4-6 weeks prior to the application due date.
+Eligible Individuals [Program Director(s)/Principal Investigator(s)(PD(s)PI(s))]
+Any individual(s) with the skills, knowledge, and resources
+necessary to carry out the proposed research as the Program Director(s)/Principal
+Investigator(s) (PD(s)/PI(s)) is invited to work with his/her organization to
+develop an application for support. Individuals from underrepresented racial
+and ethnic groups as well as individuals with disabilities are always
+encouraged to apply for NIH support.
+For institutions/organizations proposing multiple PD(s)/PI(s),
+visit the Multiple Program Director(s)/Principal Investigator(s) Policy and
+submission details in the Senior/Key Person Profile (Expanded) Component of the
+PHS398 Application Guide.
+Center leadership (including the PD(s)/PI(s)) must possess
+the necessary operational, business, and scientific expertise with a documented
+track record of success in transitioning technologies from the discovery phase
+to commercialization.
+2. Cost Sharing
+This FOA does not require cost sharing as defined in the NIH
+Grants Policy Statement.
+3. Additional Information on Eligibility
+Number of Applications
+NIH will not accept any application in response to this FOA
+that is essentially the same as one currently pending initial peer review
+unless the applicant withdraws the pending application.
+In response to this FOA, an institution can only submit, or
+be part of, a single application. Applications should include detailed evidence
+of significant institutional commitment.
+Section IV.
+Application and Submission Information
+1. Address to Request Application Package
+Applicants are required to prepare applications according to
+the current PHS 398 application forms in accordance with the PHS 398
+Application Guide.
+2. Content and Form of Application Submission
+It is critical that applicants follow the instructions in
+the PHS398
+Application Guide, except where instructed in this funding opportunity
+announcement to do otherwise. Conformance to the requirements in the
+Application Guide is required and strictly enforced. Applications that are out
+of compliance with these instructions may be delayed or not accepted for
+review.
+Letter of Intent
+Although a letter of intent is not required, is not binding,
+and does not enter into the review of a subsequent application, the information
+that it contains allows IC staff to estimate the potential review workload and
+plan the review.
+By the date listed in Part 1. Overview
+Information, prospective applicants are asked to submit a letter of intent
+that includes the following information:
+Descriptive title of proposed research
+Name, address, and telephone number of the PD(s)/PI(s)
+Names of other key personnel
+Participating institutions
+Number and title of this funding opportunity
+The letter of intent should be sent to:
+Director, Office of Scientific Review
+National Heart, Lung, and Blood Institute
+National Institutes of Health
+6701 Rockledge Drive, Room 7214
+Bethesda, MD 20892-7924
+Bethesda, MD 20817 (express/courier service)
+Telephone: 301-435-0270
+Fax: 301-480-0730
+Email: nhlbichiefreviewbranch@nhlbi.nih.gov
+Application Submission
+Applications must be prepared using the PHS 398 research
+grant application forms and instructions for preparing a research grant
+application. Submit a signed, typewritten original of the application,
+including the checklist, and three signed photocopies in one package to:
+Center for Scientific Review
+National Institutes of Health
+6701 Rockledge Drive, Room 1040, MSC 7710
+Bethesda, MD 20892-7710 (U.S. Postal Service Express or regular mail)
+Bethesda, MD 20817 (for express/courier service; non-USPS service)
+At the time of submission, two additional paper copies of
+the application and all copies of the Appendix files must be sent to:
+Director, Office of Scientific Review
+National Heart, Lung, and Blood Institute
+National Institutes of Health
+6701 Rockledge Drive, Room 7214
+Bethesda, MD 20892-7924
+Bethesda, MD 20817 (express/courier service)
+Telephone: 301-435-0270
+Fax: 301-480-0730
+Email: nhlbichiefreviewbranch@nhlbi.nih.gov
+Page Limitations
+All page limitations described in the PHS398 Application
+Guide and the Table of
+Page Limits must be followed, with the following exceptions or additional
+requirements: as described in Section IV.6
+Overview of the proposed Center (up to 12 pages)
+Center administration and governance (up to 12 pages)
+Investigator engagement, technology solicitation and technology
+selection (up to 12 pages)
+Technology development by the Center (up to 12 pages)
+Project management (up to 6 pages)
+Skills development (up to 6 pages)
+Research Plan
+All instructions in the PHS398 Application Guide must be
+followed, with the following additional instructions:
+Resource Sharing Plan
+Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+Organisms, and Genome Wide Association Studies (GWAS)) as provided in the PHS398
+Application Guide, with the following modification:
+Generally, Resource Sharing Plans (Data Sharing Plan, Sharing
+Model Organisms, and GWAS Sharing Plan) are expected, but they are not
+applicable for this FOA.
+Letters of Support
+Include documentation of support
+for the Center for non-federally funded activities as described in Section IV.6
+under Special Instructions.
+Appendix
+Do not use the Appendix to circumvent page limits.
+Follow all instructions for the Appendix (please note all format requirements) as
+described in the PHS398 Application Guide.
+3. Submission Dates and Times
+Part I. Overview Information contains information about Key Dates.
+Information on the process of receipt and determining if
+your application is considered “on-time” is described in detail in the PHS398
+Application Guide.
+Applicants may track the status of the application in the eRA Commons, NIH’s electronic system for grants
+administration.
+4. Intergovernmental Review (E.O. 12372)
+This initiative is not subject to intergovernmental
+review.
+5. Funding Restrictions
+All NIH awards are subject to the terms and conditions, cost
+principles, and other considerations described in the NIH Grants
+Policy Statement.
+Pre-award costs are allowable only as described in the NIH Grants
+Policy Statement.
+The federal funds provided by an NIH Center for Accelerated
+Innovations award should only be used for advancing the allowable
+research-related elements of the Center (see Section IV.6 under Special
+Instructions, Resources and Funding Plan).
+6. Other Submission Requirements and Information
+Applications must be received on or before the due dates in Part I. Overview Information.
+All instructions in the PHS398 Application Guide must be
+followed except as noted below.
+Research Strategy
+The Research Strategy section should take the following
+structure:
+A.
+Overview of the proposed Center (up to 12 pages)
+Provide the overall objectives of the Center,
+including the short and long-term goals. Describe how the Center's expertise,
+capabilities, partnerships, and resources will enable it to have a significant
+influence on accelerating the pace and increasing the probability of success
+for discoveries and innovations being developed into commercial products.
+Provide a detailed description of the Center’s leadership team. Describe the
+criteria used to select the partners, explain why they elected to join, and
+describe the qualities and strengths that each Partner brings to the Center.
+Describe how the Center will facilitate and promote interaction with existing
+institutional, local, virtual, and NIH or other federal, state, or local
+government programs.
+The application should include a plan for transition
+of the Center to a self-sustainable architecture. Sustainability plans could
+include agreements for equity or percentage of royalties from successful
+technologies that could be used for future product definition studies.
+Applicants should include such agreements with the source institution in the
+Consortium/Contractual Agreements section of the Research Plan that clearly
+delineate a reasonable sustainability plan.
+B.
+Center Administration and Governance (up to 12 pages)
+Administrative Management Plan
+Applicants should provide an administrative plan
+appropriate for effective management of a complex Center structure. Center
+leadership, including PD(s)/PI(s), should demonstrate the necessary
+operational, business, and scientific expertise with a documented track record
+of success in transitioning technologies from the discovery phase to
+commercialization. For applications designating multiple PD(s)/PI(s), describe
+the rationale for choosing a multiple PD(s)/PI(s) approach and provide a
+leadership plan. (Note: For multi-PD(s)/PI(s) applications, include the
+leadership plan under the "Center Administration" section of the
+application and do NOT use the multi-PD(s)/PI(s) leadership section of the
+PHS398 form). One or more Associate Directors should be named who will be
+involved in all aspects of Center operations and who will serve as Acting
+Center Director in the absence of the Director. Applicants must include a
+description of the process that would be used to recommend a successor to the
+Director, should unanticipated circumstances require such action. For all
+applications (single and multiple PD(s)/PI(s)), describe the governance and
+organizational structure of the leadership team, research projects, and
+Partners. Include communication plans, processes for making decisions on
+scientific direction, and procedures for resolving conflicts. Delineate the
+roles and administrative, technical, and scientific responsibilities for the
+project staff as they relate to the various functions of the
+Center. Include a plan to integrate and coordinate Center activities to
+accomplish overall goals. Define appropriate short and long term metrics
+to evaluate the overall success of the Center achieving short and long term
+goals, including tracking the progress of technologies after exit from the
+Center.
+The Centers should promote and facilitate the open
+exchange of information regarding the scope, methods, analysis, results and
+lessons learned from each project. Data from failed projects should be
+collected and analyzed to capture lessons learned from those experiences. The
+applicant should describe the plan to promote information exchange and the
+dissemination of research outcomes to the research community at large.
+Establishing an open access repository for collecting such knowledge is
+encouraged.
+External Advisory Board
+Each Center is required to form an External Advisory
+Board (EAB) that includes people familiar with the Center’s environment and
+possessing expertise with competencies required to assess the technology
+development processes and progress (e.g., technology transfer and intellectual
+property, business practices, science, legal, new venture funding and
+activities, technology commercialization, emerging market opportunities,
+industry, relevant domain expertise). EAB members should be from outside the
+host institution(s). The EAB advises on Center operations, provides guidance on
+future directions of the Center, and facilitates access to non-federal
+resources. The EAB will also provide connections and access to resources (e.g.
+legal, business plan development, regulatory, funding, mentors etc.) for
+Innovators during the technology development process. NHLBI Program Officer(s)
+will also participate on the EAB.
+The Center applicant should provide the names and
+affiliations of up to three members of the EAB and describe how their
+experience and expertise relates to the goals of this FOA and will contribute
+to the success of the Center. Letters of Support from these members should be
+included in the application. The NHLBI recognizes that the EAB will most likely
+include more than 3 members; however, the applicant should not name more than 3
+members in the application. The qualities and expertise of additional EAB
+members should be described; however, they should not be named in the
+application or contacted or appointed prior to review. The EAB should meet at
+least quarterly during the first year and then as needed to provide oversight
+and meet the FOA requirements. The EAB must meet in person at least once
+annually. The EAB should prepare a written report of its recommendations to the
+Center PD(s)/PI(s). This report, along with the PD(s)/PI(s) response to EAB
+recommendations, must be supplied as part of the Center Annual Progress Report.
+Funds should be requested in the Consultant Costs category of the budget to
+support EAB member travel expenses for the annual meeting.
+External Selection Committee
+Each Center is required to assemble a cadre of
+experts to serve as reviewers on the External Selection Committee (ESC). The
+ESC should be assembled only after an NCAI is awarded; therefore the members of
+the committee shoud not be named in the application. This committee will review
+and prioritize candidate technologies for acceptance into the Center. It is
+expected that the Center will have processes in place that ensure fair,
+equitable, unbiased, and timely evaluation of candidate technologies. ESC
+members should be from outside the host institution(s) and represent a balance
+of expertise covering both scientific and business aspects of technology
+development and commercialization. It is anticipated that some of the ESC
+reviewers will vary depending on the particular technology under review. Funds
+should be requested in the budget for the conduct of the ESC sessions. ESC
+recommendations will undergo secondary review by the NHLBI Technology Review
+Committee as described in Section VI. 2 under Cooperative Agreement Terms and Conditions
+of Award.
+Program Steering Committee
+A Program Steering Committee (PSC) will be created
+that includes NHLBI, FDA, USPTO, OIE, and CMS staff, Center PD(s)/PI(s), and
+other Center staff as appropriate to provide scientific and administrative
+oversight as described in Section VI.2 under Cooperative Agreement Terms and
+Conditions of Award. Funds should be requested in the budget for the PD(s)/PI(s)
+in the Center Administration and Governance section of the budget (and other
+Center staff as appropriate) to attend the yearly in-person Program Steering
+Committee meeting in Bethesda, Maryland.
+Collaborations and Partnerships
+A critical aspect of the Center's administrative
+function is to establish and effectively manage a range of collaborations and
+partnerships with other institutions and the community to help advance a
+technology closer to commercialization. Provide in the application one or
+more examples of effective cross disciplinary collaborations relevant to
+technology development that the PD(s)/PI(s) has established, the goals defined
+for the collaboration, and the outcomes achieved. Describe the most critical
+aspect of the interaction(s) that made the collaboration successful.
+Describe processes for problem-solving, communication and prioritizing work.
+Describe any potential challenges that will be encountered and how these will
+be overcome.
+Commitment and Kick-off Meeting
+Application to participate in the NCAI Program should
+not be undertaken lightly, as it entails a significant commitment in terms of
+time, organizational skills, and administrative ability. Successful Center
+applicants will be expected to attend an in-person Kickoff Meeting within two
+months of award; the meeting will take place in the Washington DC area for one
+and one-half days. Funds should be requested in the budget for support of
+Center leadership travel expenses for the Kick-off Meeting.
+C.
+Investigator engagement, technology solicitation, and technology selection (up
+to 12 pages)
+Provide a plan for engaging Innovators early in the life of the
+technology.
+Provide a plan for soliciting technologies.
+Provide a plan for identifying and selecting technologies to be
+developed by the Center. Include criteria to be used in the selection and
+prioritization process for candidate technologies. Candidate technologies
+should address NHLBI priority areas (see Part 2,
+section I, Research Scope) that (a) address an unmet medical need or
+present a significant scientific opportunity, and have commercial potential, or
+(b) do not have an apparent broad commercial market, but compelling reasons
+exist for continued development (e.g., targets a rare disease). The final selection
+of technologies by the Center will require NHLBI approval prior to initiation
+as described in Section VI.2 under Cooperative Agreement Terms and Conditions
+of Award.
+Describe the clinical drivers and assessment criteria and
+processes that will be utilized by the ESC to recommend acceptance of
+technologies into the Center.
+Applicants must demonstrate a robust pipeline of candidate
+technologies. Each Center must demonstrate access to an adequate number
+of technologies within the NHLBI priority areas described in Section I under Research Scope such that approximately
+three new technologies are accepted into the Center for development per year.
+It is anticipated that at least 6 technologies (3 new) will be in some form of
+development each year from years 2 through year 6 of the award and that
+appropriate negotiated agreements will be in place with the source institutions for technology development and access to research investigators.
+Applicants should provide details on their ability to
+maintain a robust pipeline of NHLBI mission-relevant candidate technologies at
+the appropriate stage of development for entry into the Center throughout the
+period of the award. Applicants should:
+Describe existing Center activities that foster the development
+of early-stage NHLBI mission-relevant technologies appropriate for further
+development within the Center.
+Describe the breadth and diversity of the accessible portfolio of
+early stage technologies within the NHLBI mission available from the Center (terms
+of the cooperative agreement require that each Center has at least one
+therapeutic/preventative, one device and one diagnostic concurrently under
+development).
+Provide examples of technologies that are ready to enter
+development within the Center with associated access and development agreements
+in place using the Technology Table provided at http://www.nhlbi.nih.gov/about/dera/otac/caip/technology_table.xlsx (the Technology Table should be included in the Appendix).
+D.
+Technology development by the Center (up to 12 pages)
+Recognizing that technology development requirements will
+differ depending on the technology type, the developmental stage, the Innovator’s
+experience, and the ecosystem resources, describe technology development plans
+that include:
+Processes for providing funding (both federal and non-federal)
+and resources for conducting the scientific and business oriented research
+required to achieve successful exits from the Center.
+Access to appropriate expertise for technology development.
+A Resources and Funding Plan that includes details on sources of
+non-federal funding and resources as described below under Special Instructions.
+Processes to facilitate successful exit strategies once
+technologies are sufficiently developed and are able to attract the next
+appropriate source of independent financing or strategic partnership.
+E.
+Project Management (up to 6 pages)
+Describe project management structure and processes for
+assessing progress and making go/no-go decisions:
+Provide a detailed description of the process(es) that will be
+used to establish project milestones and timelines, monitor progress against
+established timelines, and make timely go/no-go decisions.
+Include the credentials and experience of the project manager(s)
+responsible for this aspect of the program.
+Describe project management tools that will be employed, the
+format and frequency of meetings required to maintain oversight of the projects
+and the roles and responsibilities of meeting attendees.
+Provide a detailed synopsis of how timely go/no-go decisions will
+be made for technologies being developed in the Center and how decisions will
+be made for continued development by the Center or by another entity or to
+discontinue development and the return of the technology to the source.
+F.
+Skills Development Component (up to 6 pages)
+Active involvement by the PD/PI and other senior Center personnel
+is required to facilitate mentoring and multidisciplinary developmental
+activities for the technology Innovators. A lead individual(s) to oversee the
+organization and activities of the Skills Development Component should be named
+in Key Personnel. Applicants should provide:
+A detailed discussion of how mentoring and the professional
+development of the technology Innovators will be achieved, including:
+the
+recruitment and planned activities of mentors
+the
+individual professional development of technology Innovators
+A discussion of group activities, including:
+existing
+and planned courses, seminars, and forums
+plans to
+include broader audience participation in events such as seminars, workshops,
+or other educational opportunities
+The credentials and experience of the Center leaders and other
+participating senior scientific and business staff.
+A plan for coordinating the activities and tracking the progress
+of participants.
+Evaluation plans to assess the success of the Skills Development
+Component in meeting the described goals.
+The USPTO and FDA have the following educational materials
+available:
+FDA: http://www.fda.gov/BiologicsBloodVaccines/NewsEvents/ucm232821.htm
+http://www.fda.gov/Training/CDRHLearn/default.htm
+http://www.fda.gov/Training/ForHealthProfessionals/default.htm
+USPTO: http://www.uspto.gov/products/index.jsp
+http://www.uspto.gov/ip/training/index.jsp
+http://www.uspto.gov/inventors/iac/index.jsp
+The USPTO will make available customized IP education and
+mentorship to entrepreneurs and Innovators associated with winning
+applications.
+The United States Economic
+Development Administration’s Regional Offices will offer assistance to winning
+applicants to advance local economic growth by creating a regional ecosystem
+necessary to promote innovation and entrepreneurship.
+Special Instructions
+Upon receipt, applications will be evaluated for
+completeness by the Office of Scientific Review and responsiveness by the NHLBI,
+NIH. Applications that are incomplete or nonresponsive will not be reviewed. Include
+separate budgets for each component (Center Administration and Governance;
+Investigator Engagement, Technology Solicitation, Technology Selection;
+Technology Development, Project Management, Skills Development).
+The Center Director/Principal Investigator (PD/PI) is
+required to devote at least 3 person-months (25%) effort to manage the Center.
+For applicants proposing multiple PD(s)/PI(s), the total combined effort of all
+PD(s)/PI(s) should be at least 3 person-months (25% effort), with a distribution
+that is commensurate with each PD(s)/PI(s) role, and with an amount of effort
+that demonstrates significant involvement of each PD(s)/PI(s). A
+management structure that facilitates effective interdisciplinary communication
+is strongly encouraged. The percent effort for each member of the Center staff
+should be broken down by component (Center Administration and Governance;
+Investigator engagement, Technology Solicitation, and Technology Selection;
+Engagement, Technology Solicitation, Technology Selection, Technology
+Development, Project Management; Management Skills Development). The budget
+should include a detailed justification for key personnel.
+Show the entire budget period and the total dollars on the
+PHS398 Face Page. Categorical budget details can be provided for the additional
+years (>5) by using more than one Form Page 5.
+Evaluation
+of Responsiveness
+Prior to peer review, the NHLBI Office of Scientific Review
+and Program staff will determine whether applications are responsive to this
+FOA. All applications will be administratively evaluated to determine whether
+applicants:
+Proposed to support technology development focused on product
+definition studies.
+Applications
+that proposed hypothesis driven research will be returned without review.
+Responded to each component of the research strategy
+requirements.
+Demonstrated access to scientific discoveries and advances
+suitable for early stage technology development within the Research Scope
+described in this FOA.
+Provided letters of institutional commitment as required in this
+FOA.
+Included evidence of access to non-federal funds or fundraising
+plans.
+Included a Resources and Funding Plan as described in this FOA.
+Institutional
+Commitment: Applicants must provide letters from the appropriate
+high ranking authorized institutional official including those from the
+Partners that:
+Commit the institution to the goals of the NCAI, indicating the
+Center will be integral to a broader institutional vision of commercializing
+academic discoveries.
+Commit the technology transfer offices to the goals of the NCAI,
+including decreasing the burden on technology licensing and the hurdles of
+downstream commercialization.
+Commit the PD(s)/PI(s) and all appropriate technology transfer
+offices to the data and resource sharing plans specified in the application.
+Resources
+and Funding Plan: Applicants must submit a Resources and
+Funding Plan, which includes details on resources that have already been
+secured or are anticipated during the project period to support product
+definition studies and any evidence of non-federal fundraising plans. It is
+expected that the level of non-federal funding will be equal to or greater than
+the NHLBI funds being requested throughout the project period. The Resources
+and Funding Plan should include the following subsections:
+1.
+Additional Resources and Strategic Partnerships
+Indications of institutional support will be considered a
+strength in the review of these applications and the selection for funding.
+Sources of additional non-federal funds that equal or exceed the federal
+investment are strongly encouraged. Appropriate levels of additional
+non-federal funds must be accessible to achieve the goals of this FOA.
+Provide a detailed description of available resources,
+strategic partnerships, and evidence of non-federal investments that will allow
+the applicant to meet the requirements of this FOA. Verifiable details on
+sources of non-federal funding that have already been secured or are
+anticipated during the project period should be provided. It is expected that
+the value of the existing resources and non-federal funding will be sufficient
+to meet the application requirements of this FOA. Include letters of
+support in Item 14, Letters of Support in the PHS 398 Research Plan Component.
+Place documentation of support from non-federal resources and funders that
+corroborates the Resources and Funding Plan, such as term sheets or redacted
+bank statements, in the Appendix materials.
+Examples of additional resources include, but are not
+limited to, partnerships with law schools or business schools, state economic
+development agencies, local incubators/accelerators, clinical research
+organizations, clinical trials networks or other existing resources in place at
+the Center. Sources of non-federal funding could include, but are not
+necessarily limited to, foundations, participating institutions, a State or
+local governmental body, angel investors, venture capital firms, individual
+benefactors, or any combination of the above. Applicants may also value in-kind
+support if it represents a substantial resource available to the Center in
+meeting the requirements of this FOA. Within the Resources and Funding Plan, applicants should clearly itemize
+the resources and funding that will be secured and indicate the total value (see Use of Non-Federal Resources and Funds below). If the fundraising efforts
+of the Center are in progress at the time of submission, and/or if the
+third-party funding is contingent upon NIH selecting the application for funding,
+then such plans should be clearly described in the Resources and Funding Plan.
+Examples of adequate documentation of planned (i.e.,
+future/expected) non-federal resources and funding may include a term sheet
+and/or letter of commitment from the source of funds or resources stipulating
+the terms of the proposed commitment/investment, although other forms of
+documentation may be considered. At the time of application, evidence of a firm
+non-federal funding commitment is ideal, but not required. Appropriate
+documentation of non-federal resources and funding support may include a
+conditional letter of commitment stating that the third-party
+commitment/funding is contingent upon NIH selecting the application for an
+award.
+Successful applicants may be provided access to USPTO
+programs to assist with their specific intellectual property needs.
+Visit/contact the USPTO Inventor
+Assistance Center to explore available intellectual property resources that
+may be incorporated into the applicant’s Resources and Funding Plan.
+2.
+Use of Non-Federal Resources
+The federal funds provided by this award can only be used
+for advancing the research-related elements of the Center, such as the
+laboratory based or design aspects of product definition studies, salary
+support, and activities associated with investigator engagement, solicitation,
+project management and skills development activities. The use of any
+non-federal funds and resources will be at the discretion of the Center.
+Applicants should provide sufficient information regarding the use of
+non-federal support to demonstrate a substantial, value-added contribution
+toward the goals of this FOA. In particular, applicants are expected to address
+the following questions regarding the use of non-federal resources and funds.
+What are the specific activities that the non-federal resources
+and funds will support?
+Have the sources of non-federal resources attached any
+restrictions/triggers/milestones to future payments? If so, what are they?
+A separate table delineating the non-federal funds for
+anticipated technology development costs (research and development, business
+plan development, market research, legal counsel and other non-scientific
+consultant costs) may be included in the appendix to demonstrate institutional
+commitment and/or access to additional required capital.
+3.
+Statement of Need
+Applicants must provide a concise “Statement of Need”. This
+statement is expected to provide answers to the questions listed below:
+What are the perceived gaps in funding and knowledge experienced
+by researchers served by the Center in the commercialization of technologies?
+Why is additional government funding critically needed to
+alleviate these gaps given existing resources available in the Center’s
+ecosystem? Specifically, what activities are being proposed under this FOA that
+would not otherwise be possible through independent third-party investments OR
+would be significantly delayed without additional NIH support?
+What will be the impact of an award under this FOA on the
+Center’s ability to conduct the required Product Definition Studies to advance
+technologies toward commercialization? In answering the question, please
+provide the current success rate of technology commercialization at the Center
+and the anticipated impact of an award on the success rate.
+4.
+Technology Licensing
+The relationship between the Center and the technology
+transfer office(s) must be described and should enable the most appropriate
+path to develop a technology towards commercialization. Any agreements between
+the Center and the technology source institution designed to reduce the burden
+of licensing and hurdles to downstream commercialization of technologies should
+be described. Examples may include institutional template agreements that are
+designed to facilitate technology transfer to the private sector with license
+terms that defer up-front cash payments and avoid onerous fees. Include
+descriptions of all agreements for equity positions or royalty payments that
+the Center will receive from successfully commercialized technologies. It is
+expected that Centers will use these returns to support future product
+definition studies. Appropriate documentation (Letters of Support, Agreements, and
+Memoranda of Understanding) should be included in the application in the
+Letters of Support or Consortium/Contractual Agreements sections as
+appropriate.
+Pre-submission
+Meeting
+The NIH recognizes that individual institutions will be able
+to respond in different ways to the opportunities presented in this FOA.
+Applicants are strongly encouraged to contact NIH program staff early in the
+application process and they should have a thorough understanding of the intent
+and expectations of this FOA before developing an application. A pre-submission
+meeting will be conducted at the NHLBI offices (6701 Rockledge Drive., Room
+9112/9116, Bethesda, MD) on June 15th, 2012 from 1pm to 4pm EST. The NHLBI,
+NCAI partners, and other NIH staff will explain the goals and objectives of the
+NCAI program and answer questions. For applicants that cannot participate in
+person the event will be webcast at https://webmeeting.nih.gov/nhlbicentersrfa/.
+NHLBI requests that participants register by June 8 via e-mail at NHLBICentersRFA@mail.nih.gov,
+and indicate whether they will attend in person or via the webcast. Please
+visit the Centers website at http://www.nhlbi.nih.gov/about/dera/otac/caip/caip_index.html for answers to commonly asked questions about the program. Submit additional
+questions to be addressed at the presubmission meeting in advance of the event
+at NHLBICentersRFA@mail.nih.gov.
+Questions and answers will be posted on the Centers
+website after the call. Additional information about the event is available
+at the Centers
+website.
+Post Submission Materials
+Applicants are required to follow the instructions for
+post-submission materials, as described in NOT-OD-10-115.
+Section
+V. Application Review Information
+1. Criteria
+Only the review criteria described below will be considered
+in the review process. As part of the NIH mission,
+all applications submitted to the NIH in support of biomedical and behavioral
+research are evaluated for scientific and technical merit through the NIH peer
+review system.
+Overall Impact - Overall
+Reviewers will provide an overall impact/priority score to
+reflect their assessment of the likelihood for the project to exert a
+sustained, powerful influence on the research field(s) involved, in consideration
+of the following review criteria and additional review criteria (as applicable
+for the project proposed).
+Scored Review Criteria - Overall
+Reviewers will consider each of the review criteria below in
+the determination of scientific merit, and give a separate score for each. An
+application does not need to be strong in all categories to be judged likely to
+have major scientific impact. For example, a project that by its nature is not
+innovative may be essential to advance a field.
+Significance
+Does the project address an important problem or a
+critical barrier to progress in the field? If the aims of the project are
+achieved, how will scientific knowledge, technical capability, and/or clinical
+practice be improved? How will successful completion of the aims change the concepts,
+methods, technologies, treatments, services, or preventative interventions that
+drive this field?
+Specific
+for this FOA: How will an award enhance the Center’s ability to
+conduct the scientific feasibility studies in a way that will further the goals
+of the Center? What activities will be enabled that are not possible or
+practical without the award?
+Investigator(s)
+Are the PD(s)/PI(s), collaborators, and other
+researchers well suited to the project? If Early Stage Investigators or New
+Investigators, or in the early stages of independent careers, do they have
+appropriate experience and training? If established, have they demonstrated an
+ongoing record of accomplishments that have advanced their field(s)? If the
+project is collaborative or multi-PD(s)/PI(s), do the investigators have
+complementary and integrated expertise; are their leadership approach,
+governance and organizational structure appropriate for the project?
+Specific
+for this FOA: Does the Center leadership (including the PD(s)/PI(s))
+demonstrate the necessary operational, business and scientific expertise to run
+a Center with a documented track record of success in transitioning
+technologies from the discovery phase to commercialization? Does the Center
+have the ability to address regulatory issues, including but not limited to
+knowledge of guidelines and experience taking products through the regulatory
+process? Does the Center have a functional succession plan in place in the
+event of a change in PD(s)/PI(s)?
+Innovation
+Does the application challenge and seek to shift
+current research or clinical practice paradigms by utilizing novel theoretical
+concepts, approaches or methodologies, instrumentation, or interventions? Are
+the concepts, approaches or methodologies, instrumentation, or interventions
+novel to one field of research or novel in a broad sense? Is a refinement,
+improvement, or new application of theoretical concepts, approaches or
+methodologies, instrumentation, or interventions proposed?
+Specific
+for this FOA: Does the applicant create the unique public
+private partnerships with an integrated environment of resources required to
+inform the scientific feasibility studies in a way that will bridge the gap
+between the laboratory and market?
+Approach
+Are the overall strategy, methodology, and analyses
+well-reasoned and appropriate to accomplish the specific aims of the project?
+Are potential problems, alternative strategies, and benchmarks for success presented?
+If the project is in the early stages of development, will the strategy
+establish feasibility and will particularly risky aspects be managed?
+If the project involves clinical research, are the plans for 1) protection of
+human subjects from research risks, and 2) inclusion of minorities and members
+of both sexes/genders, as well as the inclusion of children, justified in terms
+of the scientific goals and research strategy proposed?
+Specific
+for this FOA: Will the solicitation, selection and technology
+development processes result in the identification and advancement of NHLBI
+mission-relevant technologies? Does the applicant have appropriate
+decision-making processes in place to make timely milestone-driven go/no-go
+decisions about technologies being developedHow adequate are the proposed
+evaluation plans and metrics?
+Environment
+Will the scientific environment in which the work
+will be done contribute to the probability of success? Are the institutional
+support, equipment and other physical resources available to the investigators
+adequate for the project proposed? Will the project benefit from unique
+features of the scientific environment, subject populations, or collaborative
+arrangements?
+Specific
+for this FOA: Does the applicant have the business alliances
+or partnerships to transition technologies from discovery to the next stage of
+independent financing? Does the applicant demonstrate and utilize its core
+competencies to maximize the chance of success? Does the applicant demonstrate
+the necessary agreements and relationship with the TTO to ensure the most
+appropriate path for product definition and exit? How do the Partners, that
+comprise the Center, together add value and economy of scale to the product
+definition process that enhance the likelihood of successful technology
+development towards commercialization? How are disputes resolved between the
+Center and the technology source institution and the Innovator?
+Additional Review Criteria - Overall
+As applicable for the project proposed, reviewers will
+evaluate the following additional items while determining scientific and
+technical merit, and in providing an overall impact/priority score, but will
+not give separate scores for these items.
+Review
+Criteria for Center Administration
+To what extent will the award increase the potential to
+commercialize new technologies compared to what would likely be commercialized
+without an award?
+What is the quality of the organizational structure of the
+Center and does this structure indicate an ability to integrate the full range
+of Center functions to achieve the specified goals and work effectively at the
+clinical/technology/business interface?
+How does the quality of the information provided in the
+application demonstrate ability to effectively manage multidisciplinary
+projects and deal with sensitive but critical go/no-go decisions in a
+team-based environment?
+How well do the applicants demonstrate that the Center
+possesses knowledge of and relationships with appropriate stakeholders and user
+groups?
+What is the quality of the plans for enlisting ESC and EAB
+members and how well developed are plans to minimize and manage potential
+conflicts?
+Review
+Criteria for technology solicitation and selection
+Does the applicant clearly demonstrate access to a diverse
+portfolio of technologies to sustain the development pipeline for the duration
+of the award?
+How well does the Center's strategy for selecting Product
+Definition projects suggest potential for meaningful outcome in the chosen
+health care setting or clinical application area?
+Will the Center's technology evaluation processes enable
+selection of promising technologies for further development and testing?
+Review
+Criteria for technology development
+Does the proposed Center bridge the gap between the lab and
+the market, create unique public-private partnerships with an integrated
+environment of resources that maximize capital investments and leverage private
+with public investment? Does the proposed Center remove barriers to translate
+knowledge into useful medically relevant products, and encourage the culture
+needed for sustained technology development where evaluation of innovations for
+commercialization becomes the norm? Has the applicant developed or adopted
+streamlined IP strategies for licensing agreements and equity/royalty
+partitioning to enhance the success and sustainability of the Center?
+How reasonable are the plans for obtaining non-federal funds
+to perform the scientific feasibility studies, acquiring community resources or
+promoting community involvement in the Center’s activity?
+How well does the IP strategy ensure successful due
+diligence, IP protection and cost coverage and reduce the licensing burden for
+advancing technologies toward commercialization?
+How well do the applicants demonstrate ability to access
+appropriate domain experts and mentors?
+How well does the application support the ability of the
+Center to access required business expertise as expected in this FOA?
+What time or cost savings might be realized as a result of
+the award?
+Review
+Criteria for project management
+Does the application describe a project management structure
+that will efficiently and effectively promote the transition of early stage
+technologies through development processes required for successful transition
+to the private sector?
+Review
+Criteria for skills development
+Is the Skills Development Component structured in a way that
+facilitates the transfer of knowledge about technology development and
+commercialization to the Innovator and the broader investigator community?
+Protections for Human Subjects
+For research that involves human subjects but does
+not involve one of the six categories of research that are exempt under 45 CFR
+Part 46, the committee will evaluate the justification for involvement of human
+subjects and the proposed protections from research risk relating to their
+participation according to the following five review criteria: 1) risk to
+subjects, 2) adequacy of protection against risks, 3) potential benefits to the
+subjects and others, 4) importance of the knowledge to be gained, and 5) data
+and safety monitoring for clinical trials.
+For research that involves human subjects and meets the criteria for one or
+more of the six categories of research that are exempt under 45 CFR Part 46,
+the committee will evaluate: 1) the justification for the exemption, 2) human
+subjects involvement and characteristics, and 3) sources of materials. For
+additional information on review of the Human Subjects section, please refer to
+the Human
+Subjects Protection and Inclusion Guidelines.
+Inclusion of Women, Minorities, and Children
+When the proposed project involves clinical research,
+the committee will evaluate the proposed plans for inclusion of minorities and
+members of both genders, as well as the inclusion of children. For additional
+information on review of the Inclusion section, please refer to the Human
+Subjects Protection and Inclusion Guidelines.
+Vertebrate Animals
+The committee will evaluate the involvement of live
+vertebrate animals as part of the scientific assessment according to the
+following five points: 1) proposed use of the animals, and species, strains,
+ages, sex, and numbers to be used; 2) justifications for the use of animals and
+for the appropriateness of the species and numbers proposed; 3) adequacy of
+veterinary care; 4) procedures for limiting discomfort, distress, pain and
+injury to that which is unavoidable in the conduct of scientifically sound
+research including the use of analgesic, anesthetic, and tranquilizing drugs
+and/or comfortable restraining devices; and 5) methods of euthanasia and reason
+for selection if not consistent with the AVMA Guidelines on Euthanasia. For additional
+information on review of the Vertebrate Animals section, please refer to the Worksheet
+for Review of the Vertebrate Animal Section.
+Biohazards
+Reviewers will assess whether materials or procedures
+proposed are potentially hazardous to research personnel and/or the
+environment, and if needed, determine whether adequate protection is proposed.
+Resubmissions
+Not Applicable.
+Renewals
+Not Applicable.
+Revisions
+Not Applicable.
+Additional Review Considerations - Overall
+As applicable for the project proposed, reviewers will
+consider each of the following items, but will not give scores for these items,
+and should not consider them in providing an overall impact/priority score.
+Applications from Foreign Organizations
+Not Applicable.
+Select Agent Research
+Reviewers will assess the information provided in
+this section of the application, including 1) the Select Agent(s) to be used in
+the proposed research, 2) the registration status of all entities where Select
+Agent(s) will be used, 3) the procedures that will be used to monitor
+possession use and transfer of Select Agent(s), and 4) plans for appropriate
+biosafety, biocontainment, and security of the Select Agent(s).
+Resource Sharing Plans
+Reviewers will comment on whether the following
+Resource Sharing Plans, or the rationale for not sharing the following types of
+resources, are reasonable: 1) Data Sharing
+Plan; 2) Sharing
+Model Organisms; and 3) Genome Wide
+Association Studies (GWAS).
+Budget and Period of Support
+Reviewers will consider whether the budget and the
+requested period of support are fully justified and reasonable in relation to
+the proposed research.
+2. Review and Selection Process
+Applications will be evaluated for scientific and technical
+merit by (an) appropriate Scientific Review Group(s) convened by the NHLBI, in
+accordance with NIH peer
+review policy and procedures, using the stated review
+criteria. Review assignments will be shown in the eRA Commons.
+As part of the scientific peer review, all applications:
+May undergo a selection process in which only those applications
+deemed to have the highest scientific and technical merit (generally the top
+half of applications under review) will be discussed and assigned an overall
+impact/priority score.
+Will receive a written critique.
+Appeals of initial peer review will not be accepted for applications submitted response
+to this FOA.
+Applications will be assigned on the basis of established
+PHS referral guidelines to the appropriate NIH Institute or Center and will
+compete for available funds with all other recommended applications submitted
+in response to this FOA. Following initial peer review, recommended
+applications will receive a second level of review by the appropriate national
+Advisory Council or Board. The following will be considered in making funding
+decisions:
+Scientific and technical merit of the proposed project as
+determined by scientific peer review.
+Availability of funds.
+Relevance of the proposed project to program priorities.
+3. Anticipated Announcement and Award Dates
+After the peer review of the application is completed, the
+PD(s)/PI(s)( will be able to access his or her Summary Statement (written
+critique) via the eRA Commons.
+Information regarding the disposition of applications is
+available in the NIH Grants
+Policy Statement.
+Section VI. Award Administration Information
+1. Award Notices
+If the application is under consideration for funding, NIH
+will request "just-in-time" information from the applicant as
+described in the NIH Grants
+Policy Statement.
+A formal notification in the form of a Notice of Award (NoA) will be provided
+to the applicant organization for successful applications. The NoA signed by
+the grants management officer is the authorizing document and will be sent via
+email to the grantee’s business official.
+Awardees must comply with any funding restrictions described in Section IV.5. Funding Restrictions. Selection
+of an application for award is not an authorization to begin performance. Any
+costs incurred before receipt of the NoA are at the recipient's risk. These
+costs may be reimbursed only to the extent considered allowable pre-award costs.
+Any application awarded in response to this FOA will be subject to the DUNS,
+CCR Registration, and Transparency Act requirements as noted on the Award
+Conditions and Information for NIH Grants website.
+2. Administrative and National Policy Requirements
+All NIH grant and cooperative agreement awards include the NIH Grants
+Policy Statement as part of the NoA. For these terms of award, see the NIH Grants
+Policy Statement Part II: Terms and Conditions of NIH Grant Awards, Subpart A:
+General and Part II:
+Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for
+Specific Types of Grants, Grantees, and Activities. More information is
+provided at Award
+Conditions and Information for NIH Grants.
+Cooperative Agreement Terms and Conditions of Award
+The following special terms of the award are in addition to
+and not in lieu of, otherwise applicable OMB administrative guidelines, HHS
+grant administration regulations at 45 CFR Parts 74 and Part 92, and other HHS,
+PHS, and NIH grant administration policies.
+The administrative and funding instrument used for this
+program will be the cooperative agreement (U54), an "assistance"
+mechanism (rather than an "acquisition" mechanism), in which
+substantial NIH programmatic involvement with the awardees is anticipated
+during the performance of the activities. Under the cooperative agreement, the
+NIH purpose is to support and stimulate the recipients' activities by
+involvement in and otherwise working jointly with the award recipients in a
+partnership role; it is not to assume direction, prime responsibility, or a
+dominant role in the activities. Consistent with this concept, the dominant
+role and prime responsibility resides with the awardees for the project as a
+whole, although specific tasks and activities may be shared among the awardees
+and the NIH as defined below.
+The NIH Centers for Accelerated Innovations consist of the
+Center Awardees under this FOA.
+The
+PD(s)/PI(s) will have the primary responsibility for:
+The PD(s)/PI(s) will have the primary responsibility to
+define objectives and approaches of the Center and to plan, conduct, analyze,
+and publish results, interpretations, and conclusions of the studies. The
+primary responsibilities of the awardees are to:
+Determine experimental approaches, design protocols, conduct
+experiments, and disseminate results
+Define and monitor project milestones for prototype development
+and testing projects, with go/no-go decisions made in appropriate timeframes
+Obtain relevant overall Center IRB and IACUC approvals,
+regardless of whether subcontractors have separate approvals
+Ensure utilization of rigorous methodologies for clinical needs
+assessments with appropriate representation of users and/or stakeholders
+Serve as a voting member on the Program Steering Committee (Multiple
+PD/PI leadership will have one vote in total).
+Establish an External Advisory Board and coordinate their
+meetings
+Participate in collaborative activities with other Centers
+Develop and/or maintain external partnerships to assist in
+meeting goals
+Establish the ESC for technology evaluation efforts and project
+selection, and coordinate their meetings.
+Have processes in place to ensure that the ESC reviews the
+technologies in a manner that is fair, equitable, timely, and free of bias and
+conflicts.
+Provide information to the NIH Project Scientist/ Officer, the
+NIH Program Director, and the NIH Grants Management Specialist concerning
+progress, go/no-go decisions, technology evaluation processes, and the
+initiation of new projects
+Seek prior approval from NHLBI staff (NHLBI Program Director and
+Grants Management Specialist) prior to initiation of new product definition
+studies
+Share best practices with other Centers and with the NHLBI
+Awardees will retain custody of and have primary rights to
+the technologies, data, and software developed under these awards, subject to
+Government rights of access consistent with current HHS, PHS, and NIH policies.
+If change of a PD/PI is necessary, support of the award is
+not automatic, but may be continued with NIH funding component prior approval,
+provided that: The Center leadership has submitted a written request for a
+change of Program Director, countersigned by the Cooperative Agreement
+Principal Investigator and the appropriate institutional business official, to
+the NIH Program Staff describing the reasons for the change. The Biographical
+Sketch of the proposed new PD/PI must be provided. The information in the
+request establishes that the purpose of the Center Program to be conducted
+under the direction of the new Program Director will remain unchanged, and that
+the new Program Director has the appropriate technology development and
+administrative expertise to lead the Center. The request must be submitted far
+enough in advance of the requested effective date to allow the necessary time
+for review. Requests for change of institution will not be accepted.
+NIH
+Responsibilities:
+NIH Staff have substantial programmatic involvement that is
+above and beyond the normal stewardship role in awards, as described below
+The NHLBI Project Scientist(s) (Officer) will:
+Review and comment on critical stages in the research program on
+individual technologies before subsequent stages are implemented
+Participate in Center go/no-go decision-making on technology
+development and testing projects
+Interact with PD(s)/PI(s) on a regular basis to monitor progress
+at the Center
+In consultation with NHLBI, FDA, OIE, CMS and USPTO staff and
+other non-NIH experts in the field, review and approve new product definition
+project plans prior to initiation.
+Have the option to recommend to the Program Officer the
+withholding of support to a participating Center or Partner if technical
+performance requirements are not met
+Help coordinate collaborative efforts that involve multiple
+awardees
+Be a voting member of the Program Steering Committee
+Help the Program Steering Committee draft and apply operating
+policies and policies addressing recurring situations that require coordinated
+action
+Additionally, an NHLBI Program Officer will be responsible
+for the normal scientific and programmatic stewardship of the award and will be
+named in the award notice.
+The NHLBI Program Officer will:
+Be responsible for the normal scientific and programmatic
+stewardship of the award
+In consultation with NHLBI staff and non-NIH experts in the field,
+review and approve new technologies for development and testing technology
+plans prior to initiation
+Carry out continuous review of all activities to ensure
+objectives are being met
+Have the option to recommend to the NHLBI Project Scientist the
+withholding of support to a participating Center or Partner if technical
+performance milestones are not met
+Help coordinate collaborative efforts that involve multiple
+awardees
+Organize the Kick-off meeting within the first two months of
+award
+Organize the annual Program Steering Committee Meeting
+Be a member of the Program Steering Committee
+Help the Program Steering Committee draft and apply operating
+policies and policies addressing recurring situations that require coordinated
+action
+NHLBI
+Technology Review Committee will make final product definition
+project selections based on Center and ESC recommendations and NHLBI
+priorities. The committee comprises NHLBI, USPTO, OIE, CMS and FDA
+representatives. FDA, OIE, CMS and USPTO staff serves in an advisory capacity,
+while NHLBI staff makes the final decisions. The NHLBI Technology Review
+Committee will meet as needed, and provide technology selection recommendations
+to the Center PI(s) and the EAB.
+The
+NHLBI will conduct an administrative review after four years that will include outside expertise to evaluate the effectiveness of each
+Center at meeting the requirements of this FOA and meeting the metrics and
+milestones defined by the applicant. The results of the review will guide the
+NHLBI in determining the level and duration of each Center’s funding for the
+remaining years of the awards, and whether or not to renew the program.
+Areas
+of Joint Responsibility Include:
+The NHLBI Project Scientist and the PD(s)/PI(s) of each
+Center funded under this FOA will be responsible for forming a Program Steering
+Committee (PSC). The PSC will act as the main governing board across the
+multiple awards and will review the progress of the research activities,
+develop collaborative protocols, identify technological impediments to the
+progress, select strategies to surmount them, and identify opportunities for
+sharing techniques and tools developed within each Center.
+The Program Steering Committee will:
+Advise the NHLBI Project Scientist of scientific developments and
+opportunities that may enhance the goals of the program
+Help to develop uniform procedures and policies for the operation
+of the program under this FOA
+Serve as a venue for coordination across Centers as it relates to
+advancing the field, for example by reporting progress, disseminating best
+practices, and collectively evaluating new procedures, resources, and
+technologies
+Each PSC member will have one vote and will be required to
+accept and implement policies approved by the Committee. The NHLBI will
+have only one vote. The PSC may, as it deems necessary, invite additional,
+non-voting scientific advisors to meetings at which research priorities and
+opportunities are discussed.
+The Program Steering Committee will meet in person once a
+year at a minimum, with additional meetings scheduled as necessary to
+accomplish the goals of the program.
+The NHLBI is responsible for organizing and providing
+overall support for the Centers. In addition to regular grant stewardship, the
+NHLBI Project Scientists will be involved substantially with the awardees as
+partners, consistent with the Cooperative Agreement mechanism. The FDA, OIE,
+CMS, and USPTO will work collaboratively with the NHLBI to provide regulatory
+and IP related support and resources.
+Dispute
+Resolution:
+Any disagreements that may arise in scientific or
+programmatic matters (within the scope of the award) between award recipients
+and the NIH may be brought to arbitration. An Arbitration Panel will be
+convened. It will have three members: a designee of the Program Steering
+Committee chosen without NIH staff voting, one NIH designee, and a third
+designee with expertise in the relevant area who is chosen by the other two; in
+the case of individual disagreement, the first member may be chosen by the
+individual awardee. This special arbitration procedure in no way affects the
+awardee's right to appeal an adverse action that is otherwise appealable in
+accordance with PHS regulations 42 CFR Part 50, Subpart D and HHS regulations
+45 CFR Part 16.
+3. Reporting
+When multiple years are involved, awardees will be required
+to submit the Non-Competing
+Continuation Grant Progress Report (PHS 2590) annually and financial
+statements as required in the NIH
+Grants Policy Statement.
+A final progress report, invention
+statement, and the expenditure data portion of the Federal Financial Report are
+required for closeout of an award, as described in the NIH Grants
+Policy Statement.
+The Federal Funding Accountability and Transparency Act of
+2006 (Transparency Act), includes a requirement for awardees of Federal grants
+to report information about first-tier subawards and executive compensation
+under Federal assistance awards issued in FY2011 or later. All awardees of
+applicable NIH grants and cooperative agreements are required to report to
+the Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the NIH Grants
+Policy Statement for additional information on this reporting
+requirement.
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity
+and welcome the opportunity to answer questions from potential applicants.
+Application Submission Contacts
+GrantsInfo (Questions regarding application instructions and
+process, finding NIH grant resources) Telephone 301-435-0714
+TTY 301-451-5936
+Email: GrantsInfo@nih.gov
+eRA Commons Help Desk (Questions regarding eRA Commons
+registration, tracking application status, post submission issues)
+Phone: 301-402-7469 or 866-504-9552 (Toll Free)
+TTY: 301-451-5939
+Email: commons@od.nih.gov
+Scientific/Research Contact
+Kathleen Rousche, PhD
+Scientific Program Manager
+Office of Translational Alliances and Coordination
+Division of Extramural Research Activities
+National Heart, Lung and Blood Institute
+6701 Rockledge Drive, MSC 7924, Room 7215
+Bethesda, MD 20892
+Phone: 301-496-2149
+Direct: 301-594-5507
+Email: rouschek@mail.nih.gov
+Peer Review Contact
+Director, Office of Scientific Review
+National Heart, Lung, and Blood Institute
+National Institutes of Health
+6701 Rockledge Drive, Room 7214
+Bethesda, MD 20892-7924
+Bethesda, MD 20817 (express/courier service)
+Telephone: 301-435-0270
+Fax: 301-480-0730
+nhlbichiefreviewbranch@nhlbi.nih.gov
+Examine your eRA Commons account for review assignment and
+contact information (information appears two weeks after the submission due
+date).
+Financial/Grants Management Contact
+Theresa Jarosik
+Division of Extramural Research Activities
+National Heart, Lung, and Blood Institute
+6701 Rockledge Drive, Room 7128 (MSC 7926)
+Bethesda, MD 20892 (Express Zip Code: 20817)
+Telephone: 301-435-0166
+Email: tjarosik@nhlbi.nih.gov
+Section VIII. Other Information
+Recently issued trans-NIH policy
+notices may affect your application submission. A full list of policy
+notices published by NIH is provided in the NIH
+Guide for Grants and Contracts. All
+awards are subject to the terms and conditions, cost principles, and other
+considerations described in the NIH Grants Policy Statement.
+Authority and Regulations
+Awards are made under the authorization of Sections 301 and
+405 of the Public Health Service Act as amended (42 USC 241 and 284) and under
+Federal Regulations 42 CFR Part 52 and 45 CFR Parts 74 and 92.
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+Office of Extramural
+Research (OER)
+National Institutes of Health (NIH)
+9000 Rockville Pike
+Bethesda, Maryland 20892
+Department of Health
+and Human Services (HHS)
+NIH . . . Turning Discovery Into Health
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.

@@ -1,0 +1,2266 @@
+Department of Health
+and Human Services
+Part 1. Overview Information
+Participating Organization(s)
+National Institutes of Health (NIH)
+Components of Participating
+Organizations
+This Funding Opportunity Announcement (FOA) is developed
+as a Common Fund initiative (http://commonfund.nih.gov/) through the NIH Office of the Director,
+Office of Strategic Coordination (http://dpcpsi.nih.gov/osc/). The FOA will be administered by
+the National Institute on Minority Health and Health Disparities (NIMHD) on behalf of the NIH.
+Funding Opportunity Title
+NIH Building Infrastructure Leading to Diversity (BUILD)
+Initiative (U54)
+Activity Code
+U54 Specialized Center- Cooperative Agreements
+Successful applicants will receive support through the Linked Specialized
+Center Cooperative agreement mechanism that includes a primary UL1 (Linked
+Specialized Center Cooperative Agreement) award, a RL5 (Linked Education
+Project) award and a TL4 (Linked Undergraduate Institutional Training) award.
+Announcement Type
+New
+Related Notices
+None
+Funding Opportunity Announcement (FOA) Number
+RFA-RM-13-016
+Companion Funding Opportunity
+RFA-RM-13-015, U54 Specialized Center-Cooperative Agreements
+RFA-RM-13-017, U54 Specialized Center-Cooperative Agreements
+Number of Applications
+Only one application per institution is allowed, as
+defined in Section III. 3. Additional
+Information on Eligibility.
+Catalog of Federal Domestic Assistance (CFDA) Number(s)
+93.310
+Funding Opportunity Purpose
+The NIH encourages institutions that seek to engage
+undergraduate students in innovative mentored research training programs to
+submit applications for cooperative agreement awards through the NIH Building
+Infrastructure Leading to Diversity (BUILD) initiative, one of three new
+Common Fund initiatives that together aim to enhance diversity in the
+biomedical, behavioral, clinical, and social sciences research workforce. Addressing
+a major leakage point in the research workforce pipeline, BUILD awards are
+intended to support the design and implementation of innovative programs,
+strategies and approaches to transform undergraduate research training and
+mentorship. BUILD awards will also support institutional and faculty
+development to further strengthen undergraduate research training environments.
+Key Dates
+Posted Date
+December 19, 2013
+Letter of Intent Due Date(s)
+February 18, 2014
+Application Due Date(s)
+March 18, 2014
+AIDS Application Due Date(s)
+Not Applicable
+Scientific Merit Review
+June/July 2014
+Advisory Council Review
+August 2014
+Earliest Start Date
+September 2014
+Expiration Date
+March 19, 2014
+Due Dates for E.O. 12372
+Not Applicable
+Required Application Instructions
+It is critical that applicants follow the instructions in
+the PHS
+398 Application Guide except where instructed to do otherwise (in this FOA
+or in a Notice from the NIH
+Guide for Grants and Contracts). Conformance to all requirements (both
+in the Application Guide and the FOA) is required and strictly enforced. While
+some links are provided, applicants must read and follow all application
+instructions in the Application Guide as well as any program-specific
+instructions noted in Section IV. When
+the program-specific instructions deviate from those in the Application Guide,
+follow the program-specific instructions. Applications that do not
+comply with these instructions may be delayed or not accepted for review.
+Note: A new version of the paper PHS 398 application form and instructions
+(revised 8/2012) must now be used. Download the new application form and instructions
+from http://grants.nih.gov/grants/forms.htm.
+Table of Contents
+Part 1. Overview Information
+Part 2. Full Text of Announcement
+Section I. Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission
+Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2. Full Text of
+Announcement
+Section I. Funding Opportunity Description
+Background
+The NIH recognizes a unique and compelling need to promote
+diversity in the NIH-funded biomedical, behavioral, clinical, and social
+sciences (collectively termed "biomedical") research workforce. The
+NIH expects efforts that diversify the workforce to lead to the recruitment of
+the most talented researchers from all groups, improve the quality of the
+training environment, balance and broaden the perspective in setting research
+priorities, improve the ability to recruit subjects from diverse backgrounds
+into clinical research protocols, and improve the Nation's capacity to address
+and eliminate health disparities.
+With this need in mind, the NIH Director requested input
+from the NIH Advisory Committee to the Director (ACD) regarding actions that
+the NIH should take to make transformative progress in this area. In 2012, the ACD
+Working Group on Diversity in the Biomedical Research Workforce explored ways
+to improve the recruitment of individuals from diverse backgrounds
+underrepresented in biomedical research and prepare them for successful
+biomedical research careers. (These individuals include persons from
+underrepresented racial and ethnic groups, people with disabilities, and people
+from disadvantaged backgrounds; see http://www.nsf.gov/statistics/showpub.cfm?TopID=2&SubID=27,
+and the latest NSF report on Women, Minorities, and Persons with Disabilities
+in Science and Engineering, http://www.nsf.gov/statistics/women/).
+The Working Group provided recommendations, endorsed by the ACD, about how to
+develop and support individuals from diverse backgrounds across the lifespan of
+a research career, from undergraduate study to acquisition of tenure in an
+academic position or the equivalent in a non-academic setting. In response to
+these recommendations, NIH has established the Common Fund Program "Enhancing
+the Diversity of the NIH-Funded Workforce” (see http://commonfund.nih.gov/diversity/).
+This Common Fund program is envisioned as a national
+collaborative through which awardee institutions, in partnership with the NIH,
+will develop and implement novel and innovative programs to engage individuals
+from diverse backgrounds and help them prepare for and succeed in biomedical
+research careers. This program is being developed in the context of existing
+programs through which NIH and other entities have made significant investments
+to engage scientists using a variety of training and mentoring approaches. Although
+existing programs may show positive outcomes for trainees and participants,
+progress towards achieving a more diverse NIH-funded workforce is still
+insufficient.
+This program provides an opportunity to understand and
+address multi-dimensional factors (e.g., at institutional, social, and
+individual levels) that may strongly influence student success, professional
+development, and persistence within biomedical research career paths. It will
+build upon and move beyond existing programs and paradigms to support
+transformative approaches to student engagement, research training, mentoring,
+faculty development, and infrastructure development. Transformative approaches
+are ultimately expected to supplant less-effective practices and methods to
+have a broad and sustained impact on the diversity of the NIH-funded biomedical
+research workforce.
+Relevant
+questions for this funding opportunity include, but are not limited to: What
+are the hallmarks of a successful biomedical research career at each phase of
+the training process? What motivates students to enter biomedical research
+career paths, and what factors contribute to their sustained participation?
+What factors (e.g., institutional, social, and individual) influence emerging
+scientists, particularly those from underrepresented backgrounds, to enter,
+exit, or sustain a biomedical research career, and how can these factors be
+addressed? What must happen during different training stages to ensure that
+trainees and participants, particularly those from underrepresented
+backgrounds, develop the skills, knowledge, and competencies essential to
+success in biomedical research careers and careers in the NIH-funded research
+workforce? How do institutional structures and resources facilitate successful
+research training and professional development activities? How can approaches
+be designed so that their impact continues beyond the period of NIH funding?
+The program will consist of
+three highly integrated initiatives, in which awardees will work together as
+the Diversity Program Consortium:
+The
+Building Infrastructure Leading to Diversity (BUILD) Initiative:
+Various approaches to increase undergraduate student
+persistence in the STEM-related fields have been implemented (Graham et
+al., Science, 341, 1455-1456). Student participation in research
+experiences has been associated with improved academic performance and
+sustained interest in research careers in the basic and biomedical sciences
+(for example, see Fechheimer et al., CBE--Life Sciences Education, 10, 156-163 and
+Russell et al., Science, 316 (5824), 548-549). BUILD awards
+should emphasize research opportunities for students in a multi-pronged
+approach to enhance diversity in the NIH research workforce. Institutions are
+encouraged to consider additional innovative methods to engage and prepare
+students for success. Flexibility to innovate is a hallmark of the BUILD
+initiative. Applicants are encouraged to think creatively about how to address
+identified needs at their institutions and develop visionary approaches that
+encompass institutional, social, and individual-level factors.
+The
+National Research Mentoring Network (NRMN) Initiative:
+Lack of adequate mentoring is consistently described
+as a problem for trainees from all backgrounds. The NRMN initiative will
+develop a highly networked set of motivated and skilled mentors from various disciplines
+linked to mentees across the country – both from BUILD institutions and
+elsewhere – for individuals from the undergraduate to early career faculty
+level. In addition to linking individuals to mentors, the NRMN will develop best
+practices for mentoring, provide training opportunities for mentors, and provide
+networking and professional opportunities for mentees. The NRMN is expected to
+contribute substantially to the attainment of hallmarks of successful research
+career progression for each career stage.
+The
+Coordination and Evaluation Center (CEC):
+The CEC will coordinate consortium-wide activities
+and evaluate BUILD and NRMN programs. The CEC will facilitate the development
+of consortium-wide hallmarks, including core competencies, of successful
+biomedical research career progression, and examination of the impact of BUILD
+and NRMN programs according to these hallmarks. These consortium-wide
+development activities will be established through consensus in Executive
+Steering Committee meetings facilitated by the CEC, (see Section VI for details
+about the Executive Steering Committee.) The CEC will coordinate the collection
+and reporting of data from BUILD and NRMN awardees. The CEC will also
+facilitate consortium-wide discussions of approaches, progress, and lessons
+learned, and will serve as the focal point for dissemination of information to
+the broader research training and mentoring communities.
+The overarching goal of the Diversity Program Consortium is to
+enhance the diversity of well-trained biomedical research scientists who can successfully
+compete for NIH research funding and/or otherwise contribute to the NIH-funded
+workforce. The BUILD
+and NRMN initiatives are not intended to support replication or expansion of
+existing programs at applicant institutions. For example, simply increasing the
+number of participants in current NIH-funded research training or mentoring
+programs would not be responsive to this funding announcement. Promising
+practices and principles derived from the literature or from pilot programs may
+be leveraged to inform applicants' approaches and/or expansion of existing
+efforts in novel ways. These initiatives are intended to allow
+institutions to develop and pilot novel approaches to biomedical research
+training and mentoring and disseminate successful approaches.
+Through this FOA, the BUILD initiative targets the loss of
+promising students, including the disproportionate loss of those from
+underrepresented backgrounds, that occurs in the scientific pipeline during
+undergraduate training and at the decision point to continue training at the
+graduate level.
+Purpose/Objectives
+The BUILD initiative's primary purpose is to provide
+opportunities and resources for eligible institutions to implement transformative,
+broad-based approaches to the training of students to undertake biomedical and
+behavioral research in matters relating to the cause, diagnosis, prevention,
+and treatment of diseases. Through the BUILD initiative, eligible institutions
+will design and implement new models of biomedical and behavioral research
+training for students that emphasize attainment of hallmarks of success. Participating
+institutions should collectively consider all of the factors that are likely to
+prepare students to be successful in the NIH-funded workforce.
+BUILD institutions should develop a variety of approaches to
+engage and train students and to examine the efficacy of those approaches.
+While completion of undergraduate and graduate science degrees are requisite
+milestones for career progression, other predictors of success in research
+careers should also be considered and addressed. BUILD applicants should
+consider the substantial literature that addresses these factors and design
+their approaches with these in mind. It is expected that BUILD resources will
+be used to devise strategies to address various challenges at the
+institutional, social, and individual levels. In addition, BUILD awards will support
+faculty and staff enrichment in novel ways to further enhance the research
+training environment.
+BUILD awards are intended to stimulate creative new
+approaches for training undergraduate students with a broad range of biomedical
+and behavioral research interests. Accordingly, BUILD institutions are expected
+to cast a wide net for student participants and offer innovative research training
+and mentorship activities across a broad range of relevant disciplines.
+Applicant institutions may, at their discretion, partner with other
+institutions to broaden the potential pool of participating students and
+maximize opportunities for research training and faculty and staff development.
+The applicant (Primary) institution will have responsibility for the conduct
+and oversight of the award, along with the flexibility to determine the optimal
+configuration with its partners (if applicable) to have the maximum impact.
+Partnerships involving the Primary institution and one or more additional
+institutions among the types described below are encouraged, but not required.
+Primary Institutions - Baccalaureate degree-granting colleges and
+universities that receive less than $7.5M annually in NIH funding (total costs)
+through Research Project Grants and that have relatively high proportions of
+students from low-income backgrounds (see Eligibility Section for further
+details). These institutions typically emphasize undergraduate training and may
+be ideally poised to encourage students from disadvantaged backgrounds to enter
+research careers.
+Pipeline Partner – Two- or four-year undergraduate institutions
+with student populations that will enrich and expand the pool of students engaged
+in BUILD activities. Primary Institutions and Pipeline Partners are expected to
+co-develop and implement programs that enable students to master the coursework
+necessary to enter research careers, in addition to participating in research
+and mentoring activities. They are also expected to address institutional,
+social, and individual-level factors that may influence movement into research
+careers from Pipeline Partner Institutions.
+Research Partner - Research-intensive institutions with
+investigators who are committed and able to serve as effective mentors.
+Research Partners are intended to expand training, research and mentorship
+opportunities available to participating students, as well as engage faculty at
+Primary Institutions through collaborations and/or training opportunities.
+These partner institutions are expected to provide a scientifically rich
+environment, expanding the pool of potential faculty mentors to include
+additional actively funded investigators, and expanding the available curricula
+and hands-on research experiences. Partnerships may also enhance student
+interactions between partner institutions through joint courses, shared
+laboratory or field experiences, or other activities. In addition to academic
+research universities, partnerships with industry, NIH intramural research
+laboratories, or other research institutions may be established.
+Graduate/Medical Partner Institutions - Medical and graduate
+institutions that do not have undergraduate programs but do have research-active
+faculty and doctoral-level students engaged in research or planning a research
+career, and that receive less than $7.5M annually in NIH funding (total costs)
+through Research Project Grants. Primary Institutions and Graduate/Medical
+Partner Institutions will work collaboratively to provide programs for
+undergraduate and graduate students at the respective institutions. (See
+Eligibility Section for further details.)
+The BUILD Primary Institution and its partners should draw
+from the relevant literature to collectively consider all the factors,
+including institutional, social, and individual, that are likely to influence a
+student’s persistence in biomedical research career paths. BUILD awards will
+provide extensive flexibility to participating institutions to tailor
+approaches to their individual communities, building from existing strengths
+while enabling new approaches to be developed and assessed. It is expected that
+each BUILD award will be unique, reflecting unique student and faculty
+communities. Nevertheless, applicants should consider the following issues as
+all core activities are developed:
+Innovation: BUILD awards will enable institutions to try novel or
+promising approaches to enhance student engagement and research training,
+and/or to adapt strategies that have been piloted on a small scale to implement
+institution-wide. Institutions should also explore innovative ways to enhance
+faculty development and strengthen institutional research training
+infrastructure and capacity. Innovation domains may include, but are not
+limited to, novel student engagement in the sciences and outreach strategies,
+curricula and faculty development, incorporation of lab and field work into the
+curriculum, scholarly activity in teaching and research training methodologies,
+mentoring, peer networking and support, social media campaigns, faculty-led
+research, collaboration rooms, and/or other activities that the institution
+considers fundamentally important for its ability to better prepare and support
+students for research careers. Although institutions have high levels of
+flexibility to innovate, leveraging approaches based on previous pilot
+activities or on successful approaches described in the literature are
+encouraged. Innovation in approach - and the potential that the approaches will
+achieve a transformative impact - will be key review criteria for each of the
+cores described below.
+Mentoring: Effective research mentoring is a critical component
+of successful career progression. Each BUILD award is expected to include
+activities that will enhance the mentoring that students receive within and
+among participating institutions. Institutions will have flexibility to design
+novel mentoring strategies with emphasis on innovation and promoting
+sustainable change at the institutional level. These strategies should focus on
+enhancing student persistence in biomedical research training pathways, and
+exposing and equipping students with the knowledge and skills needed to become
+successful researchers. Mentor/mentee interactions are essential for institutional
+change; therefore mentors must be adequately equipped to prepare students for
+success. BUILD awardees are also expected to collaborate with the NRMN to
+provide access to external mentors.
+Student financial support: BUILD awards will afford flexibility
+to structure and distribute student financial support for research training.
+Applicants are encouraged to consider how provision of tuition and paid
+research experiences may be used most effectively to engage students. The
+nature and duration of BUILD participant activities should be determined by the
+needs of individual participants. While the BUILD initiative specifically seeks
+to enhance diversity among scientists with doctoral training engaged in
+NIH-funded biomedical research, training activities for all aspects of the
+research enterprise are encouraged. (See http://commonfund.nih.gov/workforce/ for related discussion of training for multiple career options.) New models of
+training are expected to build from extant research demonstrating efficacy of
+proposed approaches, and to extend from such research, identifying new methods
+for engaging students, including those from underrepresented backgrounds.
+Applications may propose an initial ramp-up period of up to
+12 months during the first budget period to develop the organizational capacity
+and strategy deemed necessary to enable an effective transition from the institutions'
+current state to the transformative state. Activities during this initial phase
+could include, but are not limited to: increasing outreach to/recruitment of
+students; identifying gaps and opportunities for improving student outcomes
+above current baseline indicators; implementing innovative strategies through facilitated
+collaborations between senior administrators, faculty, outside experts, and community
+via focus groups and/or workshops; implementing plans for innovative curricula
+and laboratory training activities and putting them in place; and/or strengthening
+research training infrastructure.
+Use of the ramp-up period is optional. Applicant
+institutions that consider themselves ready to immediately implement the novel
+strategies and approaches necessary for achieving BUILD objectives may propose
+to begin student engagement, research, mentoring, faculty development, and
+other proposed activities at the start of the project period.
+Successful BUILD projects are expected to yield tangible
+advances in three key areas: institutional development, faculty development,
+and student development. Expected outcomes must be described in the
+application. Examples of advances in each area could include, but are not
+limited to:
+1) Institutional Development
+Enhanced institutional capacity to engage students, particularly
+those who express an early interest in science but then exit the biomedical
+research training pathway, in biomedical research training and sustain their
+interest in research through innovations in course structure or curricula,
+student advising, group learning, and teaching methods.
+Enhanced institutional commitment and capacity to sustain
+transformative student research training and mentorship activities beyond the
+grant funding period.
+Strengthened infrastructure for research training and mentoring
+at participating institutions.
+2) Faculty Development
+Enhanced opportunities for faculty at participating institutions
+to incorporate more laboratory or field work activities into existing
+undergraduate courses, or develop new course offerings that emphasize original research.
+Enhanced opportunities for faculty to engage in biomedical
+research; this may include opportunities for sabbatical (or similar) research
+experiences, protected time to develop research projects or manuscripts for
+publication, and other research-related opportunities.
+Increased scholarly productivity as reflected in publications in
+peer-reviewed journals and presentations at national and/or international
+scientific conferences.
+Increased participation in mentoring activities and enhanced
+efficacy as mentors; this may include structured activities which engage
+experienced mentors to train the next generation of biomedical research mentors.
+3) Student Development
+Enhanced pursuit of biomedical research-related undergraduate
+fields of study.
+Enhanced transition of undergraduate students to accredited
+doctoral training programs.
+Enhanced student perceptions and attitudes toward biomedical
+research careers and improved understanding of the requirements for success in
+those careers.
+Improved readiness for biomedical research careers as determined
+by measures of success that the Diversity Program Consortium will develop.
+Enhanced student engagement in research as reflected by
+authorship on peer-reviewed papers and presentations at scientific conferences.
+Enhanced student participation and competitiveness in applying
+for and receiving research fellowships, scholarships, or other awards.
+BUILD awardees will be expected to collaborate with the CEC
+on an ongoing basis throughout the project period to assess the efficacy of
+approaches developed through the BUILD award. Specific approaches may need to
+be adapted following discussion with the Executive Steering Committee to enable
+evaluation. Required data may be modified based on early findings and recommendations
+of the Diversity Program Consortium that will guide activities across the
+BUILD, NRMN and CEC. In addition, the NIH may request information from CEC and
+other databases, PD(s)/PI(s) and BUILD participants. (See Section VI.3,
+Reporting).
+Coordination among the CEC, BUILD, and NRMN programs for
+data collection and evaluation will be established after awards are made.
+Therefore, it is not necessary for a BUILD application to include
+collaborations with specific CEC or NRMN applicants.
+Technical Assistance Webinars
+Potential applicants are strongly encouraged to participate
+in one or more pre-application Technical Assistance webinars, which will
+provide an opportunity to clarify expectations for the FOA so applicant
+organizations can present their strongest case for support. The webinar is
+scheduled for January 2014. Additional information will be posted on the
+Common Fund website at http://commonfund.nih.gov/diversity/.
+Section
+II. Award Information
+Funding Instrument
+Cooperative Agreement: A support mechanism used when there
+will be substantial Federal scientific or programmatic involvement.
+Substantial involvement means that, after award, NIH staff will assist,
+guide, coordinate, or participate in project activities.
+Application Types Allowed
+New
+The OER
+Glossary and the PHS 398 Application Guide provide details on these
+application types.
+Funds Available and Anticipated Number of Awards
+The NIH Common Fund intends to commit $30 million to fund
+approximately ten awards, contingent
+on the number of meritorious applications received and availability of funds.
+Award Budget
+Applications may request up to $3.0 million (total costs)
+in the first year. Applications may propose budget increases in year 2
+through year 4 to support additional BUILD students, not to exceed $5.3
+million (total costs) in any one year. Because the nature and scope of the
+proposed projects may vary among institutions, it is anticipated that the
+size of each award will also vary.
+Award Project Period
+The project period may not exceed 5 years.
+NIH grants policies as
+described in the NIH
+Grants Policy Statement will apply
+to the applications submitted and awards made in response to this FOA.
+Section III. Eligibility Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+Public/State Controlled Institutions of Higher Education
+Private Institutions of Higher Education
+The following types of Higher Education Institutions
+are always encouraged to apply for NIH support as Public or Private
+Institutions of Higher Education:
+Hispanic-serving Institutions
+Historically Black Colleges and Universities (HBCUs)
+Tribally Controlled Colleges and Universities (TCCUs)
+Alaska Native and Native Hawaiian Serving Institutions
+Asian American Native American Pacific Islander Serving
+Institutions (AANAPISIs)
+Applicant Primary Institutions are limited to domestic baccalaureate-granting
+colleges/universities that receive less than $7.5 million (total costs) of NIH
+research project grant (RPG) funding annually and have an award-eligible pool
+of undergraduate students, at least 25% of whom are supported by Pell grants. These
+eligibility requirements are intended to target funds to relatively
+underresourced institutions with a demonstrated commitment to students from
+financially disadvantaged backgrounds. These requirements are based on the
+recognition that (1) many students from low-income backgrounds are also
+nationally underrepresented in biomedical research, and (2) institutional
+commitment to these students often comes at the expense of investments in
+research infrastructure.
+For the purposes of determining eligibility as a Primary
+Institution, the annual level of NIH RPG funding received will be the average
+level calculated over the preceding three fiscal years (FY 2011, FY 2012 and FY
+2013), excluding SBIR/STTR funding and RPGs received through the American
+Recovery and Reinvestment Act (ARRA) as reported on the NIH RePORT website
+under NIH Awards by Location & Organization (http://projectreporter.nih.gov/reporter.cfm). The percentage of undergraduates
+with Pell grants will be based on 2012 student financial aid data for the
+applicant institution, as reflected in the National Center for Education
+Statistics IPEDS Data Center website, http://nces.ed.gov/ipeds/datacenter/Default.aspx.
+See Section IV.2, Content and Form of Application Submission, for instructions
+on certification of eligibility.
+Foreign Institutions
+Non-domestic (non-U.S.) Entities (Foreign Institutions) are
+not eligible to apply.
+Non-domestic (non-U.S.) components of U.S. Organizations are not eligible
+to apply.
+Foreign components, as defined in
+the NIH Grants Policy Statement, are allowed.
+For the purposes of this FOA, foreign component involvement
+is restricted to participation of students from the applicant institution in
+research training activities and/or research projects at foreign sites.
+Required Registrations
+Applicant
+Organizations
+Applicant organizations must complete and maintain the
+following registrations as described in the PHS 398 Application Guide to be
+eligible to apply for or receive an award. All registrations must be completed
+prior to the application being submitted. Registration can take 6 weeks or
+more, so applicants should begin the registration process as soon as possible.
+The NIH
+Policy on Late Submission of Grant Applications states that failure to
+complete registrations in advance of a due date is not a valid reason for a
+late submission.
+Dun and Bradstreet
+Universal Numbering System (DUNS) - All registrations require that
+applicants be issued a DUNS number. After obtaining a DUNS number, applicants
+can begin both SAM and eRA Commons registrations. The same DUNS number must be
+used for all registrations, as well as on the grant application.
+System for Award Management (SAM) (formerly CCR) – Applicants must complete and maintain an active registration, which requires renewal at least
+annually. The renewal process may require as much time as the
+initial registration. SAM registration includes the assignment of a Commercial
+and Government Entity (CAGE) Code for domestic organizations which have not
+already been assigned a CAGE Code.
+NATO
+Commercial and Government Entity (NCAGE) Code – Foreign organizations must
+obtain an NCAGE code (in lieu of a CAGE code) in order to register in SAM.
+eRA Commons - Applicants
+must have an active DUNS number and SAM registration in order to complete the
+eRA Commons registration. Organizations can register with the eRA Commons as
+they are working through their SAM or Grants.gov registration. eRA Commons
+requires organizations to identify at least one Signing Official (SO) and at
+least one Program Director/Principal Investigator (PD/PI) account in order to
+submit an application.
+Program
+Directors/Principal Investigators (PD(s)/PI(s))
+All PD(s)/PI(s) must have an eRA Commons account and should
+work with their organizational officials to either create a new account or to
+affiliate an existing account with the applicant organization’s eRA Commons
+account. If the PD/PI is also the organizational Signing Official, they must
+have two distinct eRA Commons accounts, one for each role. Obtaining an eRA
+Commons account can take up to 2 weeks.
+Eligible Individuals (Program Director/Principal Investigator)
+Any individual(s) with the skills, knowledge, and resources
+necessary to carry out the proposed research as the Program
+Director(s)/Principal Investigator(s) (PD(s)/PI(s)) is invited to work with
+his/her organization to develop an application for support. Individuals from
+underrepresented racial and ethnic groups as well as individuals with
+disabilities are always encouraged to apply for NIH support.
+For institutions/organizations proposing multiple PDs/PIs,
+visit the Multiple Program Director/Principal Investigator Policy and
+submission details in the Senior/Key Person Profile (Expanded) Component of the
+PHS 398 Application Guide.
+2. Cost Sharing
+This FOA does not require cost sharing as defined in the NIH
+Grants Policy Statement.
+3.
+Additional Information on Eligibility
+Number of Applications
+Only one application per institution, identified by a unique
+DUNS number, is allowed.
+NIH will not accept any application that is essentially the
+same as one already reviewed within the past thirty-seven months (as described
+in the NIH
+Grants Policy Statement), except for submission:
+To an RFA of an application that was submitted previously as an
+investigator-initiated application but not paid;
+Of an investigator-initiated application that was originally
+submitted to an RFA but not paid; or
+Of an application with a changed grant activity code.
+Student Trainees (TL4 linked training award)/Participants (RL5 Linked
+Education Project)
+It is expected that eligibility for BUILD-supported
+activities will be open to all undergraduate students at participating
+institutions, and all graduate students at Graduate/Medical partner
+institutions. The applicant institution is responsible for selecting students
+who will receive BUILD financial support. Student trainees supported through a
+TL4 linked training award must be U.S. citizens or non-citizen nationals or
+permanent residents and must be enrolled full time in academic degree programs
+in biomedical science fields at the applicant institution. Student participants
+supported through a RL5 linked award must be U.S. citizens or non-citizen
+nationals or permanent residents and must be enrolled full time at the
+applicant institution or Pipeline Partner or Graduate/Medical Partner
+institutions (if applicable). A non-citizen national is a person who, although
+not a citizen of the United States, owes permanent allegiance to the U.S. This
+is generally a person born in a land that is not a state, but that is under
+U.S. sovereignty, jurisdiction, or administration, e.g., American Samoa. An
+individual lawfully admitted for permanent residence must possess a currently
+valid Permanent Resident Card (USCIS Form I-551) or other legal verification of
+such status prior to receiving financial benefit from or employment on the
+grant. Individuals on temporary visas, those seeking asylum, or refugees are
+not eligible for support from this program. A limited range of enrichment
+activities, including research training and participation in research projects,
+may be offered to high school seniors who are concurrently enrolled in college
+bridge programs for biomedical sciences at participating institutions, but such
+students are not eligible to receive financial support from BUILD awards.
+Other Eligibility Information
+Applicants are not required to be recipients of planning
+grants under RFA-RM-13-001,
+"Planning Grants for the Building Infrastructure Leading to Diversity
+(BUILD) Initiative."
+Applicants for NRMN or CEC awards are eligible to apply to
+this FOA. However, the CEC awardee or its Partnering Institutions will not be
+eligible to receive a BUILD award.
+Section
+IV. Application and Submission Information
+1. Address to Request Application Package
+Applicants are required to prepare applications according to
+the current PHS 398 application forms in accordance with the PHS 398
+Application Guide.
+2. Content and
+Form of Application Submission
+It is critical that applicants follow the instructions in
+the PHS
+398 Application Guide, except where instructed in this funding opportunity
+announcement to do otherwise. Conformance to the requirements in the
+Application Guide is required and strictly enforced. Applications that are out
+of compliance with these instructions may be delayed or not accepted for
+review.
+Letter of Intent
+Although a letter of intent is not required, is not binding,
+and does not enter into the review of a subsequent application, the information
+that it contains allows IC staff to estimate the potential review workload and
+plan the review.
+By the date listed in Part 1. Overview
+Information, prospective applicants are asked to submit a letter of intent
+that includes the following information:
+Descriptive title of proposed activity
+Name(s), address(es), and telephone number(s) of the PD(s)/PI(s)
+Names of other key personnel
+Participating institution(s)
+Number and title of this funding opportunity
+The letter of intent should be sent to:
+Toya V. Randolph, PhD, MSPH
+National Institute on Minority Health and Health
+Disparities
+6707 Democracy Boulevard, Suite 800
+Bethesda, MD 20892
+Telephone: 301-402-1366
+Email: toya.randolph@nih.gov
+Application Submission
+Applications must be prepared using the PHS 398 research
+grant application forms and instructions for preparing a research grant
+application. Submit a signed, typewritten original of the application,
+including the checklist, five signed photocopies and all copies of the Appendix
+files in one package to:
+Center for Scientific Review
+National Institutes of Health
+6701 Rockledge Drive, Room 1040, MSC 7710
+Bethesda, MD 20892-7710 (U.S. Postal Service Express or regular mail)
+Bethesda, MD 20817 (for express/courier service; non-USPS service)
+Page Limitations
+All page limitations described in the PHS 398 Application
+Guide and the Table of
+Page Limits must be followed, in addition to the following page limitations
+to the Research Strategy section of each component of the application.
+Overall Component: 12 pages
+Administrative Core: 12 pages
+Institutional Development Core: 12 pages
+Student Training Core: 12 pages
+Research Enrichment Core: 12 pages
+Instructions for the Submission of Multi-Component Applications
+The following section supplements the instructions found in
+the PHS 398 Application Guide, and should be used for preparing a
+multi-component application.
+The application must consist of the following components:
+Overall Component
+Administrative Core
+Institutional Development Core
+Student Training Core
+Research Enrichment Core
+Awards issued through this FOA will divide the cores above
+into three linked awards: a UL1 Linked Specialized Center Cooperative Agreement
+award will support activities described through the Administrative and
+Institutional Development Cores; an RL5 Linked Education Project award will
+support activities described through the Research Enrichment Core; a TL4 Linked
+Training Award will support activities described through the Student Training
+Core.
+Overall Component
+All instructions in the PHS398 Application Guide must be
+followed, with the following additional instructions, as noted.
+Face Page (Overall)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Description, Project/Performance Sites, Senior/Key Personnel,
+Other Significant Contributors, Human Embryonic Stem Cells (Overall)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Table of Contents (Overall)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Detailed Budget for Initial Budget Period (Overall)
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional instructions: The budget for
+the Overall Component is a compilation of the itemized budget information provided
+for the Administrative Core, Institutional Development Core, Student Training
+Core, and Research Enrichment Core components. Provide an itemized summary
+(roll-up) budget for the initial budget period for the entire project,
+representing summations of the itemized costs from the four Core components.
+Include and identify the total direct costs from the Student Training Core
+component’s PHS 398 Training Budget form as a separate item in the Other
+Expenses category.
+Budget for Entire Proposed Period of Support (Overall)
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional instructions: As above, provide
+a summary (roll-up) budget for the entire project, representing summations of
+the itemized costs from the four Core components. Include and identify total
+direct costs from the Student Training Core component’s PHS 398 Training Budget
+Cumulative Budget form as a separate item in the Other Expenses category.
+Biographical Sketch (Overall)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Resources (Overall)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Research Plan (Overall)
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional instructions:
+Specific
+Aims: Describe the specific aims for the BUILD project as a
+whole. These should not be the same as the specific aims of the individual
+cores, but should be overarching and at a high level, and should include a
+vision for how the project will allow participating institutions to develop and
+implement innovative approaches to engage students, including those from
+underrepresented backgrounds, sustain their interest, and prepare them to
+pursue doctoral degrees leading to biomedical research careers.
+Research
+Strategy: Describe factors that contribute to the exit of
+students from biomedical research training pathways and how the award will
+allow the institution and its partners to address these factors. Describe the
+expected impact that the award will have long term: how will the award
+transform - i.e., lead to sustained changes in - the way that students are
+engaged, mentored, and trained?
+Describe the institution's vision for reaching
+students that would otherwise be likely to exit the biomedical research
+training pathway and the vision for successful research career paths, predictors
+of success at multiple stages, and novel activities related to student,
+faculty, and infrastructure development that create an environment that
+facilitates achievement of student milestones. Describe potential measures for
+efficacy and impact of proposed approaches.
+Describe how the proposed activities will enhance the
+Primary Institution's capacity for undergraduate research training, spur
+innovation, and position the participating institution(s) to achieve BUILD
+programmatic goals. Applications that propose an initial ramp up period (up to
+12 months) to develop an organizational strategy and make necessary
+institutional infrastructure enhancements should provide a rationale and
+describe the activities to be conducted and expected outcomes. For example, activities
+may include but are not limited to: increasing outreach to/recruitment of
+students; identifying gaps and opportunities for improving student outcomes
+above current baseline indicators; implementing innovative strategies through
+facilitated collaborations between senior administrators, faculty, outside
+experts, community, and NIH program staff via focus groups and/or workshops;
+implementing plans for innovative curricula and laboratory training activities
+and putting them in place; and/or strengthening research training
+infrastructure. The intent of the ramp up period is to allow institutions to
+establish the groundwork necessary to successfully implement the programmatic
+activities specified in the application.
+Identify proposed partners, if any, that have agreed
+to participate in the BUILD award. Provide the rationale for participation of
+all partner institutions. Each partner institution should contribute
+substantially to the goals of the program. Describe the leadership plan that
+will ensure effective communication and interaction between partner
+organizations. Describe how the partnership will operate, the role of faculty
+or staff from each partner organization, and the vision for student involvement
+from each.
+Describe existing resources/grants/awards at the
+Primary and Partner institutions that aim to support the engagement of students,
+including those from underrepresented groups, in biomedical research training and
+sustain their interest in biomedical research. Describe activities to ensure
+that the BUILD award will leverage existing resources, including (if
+applicable) existing biomedical research workforce diversity programs at
+participating institutions, to have synergistic effects.
+Describe past success of the Primary, and
+Graduate/Medical Partner Institution (if applicable), in engaging science
+students into research careers and preparing them to be successful in
+research. Describe student outcomes and compare to national statistics and
+reports on other student development programs, as available. Provide
+institutional baseline data for the last five years. Include the number of
+students enrolled at the institution, and undergraduate graduation data in
+BUILD-relevant sciences for all students and for students from underrepresented
+backgrounds. Describe the impact that the BUILD award is expected to have on the
+institution's ability to improve substantially its engagement of students in research
+career pathways.
+Letters
+of Support: The application should include a detailed statement
+from the applicant institution's leadership describing institutional commitment
+to the transformative concepts proposed and to sustaining new models of student
+engagement and training if they are shown to be effective through BUILD. Institutional
+support for BUILD activities may include but is not limited to provision of
+adequate faculty release time, support staff, facilities, and educational
+resources that will contribute to the proposed activities; plans for using
+institutional resources to further enhance the training program (e.g., support
+for additional student positions) and/or the institution’s ability to engage
+undergraduate students, including those from underrepresented backgrounds, in
+biomedical research. The statement should also address plans and prospects
+for long-term sustainability of institutional enhancements resulting from the
+BUILD project, including, if applicable, how the BUILD award may be leveraged
+by the institution to build a broader base of support.
+Letters of collaboration must be provided by authorized
+officials from consortium partner institutions (if applicable) addressing their
+institutional commitment to the proposed project and BUILD program goals. As
+applicable, key faculty or senior investigators at partner organizations who
+will have substantial involvement in curriculum development, teaching, research
+training and mentoring, or other activities should submit letters.
+Certification of Eligibility: Applicant institutions
+are required to include a letter certifying institutional eligibility as
+Primary Institutions for the BUILD program. The certification letter must be on
+institutional letterhead and signed by the authorized institutional official.
+Resource
+Sharing Plan: Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+Organisms, and Genome Wide Association Studies (GWAS)) as provided in the PHS
+398 Application Guide.
+Administrative Core
+All instructions in the PHS398 Application Guide must be
+followed, with the following additional instructions, as noted.
+Face Page (Administrative Core)
+All instructions in the PHS 398
+Application Guide must be followed.
+Description, Project/Performance Sites, Senior/Key
+Personnel, Other Significant Contributors, Human Embryonic Stem Cells
+(Administrative Core)
+All instructions in the PHS 398
+Application Guide must be followed.
+Table of Contents (Administrative Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Detailed Budget for Initial Budget Period
+(Administrative Core)
+All instructions in the PHS 398
+Application Guide must be followed.
+Budget for Entire Proposed Period of Support
+(Administrative Core)
+All instructions in the PHS 398 Application Guide
+must be followed. Funds may be used to support staff time, travel, face-to-face
+and virtual meeting costs, technical support or services, or related expenses
+required for infrastructure development, strategic planning, and program
+implementation. Funds for travel to the Annual Grantees Meeting, held in or
+near Bethesda, MD, should be included in the budget request. The first annual
+meeting will take place during October 2014.
+Biographical Sketch (Administrative Core )
+All instructions in the PHS 398
+Application Guide must be followed.
+Resources (Administrative Core)
+All instructions in the PHS 398
+Application Guide must be followed.
+Research Plan (Administrative Core )
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional instructions:
+Specific Aims: Describe the specific aims for
+the Administrative Core and how they relate to the
+overall specific aims.
+Research Strategy: Describe the BUILD project's
+organizational and governance structure and explain the roles and
+responsibilities of Administrative Core personnel. Describe the processes to be
+used to allocate and prioritize fiscal and other resources across the various
+components. Describe procedures for ensuring timely and effective communication
+among project cores and across participating partner institutions, if
+applicable.
+Describe the composition, roles, and responsibilities
+of any internal and external advisory committees or boards proposed to help
+manage and oversee BUILD activities, including the required Steering Committee.
+Describe the desired expertise of committee members, and how each committee
+will function in providing oversight of the development, implementation, and
+evaluation of proposed activities. Include frequency of meetings and other
+relevant information. Note that proposed external advisory committee members
+from outside the institution should not be named in the application.
+Resource
+Sharing Plan: Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model
+Organisms, and Genome Wide Association Studies (GWAS)) as provided in the PHS
+398 Application Guide.
+Institutional Development Core
+All instructions in the PHS398 Application Guide must be
+followed, with the following additional instructions, as noted.
+Face Page (Institutional Development Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Description, Project/Performance Sites, Senior/Key
+Personnel, Other Significant Contributors, Human Embryonic Stem Cells
+(Institutional Development Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Table of Contents (Institutional Development Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Detailed Budget for Initial Budget Period
+(Institutional Development Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Budget for Entire Proposed Period of Support
+(Institutional Development Core)
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional instructions: Funds may be used
+to support development or enhancement of research training infrastructure and
+research capacity, including but not limited to purchase of equipment to
+enhance research training; alteration and renovation of space used for research
+training; incorporation of research experiences into science curricula; faculty
+training in pedagogical skills development; and faculty sabbatical or workshop
+training to augment the research and teaching environments at Primary or
+Graduate/Medical partner institutions. Applications may request up to $500,000
+for alteration and renovation of research training space, to be expended within
+the first two years of the project period. Support for equipment and
+alteration/renovation costs are limited to Primary, Pipeline, and
+Graduate/Medical partner institutions.
+Biographical Sketch (Institutional Development Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Resources (Institutional Development Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Research Plan (Institutional Development Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Specific
+Aims: Describe the specific aims for the Institutional
+Development Core and how they relate to the overall specific aims.
+Research
+Strategy: Describe proposed approaches to conduct an assessment
+of capacity-building and infrastructure needs at the Primary Institution and partner
+institutions (if applicable) relating to potential advancements in
+undergraduate research training (e.g., administrative structure, key equipment
+or laboratory space for research training purposes, required renovations,
+and/or curriculum development). Describe how the proposed infrastructural
+improvements reflect and support innovative, potentially transformative,
+approaches.
+Describe any proposed institutional changes intended
+to enhance the research training environment. Provide specific details about
+how such changes will be implemented and how they will benefit faculty mentors,
+research support staff, and students at participating institutions, and
+ultimately increase the likelihood of achieving expected outcomes. Describe
+activities that will be undertaken to ensure long-term sustainability of
+successful approaches to be developed. How will this award provide long-term
+benefit to the participating institutions beyond the period of Common Fund
+support?
+Describe proposed approaches to conduct an assessment
+of faculty needs at the Primary Institution and Pipeline and/or Graduate/Medical
+Partner Institutions (if applicable) as they relate to the ability to engage
+students and prepare them for research careers, e.g., availability of faculty
+release time to support the development of novel curricula or other research
+training activities, local mentor capacity for junior faculty, mentor
+development, and support for sabbatical training to augment the research
+environment.
+Describe potential strategies and novel approaches to
+enhance faculty development and mentoring capabilities, and explain how the
+proposed faculty development activities will enhance the ability of faculty to
+engage students and prepare them for research careers. Describe efforts that will
+be undertaken to enhance faculty participation in research at the Primary Institution,
+and Pipeline and/or Graduate/Medical Partner Institutions (if applicable), as
+reflected in publications in peer-reviewed journals and presentations at
+national and/or international scientific conferences. Describe the types of
+research projects faculty may undertake that are amenable to undergraduate
+student participation. Delineate specific activities to be supported by the
+BUILD award to facilitate this type of research experience and describe
+expected outcomes, both for the faculty and for the students.
+Though not required, applicants may propose a pilot
+project program. A pilot project program may be used to directly support
+mentored research projects for students if the intent is to develop projects
+that are especially well suited for undergraduate research OR to provide seed
+funding to pilot or evaluate new research training strategies. Applicants may
+propose either or both (or neither) of these types of pilot project programs.
+If a pilot project program is proposed, describe the rationale for its
+inclusion, specifically, how it will enhance research training for
+participants; the qualifications of individuals identified to manage the
+program; its overall scope, types of projects to be supported, and expected
+impact on student outcomes and institutional research training capacity;
+expected number of projects and students to be supported each year; eligibility
+requirements; solicitation, submission, review, and selection criteria and
+processes; plans for providing appropriate mentorship; procedures for program
+oversight and evaluation; limits on dollars available and number of years of
+support per project. Do not include detailed descriptions of specific pilot
+projects.
+Resource
+Sharing Plan: Individuals are required to comply with the
+instructions for the Resource Sharing Plans (Data Sharing Plan, Sharing Model Organisms,
+and Genome Wide Association Studies (GWAS)) as provided in the PHS 398
+Application Guide.
+Student Training Core
+All instructions in the PHS398 Application Guide must be
+followed, with the following additional instructions, as noted.
+Face Page (Student Training Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Description, Project/Performance Sites, Senior/Key
+Personnel, Other Significant Contributors, Human Embryonic Stem Cells (Student
+Training Core)
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional modifications: List all of the
+locations where training, program management, and the research training
+experiences described in the Research Training Program Plan will be performed.
+If a Project/Performance Site will be engaged in research involving human
+subjects, it is the responsibility of the applicant organization to assure that
+all Project/Performance Sites comply with the human subject protection
+regulations in 45 CFR part 46 and NIH policies for the protection of human
+subjects. For research involving live vertebrate animals, the applicant
+organization must supply information for all training sites where animals will
+be used by trainees (TL4). The applicant organization is responsible for
+assuring that all Project/Performance Sites have a current Animal Welfare
+Assurance and comply with the PHS Policy on Humane Care and Use of Laboratory
+Animals.
+Table of Contents (Student Training Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Detailed Budget for Initial Budget Period (Student
+Training Core)
+Use the PHS 398 Training Budget forms for Ruth L.
+Kirschstein National Research Service Award (NRSA) institutional training
+grants. Download the PDF-fillable forms from the Common Fund Workforce
+Diversity program website (http://commonfund.nih.gov/pdf/PHS398_Training_Budget_V1.pdf). Instructions for completing the forms and
+budget justification are provided below.
+BUILD Student Training Core linked awards (TL4) may
+be used to support stipends, tuition and fees for undergraduate student
+trainees, trainee travel, and training-related expenses. Financial support for
+postbaccalaureate predoctoral or postdoctoral NRSA trainees is not allowed
+under this component. Annual stipend levels for undergraduate students are the
+same as for MARC and COR awards (see NOT-OD-12-033).
+Additional information about stipend levels, tuition and fee levels, and
+training-related expenses can be found on the Ruth L.
+Kirschstein National Research Service Award (NRSA) web site and in the NIH
+Grants Policy Statement: Ruth L. Kirschstein National Research Service Awards.
+Part A. Stipends, Tuition/Fees
+Enter the number of trainees, total stipend amount
+and total tuition/fees for each trainee category as appropriate. If a category
+contains different stipend levels, e.g., for varying appointment periods,
+itemize in the appropriate blocks. Enter the total stipends for all categories.
+See NOT-OD-12-033 and NOT-OD-13-064 for current NIH policy regarding payment of tuition and fees. Tuition and fees
+may be requested only to the extent that the same resident or nonresident
+tuition and fees are charged to regular non-Federally supported students. Where
+applicable, trainees should be divided into non-degree-seeking and
+degree-seeking categories. Grantees should request full needs. The formula
+currently in effect will be applied by the NIH awarding component at the time
+an award is calculated. Note that health insurance is not included as part of
+this budget category (see Training Related Expenses below).
+Part B. Other Direct Costs
+Enter the total costs for Trainee Travel, Training
+Related Expenses, and Consortium Training Costs (if applicable). Trainee travel
+costs are limited to attendance at scientific meetings and workshops that the
+awardee institution determines to be necessary for the trainee's development
+and training experience. Enter “0” in the line for Total Direct Costs from
+R&R Budget Form; the SF424 R&R Budget Form is not applicable for the
+BUILD Student Training Core budget.
+Training Related Expenses (TRE): Applications may
+request up to $25,200 per trainee annually. Enter the total TRE cost based on
+the number of trainees proposed. TRE may be used to defray training costs such
+as personnel costs (see below); equipment and research supplies for training
+experiences; trainee mentoring activities; faculty/staff travel directly
+related to the training program; student academic skills development activities
+(e.g., workshops in problem-solving, critical thinking, effective communication
+and time management); health insurance for trainees (self-only or family) to
+the extent that the same health insurance fees are charged to
+non-Federally-supported students at the applicant institution; and other
+program-related expenses. TRE expenses must be justified as specifically
+required by the proposed BUILD training program and must not duplicate items
+generally available at the applicant institution. Faculty salary support for
+the training program director(s) is limited to 3.0 calendar months per year.
+Support for administrative personnel (e.g., program administrator, program
+coordinator, program assistant) is limited to 6.0 calendar months per person
+per year.
+Consortium Training Costs (if applicable): If
+training will occur at more than one institution, and any transfer of funds
+between institutions occurs, applications must include PHS 398 Training Budget
+forms for each consortium training site; add the direct costs from all
+consortium training sites and insert the total amount on the appropriate line
+for each budget period. The applicant institution is responsible and
+accountable for any arrangements, expenditures, and submission of all required
+forms when more than one institution is involved in the research training
+program.
+Part C. Total Direct Costs Requested
+The sum of Sections A + B will be calculated
+automatically in the PHS 398 Training Budget forms.
+Part D. Indirect Costs
+Facilities and Administrative (F&A) costs will be
+awarded at 8%, excluding tuition/fees, equipment, and consortium costs in
+excess of $25,000.
+Indirect Cost Type: Enter “F&A”
+Indirect Cost Rate (%): Enter “8”
+Indirect Cost Base ($): Enter the sum of Stipends and
+Total Other Direct Costs requested. Indirect costs are not paid on
+Tuition/Fees, equipment, and consortium costs in excess of $25,000.
+Funds Requested ($): Enter the product of Indirect
+Cost Rate multiplied by Indirect Cost Base.
+Part E. Total Direct and Indirect Costs Requested
+(C+D)
+The sum of Total Direct Costs Requested and Total
+Indirect Costs Requested will be calculated automatically in the PHS 398
+Training Budget forms.
+Part F. Budget Justification
+Attach a detailed justification to the first budget
+period form, reflecting the entire project period. Explain in detail the
+composition of requested cost items as necessary. Itemize tuition and
+individual fees. If tuition varies (e.g., in-state, out-of-state, student
+status), identify these separately. State the purpose of any travel, giving the
+number of trips involved, the destinations, and the number of individuals for
+whom funds are requested. Note that PHS policy requires coach class air travel
+be used. Any foreign travel must be justified in detail, describing its
+importance to the training experience and considering the type of opportunities
+available for training, how those opportunities differ from and complement
+those offered by the grantee institution, and the relationship of the proposed
+off-site training experience to the career stage of the grantee.
+Budget for Entire Proposed Period of Support (Student
+Training Core)
+All values on the PHS 398 Training Budget, Cumulative
+Budget form are calculated automatically and represent summations of the
+amounts entered for each individual budget period. If an amount displayed on
+this form appears to be incorrect, correct it by adjusting one or more values
+in the appropriate form(s) for individual budget period(s).
+Applications may propose cost increases in year 2
+through year 4 to support additional undergraduate trainees recruited each
+year. Total costs for the project, adjusted upward to reflect increased numbers
+of trainees (Student Training Core) and student participants (Research
+Enrichment Core), may not exceed $5.3 million in any one year.
+Print all PHS 398 Training Budget Form pages,
+including the cumulative budget form page, and the detailed budget
+justification attachment, and submit them together under this core in the paper
+application.
+Biographical Sketch (Student Training Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Resources (Student Training Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Research Plan (Student Training Core)
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional instructions:
+Specific
+Aims: Describe the specific aims for the Student Training Core
+and how they relate to the overall specific aims.
+Research
+Strategy: Describe current institutional capacity for
+undergraduate research training in relevant disciplines, including total
+undergraduate student enrollment, numbers of students in relevant degree
+programs at the Primary Institution (and Pipeline partner institutions if
+applicable), membership of participating departments/programs, and
+participating faculty members. Describe the planned strategy and administrative
+structure to be used to oversee and monitor the Student Training Core, along
+with the qualifications and administrative capabilities of key personnel identified
+to lead the training program.
+Describe how the proposed activities for student
+development will enhance institutional capacity for undergraduate research
+training and expand the pool of students, including the targeted outreach to
+students from underrepresented backgrounds. Describe the total number of
+students currently enrolled in graduate and doctoral biomedical research degree
+programs, and how the proposed activities are expected to expand the pool of
+students entering biomedical research graduate level training. Describe the
+rationale for each activity and how, either individually or collectively, they
+represent a transformative, new approach to attract highly talented individuals
+into biomedical research careers who would otherwise be unlikely to pursue this
+career path. Provide a timeline for implementation of each activity and plans
+to assess the efficacy of each approach.
+Training
+Program Faculty: Identify faculty who will be available to serve as research
+mentors, either during the academic year or during summer months, to provide
+guidance and expertise to BUILD students. The mentors should have strong
+records as researchers and experience mentoring undergraduates, including those
+from underrepresented backgrounds. For research training at partner
+institutions (where proposed), letters from potential training faculty that
+agree to mentor BUILD trainees should be included in the application, along
+with biographical sketches. Applications that propose classroom-centered
+research training activities should fully describe the learning objective(s), innovative
+attributes, participating faculty (including biographical sketches), training
+frequency, expected impact on student outcomes, and other relevant information.
+Trainee
+Candidates: Describe in general terms the pool of potential candidates. Do
+not name prospective trainees. Describe plans to recruit candidates from
+current student populations and explain how these plans will foster the
+engagement of students in biomedical research, including those who would
+otherwise be likely to choose other career paths. Describe how these approaches
+will be implemented. Identify and provide a rationale for any novel selection factors
+or approaches designed to stimulate interest in scientific research careers
+across a much broader range of the student population than is typically
+targeted by existing undergraduate research training programs (e.g.,
+non-science majors, transfer students). Describe the evaluation criteria to be
+used in the selection of trainees, and how training plans will be tailored to
+the needs of prospective candidates.
+Proposed
+Training: Provide
+an overview of the proposed training program, including near- and long-term
+objectives. Describe strategies to be used and activities to be undertaken to
+ensure that proposed objectives are met. Institutions with existing training
+programs must explain what distinguishes this program from the others, how the
+programs will synergize, and how the faculty, potential trainee pool, and
+resources are robust enough to support additional programs.
+Describe plans to develop essential research skills,
+such as the ability to apply critical thinking to formulate and design ways to
+test hypotheses, identify potential problems and propose solutions or
+alternative approaches, and communicate research findings orally and in
+writing. Also include information about planned courses, curricula,
+seminars, workshops, or tutorials that will be incorporated into the training
+program and mentored research experiences. Describe how students will be made
+aware of NIH and other funding opportunities.
+Applications that propose research experiences at
+partner institutions with active NIH institutional training grant (T32)
+programs should describe how the BUILD PD(s)/PI(s) will interact with the T32
+PD(s)/PI(s) to promote awareness of graduate research training programs in the
+biomedical sciences and encourage BUILD students to apply for admission to research-oriented
+graduate degree programs. Most NIH Institutes and Centers support T32
+predoctoral training programs in various research areas; to identify such
+programs, visit the NIH
+Research Portfolio Online Reporting Tools (RePORT) website.
+Plan
+for Instruction in the Responsible Conduct of Research: Every BUILD
+trainee supported through the Student Training Core and every BUILD student participant
+supported through the Research Enrichment Core is strongly encouraged to
+receive instruction in the responsible conduct of research. All applications
+must include a plan to provide such instruction. The plan must address five
+components (format; subject matter; faculty participation; duration of
+instruction; and frequency of instruction) as detailed in NOT-OD-10-019.
+The background, rationale and more detail about instruction in the responsible
+conduct of research can be found in NOT-OD-10-019.
+Additional guidance on training in the responsible conduct of research can be
+found at http://www.nigms.nih.gov/Training/responsibleconduct.htm.
+Applications lacking a plan for instruction for the
+Student Training Core in the responsible conduct of research may not be
+reviewed.
+Research Enrichment Core
+All instructions in the PHS398 Application Guide must be
+followed, with the following additional instructions, as noted.
+Face Page (Research Enrichment Core)
+All instructions in the PHS 398 Application Guide must
+be followed.
+Description, Project/Performance Sites, Senior/Key
+Personnel, Other Significant Contributors, Human Embryonic Stem Cells (Research
+Enrichment Core)
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional modifications: List all of the
+locations where the research experiences described in the proposed research enrichment
+program will be performed. If a Project/Performance Site will be engaged in
+research involving human subjects, it is the responsibility of the applicant
+organization to assure that all Project/Performance Sites comply with the human
+subject protection regulations in 45 CFR part 46 and NIH policies for the
+protection of human subjects. For research involving live vertebrate animals,
+the applicant organization must supply information for all sites where animals
+will be used by student participants. The applicant organization is responsible
+for assuring that all Project/Performance Sites have a current Animal Welfare
+Assurance and comply with the PHS Policy on Humane Care and Use of Laboratory
+Animals.
+Table of Contents (Research Enrichment Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Detailed Budget for Initial Budget Period (Research
+Enrichment Core)
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional instructions: Faculty support
+may include salary offset for faculty who spend substantial effort in the
+development and use of novel curricula or mentoring activities; equipment and
+supplies for key training faculty to enable or enhance mentored research
+experiences for students; faculty training in pedagogical skills development; release
+time to conduct grant writing workshops or other activities to enhance student
+awareness and competitiveness for extramural research fellowships and grant
+funding; and resources for highly effective mentors to train new mentors.
+Participant Costs: Participants are those students
+who benefit from the proposed activities and experiences involved in the
+research enrichment program. Participant costs may be paid if specifically
+required for the proposed research enrichment program and sufficiently
+justified. Participant costs must be itemized in the proposed Research
+Enrichment Core budget. Allowable participant costs depend on the educational
+level/career status of the individuals to be selected to participate. The
+salary and fringe benefits for an undergraduate participant should be
+consistent with the institutional salary policies for employees in similar
+positions.
+Individuals supported by NIH training and career
+development mechanisms (K, T, or F awards) may receive educational experiences
+supported by a BUILD award, as participants, but may not receive salary or
+stipend supplementation from BUILD Research Enrichment Core funds.
+Because the BUILD Research Enrichment component is not intended as a substitute
+for an NRSA institutional training program, costs to support full-time
+participants (supported for 40 hours/week for a continuous, 12-month period)
+are not allowable under the Research Enrichment Core.
+Budget for Entire Proposed Period of Support (Research
+Enrichment Core)
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional instructions: Applications may
+propose budget increases in year 2 through year 4 to support additional cohorts
+of BUILD participants recruited each year. Total costs adjusted upward to
+reflect increased numbers of participants supported through the Research Enrichment
+Core and Student Training Core in years 2 through 4 may not exceed $5.3 million
+in any one year.
+Biographical Sketch (Research Enrichment Core)
+All instructions in the PHS 398 Application Guide
+must be followed.
+Resources (Research Enrichment Core)
+All instructions in the PHS 398 Application Guide
+must be followed. Describe the institutional environment, facilities, and training
+resources that will contribute to the planned Research Enrichment Core.
+Research Plan (Research Enrichment Core)
+All instructions in the PHS 398 Application Guide
+must be followed, with the following additional instructions:
+Specific
+Aims: Describe the specific aims for the Research Enrichment
+Core and how they relate to the overall specific aims.
+Research
+Strategy: Innovative approaches to engage students in research,
+to sustain their interests, and to prepare them for research careers are
+intended to be a key outcome of this program. Provide a summary of the research
+enrichment program to be developed, including its objectives, types of research
+activities to be employed, and mentoring resources. Describe approaches that
+will be developed to identify and engage talented students, including those who
+would otherwise be unlikely to pursue biomedical research careers. Provide the
+rationale for these approaches and the impact that each is intended to have.
+Describe the academic enrichment students will
+receive to enable them to be competitive for entrance into science Ph.D.
+programs at accredited graduate institutions. This should include a
+contemporary science curriculum rich in quantitative and/or qualitative, and
+cross-disciplinary skills, but may also include coursework designed to foster
+innovation and other attributes of successful research scientists. Describe
+novel curricula, field programs, or other activities to be developed, and the
+participants that they are intended to reach.
+Describe postbaccalaureate research experiences that
+may be provided, if applicable. Explain how such experiences will enhance and/or
+sustain interest in biomedical research careers, and how they will prepare
+participants to successfully compete for admission to graduate-level research
+training programs. Describe how participants will be selected and the research
+and mentoring options that will be available to them. Describe specific goals
+for the postbaccalaureate training period and how progress toward these goals
+will be assessed.
+Research Enrichment Core activities should also
+provide participants with professional skills development opportunities and
+career guidance, including instruction and training in grant writing in order
+to successfully apply for pre-doctoral and postdoctoral fellowships, career
+development awards, and independent research grant support. Describe how participants
+will be made aware of NIH and other funding opportunities. Provide programmatic
+detail on the specific activities proposed (e.g., courses, curricula, seminars,
+workshops).
+Describe how the proposed enrichment activities to be
+developed are distinct from current activities at the applicant and partner
+institutions. Describe how each partner institution will participate in
+proposed activities and how faculty and student participants at partner
+institutions will interact. Describe the synergistic impact that partnerships
+are expected to provide to the Research Enrichment component.
+Describe arrangements for core administration and provide
+evidence that the Core Director is actively engaged in research and/or teaching
+in an area related to the mission of NIH, and can organize, administer,
+monitor, and evaluate the proposed research enrichment activities. Also provide
+evidence of institutional and community commitment to, and support for, the
+proposed activities.
+Describe the characteristics and responsibilities of
+the participating faculty; provide evidence that the participating faculty and
+preceptors are actively engaged in research or other scholarly activities
+related to the mission of NIH. Provide evidence that faculty at participating
+institutions are committed to the development and use of the innovative
+curricula, field exercises, or other activities to be developed. Faculty
+training in pedagogical skills and modern teaching modalities that confer
+improved learning outcomes is encouraged to enhance the academic learning
+environment at the institution. BUILD awards can provide support for faculty to
+attend workshops, seminars, and other professional development activities to
+acquire the knowledge and skills necessary for improved pedagogy as well-justified
+in the budget.
+Describe a mentoring plan with specific goals. The
+plan should include how faculty will be selected to serve as mentors and any
+training activities designed to enhance the cultural competence of faculty to
+provide mentorship to mentees from diverse backgrounds. In addition, the plan
+should describe how identified standards of effective mentoring will guide
+development and content of mentoring opportunities, and describe how mentor
+training will be tailored for undergraduate mentees.
+Describe strategies and plans for recruiting,
+selecting, and assigning participants to research activities. Describe the
+anticipated duration of research experiences, the months in which they will
+occur, and the allocation of each participant's time to be spent in various
+activities. All BUILD awards are expected to include a mentored summer research
+program under this Core. Provide details about the pool of expected
+participants, including the number of students potentially engaged, their
+qualifications, etc. Do not name prospective participants.
+Applications may propose outreach activities to raise
+awareness of the BUILD initiative and stimulate interest in the biomedical
+sciences among high school students in surrounding communities. Further, a
+limited range of enrichment activities, including mentored research experiences,
+may be offered to high school seniors who are concurrently enrolled in college
+bridge programs in relevant sciences at participating institutions (note: BUILD
+awardees will be expected to provide documentation certifying enrollment in a
+college bridge program). If such activities are proposed, describe the target
+population, the specific activities to be conducted, key personnel, and
+anticipated benefits to participants and to the BUILD project as a whole.
+While the proposed program may complement ongoing
+research training programs at participating institutions, the proposed enrichment
+activities must be distinct from those currently supported by NIH or other
+federal programs. The applicant organization should clearly describe the
+distinction between the intended participants in the proposed research enrichment
+program and research training supported by other programs. Adaptations of
+components of existing research enrichment programs may be considered, but the
+application should clearly describe the innovative and distinct nature of the
+proposed activities, e.g., the addition of unique components and/or a proposal
+to determine portability of an existing methodology
+Though not required, applicants may propose a pilot
+project program. A pilot project program may be used to directly support
+mentored research projects for students OR to provide seed funding to pilot or
+evaluate new research training strategies. Applicants may propose either or
+both (or neither) of these types of pilot project programs. If a pilot project
+program is proposed, describe the rationale for its inclusion, specifically,
+how it will enhance research training for participants; the qualifications of
+individuals identified to manage the program; its overall scope, types of
+projects to be supported, and expected impact on student outcomes and
+institutional research training capacity; expected number of projects and
+students to be supported each year; eligibility requirements; solicitation, submission,
+review, and selection criteria and processes; plans for providing appropriate
+mentorship; procedures for program oversight and evaluation; limits on dollars
+available and number of years of support per project. Do not include detailed
+descriptions of specific pilot projects.
+Plan
+for Instruction in the Responsible Conduct of Research: Every BUILD
+trainee supported through the Student Training Core and every BUILD student participant
+supported through the Research Enrichment Core is strongly encouraged to
+receive instruction in the responsible conduct of research. All applications
+must include a plan to provide such instruction. The plan must address five
+components (format; subject matter; faculty participation; duration of
+instruction; and frequency of instruction) as detailed in NOT-OD-10-019.
+The background, rationale and more detail about instruction in the responsible
+conduct of research can be found in NOT-OD-10-019.
+Additional guidance on training in the responsible conduct of research can be
+found at http://www.nigms.nih.gov/Training/responsibleconduct.htm.
+Applications lacking a plan for instruction for the
+Research Enrichment Core in the responsible conduct of research may not be
+reviewed.
+Resource
+Sharing Plan: Individuals are required to comply with the instructions
+for the Resource Sharing Plans (Data Sharing Plan, Sharing Model Organisms, and
+Genome Wide Association Studies (GWAS)) as provided in the PHS 398 Application
+Guide.
+Appendix for the Entire Application
+Do not use the Appendix to circumvent page limits. Follow
+all instructions for the Appendix (please note all format requirements) as
+described in the PHS 398 Application Guide.
+3. Submission Dates and Times
+Part I. Overview Information contains information about Key Dates.
+Information on the process of receipt and determining if
+your application is considered “on-time” is described in detail in the PHS 398
+Application Guide.
+Applicants may track the status of the application in the eRA Commons, NIH’s electronic system for grants
+administration.
+4. Intergovernmental
+Review (E.O. 12372)
+This initiative is not subject to intergovernmental
+review.
+5.
+Funding Restrictions
+All NIH awards are subject to the terms and conditions, cost
+principles, and other considerations described in the NIH
+Grants Policy Statement.
+Pre-award costs are allowable only as described in the NIH
+Grants Policy Statement.
+Awards issued through this FOA will divide the cores above
+into three linked awards: a UL1 Linked Specialized Center Cooperative Agreement
+award will support activities described through the Administrative and
+Institutional Development Cores; an RL5 Linked Education Project award will
+support activities described through the Research Enrichment Core; a TL4 Linked
+Training Award will support activities described through the Student Training
+Core. The costs associated with each component will be allowable only to the corresponding
+linked award.
+6. Other Submission Requirements and
+Information
+Applications must be postmarked on or before the due dates
+in Part I. Overview Information.
+Upon receipt, applications will be evaluated for
+completeness by the Center for Scientific Review and responsiveness by components of participating organizations,
+NIH. Applications that are incomplete and/or nonresponsive will not be
+reviewed.
+Responsiveness Criteria
+BUILD awards are intended to support novel approaches for
+enhancing undergraduate research training, and mentorship across a range of
+scientific disciplines. Applications that focus exclusively on a particular
+scientific discipline, research topic area, or that restrict eligibility for
+participation to a particular demographic group are not responsive to this FOA.
+However, institutions are encouraged to conduct targeted outreach activities to
+raise awareness among students from underrepresented backgrounds about
+opportunities afforded by the BUILD project.
+Similarly, the BUILD is intended to provide training,
+mentorship and other opportunities relevant to the pursuit of a biomedical
+research career. Applications that focus on general science, technology,
+engineering, and mathematics (STEM) education, or on the preparation of
+individuals exclusively for clinical, teaching, or other non-research careers,
+are not responsive to this FOA.
+Post Submission Materials
+Applicants are required to follow the instructions for
+post-submission materials, as described in NOT-OD-13-030.
+Section
+V. Application Review Information
+1. Criteria
+Only the review criteria described below will be considered
+in the review process. As part of the NIH mission,
+all applications submitted to the NIH in support of biomedical research are
+evaluated for scientific and technical merit through the NIH peer review
+system.
+Overall Impact - Overall
+Reviewers will provide an overall impact score to reflect
+their assessment of the likelihood for the project to exert a sustained,
+powerful influence on the research field(s) involved, in consideration of the
+following review criteria and additional review criteria (as applicable for the
+project proposed).
+Scored Review Criteria - Overall
+Reviewers will consider each of the review criteria below in
+the determination of scientific merit, and give a separate score for each. An
+application does not need to be strong in all categories to be judged likely to
+have major scientific impact. For example, a project that by its nature is not
+innovative may be essential to advance a field.
+Significance
+Does the project address an important problem or a
+critical barrier to progress in the field? If the aims of the project are
+achieved, how will scientific knowledge, technical capability, and/or clinical
+practice be improved? How will successful completion of the aims change the
+concepts, methods, technologies, treatments, services, or preventative
+interventions that drive this field?
+In addition, specific for this FOA: Is the project
+likely to substantially enhance the engagement of undergraduate students,
+including those from underrepresented backgrounds, in biomedical research
+training, sustain their interest, and prepare them to successfully pursue
+research careers? Will students be reached who would otherwise be unlikely to
+pursue biomedical research as a career choice? If the objectives of this award
+are met, will the awardee institution be positioned to sustain its success? Do
+the activities suggest that the program to be developed will not merely expand
+existing programs, but instead will build from and synergize with existing
+training programs and resources at participating institutions? Are ongoing
+activities taken into account such that the program to be developed will allow
+the Primary Institution and its partners to engage and serve many more students
+than are currently served and/or to dramatically improve the research training
+to be provided? Are specific metrics included that document the numbers of
+students entering biomedical research careers from the applicant institution
+and its partners, if any? Are plans clearly described to improve above the
+stated baseline of students entering graduate level biomedical research
+programs?
+Investigator(s)
+Are the PD(s)/PI(s), collaborators, and other
+researchers well suited to the project? If Early Stage Investigators or New
+Investigators, or in the early stages of independent careers, do they have
+appropriate experience and training? If established, have they demonstrated an
+ongoing record of accomplishments that have advanced their field(s)? If the
+project is collaborative or multi-PD/PI, do the investigators have
+complementary and integrated expertise; are their leadership approach,
+governance and organizational structure appropriate for the project?
+In addition, specific for this FOA: Do the
+investigators show evidence of the ability to lead institutional
+transformation, develop, and direct a program focused on biomedical research,
+research training and mentorship, including for undergraduate students from
+diverse backgrounds? Are the key personnel committed to research training for
+students from underrepresented backgrounds, and is there evidence of past
+success in motivating such students to pursue research careers and preparing
+them to be successful? Are activities planned to ensure active engagement of
+faculty from all partner institutions?
+Innovation
+Does the application challenge and seek to shift
+current research or clinical practice paradigms by utilizing novel theoretical
+concepts, approaches or methodologies, instrumentation, or interventions? Are
+the concepts, approaches or methodologies, instrumentation, or interventions
+novel to one field of research or novel in a broad sense? Is a refinement,
+improvement, or new application of theoretical concepts, approaches or
+methodologies, instrumentation, or interventions proposed?
+In addition, specific for this FOA: Are the
+approaches to be used innovative in the ways in which students from diverse
+backgrounds are engaged and trained? Are factors that contribute to student
+exit from biomedical research training considered and are innovative strategies
+to address these factors included? Are novel and creative approaches to
+research training and/or mentoring clearly described and likely to
+substantially increase student participation in research, including students
+from underrepresented backgrounds? If the proposed model is already in
+existence, is it being adapted or applied in innovative ways to engage and
+train students from diverse backgrounds? Have the PD(s)/PI(s) developed
+innovative ways to engage faculty in research mentoring and teaching across Partnering
+Institutions?
+Approach
+Are the overall strategy, methodology, and analyses
+well-reasoned and appropriate to accomplish the specific aims of the project?
+Are potential problems, alternative strategies, and benchmarks for success presented?
+If the project is in the early stages of development, will the strategy
+establish feasibility and will particularly risky aspects be managed?
+If the project involves human subjects and/or NIH-defined clinical research,
+are the plans to address 1) the protection of human subjects from research
+risks, and 2) inclusion (or exclusion) of individuals on the basis of sex/gender,
+race, and ethnicity, as well as the inclusion or exclusion of children,
+justified in terms of the scientific goals and research strategy proposed?
+In addition, specific for this FOA: Is the
+overarching vision for development of transformative approaches to biomedical
+research training compelling, and are the activities well suited to address
+this vision? Is there a plan to make students aware of NIH and other funding
+opportunities? Do the approaches provide a comprehensive strategy to address
+factors that lead students to exit the biomedical research career pathway? Are
+the approaches likely to encourage experiences that may lead students to select
+and enter biomedical research careers? Will the proposed approaches enrich the biomedical
+research training environment at participating institutions? Is each of the
+approaches to be utilized well justified and will each contribute substantially
+to the overarching vision established by the PD(s)/PI(s) and collaborators? Are
+the proposed activities distinct from ongoing research training activities,
+such that synergies will result if the new activities are conducted?
+Is an appropriate rationale for the selection and
+inclusion of partner organizations provided? Will each of the partner
+organizations make substantial and meaningful contributions to the goals of the
+project?
+Environment
+Will the scientific environment in which the work
+will be done contribute to the probability of success? Are the institutional
+support, equipment and other physical resources available to the investigators
+adequate for the project proposed? Will the project benefit from unique
+features of the scientific environment, subject populations, or collaborative
+arrangements?
+In addition, specific for this FOA: Are the combined environments
+of all partner institutions likely to foster effective collaborations for
+teaching and mentoring diverse students in coursework and in research? Are
+partnerships envisioned that will provide robust research experiences for
+undergraduate students? Will the partnerships provide a robust mentoring
+pool for students to integrate with and form long-lasting mentor/mentee
+relationships to help shape their future careers?
+Additional Review Criteria
+As applicable for the project proposed, reviewers will
+evaluate the following additional items while determining scientific and
+technical merit, and in providing an overall impact score, but will not give
+separate scores for these items.
+Overall Component
+Does the application articulate a compelling and well-grounded
+vision for successful research career paths and predictors of success at
+multiple stages?
+Are the activities related to student, faculty, and
+infrastructure development novel, well integrated, and likely to create an
+environment that fosters achievement of proposed milestones, leading to overall
+gains in student outcomes above institutional baseline indicators?
+Does the application describe how the proposed activities will
+enhance the Primary Institution's capacity for undergraduate research training,
+spur innovation, and position the participating institution(s) to achieve BUILD
+programmatic goals?
+If the application proposes to use up to 12 months post-award to
+develop an organizational strategy and make necessary institutional
+infrastructure enhancements, does it provide a rationale for taking a phased
+approach and clearly describe the proposed activities and expected outcomes?
+Have existing resources/grants/awards at the Primary and Partner
+institutions been appropriately leveraged to help achieve the stated aims?
+If Partner Institutions are proposed, are their roles clearly
+described and justified?
+Do the letters of support from authorized institutional officials
+and key personnel at the Primary and Partner Institutions (if applicable) demonstrate
+strong support for the proposed activities and include tangible examples of
+institutional commitment that engender confidence in the likelihood of success?
+Are there specific project milestones that are directly related
+to achieving the programmatic goals, and is the proposed timeline feasible and
+realistic?
+Administrative Core
+Is the organizational and governance structure likely to support
+timely execution of the project and attainment of proposed priorities and
+objectives?
+Are the roles and responsibilities of Administrative Core
+personnel clearly delineated?
+Are proposed processes to allocate and prioritize fiscal and
+other resources clearly described and well justified?
+Is a plan provided to ensure timely and effective communication
+across project cores and the Diversity Program Consortium as a whole?
+Does the proposed management plan clearly describe the composition
+and roles of any proposed advisory committees or boards and engender confidence
+that advisers will be effectively utilized?
+Is the infrastructure to support data collection to evaluate the
+impact and effectiveness of the proposed program described, and are proposed
+plans for evaluation likely to enable meaningful comparisons with institutional
+baseline data and outcomes from other training programs locally or at the
+national level?
+Are there personnel with appropriate expertise to collaborate
+with the CEC to develop data collection and analysis protocols for the
+evaluation of the BUILD?
+Institutional Development Core
+Is the need for institutional development adequately described
+and justified in the context of enhancing undergraduate research training?
+Are specific details about planned infrastructural enhancements
+likely to yield transformative long-term changes at the institutional level in
+student research training and mentorship environments?
+Does the application include a plan for assessing faculty needs
+as they relate to preparing students for research careers?
+Are proposed plans for assessing faculty needs as they relate to preparing
+students for research careers well thought out and likely to inform strategies
+for enhancing the institutional training environment?
+Are plans for sustainability beyond the period of Common Fund
+support addressed?
+Does the application reflect an environment supportive of the
+innovation space needed to develop and test novel ideas?
+Is it clear how the proposed institutional development activities
+will benefit the faculty and students participating in BUILD?
+Student Training Core
+Training
+Program and Environment
+Are the
+research facilities and research environment conducive to preparing trainees
+for successful careers as biomedical research scientists?
+Are the
+objectives, design and direction of the proposed research training program
+likely to ensure effective training?
+Are training opportunities appropriately tailored for
+undergraduate trainees?
+Do the
+courses, where relevant, and research experiences provide opportunities for
+trainees to acquire state-of-the-art scientific knowledge, methods, and tools
+that are relevant to the goals of the training program?
+Does the
+program provide appropriate inter- or multidisciplinary research training
+opportunities?
+Is the
+proposed training program likely to ensure trainees will be well prepared for
+research-intensive and research-related careers?
+Is the level
+of institutional commitment to the training program, including administrative
+and research training support, sufficient to ensure the success of the program?
+Is it clear
+how the proposed training program is distinguished from other externally funded
+training programs at the institution?
+Are the proposed trainee development activities likely to enhance
+institutional capacity for undergraduate research training and expand the pool
+of students that enters graduate level research training, including those from
+underrepresented backgrounds?
+Are the proposed trainee activities transformative, feasible, and
+measureable?
+Are proposed strategies to improve student academic learning
+communities and curriculum development well reasoned and justified?
+Are the proposed training activities likely to enable trainees to
+thrive as they move through each step of the biomedical research career
+pathway?
+Program
+Director
+Does the training program
+director have the scientific background, expertise, and experience to provide
+strong leadership, direction, management, and administration of the proposed
+academic and research training program?
+Does the program director plan
+to commit sufficient time to the program to ensure its success?
+If there are multiple program directors, is a strong and
+compelling leadership approach evident, including the designated roles and
+responsibilities, governance, and organizational structure consistent with and
+justified by the aims of the training program and with the complementary
+expertise of each program director?
+Preceptors/Mentors
+Are sufficient numbers of
+experienced preceptors/mentors with appropriate expertise and funding available
+to support the number and level of trainees proposed in the application?
+Do the preceptors/mentors have
+strong records as researchers, including successful competition for research
+support in areas directly related to the proposed research training program? Do
+the preceptors/mentors have strong records of training undergraduate students?
+Are
+appropriate plans in place to ensure that preceptors lacking sufficient
+research training experience are likely to provide strong and successful
+mentoring?
+Are trainees broadly
+distributed among research faculty?
+Trainees
+Are the selection processes and criteria for BUILD trainees
+clearly stated, and likely to engage a broad range of students at participating
+institutions?
+Is the description of the issues facing trainees as they consider
+biomedical research careers through their undergraduate and postbaccalaureate
+years well reasoned, and are the approaches to be undertaken likely to address
+these factors? Is this likely to enhance the ability of the institution and its
+partners to engage a diverse group of students in biomedical research training
+pathways?
+Is the potential applicant
+pool of sufficient size to warrant the proposed size of the training program?
+Training
+Record
+Does the proposed training
+program have a rigorous evaluation plan to assess the quality and effectiveness
+of the training?
+Are effective mechanisms in
+place for obtaining feedback from trainees and monitoring their subsequent
+career development?
+Does the applicant institution
+(and partner institutions, if applicable) have a strong track record in providing
+research training to undergraduate students and sending students on to
+research-oriented doctoral degree programs in the biomedical sciences?
+Research Enrichment Core
+Are planned research enrichment, and mentoring activities clearly
+described and likely to be successful?
+Is the description of the issues facing participants as they
+consider biomedical research careers through their undergraduate and
+postbaccalaureate years well-reasoned, and are the approaches to be undertaken
+likely to address these factors? Is this likely to enhance the ability of the
+institution and its partners to engage a diverse group of students in
+biomedical research training activities?
+If applicable, are the selection processes and criteria for BUILD
+postbaccalaureate participants clearly stated, and likely to engage a broad
+range of students at participating institutions?
+Is the Core leadership actively engaged in research or teaching
+activities related to the mission of NIH?
+Do plans for engaging students, including those from
+underrepresented backgrounds, and sustaining their interest in research
+engender confidence that the program is likely to be successful?
+Will proposed enrichment activities likely result in decisions by
+participants to enter graduate level training, and enable these individuals to
+be successful in future biomedical research career phases?
+Are faculty development activities tailored to the needs and
+interests of the faculty at the Primary and Participating Institutions?
+Will the approaches be likely to enrich and strengthen faculty
+credentials as biomedical research mentors?
+Is the selection process for identifying faculty mentors clearly
+stated?
+Are proposed training strategies likely to strengthen the cultural
+competency of mentors across Participating Institutions?
+Is it clear how identified mentorship standards will guide the
+development of BUILD participants?
+Are plans to promote faculty interactions between Partnering Institutions
+robust, and will they contribute to stronger mentoring of students, including
+those from underrepresented backgrounds, at all institutions?
+If outreach activities are proposed, are specific populations,
+key personnel and activities appropriate for the proposed activities?
+If the Primary or Partner Institutions have current training
+awards, does the application clearly distinguish between the proposed research training
+program and the training activities supported by other programs?
+Protections for Human Subjects
+For research that involves human subjects but does
+not involve one of the six categories of research that are exempt under 45 CFR
+Part 46, the committee will evaluate the justification for involvement of human
+subjects and the proposed protections from research risk relating to their
+participation according to the following five review criteria: 1) risk to
+subjects, 2) adequacy of protection against risks, 3) potential benefits to the
+subjects and others, 4) importance of the knowledge to be gained, and 5) data
+and safety monitoring for clinical trials.
+For research that involves human subjects and meets the criteria for one or
+more of the six categories of research that are exempt under 45 CFR Part 46,
+the committee will evaluate: 1) the justification for the exemption, 2) human
+subjects involvement and characteristics, and 3) sources of materials. For
+additional information on review of the Human Subjects section, please refer to
+the Guidelines
+for the Review of Human Subjects.
+Inclusion of Women, Minorities, and Children
+When the proposed project involves human subjects
+and/or NIH-defined clinical research, the committee will evaluate the proposed
+plans for the inclusion (or exclusion) of individuals on the basis of
+sex/gender, race, and ethnicity, as well as the inclusion (or exclusion) of
+children to determine if it is justified in terms of the scientific goals and
+research strategy proposed. For additional information on review of the Inclusion
+section, please refer to the Guidelines
+for the Review of Inclusion in Clinical Research.
+Vertebrate Animals
+The committee will evaluate the involvement of live
+vertebrate animals as part of the scientific assessment according to the
+following five points: 1) proposed use of the animals, and species, strains,
+ages, sex, and numbers to be used; 2) justifications for the use of animals and
+for the appropriateness of the species and numbers proposed; 3) adequacy of
+veterinary care; 4) procedures for limiting discomfort, distress, pain and
+injury to that which is unavoidable in the conduct of scientifically sound
+research including the use of analgesic, anesthetic, and tranquilizing drugs
+and/or comfortable restraining devices; and 5) methods of euthanasia and reason
+for selection if not consistent with the AVMA Guidelines on Euthanasia. For
+additional information on review of the Vertebrate Animals section, please
+refer to the Worksheet
+for Review of the Vertebrate Animal Section.
+Biohazards
+Reviewers will assess whether materials or procedures
+proposed are potentially hazardous to research personnel and/or the
+environment, and if needed, determine whether adequate protection is proposed.
+Resubmissions
+Not Applicable
+Renewals
+Not Applicable
+Revisions
+Not Applicable
+Additional Review Considerations - Overall
+As applicable for the project proposed, reviewers will
+consider each of the following items, but will not give scores for these items,
+and should not consider them in providing an overall impact score.
+Training in the Responsible Conduct of Research
+All
+applications for support under this FOA must include a plan to fulfill NIH
+requirements for instruction in the Responsible Conduct of Research (RCR).
+Taking into account the specific characteristics of the training program, the
+level of trainee experience, and the particular circumstances of the trainees,
+the reviewers will evaluate the adequacy of the proposed RCR training in
+relation to the following five required components: 1) Format - Does the plan satisfactorily address the format of instruction, e.g. lectures,
+coursework and/or real-time discussion groups, including face-to-face
+interaction? (A plan involving only on-line instruction is not
+acceptable.); 2) Subject Matter – Does the plan include a
+sufficiently broad selection of subject matter, such as conflict of interest,
+authorship, data management, human subjects and animal use, laboratory safety,
+research misconduct, research ethics? 3) Faculty Participation - Does the plan adequately describe how faculty will participate in the
+instruction? 4) Duration of Instruction - Does the plan meet the
+minimum requirements for RCR, i.e., at least eight contact hours of
+instruction? 5) Frequency of Instruction – Does the plan meet the
+minimum requirements for RCR, i.e., at least once during each career stage
+(undergraduate, postbaccalaureate, predoctoral, postdoctoral, and faculty
+levels) and at a frequency of no less than once every four years? Plans will be
+rated as ACCEPTABLE or UNACCEPTABLE, and the summary statement
+will provide the consensus of the review committee.
+Applications from Foreign Organizations
+Not Applicable
+Select Agent Research
+Reviewers will assess the information provided in
+this section of the application, including 1) the Select Agent(s) to be used in
+the proposed research, 2) the registration status of all entities where Select
+Agent(s) will be used, 3) the procedures that will be used to monitor
+possession use and transfer of Select Agent(s), and 4) plans for appropriate
+biosafety, biocontainment, and security of the Select Agent(s).
+Resource Sharing Plans
+Reviewers will comment on whether the following
+Resource Sharing Plans, or the rationale for not sharing the following types of
+resources, are reasonable: 1) Data
+Sharing Plan; 2) Sharing
+Model Organisms; and 3) Genome Wide
+Association Studies (GWAS).
+Budget and Period of Support
+Reviewers will consider whether the budget and the
+requested period of support are fully justified and reasonable in relation to
+the proposed research.
+2. Review and Selection Process
+Applications will be evaluated for scientific and technical
+merit by (an) appropriate Scientific Review Group(s) convened by the CSR, in
+accordance with NIH peer
+review policy and procedures, using the stated review
+criteria. Assignment to a Scientific Review Group will be shown in the eRA
+Commons.
+As part of the scientific peer review, all applications:
+May undergo a selection process in which only those applications
+deemed to have the highest scientific and technical merit (generally the top
+half of applications under review) will be discussed and assigned an overall
+impact score.
+Will receive a written critique.
+Appeals of initial peer review will not be accepted for applications submitted response
+to this FOA.
+Applications will be assigned to the appropriate NIH
+Institute or Center and will compete for available funds with all other
+recommended applications submitted in response to this FOA. Following initial
+peer review, recommended applications will receive a second level of review by
+the National Advisory Council on Minority Health and Health Disparities. The
+following will be considered in making funding decisions:
+Scientific and technical merit of the proposed project as
+determined by scientific peer review.
+Availability of funds.
+Relevance of the proposed project to program priorities.
+3. Anticipated Announcement and Award Dates
+After the peer review of the application is completed, the
+PD/PI will be able to access his or her Summary Statement (written critique)
+via the eRA
+Commons.
+Information regarding the disposition of applications is
+available in the NIH
+Grants Policy Statement.
+Section VI. Award Administration Information
+1. Award Notices
+If the application is under consideration for funding, NIH
+will request "just-in-time" information from the applicant as
+described in the NIH
+Grants Policy Statement.
+A formal notification in the form of a Notice of Award (NoA) will be provided
+to the applicant organization for successful applications. The NoA signed by
+the grants management officer is the authorizing document and will be sent via
+email to the grantee’s business official.
+Awardees must comply with any funding restrictions described in Section IV.5. Funding Restrictions. Selection
+of an application for award is not an authorization to begin performance. Any
+costs incurred before receipt of the NoA are at the recipient's risk. These
+costs may be reimbursed only to the extent considered allowable pre-award costs.
+Awards issued through this FOA will divide the cores above
+into three linked awards: a UL1 Linked Specialized Center Cooperative Agreement
+award will support activities described through the Administrative and
+Institutional Development Cores; an RL5 Linked Education Project award will
+support activities described through the Research Enrichment Core; a TL4 Linked
+Training Award will support activities described through the Student Training
+Core. The costs associated with each component will be allowable only to the
+corresponding linked award.
+Any application awarded in response to this FOA will be subject to the DUNS, SAM
+Registration, and Transparency Act requirements as noted on the Award
+Conditions and Information for NIH Grants website.
+Prior Approval of Pilot Projects
+All Awardee-selected pilot projects require approval by
+NIMHD prior to initiation. For research projects that involve human subjects:
+The awardee institution will provide NIMHD with written study
+protocols that address risks and protections for human subjects in accordance
+with NIH’s
+Instructions for Preparing the Human Subjects Section of the Research Plan,
+NOT-OD-12-129 (http://grants.nih.gov/grants/guide/notice-files/NOT-OD-12-129.html),
+and NOT-OD-12-130 (http://grants.nih.gov/grants/guide/notice-files/NOT-OD-12-130.html).
+The awardee institution will provide NIMHD with specific plans
+for data and safety monitoring, and will notify the IRB and NIMHD of serious
+adverse events and unanticipated problems, consistent with NIH DSMP
+policies.
+If live vertebrate animals are to be involved, follow NIMHD
+policy (NOT-MD-08-002).
+2. Administrative and National Policy
+Requirements
+All NIH grant and cooperative agreement awards include the NIH
+Grants Policy Statement as part of the NoA. For these terms of award,
+see the NIH
+Grants Policy Statement Part II: Terms and Conditions of NIH Grant Awards,
+Subpart A: General and Part II:
+Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for
+Specific Types of Grants, Grantees, and Activities. More information is
+provided at Award
+Conditions and Information for NIH Grants.
+Cooperative Agreement Terms and Conditions of Award
+The following special terms of award are in addition to, and
+not in lieu of, otherwise applicable U.S. Office of Management and Budget (OMB)
+administrative guidelines, U.S. Department of Health and Human Services (DHHS)
+grant administration regulations at 45 CFR Parts 74 and 92 (Part 92 is
+applicable when State and local Governments are eligible to apply), and other
+HHS, PHS, and NIH grant administration policies.
+The administrative and funding instrument used for this program will be the
+cooperative agreement, an "assistance" mechanism (rather than an
+"acquisition" mechanism), in which substantial NIH programmatic
+involvement with the awardees is anticipated during the performance of the
+activities. Under the cooperative agreement, the NIH purpose is to support and
+stimulate the recipients' activities by involvement in and otherwise working
+jointly with the award recipients in a partnership role; it is not to assume
+direction, prime responsibility, or a dominant role in the activities.
+Consistent with this concept, the dominant role and prime responsibility
+resides with the awardees for the project as a whole, although specific tasks
+and activities may be shared among the awardees and the NIH as defined below.
+The
+PD(s)/PI(s) will have the primary responsibility for:
+All aspects of the study, including any modification of project
+design, conduct of the project, quality control, data analysis and
+interpretation, preparation of publications, and collaboration with other
+investigators will be verified, confirmed and established when necessary by the
+Steering Committee.
+Awardee will agree to the governance of the Steering Committee
+and, for issues affecting the consortium as a whole, of the Executive Steering
+Committee.
+Awardee will agree to accept close coordination, cooperation, and
+participation of the Enhancing the Diversity of the NIH-Funded Workforce
+Working Group in those aspects of scientific and technical management of the
+project as described under "NIH Program Staff Responsibilities."
+Awardee will provide goals and progress toward those goals at
+regular intervals as requested by the Steering Committee and the Executive
+Steering Committee.
+Awardee will ensure that resources (e.g. data sets; procedure
+manuals) developed as part of this project are made publicly available and that
+results are published in a timely manner.
+Awardee will adhere to the Executive Steering Committee policies
+regarding intellectual property, data release and other policies that might be
+established during the course of this activity that are consistent with
+applicable NIH policies, laws, and regulations.
+Awardee will retain custody of and have primary rights to the
+data and software developed under these awards, subject to Government rights of
+access consistent with current DHHS, PHS, and NIH policies. The CEC and
+consortium will develop plans for data sharing among awardees. All
+evaluation-related data will be shared with the NIH at the conclusion of the
+award.
+NIH
+staff have substantial programmatic involvement that is above and beyond the
+normal stewardship role in awards, as described below:
+The Project Scientists for the project will serve on the Steering
+Committee and the Executive Steering Committee. The Project Scientists may work
+with the awardees on any issues that come before these Committees.
+The Project Scientists will serve as a liaison between the
+awardee and the Enhancing the Diversity of the NIH-Funded Workforce Working
+Group. The Coordinators of the Enhancing the Diversity of the NIH-Funded
+Workforce Working Group will periodically report progress to the Director of
+the Division of Program Coordination, Planning, and Strategic Initiatives
+(DPCPSI), and the Chairs of the Working Group.
+The NIH reserves the right to withhold funding or curtail the
+study (of an individual award) in the event of (a) substantive changes in the
+agreed-upon work scope with which NIH cannot concur, (b) human subject ethical
+issues that may dictate a premature termination; (c) or project not progressing
+well.
+Support or other involvement of industry or any other third party
+in the study--e.g., participation by the third party; involvement of project
+resources or citing the name of the study or NIH support; or special access to
+project results, data, findings or resources--may be advantageous and
+appropriate. However, except for licensing of patents or copyrights, support or
+involvement of any third party will occur only following notification of and
+concurrence by NIH.
+Additionally, an NIH Program Official will be responsible for the
+normal scientific and programmatic stewardship of the award and will be named
+in the award notice.
+Areas
+of joint responsibility include:
+A Steering Committee will serve as the primary governing
+board for the cooperative agreement funded under this FOA. The Steering
+Committee membership will include the NIH Program Official, NIH Project
+Scientist(s), the PD(s)/PI(s) of the awarded cooperative agreement, who will
+serve as Steering Committee Chair(s), and two external members not involved in
+the project who are selected by the PDs/PI(s). Additional members of the Enhancing
+the Diversity of the NIH-Funded Workforce Working Group may be appointed to the
+Steering Committee by the co-chairs of the Working Group, but the total number
+of NIH votes may not exceed 1/3 of the Steering Committee voting membership.
+Other government staff may attend the Steering Committee meetings, if their
+expertise is required for specific discussions.
+The
+Steering Committee will:
+Meet at least annually or as needed, with intermittent conference
+calls as needed.
+Develop recommendations for uniform procedures and policies
+necessary to meet the goals of the FOA and the goals of the Enhancing the
+Diversity of the NIH-Funded Workforce Program as a whole.
+Provide input to the PD(s)/PI(s) with respect to the activities
+of the BUILD, its coordination with the NRMN and CEC, and progress in meeting
+the goals of the FOA.
+Schedule time for, and prepare concise (3 to 4 pages) summaries
+of, the Steering Committee meetings, which will be delivered to members of the
+group within 30 days after each meeting.
+Provide representation on the Executive Steering Committee (see
+below) to address issues relevant to the Diversity Program Consortium as a
+whole.
+Dispute
+Resolution:
+Any disagreements that may arise in scientific or
+programmatic matters (within the scope of the award) between award recipients
+and the NIH may be brought to Dispute Resolution. A Dispute Resolution Panel
+composed of three members will be convened. The three members will be a
+designee of the Steering Committee chosen without NIH staff voting, one NIH
+designee, and a third designee with expertise in the relevant area who is
+chosen by the other two. In the case of individual disagreement, the first
+member may be chosen by the individual awardee. This special dispute resolution
+procedure does not alter the awardee's right to appeal an adverse action that
+is otherwise appealable in accordance with PHS regulation 42 CFR Part 50,
+Subpart D and DHHS regulation 45 CFR Part 16.
+Executive
+Steering Committee:
+An Executive Steering Committee (ESC) will be responsible
+for providing general oversight and guidance to the Diversity Program
+Consortium. The ESC membership will include one non-NIH member from the
+Steering Committee of each of the BUILD, NRMN, and CEC awards, the NIH Program
+Official and/or Project Scientists for each program, and a member of the Enhancing
+the Diversity of the NIH-Funded Workforce Working Group, who will serve as ESC
+Chair. The co-chairs of the Enhancing the Diversity of the NIH-Funded Workforce
+Working Group may appoint additional members from the Working Group to serve as
+members on the ESC, but the total number of NIH votes may not exceed 1/3 of the
+Executive Committee voting membership. Awardee members of the ESC will be
+required to accept and implement policies approved by the ESC. The CEC will be
+responsible for communicating ESC feedback and guidance to the BUILD, NRMN, and
+CEC Steering Committees.
+The ESC will meet at least once annually, with intermittent
+conference calls as needed. The first ESC meeting will take place during the
+Annual Grantees Meeting in October 2014.
+Responsibilities of the ESC include the following:
+Form sub-committees as necessary to work through detailed issues
+that affect the Diversity Program Consortium as a whole.
+Define competencies to be targeted through BUILD and NRMN
+activities.
+Define hallmarks of success in biomedical research careers at
+various career stages.
+Develop policies for adoption of mentoring standards.
+Develop procedures and policies for sharing information between
+projects and with the wider community.
+Review and consider issues and progress of individual awardees so
+that lessons learned can be shared, and plans of the Diversity Program
+Consortium as a whole and of individual projects may be modified to have
+maximal impact.
+Contribute content and ideas for a program website managed by the
+CEC for the purposes of sharing information.
+Develop a public summary of lessons learned across the Program as
+a whole and applicability of the lessons to the wider community.
+3. Reporting
+When multiple years are involved, awardees will be required
+to submit the Non-Competing Continuation Grant Progress Report (PHS 2590 or RPPR)
+annually and financial statements as required in the NIH
+Grants Policy Statement. The applicants should anticipate the need for
+data collection, collation, verification, and transmission of data relevant to
+the evaluation of BUILD activities.
+The Diversity Program Consortium Executive Steering
+Committee and the CEC will advise with respect to any additional required data
+elements, format, and frequency of data reporting. If the NIH implements new
+procedures or systems for tracking outcomes of trainees during the course of
+the BUILD award, the awardee will be expected to participate in these new
+procedures or systems in accordance with NIH policy.
+If a pilot project program is included in the project,
+progress reports should briefly describe status of pilot projects, including
+data and safety monitoring, and should notify NIH of serious adverse events and
+unanticipated problems.
+Other Reporting Requirements
+The institution must submit a completed Statement of
+Appointment (PHS Form
+2271) for each student who receives financial support from a BUILD TL4
+linked training award to work or participate in a BUILD activity full time for
+eight weeks or more or the equivalent. Grantees must submit the PHS 2271 data
+electronically using the xTrain system. More information on xTrain is available
+at xTrain
+(eRA Commons). An appointment or reappointment may begin any time during
+the budget period, but not before the budget period start date of the project.
+A notarized statement verifying possession of permanent residency
+documentation must be submitted with the Statement of Appointment (Form PHS
+2271). Individuals with a Conditional Permanent Resident status must first
+meet full (non-conditional) Permanent Residency requirements before receiving
+support.
+TL4 Trainee Termination Notice: Within 30 days of the end of the
+total support period for each student, the institution must submit a
+Termination Notice (PHS Form
+416-7) via xTrain for each student appointed full time for eight weeks or more, or the
+equivalent.
+eRA Commons IDs for all students supported under the RL5 award
+who participate for at least one person month must be reported on annual progress
+reports (NOT-OD-13-097).
+NIH may request information from CEC and other databases,
+PD(s)/PI(s) and BUILD students themselves. If the NIH implements new procedures
+or systems for tracking outcomes of students during the course of the BUILD award,
+the awardee will be expected to participate in these new procedures or systems
+in accordance with NIH policy.
+A final progress report, invention statement, and the
+expenditure data portion of the Federal Financial Report are required for
+closeout of an award, as described in the NIH Grants
+Policy Statement.
+The Federal Funding Accountability and Transparency Act of
+2006 (Transparency Act), includes a requirement for awardees of Federal grants
+to report information about first-tier subawards and executive compensation
+under Federal assistance awards issued in FY2011 or later. All awardees of
+applicable NIH grants and cooperative agreements are required to report to
+the Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the NIH Grants
+Policy Statement for additional information on this reporting requirement.
+4. Evaluation
+Evaluation of the BUILD
+initiative will be carried out continuously over the first five years of the
+program. The findings of this evaluation will determine whether the initiative
+will be continued for an additional five years as configured, continued with
+modifications, or discontinued.
+The Diversity Program Consortium through its inclusive
+governance structure will establish and define any additional data elements
+required to effectively evaluate the BUILD, including data intended to measure
+hallmarks of success at each career stage and the impact that BUILD activities
+are having on student achievement of these hallmarks. The Consortium and/or the
+CEC will disseminate these requirements and obtain OMB clearance of recommended
+data as needed.
+The NIH will periodically evaluate the BUILD awards to
+assess impact toward the overarching goal of engaging a diverse talent pool
+(e.g., supplemental instruction and other service learning opportunities),
+sustaining research interests of emerging scientists, and preparing them for
+successful careers in biomedical research. In assessing the effectiveness of
+this Program, NIH may request information from CEC and other databases, PD(s)/PI(s),
+and BUILD trainees and participants themselves. The BUILD program will be
+evaluated on the impact of BUILD in contributing to a diverse NIH-funded
+workforce. At a minimum it is expected that the BUILD will be evaluated on the
+following key outcomes related to trainees and participants:
+Completion of undergraduate or graduate degree, completion of
+postdoctoral research training, and entrance into graduate programs,
+postdoctoral research training or faculty position.
+Involvement in research appropriate to career stage (e.g.,
+ranging from research assistantships for undergraduates to early career faculty
+participating as investigators, etc.).
+Authorship on publications in peer-review journals.
+Receipt of NIH or other peer-reviewed grants or fellowships.
+Where necessary, PD(s)/PI(s), scholars, and other students
+participating in BUILD activities may be contacted after the completion of the
+BUILD program for periodic updates on subsequent educational or employment
+history and professional activities. Upon the completion of a program
+evaluation, NIH will determine whether lessons learned from BUILD should inform
+other NIH-funded training efforts.
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity
+and welcome the opportunity to answer questions from potential applicants.
+Application Submission Contacts
+eRA Commons Help Desk (Questions regarding eRA Commons
+registration, submitting and tracking an application, documenting system
+problems that threaten submission by the due date, post submission issues)
+Telephone: 301-402-7469 or 866-504-9552 (Toll Free)
+Web ticketing system: https://public.era.nih.gov/commonshelp
+TTY: 301-451-5939
+Email: commons@od.nih.gov
+GrantsInfo (Questions regarding application instructions and
+process, finding NIH grant resources)
+Telephone: 301-435-0714
+TTY: 301-451-5936
+Email: GrantsInfo@nih.gov
+Scientific/Research Contact(s)
+Toya V. Randolph, PhD, MSPH
+National Institute on Minority Health and Health Disparities (NIMHD)
+Telephone: 301-402-1366
+Email: toya.randolph@nih.gov
+Peer Review Contact(s)
+Delia Olufokunbi Sam, PhD
+Center for Scientific Review (CSR)
+Telephone: 301-613-6206
+Email: olufokunbisamd@csr.nih.gov
+Financial/Grants Management Contact(s)
+Priscilla Grant, JD
+National Institute on Minority Health and Health Disparities (NIMHD)
+Telephone: 301-594-8412
+Email: grantp@mail.nih.gov
+Section VIII. Other Information
+Recently issued trans-NIH policy notices may affect your application submission. A full list of policy notices published
+by NIH is provided in the NIH
+Guide for Grants and Contracts. All
+awards are subject to the terms and conditions, cost principles, and other
+considerations described in the NIH Grants Policy Statement.
+Authority and Regulations
+Awards are made under the authority of sections 301, 402,
+405, and 487 of the Public Health Service Act as amended (42 USC 241, 282, 284,
+and 288) and the Code of Federal Regulations, 42 CFR Parts 52 and 66, and 45
+CFR Parts 74 and 92.
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+Department of Health
+and Human Services (HHS)
+NIH... Turning Discovery Into Health®
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.

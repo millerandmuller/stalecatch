@@ -1,0 +1,207 @@
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS.
+A lock
+(LockLocked padlock)
+or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search
+Menu
+Search
+search
+Find Funding & Apply
+Where to Start
+For All Researchers & Educators
+For Early-Career Researchers
+For Postdoctoral Fellows
+For Graduate Students
+For Undergraduates
+For Entrepreneurs
+For Industry
+Explore Funding
+Search All Opportunities
+By Directorate
+By Upcoming Due Date
+NSF-wide Initiatives
+Search Funded Projects (Awards)
+How to Apply
+Preparing Your Proposal
+Submitting Your Proposal
+How We Make Funding Decisions
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+Grants.gov
+Baam.nsf.gov
+Our Directorates & Offices
+Manage Your Award
+Guidance For Awardees
+Getting Started
+Request a Change to Your Award
+Report Your Outcomes
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+NSF Public Access Repository (PAR)
+Our Directorates & Offices
+Search Funded Projects (Awards)
+Focus Areas
+Areas We Fund
+Arctic & Antarctic
+Astronomy & Space
+Biology
+Chemistry & Materials
+Computing
+Diversity in STEM
+Earth & Environment
+Education & Training
+Engineering
+Facilities & Infrastructure
+Mathematics
+People & Society
+Physics
+Research Partnerships
+Technology
+Explore all Focus Areas
+Additional Resources
+Explore Our Impacts
+Search Funded Projects (Awards)
+NSF by the Numbers
+Our Directorates & Offices
+News & Events
+News
+News & Announcements
+Science Matters Blog
+Multimedia Gallery
+For the Press
+Events
+Upcoming Events
+NSF Grants Conference
+Electronic Research Administration Forum
+About
+Learn About NSF
+Overview
+Our Directorates & Offices
+NSF & Congress
+Honorary Awards
+Visit NSF
+Contact Us
+Work With NSF
+Careers at NSF
+Contracting With NSF
+Partnering With NSF
+Additional Resources
+National Science Board
+National Center for Science & Engineering Statistics (NCSES)
+Documents & Reports
+Budget, Performance & Financial Reporting
+Staff Directory
+Funding
+About Funding
+Archived Funding Search
+Due Dates
+Find Funding
+Merit Review
+Policies and Procedures
+Preparing Proposals
+Recent Opportunities
+Small Business
+Transformative Research
+Home
+Funding
+Email
+Print
+Share
+This program has been archived.
+Crosscutting
+Community-based Data Interoperability Networks
+(INTEROP)
+C
+Crosscutting Programs
+CONTACTS
+Name
+Dir/Div
+Name
+Dir/Div
+Sylvia
+Spengler
+CISE/IIS
+Jon
+Stoffel
+Maria
+Burka
+John
+Cherniavsky
+D. Terence
+Langendoen
+Peter
+McCartney
+Daniel
+Newlon
+Wayne
+Patterson
+Nigel
+Sharp
+MPS/AST
+William
+Wiseman
+Investigators are encouraged to contact the program with questions about appropriateness for this solicitation before submitting a proposal.
+PROGRAM GUIDELINES
+Solicitation
+07-565
+Important Information for Proposers
+A revised version of the NSF Proposal & Award Policies & Procedures Guide (PAPPG) (NSF 22-1), is
+effective for proposals submitted, or due, on or after October 4, 2021. Please be advised that, depending
+on the specified due date, the guidelines contained in NSF 22-1 may apply to proposals submitted in response to this
+funding opportunity.
+DUE DATES
+Archived
+SYNOPSIS
+Digital data are increasingly both the products of research and the starting point for new research and education activities. The ability to re-purpose data – to use it in innovative ways and combinations not envisioned by those who created the data – requires that it be possible to find and understand data of many types and from many sources. Interoperability (the ability of two or more systems or components to exchange information and to use the information that has been exchanged) is fundamental to meeting this requirement. This NSF crosscutting program supports community efforts to provide for broad interoperability through the development of mechanisms such as robust data and metadata conventions, ontologies, and taxonomies. Support is provided for Data Interoperability Networks that will be responsible for consensus-building activities and for providing the expertise necessary to turn the consensus into technical standards with associated implementation tools and resources. Examples of the former are community workshops, web resources such as community interaction sites, and task groups. Examples of the latter are information sciences, software development, and ontology and taxonomy design and implementation.
+REVISIONS AND UPDATES
+In furtherance of the President's Management Agenda, NSF has identified programs that will offer proposers the option to utilize Grants.gov to prepare and submit proposals, or will require that proposers utilize Grants.gov to prepare and submit proposals. Grants.gov provides a single Government-wide portal for finding and applying for Federal grants online.
+In response to this program solicitation, proposers may opt to submit proposals via Grants.gov or via the NSF FastLane system.
+What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
+Map of Recent Awards Made Through This Program
+Top
+2415 Eisenhower Ave Alexandria, VA 22314
+(703) 292-5111
+Sign up for email updates
+Footer
+About Us
+About NSF
+Careers
+Our Directorates & Offices
+National Science Board
+Contact Us
+What's New
+News & Announcements
+Events
+Science Matters Blog
+Multimedia Gallery
+Information For
+Funding Seekers
+NSF Awardees
+Congress
+Media
+Educators
+Panelists
+Resources
+Documents & Reports
+Budget, Performance & Financial Reporting
+Public Access
+Stopping Harassment
+Research Security
+Scientific Integrity
+Research.gov
+Required Policy Links
+Website policies
+Inspector General
+Privacy
+FOIA
+No FEAR Act
+USA.gov
+Accessibility
+Plain language

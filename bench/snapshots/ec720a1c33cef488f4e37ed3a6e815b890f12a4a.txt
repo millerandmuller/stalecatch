@@ -1,0 +1,586 @@
+Department of Health and Human Services
+Part 1. Overview Information
+Participating Organization(s)
+National Institutes of Health (NIH)
+Components of Participating Organizations
+National Institute of Mental Health (NIMH)
+National Institute on
+Aging (NIA)
+National Institute on Alcohol Abuse and Alcoholism (NIAAA)
+National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)
+Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+National Institute on Drug Abuse (NIDA)
+National Center for Complementary and Integrative Health (NCCIH)
+All applications to this funding opportunity announcement should fall within the mission of the Institutes/Centers. The following NIH Offices may co-fund applications assigned to those Institutes/Centers.
+Office of Behavioral and Social Sciences Research (OBSSR)
+Funding Opportunity Title
+Emergency Award HEAL Initiative: Optimizing Existing Evidence-Based Multi-Component Service Delivery Interventions for People with Opioid Use Disorder, Co-Occurring Conditions, and/or Suicide Risk (R01 Clinical Trials Optional)
+Activity Code
+R01 Research Project Grant
+Announcement Type
+Reissue of
+RFA-MH-21-145
+Related Notices
+See
+Notices of Special Interest associated with this funding opportunity
+NOT-MH-22-160 - Notice of Change to Application Due Dates for RFA-MH-22-175
+NOT-OD-22-019 - Reminder: Notice of NIH's Encouragement of Applications Supporting Individuals from Underrepresented Ethnic and Racial Groups as well as Individuals with Disabilities
+Funding Opportunity Announcement (FOA) Number
+RFA-MH-22-175
+Companion Funding Opportunity
+RFA-MH-22-176
+, R01
+Research Project
+Number of Applications
+See Section III. 3. Additional Information on Eligibility.
+Assistance Listing Number(s)
+93.242, 93.213, 93.273, 93.846, 93.865, 93.279, 93.866
+Funding Opportunity Purpose
+NIMH is issuing this FOA in response to the declared public health emergency issued by the Secretary, HHS. See "Determination that a Public Health Emergency Exists Nationwide as the Result of the Opioid Crisis" as renewed in "Renewal of the Determination that a Public Health Emergency Exists Nationwide as the Result of the Continued Consequences of the Opioid Crisis".
+In April 2018, the National Institutes of Health (NIH) launched the HEAL (Helping to End Addiction Long-term) Initiative, an aggressive, trans-agency effort to speed scientific solutions to stem the national opioid public health crisis. More information about the HEAL Initiative is available at: https://heal.nih.gov/.
+In response to this initiative, the National Institute of Mental Health (NIMH), in partnership with other NIH Institutes, Centers, and Offices, invites research that will optimize existing evidence-based multi-component service delivery interventions for people with opioid use disorder (OUD) and co-occurring conditions, to include mental disorders and/or suicide risk. For interventions without prior evidence of clinical effectiveness see RFA-MH-22-176. The purpose of the initiative is to support studies that will test the relative contribution of constituent components to overall effectiveness of existing evidence-based service delivery interventions. This research will streamline service packages so they only include components that drive clinical improvements for complex conditions. Should the primary hypotheses be supported, the multi-component service delivery intervention will be optimized for uptake and implementation in community practice settings.
+Key Dates
+Posted Date
+January 21, 2022
+Open Date (Earliest Submission Date)
+February 18, 2022
+Letter of Intent Due Date(s)
+02/18/2022
+Application Due Dates
+Review and Award Cycles
+New
+Renewal / Resubmission / Revision (as allowed)
+AIDS
+Scientific Merit Review
+Advisory Council Review
+Earliest Start Date
+April 19, 2022
+Not Applicable
+Not Applicable
+July 2022
+Not Applicable
+September 2022
+All applications are due by 5:00 PM local time of applicant organization.
+Applicants are encouraged to apply early to allow adequate time to make any corrections to errors found in the application during the submission process by the due date. No late applications will be accepted for this Funding Opportunity Announcement.
+Expiration Date
+New Date April 20, 2022 (Original Date: March 19, 2022) per issuance of NOT-MH-160
+Due Dates for E.O. 12372
+Not Applicable
+Required Application Instructions
+It is critical that applicants follow the instructions in the Research (R) Instructions in the SF424 (R&R) Application Guide,except where instructed to do otherwise (in this FOA or in a Notice from NIH Guide for Grants and Contracts ).
+Conformance to all requirements (both in the Application Guide and the FOA) is required and strictly enforced. Applicants must read and follow all application instructions in the Application Guide as well as any program-specific instructions noted in Section IV. When the program-specific instructions deviate from those in the Application Guide, follow the program-specific instructions.
+Applications that do not comply with these instructions may be delayed or not accepted for review.
+There are several options available to submit your application through Grants.gov to NIH and
+Department of Health and Human Services partners. You must use one of these submission
+options to access the application forms for this opportunity.
+Use the NIH ASSIST system to prepare, submit and track your application online.
+Use an institutional system-to-system (S2S) solution to prepare and submit your application
+to Grants.gov and eRA Commons to track your
+application. Check with your institutional officials regarding availability.
+Use Grants.gov
+Workspace to prepare and submit your application and eRA Commons to track your application.
+Table of Contents
+Part 1. Overview Information
+Key Dates
+Part 2. Full Text of Announcement
+Section I. Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2. Full Text of Announcement
+Section I. Funding Opportunity Description
+NIMH is issuing this FOA in response to the declared public health emergency issued by the Secretary, HHS. See "Determination that a Public Health Emergency Exists Nationwide as the Result of the Opioid Crisis" as renewed in "Renewal of the Determination that a Public Health Emergency Exists Nationwide as the Result of the Continued Consequences of the Opioid Crisis".
+Purpose
+The purpose of the initiative is to encourage research studies that will optimize existing evidence-based multi-component service delivery interventions by testing the relative contribution of constituent components to overall effectiveness. Should the primary hypotheses be supported, the multi-component service delivery intervention will be optimized for uptake and implementation in community practice settings. This research will streamline service delivery packages so they only include components that drive clinical improvements for complex conditions.
+For interventions without prior evidence of clinical effectiveness, see RFA-MH-22-176.
+Background
+The HEAL Multidisciplinary Working Group (MDWG) called for research that seeks to improve the provision of care for people with common co-occurring conditions associated with the opioid crisis (e.g., people with mental health disorders, suicide risk, alcohol misuse/alcohol use disorder, chronic pain, and/or other substance use disorders).
+Results from national surveys and other recent sources demonstrate that rates of co-occurring conditions are high. For example, among the millions of people with opioid use disorder (OUD), 27% have a serious mental illness, 64% have any mental illness, and approximately 11% to 26% have alcohol use disorder or another substance use disorder. Among those whose deaths are associated with opioid overdose (47,600 deaths in 2017 alone), up to 30% may be due to suicide. And, nonfatal overdoses involving opioids are associated with elevated suicide risk. Moreover, 16% of Americans who have mental health disorders receive over half of all opioids prescribed in the United States.
+Wide variation in outcomes exists for multi-component service delivery interventions. Some interventions are implemented in practice and used to address problems for which there is little evidence of effectiveness (e.g., Screening Brief Intervention and Referral to Treatment (SBIRT); for depression or for OUD). Other multi-component interventions (e.g., the collaborative care model) are supported by robust clinical trial evidence. That robust evidence is often generated using trial designs like parallel arm or stepped wedge.
+Trial designs like parallel arm and stepped wedge yield high quality evidence to support a decision to implement a service delivery intervention as a bundled package. However, these designs often offer limited information about the relative contribution of intervention components and include limited information about how to sequence treatments for patients with comorbidities. Comparative effectiveness trials are not necessarily powered or designed to detect the effects of constituent components of multi-component service delivery interventions. Findings from these trials, therefore, offer little direction to the practice community about how to identify the most important components and about how to optimize those components for the practice setting.
+Research Objectives
+Research from this initiative must seek to improve outcomes in people with OUD and common co-occurring conditions, which include mental disorders and/or suicide risk, by addressing important questions about multi-component service delivery models. In this RFA, multi-component interventions with demonstrated effectiveness must seek to identify which constituent components drive clinical improvements in OUD and mental health outcomes and which components are less impactful. Applicants seeking to develop or optimize multi-component interventions without empirical evidence of effectiveness should submit applications through RFA-MH-22-176.
+Examples of research questions may include, but are not limited to, the following:
+What are the high value components of multi-component service delivery models that drive clinical improvements and should be implemented?
+In what sequence should high value components be implemented, if simultaneously implementing all components of a service delivery model is untenable?
+When and how should high value components be intensified to achieve maximum clinical benefit?
+What are the low value components within multi-component service delivery models that do not contribute to clinical effectiveness and should be de-implemented?
+What are the optimal parameters of multi-component interventions (e.g., parameters like caseload size, makeup of care team, job functions) that yield clinical improvement and maximize intervention reach under real-world resource constraints?
+Specific examples of topics for multi-component interventions with prior evidence of clinical effectiveness may include but are not limited to the following:
+Identifying the high value components of the collaborative care model to implement and/or inform how to prioritize the implementation of multiple components (e.g., components like routine screening for depression and anxiety, training/hiring a psychiatric consultant, training/hiring care managers, the disease registry) in resource constrained environments.
+Identifying the relative value of behavioral counseling (to include the specific content of the behavioral counseling) as part of Medications for OUD (MOUD), to improve clinical outcomes for mental health conditions and suicide risk and promote initial and sustained engagement with MOUD.
+Identifying optimal functions or composition of integrated care teams (e.g., value of a psychiatric consultant who is a psychiatrist versus a nurse practitioner, physician's assistant, or psychologist with prescription privileges).
+Assessing the value of adding, de-implementing, or varying psychosocial treatment modules (e.g., motivational interviewing delivered by a care manger to promote engagement versus problem solving therapy, the brief negotiated interview, or behavioral activation) delivered as part of a multi-component integrated care model.
+Evaluating the relative contribution and tradeoffs of optimizing service provisions, as part of a system of care for high risk patients in the emergency department (e.g., proactive suicide screening and assessment, referral processes, intervention and aftercare strategies) given the high proportion of patients with co-occurring pain, opioid use, and mental health conditions.
+Applications to study multi-component service delivery interventions that lack prior evidence of effectiveness must be submitted through this companion funding announcement: RFA-MH-22-176. Specific examples of topics for un- or under-tested multi-component interventions that lack prior evidence of clinical effectiveness may include but are not limited to the following:
+Optimizing the Massachusetts Model to address and treat not only OUD but also other co-occurring problems and suicide risk.
+Optimizing components of the SBIRT framework, to include specifically adding MOUD, and intensifying referral to treatment where most patients are lost to follow up, in efforts to improve outcomes in people with OUD and co-occurring problems.
+Prioritizing and sequencing components of the Zero Suicide framework (e.g., Zero Suicide pillars such as staff training, case identification, patient engagement, treatment, care transition, and continuous quality improvement) to also meet the needs of people with co-occurring OUD.
+Selecting and optimizing evidence-based components to build a new service delivery model for people with OUD, mental health problems, and/or suicide risk.
+Optimizing components of Primary Care Behavioral Health (PCBH) or Patient Centered Medical Home (PCMH) models of care integration to improve intervention reach, continuity of care, and clinical outcomes for people presenting with OUD and mental health conditions.
+Non-Responsive Applications
+The following projects will be considered non-responsive and will not be reviewed:
+Projects that primarily test strategies to implement service delivery interventions rather than test the effectiveness of constituent components of those interventions.
+Projects that evaluate the effectiveness of a service delivery intervention using a design that will not clearly identify the constituent components hypothesized to drive clinical improvement.
+Projects that test constituent components of interventions that extant evidence demonstrates to be ineffective.
+Studies that focus on dismantling therapeutic interventions (e.g., components of cognitive behavioral therapy; CBT), rather than examining the contribution of elements of a multi-component service delivery approach.
+Projects that seek to develop or optimize multi-component interventions that lack prior evidence of clinical effectiveness. (Applications for these kinds of projects must be submitted through RFA-MH-22-176.)
+Applications need not address all possible co-occurring conditions (e.g., mental disorders, suicide risk, alcohol misuse disorders, other substance abuse disorders), but to be considered for funding, they must have clear and direct relevance to HEAL priority areas which include OUD and/or pain.
+Design Considerations
+Projects must be designed to unbundle and test the unique contributions of components (and/or combinations of components) in multi-component service delivery interventions to overall effectiveness. Approaches could include the following: factorial designs and their derivatives (e.g., fractional factorial); Multiphase Optimization STrategy (MOST); Sequential, Multiple Assignment, Randomized Trials (SMART); randomized encouragement; and interrupted time series designs or other quasi-experimental approaches, where randomization may not be possible.
+In an effort to better understand the added value of individual intervention components to the bundled intervention package, design aspects should be consistent with the NIMH experimental therapeutics approach (see Support for Clinical Trials at NIMH). Under this approach, studies should be designed to examine whether the intervention engages the proximal target(s)/mechanism(s) presumed to underlie the relative contribution of constituent components to the overall effect of the multi-component service delivery intervention (i.e., the mechanism presumed to account for changes in clinical/functional outcomes).
+NIMH encourages a deployment-focused model of intervention and services design and testing. Deployment-focused studies consider the perspectives of relevant stakeholders (e.g., patients, providers, administrators, or payers) and key characteristics of settings intended to deliver optimized service delivery interventions. This attention to end-user perspectives and characteristics of intended clinical and/or community practice settings is intended to ensure that the resultant interventions and service delivery strategies are feasible and scalable, and to ensure that the research results will have utility for end users. Meritorious projects will leverage strong and clearly defined research practice partnerships.
+Multi-component service delivery interventions should be tested as naturalistically as possible in order to increase the generalizability of research findings as well as to minimize barriers to translating any positive research findings into real-world practice. Accordingly, study designs should consider practical aspects of service delivery (e.g., use of technologies, telehealth, clinical workflows, screening, and assessment of patient outcomes). NIH encourages assessment and manipulation of patient-, provider-, and/or setting- factors that facilitate optimal effectiveness of intervention components.
+NIMH encourages studies that furnish services through existing providers/vendors of such services, versus developing services specifically for this research. Similarly, NIMH encourages studies to rely as much as possible on existing financing mechanisms that support clinical care. Regardless, studies under this announcement should assess the adequacy of existing financing models to support the service delivery models being tested.
+NIMH is committed to supporting research that reduces disparities and advances equity in mental health interventions, services, and outcomes. Accordingly, this RFA encourages research on innovative service delivery models that seek to reduce disparities in service access, quality, and outcomes for racial and ethnic minority groups, individuals limited by language or cultural barriers, sexual and gender minorities, individuals living in rural areas, socioeconomically disadvantaged persons and other underserved groups.
+In addition to scientific diversity, applicants should incorporate diversity in their team development plan. Research shows that diverse teams working together and capitalizing on innovative ideas and distinct perspectives outperform homogenous teams. Scientists and trainees from diverse backgrounds and life experiences bring different perspectives, creativity, and individual enterprise to address complex scientific problems. There are many benefits that flow from a diverse NIH-supported scientific workforce, including fostering scientific innovation, enhancing global competitiveness, contributing to robust learning environments, improving the quality of the research, advancing the likelihood that underserved or health disparity populations participate in, and benefit from health research, and enhancing public trust. Please refer to Notice of NIH's Interest in Diversity NOT-OD-20-031 for more details.
+Key Differences Between RFA-MH-22-175 (this FOA) and RFA-MH-22-176
+.
+RFA-MH-22-175
+RFA-MH-22-176
+Purpose
+Optimize existing evidence-based multi-component service delivery interventions
+Develop and optimize un- or under-tested multi-component service delivery interventions
+Stage of intervention testing
+Definitive and Summative
+Formative and Developmental
+Maximum direct costs per year per project
+$1.25 million
+$500,000
+Maximum project period
+5 years
+4 years
+Milestone upon successful completion of the project with primary hypotheses supported
+An intervention optimized for community practice settings that is or will be implemented as part of routine care
+An intervention optimized for either a) further testing in a large effectiveness trial and/or b) implementation as part of routine care
+Collaboration Across Related HEAL Research Projects
+The NIH HEAL Initiative will require a high level of coordination and sharing between investigators. It is expected that NIH HEAL Initiative recipientswill cooperate and coordinate their activities after awards are made by participating in Program Director/Principal Investigator (PD/PI) meetings, including an annual HEAL Investigators Meeting, as well as other activities.
+Study teams from RFA-MH-22-175 (this RFA) and RFA-MH-22-176 will be required to collaborate with one another. The purpose of these collaborations is to a) develop or harmonize common data elements, standard measures, and uniform data collection procedures, when possible; b) participate in a bidirectional pipeline to facilitate practice-based research and improve early identification, diagnosis, clinical assessment, intervention effectiveness, service delivery, and health outcomes in people affected by the opioid epidemic; and c) identify innovative assessment, intervention, and quality improvement practices for broad dissemination. Applicants should anticipate the potential for overlapping populations of interests across the studies.
+Recipientswill meet biannually and regularly engage in communication throughout the year as needed during the project period. These meetings provide a forum to discuss (1) research updates; (2) opportunities of synergy and collaboration (e.g., data harmonization, protocol modifications); (3) develop a bidirectional pipeline between the research projects to facilitate practice-based research and improve early identification, intervention effectiveness, service delivery, and optimal components that are driving integrated care delivery for OUD, mental disorders, suicide prevention, and/or chronic pain. Project teams will coordinate these biannual meetings and rotate the responsibility of meeting coordination and leadership. Leads will also set the agenda with input from other projects and NIH Program Officials, who will also attend.
+Recipients are expected to participate in break-out sessions with other HEAL programs of relevance to this initiative (e.g., Pragmatic and Implementation Studies for the Management of Pain to Reduce Opioid Prescribing; PRISM; Pain Management Effectiveness Research Network, ERN; Back Pain Consortium Research Program; BACPAC; and/or Behavioral Research to Improve Medication-Based Treatment; BRIM; at the annual HEAL Investigator meeting.
+The NIMH has published updated policies and guidance for investigators regarding human research protection and clinical research data and safety monitoring (NOT-MH-19-027). The application’s PHS Human Subjects and Clinical Trials Information, including the Data and Safety Monitoring Plan, should reflect the policies and guidance in this notice. Plans for the protection of research participants and data and safety monitoring will be reviewed by the NIMH for consistency with NIMH and NIH policies and federal regulations.
+National Institute on Aging (NIA)
+NIA is interested in applications relevant to the priorities described in this RFA that meet requirements central to NIA’s mission of improving the health and well-being of older adults through research.
+See Section VIII. Other Information for award authorities and regulations.
+Section II. Award Information
+Funding Instrument
+Grant: A support mechanism providing money, property, or both to an eligible entity to carry out an approved project or activity.
+Application Types Allowed
+New
+Resubmission
+The OER Glossary and the SF424 (R&R) Application Guide provide details on these application types. Only those application types listed here are allowed for this FOA.
+Clinical Trial?
+Optional: Accepting applications that either propose or do not propose clinical trial(s).
+Need help determining whether you are doing a clinical trial?
+Funds Available and Anticipated Number of Awards
+NIH intends to commit $2.8 million (total costs) in FY2022 to fund up to 2 awards.
+Award Budget
+Direct costs are limited to $1.25 million per year and must reflect the actual needs of the proposed project.
+Award Project Period
+The scope of the project should determine the project period. The maximum project period is 5 years.
+NIH grants policies as described in the NIH Grants Policy Statement will apply to the applications submitted and awards made from this FOA.
+Section III. Eligibility Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+Public/State Controlled Institutions of Higher Education
+Private Institutions of Higher Education
+The following types of Higher Education Institutions are always encouraged to apply for NIH support as Public or Private Institutions of Higher Education:
+Hispanic-serving Institutions
+Historically Black Colleges and Universities (HBCUs)
+Tribally Controlled Colleges and Universities (TCCUs)
+Alaska Native and Native Hawaiian Serving Institutions
+Asian American Native American Pacific Islander Serving Institutions (AANAPISIs)
+Nonprofits Other Than Institutions of Higher Education
+Nonprofits with 501(c)(3) IRS Status (Other than Institutions of Higher Education)
+Nonprofits without 501(c)(3) IRS Status (Other than Institutions of Higher Education)
+For-Profit Organizations
+Small Businesses
+For-Profit Organizations (Other than Small Businesses)
+Local Governments
+State Governments
+County Governments
+City or Township Governments
+Special District Governments
+Indian/Native American Tribal Governments (Federally Recognized)
+Indian/Native American Tribal Governments (Other than Federally Recognized)
+Federal Government
+Eligible Agencies of the Federal Government
+U.S. Territory or Possession
+Other
+Independent School Districts
+Public Housing Authorities/Indian Housing Authorities
+Native American Tribal Organizations (other than Federally recognized tribal governments)
+Faith-based or Community-based Organizations
+Regional Organizations
+Foreign Institutions
+Non-domestic (non-U.S.) Entities (Foreign Institutions) are not eligible to apply.
+Non-domestic (non-U.S.) components of U.S. Organizations are not eligible to apply.
+Foreign components, as defined in the NIH Grants Policy Statement, are not allowed.
+Required Registrations
+Applicant organizations
+Applicant organizations must complete and maintain the following registrations as described in the SF 424 (R&R) Application Guide to be eligible to apply for or receive an award. All registrations must be completed prior to the application being submitted. Registration can take 6 weeks or more, so applicants should begin the registration process as soon as possible. The NIH Policy on Late Submission of Grant Applications states that failure to complete registrations in advance of a due date is not a valid reason for a late submission.
+System for Award Management (SAM) – Applicants must complete and maintain an active registration, which requires renewal at least annually. The renewal process may require as much time as the initial registration. SAM registration includes the assignment of a Commercial and Government Entity (CAGE) Code for domestic organizations which have not already been assigned a CAGE Code.
+NATO Commercial and Government Entity (NCAGE) Code – Foreign organizations must obtain an NCAGE code (in lieu of a CAGE code) in order to register in SAM.
+Unique Entity Identifier (UEI)- A UEI is issued as part of the SAM.gov registration process. SAM registrations prior to fall 2021 were updated to include a UEI. For applications due on or after January 25, 2022, the UEI must be provided on the application forms (e.g., FORMS-G); the same UEI must be used for all registrations, as well as on the grant application.
+Dun and Bradstreet Universal Numbering System (DUNS) – Organization registrations prior to April 2022 require applicants to obtain a DUNS prior to registering in SAM. By April 2022, the federal government will stop using the DUNS number as an entity identifier and will transition to the Unique Entity Identifier (UEI) issued by SAM. Prior to April 2022, after obtaining a DUNS number, applicants can begin both SAM and eRA Commons registrations. The same DUNS number must be used for all registrations, as well as on the grant application.
+eRA Commons - Once the unique organization identifier (DUNS prior to April 2022; UEI after April 2022) is established, organizations can register with eRA Commons in tandem with completing their full SAM and Grants.gov registrations; all registrations must be in place by time of submission. eRA Commons requires organizations to identify at least one Signing Official (SO) and at least one Program Director/Principal Investigator (PD/PI) account in order to submit an application.
+Grants.gov – Applicants must have an active SAM registration in order to complete the Grants.gov registration.
+Program Directors/Principal Investigators (PD(s)/PI(s))
+All PD(s)/PI(s) must have an eRA Commons account. PD(s)/PI(s) should work with their organizational officials to either create a new account or to affiliate their existing account with the applicant organization in eRA Commons. If the PD/PI is also the organizational Signing Official, they must have two distinct eRA Commons accounts, one for each role. Obtaining an eRA Commons account can take up to 2 weeks.
+Eligible Individuals (Program Director/Principal Investigator)
+Any individual(s) with the skills, knowledge, and resources necessary to carry out the proposed research as the Program Director(s)/Principal Investigator(s) (PD(s)/PI(s)) is invited to work with his/her organization to develop an application for support. Individuals from underrepresented racial and ethnic groups as well as individuals with disabilities are always encouraged to apply for NIH support. See, Reminder: Notice of NIH's Encouragement of Applications Supporting Individuals from Underrepresented Ethnic and Racial Groups as well as Individuals with Disabilities, NOT-OD-22-019.
+For institutions/organizations proposing multiple PDs/PIs, visit the Multiple Program Director/Principal Investigator Policy and submission details in the Senior/Key Person Profile (Expanded) Component of the SF424 (R&R) Application Guide.
+2. Cost Sharing
+This FOA does not require cost sharing as defined in the NIH Grants Policy Statement.
+3. Additional Information on Eligibility
+Number of Applications
+Applicant organizations may submit more than one application, provided that each application is scientifically distinct.
+The NIH will not accept duplicate or highly overlapping applications under review at the same time, per 2.3.7.4 Submission of Resubmission Application. This means that the NIH will not accept:
+A new (A0) application that is submitted before issuance of the summary statement from the review of an overlapping new (A0) or resubmission (A1) application.
+A resubmission (A1) application that is submitted before issuance of the summary statement from the review of the previous new (A0) application.
+An application that has substantial overlap with another application pending appeal of initial peer review (see 2.3.9.4 Similar, Essentially Identical, or Identical Applications)
+Section IV. Application and Submission Information
+1. Requesting an Application Package
+The application forms package specific to this opportunity must be accessed through ASSIST, Grants.gov Workspace or an institutional system-to-system solution. Links to apply using ASSIST or Grants.gov Workspace are available in Part 1 of this FOA. See your administrative office for instructions if you plan to use an institutional system-to-system solution.
+2. Content and Form of Application Submission
+It is critical that applicants follow the instructions in the Research (R) Instructions in the SF424 (R&R) Application Guide except where instructed in this funding opportunity announcement to do otherwise. Conformance to the requirements in the Application Guide is required and strictly enforced. Applications that are out of compliance with these instructions may be delayed or not accepted for review.
+Letter of Intent
+Although a letter of intent is not required, is not binding, and does not enter into the review of a subsequent application, the information that it contains allows IC staff to estimate the potential review workload and plan the review.
+By the date listed in Part 1. Overview Information, prospective applicants are asked to submit a letter of intent that includes the following information:
+Descriptive title of proposed activity
+Name(s), address(es), and telephone number(s) of the PD(s)/PI(s)
+Names of other key personnel
+Participating institution(s)
+Number and title of this funding opportunity
+The letter of intent should be sent to:
+Email: nimhpeerreview@mail.nih.gov
+Page Limitations
+All page limitations described in the SF424 Application Guide and the Table of Page Limits must be followed.
+Instructions for Application Submission
+The following section supplements the instructions found in the SF424 (R&R) Application Guide and should be used for preparing an application to this FOA.
+SF424(R&R) Cover
+All instructions in the SF424 (R&R) Application Guide must be followed.
+SF424(R&R) Project/Performance Site Locations
+All instructions in the SF424 (R&R) Application Guide must be followed.
+SF424(R&R) Other Project Information
+All instructions in the SF424 (R&R) Application Guide must be followed.
+Facilities and other resources:The description of the resources and environment should address how the study utilizes existing infrastructure (e.g., CTSAs, practice-based research networks, electronic medical records, administrative data bases, patient registries) or utilizes other available resources to increase the efficiency of participant recruitment and data collection or provide a justification in the event that such efficiencies cannot be incorporated.
+SF424(R&R) Senior/Key Person Profile
+All instructions in the SF424 (R&R) Application Guide must be followed.
+Biographical Sketch: The "Personal Statement" section of the biographical sketch should document key personnel expertise conducting practice relevant services research, which should include the development and testing of service delivery interventions for patients with complex needs; expertise employing designs that unbundle complex interventions; their familiarity with state and federal regulations pertaining to medication for opioid use disorder (MOUD); their knowledge about Medicaid, Medicare, commercial insurance benefit packages, and other payors of mental and behavioral health services in general medical settings (e.g., primary care or emergency departments); their expertise collecting and integrating de-identified, person-level data gathered across multiple clinics and using standardized data to improve the quality of mental health services and individual patient outcomes; their success conducting such research, including success in identifying and recruiting such participants into research studies and demonstrating changes in practice as a result of research findings though strong research practice partnerships.
+R&R or Modular Budget
+All instructions in the SF424 (R&R) Application Guide must be followed.
+Budget should include resources for at least one PI to attend the annual HEAL Investigators meeting in Bethesda, MD. Recipientsare expected to participate in break-out sessions with other HEAL programs of relevance to this initiative (e.g., PRISM, ERN, BACPAC, BRIM, etc.) at the annual HEAL Investigator meeting. Time and support should be budgeted to participate in such activities.
+Budgets should include resources so recipients of this FOA can coordinate and participate in biannual meetings with awardees from RFA-MH-22-176, which will provide a forum to discuss (1) research updates; (2) opportunities of synergy and collaboration (e.g., data harmonization, protocol modifications); (3) develop a bidirectional pipeline between the research projects to facilitate practice-based research and improve early identification, intervention effectiveness, service delivery, and optimal components that are driving integrated care delivery for OUD, mental disorders, suicide prevention, and/or chronic pain.
+R&R Subaward Budget
+All instructions in the SF424 (R&R) Application Guide must be followed.
+PHS 398 Cover Page Supplement
+All instructions in the SF424 (R&R) Application Guide must be followed.
+PHS 398 Research Plan
+All instructions in the SF424 (R&R) Application Guide must be followed, with the following additional instructions:
+Research Strategy
+As part of the Research Strategy, the application should include the following information.
+Significance
+Describe how the research from this initiative will improve outcomes in people with OUD and common co-occurring conditions, which include mental disorders and/or suicide risk, by addressing important questions about multi-component service delivery models.
+Describe how the proposed project will improve the provision of evidence-based services and outcomes for people with OUD, co-occurring mental disorders, and/or suicide risk.
+Describe the potential impact of the project to streamline existing evidence-based multi-component service delivery interventions by identifying those components that drive clinical improvement.
+Justify the anticipated practical component benefits within the identified service delivery intervention (e.g., in terms of the number of at-risk individuals identified and effectively treated; in terms of the value of those components relative to cost constraints) as compared to other alternatives.
+Describe how the intervention is designed to be generalizable, scalable, and sustainable given typically available resources in real-world practice settings.
+Investigators
+Without duplicating information in the biosketches, describe the research team’s experience and capabilities to optimize a multi-component service delivery intervention that will improve the provision of care for people with OUD, co-occurring conditions, to include co-occurring mental health disorders, and/or suicide risk.
+Specifically, and as appropriate for the design of the proposed study, describe expertise with factorial designs and their derivatives (e.g., fractional factorial); Multiphase Optimization STrategy (MOST); Sequential, Multiple Assignment, Randomized Trials (SMART); randomized encouragement; and interrupted time series designs or other quasi-experimental approaches, where randomization may not be possible.
+Without duplicating information in biosketches, describe expertise conducting practice relevant services research, which should include the following: development and testing of service delivery interventions for patients with complex needs; expertise employing designs that unbundle complex interventions; familiarity with state and federal regulations pertaining to medication for opioid use disorder (MOUD); knowledge about Medicaid, Medicare, commercial insurance benefit packages, and other payers of mental and behavioral health services in general medical settings (e.g., primary care or emergency departments); expertise collecting and integrating de-identified, person-level data gathered across multiple clinics and using standardized data to improve the quality of mental health services and individual patient outcomes; success conducting such research, including success in identifying and recruiting such participants into research studies and demonstrating changes in practice as a result of research findings through strong research practice partnerships.
+Describe research practice partnerships and collaborations with end users, third party payers, relevant stakeholders, and/or policy makers in a manner that informs the research and helps ensure the results will have utility.
+Describe the expertise of investigators and potential for meaningful collaboration with awardees from this RFA and RFA-MH-22-176 to coordinate and participate in biannual meetings that will provide a forum to discuss (1) research updates; (2) opportunities of synergy and collaboration (e.g., data harmonization, protocol modifications); (3) development of a bidirectional pipeline between the research projects to facilitate practice-based research and improve early identification, intervention effectiveness, service delivery, and optimal components that are driving integrated care delivery for OUD, mental disorders, suicide prevention, and/or chronic pain.
+Innovation
+Highlight how innovative research strategies and design/analytic elements (e.g., factorial designs and their derivatives; MOST; SMART; randomized encouragement; and interrupted time series designs or other quasi-experimental approaches) are incorporated to enhance the study's potential for yielding practice-relevant information that will directly address the objectives of this FOA.
+Approach
+Describe and provide a rationale for the overall service delivery intervention and the constituent components to be studied. Indicate whether the multi-component service delivery intervention has been tested for overall effectiveness, and describe the extant evidence for the multi-component service delivery intervention.
+Describe the research design and analytic strategy for identifying which constituent components drive clinical improvements in OUD and mental health outcomes. For projects that study multi-component interventions lacking prior evidence of overall effectiveness, applications should be submitted through RFA-MH-22-176.
+Describe the plan to assess the adequacy of existing financing models to support the service delivery models being tested.
+Describe the rationale for the design (e.g., factorial designs and their derivatives; MOST; SMART; randomized encouragement; and interrupted time series designs or other quasi-experimental approaches) that considers practical constraints and trade-offs between maximizing internal and external validity.
+Describe the construct(s) or variable(s) on which the multi-component service delivery intervention will be optimized (e.g., optimized for resource efficiency and intervention reach) and still yield meaningful clinical improvement in the target population.
+Specify the conceptual basis and analytic strategy that allows for examination of the value of each component (or select combination of components), as well as overall effects.
+Explicitly address how end users’ (e.g., payers, providers, administrators, patients, policy makers) perspectives are reflected in the selection of research design and data analysis plan. Describe how findings will be disseminated so end users can make use of evidence generated from the proposed designs, in efforts to optimize multi-component interventions and improve practice.
+Include patient measures that are consistent with NIMH’s expectation on the collection of common data elements efforts per NOT-MH-20-067, which was published July 8,2020.Ifthe expected common data elements will not be collected,provide a rationale that justifies the decision to not include those common data elements.
+Without duplicating information from the Investigator(s) section, include a brief and reasonable plan to coordinate and meet with project teams funded through this RFA and RFA-MH-22-176 to discuss (1) research updates; (2) opportunities of synergy and collaboration (e.g., data harmonization, protocol modifications); (3) develop a bidirectional pipeline between the research projects to facilitate practice-based research and improve early identification, intervention effectiveness, service delivery, and optimal components that are driving integrated care delivery for OUD, mental disorders, suicide prevention, and/or chronic pain.
+Describe how the assessment of patient outcomes uses strategies that reflect health care system metrics (ICD codes; procedures; billing) as well as patient surveyed data that can facilitate integration and sharing of data as appropriate.
+Consistent with NIMH's experimental therapeutics approach, detail plans to address whether the constituent component(s) engages a mechanism (i.e., mediator or target) that is presumed to underlie its contribution to the overall effect of the multi-component service delivery intervention. Include the following: (1) a conceptual framework that identifies the target(s)/mechanism(s) and the empirical evidence linking the target(s)/mechanism(s) to the primary outcome(s); (2) plans for assessing engagement of the target(s)/mechanism(s) using valid measures that are feasible in the effectiveness/pragmatic context; and (3) an analytic plan to examine whether the component-induced changes in the target(s)mechanism(s) are associated with overall effectiveness of the multi-component service delivery intervention.
+Environment
+Describe how the study will utilize existing infrastructure (e.g., CTSAs, practice-based research networks, electronic medical records, administrative data bases, patient registries) or utilize other available resources to increase the efficiency of participant recruitment and data collection. Or, provide a justification in the event that such efficiencies cannot be incorporated.
+Resource Sharing Plan: Individuals are required to comply with the instructions for the Resource Sharing Plans as provided in the SF424 (R&R) Application Guide.
+NIH intends to maximize the impact of HEAL Initiative-supported projects through broad and rapid data sharing. Consistent with the HEAL Initiative Public Access and Data Sharing Policy (https://heal.nih.gov/about/public-access-data), all applications, regardless of the amount of direct costs requested for any one year, are required to include a Data Management and Sharing Plan outlining how scientific data and any accompanying metadata will be managed and shared. The plan should describe data types, file formats, submission timelines, and standards used in collecting or processing the data. It is expected that data generated by HEAL Initiative-funded projects will be submitted to study-appropriate domain-specific or generalist repositories in consultation with the HEAL Data Stewardship Group to ensure the data is accessible via the HEAL Initiative Data Ecosystem. Additional guidance on data related activities can be found at https://www.healdatafair.org/.
+To maximize discoverability and value of HEAL datasets and studies, and facilitate data integration and collaboration, applications submitted in response to this FOA are strongly encouraged to incorporate standards and resources where applicable:
+Applicants are encouraged to ensure that data collected by the study conform to Findable, Accessible, Interoperable, and Reusable (FAIR) principles.
+Applicants are specifically encouraged to incorporate into their planning, an alignment with the guidelines, principles and recommendations developed by the HEAL Data Ecosystem, including but not limited to preparing data to store in selected specified repositories, applying minimal metadata standards, use of core HEAL Clinical Data Elements (CDEs, https://heal.nih.gov/data/common-data-elements), and other necessary requirements to prepare data to connect to the HEAL Data Ecosystem.
+All new HEAL clinical pain studies are required to submit their case-report forms/questionnaires to the HEAL Clinical Data Elements (CDE) Program. The program will create the CDE files containing standardized variable names, responses, coding, and other information. The program will also format the case-report forms in a standardized way that is compliant with accessibility standards under Section 508 of the Rehabilitation Act of 1973 (29 U.S.C § 794 (d)), which “require[s] Federal agencies to make their electronic and information technology accessible to people with disabilities.” HEAL Initiative clinical studies that are using copyrighted questionnaires are required to obtain licenses for use prior to initiating data collection. Licenses must be shared with the HEAL CDE team and the program officer prior to use of copyrighted materials. For additional information, visit the HEAL CDE Program.
+The NIH notices referenced below provide additional NIH guidance that should be considered in developing a strong data management and sharing plan. The list is instructive but not comprehensive.
+Elements of an NIH Data Management and Sharing Plan (NOT-OD-21-014)
+NIH has provided guidance around selecting a repository for data generated by NIH-supported research and has developed desirable characteristics for all data repositories (NOT-OD-21-016).
+NIH encourages the use of data standards including the PhenX Toolkit (www.phenxtoolkit.org) (for example, see NOT-DA-12-008, NOT-MH-15-009)
+NIH encourages researchers to explore the use of the HL7 FHIR® (Fast Healthcare Interoperability Resources) standard to capture, integrate, and exchange clinical data for research purposes and to enhance capabilities to share research data (NOT-OD-19-122). The FHIR® standard may be particularly useful in facilitating the flow of data with EHR-based datasets, tools, and applications.
+NIH encourages clinical research programs and researchers to adopt and use the standardized set of data classes, data elements, and associated vocabulary standards specified in the United States Core Data for Interoperability (USCDI) standards, as they are applicable (NOT-OD-20-146). Use of the USCDI can complement the FHIR® standard and enable researchers to leverage structured EHR data for research and enable discovery.
+Recipients conducting research that includes collection of genomic data should incorporate requirements under the NIH Genomic Data Sharing Policy (NOT-OD-14-124, NOT-OD-15-086).
+Appendix:
+Only limited Appendix materials are allowed. Follow all instructions for the Appendix as described in the SF424 (R&R) Application Guide.
+PHS Human Subjects and Clinical Trials Information
+When involving human subjects research, clinical research, and/or NIH-defined clinical trials (and when applicable, clinical trials research experience) follow all instructions for the PHS Human Subjects and Clinical Trials Information form in the SF424 (R&R) Application Guide, with the following additional instructions:
+If you answered “Yes” to the question “Are Human Subjects Involved?” on the R&R Other Project Information form, you must include at least one human subjects study record using the Study Record: PHS Human Subjects and Clinical Trials Information form or Delayed Onset Study record.
+Study Record: PHS Human Subjects and Clinical Trials Information
+All instructions in the SF424 (R&R) Application Guide must be followed.
+Section 2 - Study Population Characteristics
+2.7 Study Timeline
+Applications must provide a timeline for reaching important study benchmarks such as: (1) finalizing the study procedures and training participating clinical site staff; (2) finalizing the intervention manual and assessment protocols, including fidelity measures/procedures, where applicable; (3) enrollment benchmarks; (4) completing all subject assessments and data collection activities, including data quality checks; (5) analyzing and interpreting results; and (6) preparing de-identified data and relevant documentation to facilitate data sharing, as appropriate.
+Delayed Onset Study
+Note: Delayed onset does NOT apply to a study that can be described but will not start immediately (i.e., delayed start).All instructions in the SF424 (R&R) Application Guide must be followed.
+PHS Assignment Request Form
+All instructions in the SF424 (R&R) Application Guide must be followed.
+3. Unique Entity Identifier and System for Award Management (SAM)
+See Part 1. Section III.1 for information regarding the requirement for obtaining a unique entity identifier and for completing and maintaining active registrations in System for Award Management (SAM), NATO Commercial and Government Entity (NCAGE) Code (if applicable), eRA Commons, and Grants.gov
+4. Submission Dates and Times
+Part I. Overview Information contains information about Key Dates and times. Applicants are encouraged to submit applications before the due date to ensure they have time to make any application corrections that might be necessary for successful submission. When a submission date falls on a weekend or Federal holiday, the application deadline is automatically extended to the next business day.
+Organizations must submit applications to Grants.gov (the online portal to find and apply for grants across all Federal agencies). Applicants must then complete the submission process by tracking the status of the application in the eRA Commons, NIH’s electronic system for grants administration. NIH and Grants.gov systems check the application against many of the application instructions upon submission. Errors must be corrected and a changed/corrected application must be submitted to Grants.gov on or before the application due date and time. If a Changed/Corrected application is submitted after the deadline, the application will be considered late. Applications that miss the due date and time are subjected to the NIH Policy on Late Application Submission.
+Applicants are responsible for viewing their application before the due date in the eRA Commons to ensure accurate and successful submission.
+Information on the submission process and a definition of on-time submission are provided in the SF424 (R&R) Application Guide.
+5. Intergovernmental Review (E.O. 12372)
+This initiative is not subject to intergovernmental review.
+6. Funding Restrictions
+All NIH awards are subject to the terms and conditions, cost principles, and other considerations described in the NIH Grants Policy Statement.
+Pre-award costs are allowable only as described in the NIH Grants Policy Statement.
+7. Other Submission Requirements and Information
+Applications must be submitted electronically following the instructions described in the SF424 (R&R) Application Guide. Paper applications will not be accepted.
+Applicants must complete all required registrations before the application due date. Section III. Eligibility Information contains information about registration.
+For assistance with your electronic application or for more information on the electronic submission process, visit How to Apply – Application Guide. If you encounter a system issue beyond your control that threatens your ability to complete the submission process on-time, you must follow the Dealing with System Issues guidance. For assistance with application submission, contact the Application Submission Contacts in Section VII.
+Important reminders:
+All PD(s)/PI(s) must include their eRA Commons ID in the Credential fieldof the Senior/Key Person Profile form. Failure to register in the Commons and to include a valid PD/PI Commons ID in the credential field will prevent the successful submission of an electronic application to NIH. See Section III of this FOA for information on registration requirements.
+The applicant organization must ensure that the unique entity identifier (DUNS number or UEI as required) provided on the application is the same number used in the organization’s profile in the eRA Commons and for the System for Award Management. Additional information may be found in the SF424 (R&R) Application Guide.
+See more tips for avoiding common errors.
+Upon receipt, applications will be evaluated for completeness and compliance with application instructions by the Center for Scientific Review and responsiveness by components of participating organizations, NIH. Applications that are incomplete, non-compliant and/or nonresponsive will not be reviewed.
+Use of Common Data Elements in NIH-funded Research
+Many NIH ICs encourage the use of common data elements (CDEs) in basic, clinical, and applied research, patient registries, and other human subject research to facilitate broader and more effective use of data and advance research across studies. CDEs are data elements that have been identified and defined for use in multiple data sets across different studies. Use of CDEs can facilitate data sharing and standardization to improve data quality and enable data integration from multiple studies and sources, including electronic health records. NIH ICs have identified CDEs for many clinical domains (e.g., neurological disease), types of studies (e.g. genome-wide association studies (GWAS)), types of outcomes (e.g., patient-reported outcomes), and patient registries (e.g., the Global Rare Diseases Patient Registry and Data Repository). NIH has established a “Common Data Element (CDE) Resource Portal" (http://cde.nih.gov/) to assist investigators in identifying NIH-supported CDEs when developing protocols, case report forms, and other instruments for data collection. The Portal provides guidance about and access to NIH-supported CDE initiatives and other tools and resources for the appropriate use of CDEs and data standards in NIH-funded research. Investigators are encouraged to consult the Portal and describe in their applications any use they will make of NIH-supported CDEs in their projects.
+NIMH has released expectations for collecting common data elements when an application involves human research participants. Details can be found at NOT-MH-20-067 and the NIMH webpage on Data Sharing for Applicants and Awardees.
+Post Submission Materials
+Applicants are required to follow the instructions for post-submission materials, as described in the policy. Any instructions provided here are in addition to the instructions in the policy.
+Section V. Application Review Information
+1. Criteria
+Only the review criteria described below will be considered in the review process. Applications submitted to the NIH in support of the NIH mission are evaluated for scientific and technical merit through the NIH peer review system.
+A proposed Clinical Trial application may include study design, methods, and intervention that are not by themselves innovative but address important questions or unmet needs. Additionally, the results of the clinical trial may indicate that further clinical development of the intervention is unwarranted or lead to new avenues of scientific investigation.
+Overall Impact
+Reviewers will provide an overall impact score to reflect their assessment of the likelihood for the project to exert a sustained, powerful influence on the research field(s) involved, in consideration of the following review criteria and additional review criteria (as applicable for the project proposed).
+Scored Review Criteria
+Reviewers will consider each of the review criteria below in the determination of scientific merit, and give a separate score for each. An application does not need to be strong in all categories to be judged likely to have major scientific impact. For example, a project that by its nature is not innovative may be essential to advance a field.
+Significance
+Does the project address an important problem or a critical barrier to progress in the field? Is the prior research that serves as the key support for the proposed project rigorous? If the aims of the project are achieved, how will scientific knowledge, technical capability, and/or clinical practice be improved? How will successful completion of the aims change the concepts, methods, technologies, treatments, services, or preventative interventions that drive this field?
+Specific to this FOA:
+Does the project have significant potential to improve the provision of evidence-based services for people with OUD and co-occurring conditions, to include co-occurring mental disorders and/or suicide risk?
+What is the project's potential to streamline multi-component service delivery interventions by identifying those constituent components that drive clinical improvement?
+Does the application provide justification for the anticipated practical component benefits within the identified service delivery intervention (e.g., in terms of the number of at-risk individuals identified and effectively treated; in terms of the value of those components relative to cost-constraints) as compared to other alternatives?
+In addition, for applications involving clinical trials
+Are the scientific rationale and need for a clinical trial to test the proposed hypothesis or intervention well supported by preliminary data, clinical and/or preclinical studies, or information in the literature or knowledge of biological mechanisms? For trials focusing on clinical or public health endpoints, is this clinical trial necessary for testing the safety, efficacy or effectiveness of an intervention that could lead to a change in clinical practice, community behaviors or health care policy? For trials focusing on mechanistic, behavioral, physiological, biochemical, or other biomedical endpoints, is this trial needed to advance scientific understanding?
+Investigator(s)
+Are the PD(s)/PI(s), collaborators, and other researchers well suited to the project? If Early Stage Investigators or those in the early stages of independent careers, do they have appropriate experience and training? If established, have they demonstrated an ongoing record of accomplishments that have advanced their field(s)? If the project is collaborative or multi-PD/PI, do the investigators have complementary and integrated expertise; are their leadership approach, governance and organizational structure appropriate for the project?
+Specific to this FOA:
+How adequate is the team's expertise in the following: conducting practice relevant services research, which should include the development and testing of service delivery interventions for patients with complex needs; expertise employing designs that unbundle complex interventions; familiarity with state and federal regulations pertaining to medication for opioid use disorder (MOUD); knowledge about Medicaid, Medicare, commercial insurance benefit packages, and other payers of mental and behavioral health services in general medical settings (e.g., primary care or emergency departments); expertise collecting and integrating de-identified, person-level data gathered across multiple clinics and using standardized data to improve the quality of mental health services and individual patient outcomes; success conducting such research, including success in identifying and recruiting such participants into research studies and demonstrating changes in practice as a result of research findings through strong research practice partnerships?
+How strong are research practice partnerships; how well will the team collaborate with end users, payers, relevant stakeholders, and/or policy makers in a manner that informs the research and helps to ensure the results will have utility?
+In addition, for applications involving clinical trials
+With regard to the proposed leadership for the project, do the PD/PI(s) and key personnel have the expertise, experience, and ability to organize, manage and implement the proposed clinical trial and meet milestones and timelines? Do they have appropriate expertise in study coordination, data management and statistics? For a multicenter trial, is the organizational structure appropriate and does the application identify a core of potential center investigators and staffing for a coordinating center?
+Innovation
+Does the application challenge and seek to shift current research or clinical practice paradigms by utilizing novel theoretical concepts, approaches or methodologies, instrumentation, or interventions? Are the concepts, approaches or methodologies, instrumentation, or interventions novel to one field of research or novel in a broad sense? Is a refinement, improvement, or new application of theoretical concepts, approaches or methodologies, instrumentation, or interventions proposed?
+Specific to this FOA:
+How innovative are the research strategies and design/analytic elements (e.g., factorial designs and their derivatives; MOST; SMART; randomized encouragement; and interrupted time series designs or other quasi-experimental approaches), and how well are these strategies and elements incorporated to enhance the study's potential for yielding practice-relevant information?
+In addition, for applications involving clinical trials
+Does the design/research plan include innovative elements, as appropriate, that enhance its sensitivity, potential for information or potential to advance scientific knowledge or clinical practice?
+Approach
+Are the overall strategy, methodology, and analyses well-reasoned and appropriate to accomplish the specific aims of the project? Have the investigators included plans to address weaknesses in the rigor of prior research that serves as the key support for the proposed project? Have the investigators presented strategies to ensure a robust and unbiased approach, as appropriate for the work proposed? Are potential problems, alternative strategies, and benchmarks for success presented? If the project is in the early stages of development, will the strategy establish feasibility and will particularly risky aspects be managed? Have the investigators presented adequate plans to address relevant biological variables, such as sex, for studies in vertebrate animals or human subjects?
+If the project involves human subjects and/or NIH-defined clinical research, are the plans to address 1) the protection of human subjects from research risks, and 2) inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion or exclusion of individuals of all ages (including children and older adults), justified in terms of the scientific goals and research strategy proposed?
+Specific to this FOA:
+Does the application describe and provide a strong rationale for the overall service delivery intervention and the constituent components to be studied? In particular, does the applicant make a compelling case that the multi-component service delivery intervention is evidence-based?
+Are the research design and analytic strategy for identifying which constituent components drive clinical improvements in OUD and mental health outcomes well described?
+How reasonable is the plan to assess the adequacy of existing financing models to support the service delivery models being tested?
+How well described are the construct(s) or variable(s) on which the multi-component service delivery intervention will be optimized (e.g., optimized for clinical improvement, optimized for resource efficiency and intervention reach) and still yield meaningful clinical improvement in the target population?
+Does the applicant explicitly address how end users’ (e.g., payers, providers, administrators, patients, policy makers) perspectives are reflected in the selection of the research design and data analysis plan? Is a dissemination plan presented that will facilitate uptake of evidence generated from the proposed designs, in efforts to optimize multi-component interventions and improve practice?
+How well does the study detail plans to address whether the constituent component(s) engages a mechanism (i.e., mediator or target) that is presumed to underlie its contribution to the overall effect of the multi-component service delivery intervention? To what extent does the applicant include the following: (1) a conceptual framework that identifies the target(s)/mechanism(s) and the empirical evidence linking the target(s)/mechanism(s) to the primary outcome(s); (2) plans for assessing engagement of the target(s)/mechanism(s) using valid measures that are feasible in the effectiveness/pragmatic context; and (3) an analytic plan to examine whether the component-induced changes in the target(s)mechanism(s) are associated with overall effectiveness of the multi-component service delivery intervention?
+Is the Data Management and Sharing Plan adequate?
+In addition, for applications involving clinical trials
+Does the application adequately address the following, if applicable
+Study Design
+Is the study design justified and appropriate to address primary and secondary outcome variable(s)/endpoints that will be clear, informative and relevant to the hypothesis being tested? Is the scientific rationale/premise of the study based on previously well-designed preclinical and/or clinical research? Given the methods used to assign participants and deliver interventions, is the study design adequately powered to answer the research question(s), test the proposed hypothesis/hypotheses, and provide interpretable results? Is the trial appropriately designed to conduct the research efficiently? Are the study populations (size, gender, age, demographic group), proposed intervention arms/dose, and duration of the trial, appropriate and well justified?
+Are potential ethical issues adequately addressed? Is the process for obtaining informed consent or assent appropriate? Is the eligible population available? Are the plans for recruitment outreach, enrollment, retention, handling dropouts, missed visits, and losses to follow-up appropriate to ensure robust data collection? Are the planned recruitment timelines feasible and is the plan to monitor accrual adequate? Has the need for randomization (or not), masking (if appropriate), controls, and inclusion/exclusion criteria been addressed? Are differences addressed, if applicable, in the intervention effect due to sex/gender and race/ethnicity?
+Are the plans to standardize, assure quality of, and monitor adherence to, the trial protocol and data collection or distribution guidelines appropriate? Is there a plan to obtain required study agent(s)? Does the application propose to use existing available resources, as applicable?
+Data Management and Statistical Analysis
+Are planned analyses and statistical approach appropriate for the proposed study design and methods used to assign participants and deliver interventions? Are the procedures for data management and quality control of data adequate at clinical site(s) or at center laboratories, as applicable? Have the methods for standardization of procedures for data management to assess the effect of the intervention and quality control been addressed? Is there a plan to complete data analysis within the proposed period of the award?
+Environment
+Will the scientific environment in which the work will be done contribute to the probability of success? Are the institutional support, equipment and other physical resources available to the investigators adequate for the project proposed? Will the project benefit from unique features of the scientific environment, subject populations, or collaborative arrangements?
+Specific to this FOA:
+Does the applicant adequately describe how the study will utilize existing infrastructure (e.g., CTSAs, practice-based research networks, electronic medical records, administrative databases, patient registries) or utilize other available resources to increase the efficiency of participant recruitment and data collection? Or, does the applicant provide a sufficient justification in the event that such efficiencies cannot be incorporated?
+In addition, for applications involving clinical trials
+If proposed, are the administrative, data coordinating, enrollment and laboratory/testing centers, appropriate for the trial proposed?
+Does the application adequately address the capability and ability to conduct the trial at the proposed site(s) or centers? Are the plans to add or drop enrollment centers, as needed, appropriate?
+If international site(s) is/are proposed, does the application adequately address the complexity of executing the clinical trial?
+If multi-sites/centers, is there evidence of the ability of the individual site or center to: (1) enroll the proposed numbers; (2) adhere to the protocol; (3) collect and transmit data in an accurate and timely fashion; and, (4) operate within the proposed organizational structure?
+Additional Review Criteria
+As applicable for the project proposed, reviewers will evaluate the following additional items while determining scientific and technical merit, and in providing an overall impact score, but will not give separate scores for these items.
+Study Timeline
+Specific to applications involving clinical trials
+Is the study timeline described in detail, taking into account start-up activities, the anticipated rate of enrollment, and planned follow-up assessment? Is the projected timeline feasible and well justified? Does the project incorporate efficiencies and utilize existing resources (e.g., CTSAs, practice-based research networks, electronic medical records, administrative database, or patient registries) to increase the efficiency of participant enrollment and data collection, as appropriate?
+Are potential challenges and corresponding solutions discussed (e.g., strategies that can be implemented in the event of enrollment shortfalls)?
+Protections for Human Subjects
+For research that involves human subjects but does not involve one of the categories of research that are exempt under 45 CFR Part 46, the committee will evaluate the justification for involvement of human subjects and the proposed protections from research risk relating to their participation according to the following five review criteria: 1) risk to subjects, 2) adequacy of protection against risks, 3) potential benefits to the subjects and others, 4) importance of the knowledge to be gained, and 5) data and safety monitoring for clinical trials.
+For research that involves human subjects and meets the criteria for one or more of the categories of research that are exempt under 45 CFR Part 46, the committee will evaluate: 1) the justification for the exemption, 2) human subjects involvement and characteristics, and 3) sources of materials. For additional information on review of the Human Subjects section, please refer to the Guidelines for the Review of Human Subjects.
+Inclusion of Women, Minorities, and Individuals Across the Lifespan
+When the proposed project involves human subjects and/or NIH-defined clinical research, the committee will evaluate the proposed plans for the inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion (or exclusion) of individuals of all ages (including children and older adults) to determine if it is justified in terms of the scientific goals and research strategy proposed. For additional information on review of the Inclusion section, please refer to the Guidelines for the Review of Inclusion in Clinical Research.
+Vertebrate Animals
+The committee will evaluate the involvement of live vertebrate animals as part of the scientific assessment according to the following criteria: (1) description of proposed procedures involving animals, including species, strains, ages, sex, and total number to be used; (2) justifications for the use of animals versus alternative models and for the appropriateness of the species proposed; (3) interventions to minimize discomfort, distress, pain and injury; and (4) justification for euthanasia method if NOT consistent with the AVMA Guidelines for the Euthanasia of Animals. Reviewers will assess the use of chimpanzees as they would any other application proposing the use of vertebrate animals. For additional information on review of the Vertebrate Animals section, please refer to the Worksheet for Review of the Vertebrate Animal Section.
+Biohazards
+Reviewers will assess whether materials or procedures proposed are potentially hazardous to research personnel and/or the environment, and if needed, determine whether adequate protection is proposed.
+Resubmissions
+For Resubmissions, the committee will evaluate the application as now presented, taking into consideration the responses to comments from the previous scientific review group and changes made to the project.
+Renewals
+Not Applicable
+Revisions
+Not Applicable
+Additional Review Considerations
+As applicable for the project proposed, reviewers will consider each of the following items, but will not give scores for these items, and should not consider them in providing an overall impact score.
+Applications from Foreign Organizations
+Not Applicable.
+Select Agent Research
+Reviewers will assess the information provided in this section of the application, including 1) the Select Agent(s) to be used in the proposed research, 2) the registration status of all entities where Select Agent(s) will be used, 3) the procedures that will be used to monitor possession use and transfer of Select Agent(s), and 4) plans for appropriate biosafety, biocontainment, and security of the Select Agent(s).
+Resource Sharing Plans
+Reviewers will comment on whether the following Resource Sharing Plans, or the rationale for not sharing the following types of resources, are reasonable: (1) Sharing Model Organisms; and (2) Genomic Data Sharing Plan (GDS).
+Authentication of Key Biological and/or Chemical Resources:
+For projects involving key biological and/or chemical resources, reviewers will comment on the brief plans proposed for identifying and ensuring the validity of those resources.
+Budget and Period of Support
+Reviewers will consider whether the budget and the requested period of support are fully justified and reasonable in relation to the proposed research.
+2. Review and Selection Process
+Applications will be evaluated for scientific and technical merit by an appropriate Scientific Review Group convened by NIMH, in accordance with NIH peer review policy and procedures, using the stated review criteria. Assignment to a Scientific Review Group will be shown in the eRA Commons.
+Applications may undergo a selection process in which only those applications deemed to have the highest scientific and technical merit (generally the top half of applications under review) will be discussed and assigned an overall impact score.
+Appeals of initial peer review will not be accepted for applications submitted in response to this FOA.
+Applications will be assigned on the basis of established PHS referral guidelines to the appropriate NIH Institute or Center. Applications will compete for available funds with all other recommended applications submitted in response to this FOA. . The following will be considered in making funding decisions:
+Scientific and technical merit of the proposed project as determined by scientific peer review.
+Availability of funds.
+Relevance of the proposed project to program priorities.
+3. Anticipated Announcement and Award Dates
+Not Applicable
+Section VI. Award Administration Information
+1. Award Notices
+If the application is under consideration for funding, NIH will request "just-in-time" information from the applicant as described in the NIH Grants Policy Statement.
+A formal notification in the form of a Notice of Award (NoA) will be provided to the applicant organization for successful applications. The NoA signed by the grants management officer is the authorizing document and will be sent via email to the recipient's business official.
+Recipients must comply with any funding restrictions described in Section IV.5. Funding Restrictions. Selection of an application for award is not an authorization to begin performance. Any costs incurred before receipt of the NoA are at the recipient's risk. These costs may be reimbursed only to the extent considered allowable pre-award costs.
+Any application awarded in response to this FOA will be subject to terms and conditions found on the Award Conditions and Information for NIH Grants website. This includes any recent legislation and policy applicable to awards that is highlighted on this website.
+The NIMH has published policies and guidance for investigators regarding human research protection, data and safety monitoring, Independent Safety Monitors and Data and Safety Monitoring Boards, reportable events, and participant recruitment monitoring (NOT-MH-19-027). The application’s PHS Human Subjects and Clinical Trials Information should reflect the manner in which these policies will be implemented for each study record. These plans will be reviewed by the NIMH for consistency with NIMH and NIH policies and federal regulations. The NIMH will expect clinical trials to be conducted in accordance with these policies including, but not limited to: timely registration to ClinicalTrials.gov, submission of review determinations from the clinical trial’s data and safety monitoring entity (at least annually), timely submission of reportable events as prescribed, and establishment of recruitment milestones and progress reporting.
+Individual awards are based on the application submitted to, and as approved by, the NIH and are subject to the IC-specific terms and conditions identified in the NoA.
+ClinicalTrials.gov: If an award provides for one or more clinical trials. By law (Title VIII, Section 801 of Public Law 110-85), the "responsible party" must register and submit results information for certain “applicable clinical trials” on the ClinicalTrials.gov Protocol Registration and Results System Information Website (https://register.clinicaltrials.gov). NIH expects registration and results reporting of all trials whether required under the law or not. For more information, see https://grants.nih.gov/policy/clinical-trials/reporting/index.htm
+Institutional Review Board or Independent Ethics Committee Approval: Recipient institutions must ensure that all protocols are reviewed by their IRB or IEC. To help ensure the safety of participants enrolled in NIH-funded studies, the recipient must provide NIH copies of documents related to all major changes in the status of ongoing protocols.
+Data and Safety Monitoring Requirements: The NIH policy for data and safety monitoring requires oversight and monitoring of all NIH-conducted or -supported human biomedical and behavioral intervention studies (clinical trials) to ensure the safety of participants and the validity and integrity of the data. Further information concerning these requirements is found at http://grants.nih.gov/grants/policy/hs/data_safety.htm and in the application instructions (SF424 (R&R) and PHS 398).
+Investigational New Drug or Investigational Device Exemption Requirements: Consistent with federal regulations, clinical research projects involving the use of investigational therapeutics, vaccines, or other medical interventions (including licensed products and devices for a purpose other than that for which they were licensed) in humans under a research protocol must be performed under a Food and Drug Administration (FDA) investigational new drug (IND) or investigational device exemption (IDE).
+2. Administrative and National Policy Requirements
+All NIH grant and cooperative agreement awards include the NIH Grants Policy Statement as part of the NoA. For these terms of award, see the NIH Grants Policy Statement Part II: Terms and Conditions of NIH Grant Awards, Subpart A: General and Part II: Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for Specific Types of Grants, Recipients, and Activities, including of note, but not limited to:
+Federalwide Research Terms and Conditions
+Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment
+Acknowledgment of Federal Funding
+If a recipient is successful and receives a Notice of Award, in accepting the award, the recipient agrees that any activities under the award are subject to all provisions currently in effect or implemented during the period of the award, other Department regulations and policies in effect at the time of the award, and applicable statutory provisions.
+Should the applicant organization successfully compete for an award, recipients of federal financial assistance (FFA) from HHS must administer their programs in compliance with federal civil rights laws that prohibit discrimination on the basis of race, color, national origin, disability, age and, in some circumstances, religion, conscience, and sex (including gender identify, sexual orientation, and pregnancy). This includes ensuring programs are accessible to persons with limited English proficiency and persons with disabilities. The HHS Office for Civil Rights provides guidance on complying with civil rights laws enforced by HHS. Please see https://www.hhs.gov/civil-rights/for-providers/provider-obligations/index.html and https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html
+HHS recognizes that research projects are often limited in scope for many reasons that are nondiscriminatory, such as the principal investigator’s scientific interest, funding limitations, recruitment requirements, and other considerations. Thus, criteria in research protocols that target or exclude certain populations are warranted where nondiscriminatory justifications establish that such criteria are appropriate with respect to the health or safety of the subjects, the scientific study design, or the purpose of the research. For additional guidance regarding how the provisions apply to NIH grant programs, please contact the Scientific/Research Contact that is identified in Section VII under Agency Contacts of this FOA.
+Recipients of FFA must ensure that their programs are accessible to persons with limited English proficiency. For guidance on meeting the legal obligation to take reasonable steps to ensure meaningful access to programs or activities by limited English proficient individuals see https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-english-proficiency/fact-sheet-guidance/index.html and https://www.lep.gov.
+For information on an institution’s specific legal obligations for serving qualified individuals with disabilities, including reasonable accommodations and making services accessible to them, see http://www.hhs.gov/ocr/civilrights/understanding/disability/index.html.
+HHS funded health and education programs must be administered in an environment free of sexual harassment, see https://www.hhs.gov/civil-rights/for-individuals/sex-discrimination/index.html. For information about NIH's commitment to supporting a safe and respectful work environment, who to contact with questions or concerns, and what NIH's expectations are for institutions and the individuals supported on NIH-funded awards, please see https://grants.nih.gov/grants/policy/harassment.htm.
+For guidance on administering programs in compliance with applicable federal conscience protection and associated anti-discrimination laws see https://www.hhs.gov/conscience/conscience-protections/index.html and https://www.hhs.gov/conscience/religious-freedom/index.html.
+Please contact the HHS Office for Civil Rights for more information about obligations and prohibitions under federal civil rights laws at https://www.hhs.gov/ocr/about-us/contact-us/index.html or call 1-800-368-1019 or TDD 1-800-537-7697.
+In accordance with the statutory provisions contained in Section 872 of the Duncan Hunter National Defense Authorization Act of Fiscal Year 2009 (Public Law 110-417), NIH awards will be subject to the Federal Awardee Performance and Integrity Information System (FAPIIS) requirements. FAPIIS requires Federal award making officials to review and consider information about an applicant in the designated integrity and performance system (currently FAPIIS) prior to making an award. An applicant, at its option, may review information in the designated integrity and performance systems accessible through FAPIIS and comment on any information about itself that a Federal agency previously entered and is currently in FAPIIS. The Federal awarding agency will consider any comments by the applicant, in addition to other information in FAPIIS, in making a judgement about the applicant’s integrity, business ethics, and record of performance under Federal awards when completing the review of risk posed by applicants as described in 45 CFR Part 75.205 and 2 CFR Part 200.206 “Federal awarding agency review of risk posed by applicants.” This provision will apply to all NIH grants and cooperative agreements except fellowships.
+Cooperative Agreement Terms and Conditions of Award
+Not Applicable
+3. Reporting
+When multiple years are involved, recipients will be required to submit the Research Performance Progress Report (RPPR) annually and financial statements as required in the NIH Grants Policy Statement.
+A final RPPR, invention statement, and the expenditure data portion of the Federal Financial Report are required for closeout of an award, as described in the NIH Grants Policy Statement. NIH FOAs outline intended research goals and objectives. Post award, NIH will review and measure performance based on the details and outcomes that are shared within the RPPR, as described at 45 CFR Part 75.301 and 2 CFR Part 200.301.
+The Federal Funding Accountability and Transparency Act of 2006 (Transparency Act), includes a requirement for recipients of Federal grants to report information about first-tier subawards and executive compensation under Federal assistance awards issued in FY2011 or later. All recipients of applicable NIH grants and cooperative agreements are required to report to the Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the NIH Grants Policy Statement for additional information on this reporting requirement.
+In accordance with the regulatory requirements provided at 45 CFR 75.113 and Appendix XII to 45 CFR Part 75, recipients that have currently active Federal grants, cooperative agreements, and procurement contracts from all Federal awarding agencies with a cumulative total value greater than $10,000,000 for any period of time during the period of performance of a Federal award, must report and maintain the currency of information reported in the System for Award Management (SAM) about civil, criminal, and administrative proceedings in connection with the award or performance of a Federal award that reached final disposition within the most recent five-year period. The recipient must also make semiannual disclosures regarding such proceedings. Proceedings information will be made publicly available in the designated integrity and performance system (currently FAPIIS). This is a statutory requirement under section 872 of Public Law 110-417, as amended (41 U.S.C. 2313). As required by section 3010 of Public Law 111-212, all information posted in the designated integrity and performance system on or after April 15, 2011, except past performance reviews required for Federal procurement contracts, will be publicly available. Full reporting requirements and procedures are found in Appendix XII to 45 CFR Part 75 – Award Term and Conditions for Recipient Integrity and Performance Matters.
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity and welcome the opportunity to answer questions from potential applicants.
+Application Submission Contacts
+eRA Service Desk (Questions regarding ASSIST, eRA Commons, application errors and warnings, documenting system problems that threaten submission by the due date, and post-submission issues)
+Finding Help Online: http://grants.nih.gov/support/ (preferred method of contact)
+Telephone: 301-402-7469 or 866-504-9552 (Toll Free)
+General Grants Information (Questions regarding application instructions, application processes, and NIH grant resources)
+Email: GrantsInfo@nih.gov (preferred method of contact)
+Telephone: 301-945-7573
+Grants.gov Customer Support (Questions regarding Grants.gov registration and Workspace)
+Contact Center Telephone: 800-518-4726
+Email: support@grants.gov
+Scientific/Research Contact(s)
+Michael C. Freed, Ph.D., EMT
+National Institute of Mental Health (NIMH)
+Telephone: 301-443-3747
+Email: michael.freed@nih.gov
+Wendy Weber, N.D., Ph.D., M.P.H.
+National Center for Complementary and Integrative Health (NCCIH)
+Telephone: 301-402-1272
+Email: weberwj@mail.nih.gov
+Leslie K Derr, PhD
+National Institute Of Arthritis And Musculoskeletal And Skin Diseases (NIAMS)
+Phone: (301) 594-8174
+E-mail: derrl@mail.nih.gov
+Nahida Chakhtoura, M.D.
+Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+Telephone: (301) 435-6872
+Email: nahida.chakhtoura@nih.gov
+Devon Oskvig, Ph.D.
+National Institute On Aging (NIA)
+Phone: (301) 496-9350
+E-mail: devon.oskvig@nih.gov
+Laura Elizabeth Kwako
+National Institute On Alcohol Abuse And Alcoholism (NIAAA)
+Phone: 301-451-8507
+E-mail: laura.kwako@nih.gov
+Marcy Esther Fitzrandolph
+National Institute On Drug Abuse (NIDA)
+Phone: 301-443-9800
+E-mail: marcy.fitz-randolph@nih.gov
+Peer Review Contact(s)
+Nick Gaiano, Ph.D.
+National Institute of Mental Health (NIMH)
+Telephone: 301-827-3420
+Email: nick.gaiano@nih.gov
+Financial/Grants Management Contact(s)
+Tamara Kees
+National Institute of Mental Health (NIMH)
+Telephone: 301-443-8811
+Email: tamara.kees@nih.gov
+Debbie Chen
+National Center for Complementary and Integrative Health (NCCIH)
+Phone: 301-594-3788
+Email: debbie.chen@nih.gov
+Erik Edgerton
+National Institute Of Arthritis And Musculoskeletal And Skin Diseases (NIAMS)
+Phone: 301-594-7760
+E-mail: erik.edgerton@nih.gov
+Margaret Young
+Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+Telephone: 301-642-4552
+Email: margaret.young@nih.gov
+Jeni Smits
+National Institute On Aging (NIA)
+Phone: (301) 827-4020
+E-mail: jeni.smits@nih.gov
+Judy Fox
+National Institute On Alcohol Abuse And Alcoholism (NIAAA)
+Phone: (301) 443-4704
+E-mail: jfox@mail.nih.gov
+Pamela G Fleming
+National Institute On Drug Abuse (NIDA)
+Phone: 301-480-1159
+E-mail: pfleming@mail.nih.gov
+Section VIII. Other Information
+Recently issued trans-NIH policy notices may affect your application submission. A full list of policy notices published by NIH is provided in the NIH Guide for Grants and Contracts. All awards are subject to the terms and conditions, cost principles, and other considerations described in the NIH Grants Policy Statement.
+Authority and Regulations
+Awards are made under the authorization of Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 45 CFR Part 75.
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+Department of Health
+and Human Services (HHS)
+NIH... Turning Discovery Into Health®
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.
