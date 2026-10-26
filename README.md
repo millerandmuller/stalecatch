@@ -26,9 +26,9 @@ The funder pages are ours and are labeled as demo pages. Detection quality is me
 ## How it works
 
 ```
-Agent (Hermes on NemoClaw) --MCP--> Memory server (FastAPI/MCP + SQLite: donors, products, edges)
+Agent (Hermes on NemoClaw) --MCP--> Memory server (FastAPI/MCP + SQLite: sources, items built from them, edges; stored as donors/products)
                                           ^
-Nightly check (Nebius Serverless Job) --> re-fetch (Tavily) --> Nano compares --> Ultra confirms + re-derives
+Check (runs as a Nebius Serverless Job) --> re-fetch (Tavily / HTTP) --> Nano compares --> Ultra confirms + re-derives
                                           Board (Sources | Built from them | Who's been told, cost panel, bench)
 ```
 
