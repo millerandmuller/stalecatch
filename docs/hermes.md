@@ -1,7 +1,7 @@
 # Hermes on NVIDIA NemoClaw, with Token Factory and the memory MCP server
 
 Verified on macOS (Apple Silicon, Docker Desktop), NemoHermes v0.0.137, Hermes Agent v0.21.3. In five scripted runs the agent called
-`remember_from_url` and `derive` through the managed MCP bridge and produced one donor plus three products with correct parents and one
+`remember_from_url` and `derive` through the managed MCP bridge and produced one source plus three items with correct parents and one
 sent message each time (19 to 27 s per run).
 
 ## 1. Serve the memory server over HTTPS with a bearer token

@@ -4,7 +4,7 @@
 
 Hosted judge mode: https://stalecatch.vercel.app, free until 2026-12-15.
 
-StaleCatch catches the moment a page your assistant relied on goes stale. Every memory keeps a **source record** (URL, fetch time, verbatim excerpt) and every **item built from it** (calendar entry, plan, sent message). A small model re-checks the sources every night. When one changes, the items built from it go on hold, a large model updates only those, and the message you already sent rises to the top of "Who's been told" with a correction drafted for you to approve. Nothing is sent automatically.
+StaleCatch catches the moment a page your assistant relied on goes stale. Every memory keeps a **source record** (URL, fetch time, verbatim excerpt) and every **item built from it** (calendar entry, plan, sent message). A small model re-checks the sources; the check is built to run nightly as a Nebius Serverless Job (it ran there on Oct 26 for under two cents, see `docs/serverless_job_run.md`). When one changes, the items built from it go on hold, a large model updates only those, and the message you already sent rises to the top of "Who's been told" with a correction drafted for you to approve. Nothing is sent automatically.
 
 The method comes from blood-bank look-back: when a donation turns out bad, trace everything made from it and recall it.
 
@@ -43,9 +43,9 @@ Nightly check (Nebius Serverless Job) --> re-fetch (Tavily) --> Nano compares --
 
 ## How we used Nemotron, Token Factory, Serverless Jobs and Tavily
 
-- **Nemotron on Token Factory:** two tiers behind one gateway. Nemotron 3 Nano watches every donor every night; Nemotron 3 Ultra double-checks every Nano alarm and re-derives only quarantined products. Every call logs the API's own usage fields; the cost receipt multiplies them by list prices and shows what "Ultra checks everything" would have cost. Nano answers in about 1.7 s per call with reasoning off (measured; 16 s with reasoning on).
+- **Nemotron on Token Factory:** two tiers behind one gateway. Nemotron 3 Nano watches every source (the check is built to run nightly as a Nebius Serverless Job; it ran there on Oct 26 for under two cents (see `docs/serverless_job_run.md`)); Nemotron 3 Ultra double-checks every Nano alarm and re-derives only quarantined products. Every call logs the API's own usage fields; the cost receipt multiplies them by list prices and shows what "Ultra checks everything" would have cost. Nano answers in about 1.7 s per call with reasoning off (measured; 16 s with reasoning on).
 - **Nebius Serverless Jobs:** the nightly check is a container job (`Dockerfile`, command `python -m donor_lookback.job`). Ran as a Nebius Serverless Job on 2026-10-26: 2 sources, 1 changed, 3 items re-derived, $0.0167 (log in `docs/serverless_job_run.md`). The same code runs from the board button.
-- **Tavily:** extract re-fetches public donor URLs; a changed page is what triggers the recall.
+- **Tavily:** extract re-fetches public source URLs; a changed page is what triggers the recall.
 - **Agent shell:** Hermes on NVIDIA NemoClaw calls the memory server over MCP.
 
 ## Archive replay bench
@@ -68,7 +68,7 @@ Nightly check (Nebius Serverless Job) --> re-fetch (Tavily) --> Nano compares --
 
 **Next cycle posted.** Deep review's third verdict (`superseded` in the data) means: old date already passed at the after-snapshot, new date in a later cycle. The board shows it as "Next cycle posted" with the line "The page now shows the next cycle's deadline. The date you saved belonged to a cycle that has closed. Nothing you sent is wrong."
 
-**What "not compared" means.** For a pair, the model first has to quote a dated line from the *before* page. When it cannot produce a line that appears verbatim on the page and states a date, no donor is stored and Nano and Ultra never see the pair. Such pairs are listed in the report (`no_donor`), counted as misses when they are real changes, and left out of the false-alarm denominator when they are controls. In the last run this hit `RFA-RM-22-016` (a verified real change, counted as a miss) and the controls `pims_id=5228`, `5741` and `504793` (archived NSF pages whose text names a "Due Dates" heading but no date). An earlier run printed "0 false alarms on 13 controls", which overstated the test: only 10 controls were ever compared.
+**What "not compared" means.** For a pair, the model first has to quote a dated line from the *before* page. When it cannot produce a line that appears verbatim on the page and states a date, no source record is stored and Nano and Ultra never see the pair. Such pairs are listed in the report (`no_donor`), counted as misses when they are real changes, and left out of the false-alarm denominator when they are controls. In the last run this hit `RFA-RM-22-016` (a verified real change, counted as a miss) and the controls `pims_id=5228`, `5741` and `504793` (archived NSF pages whose text names a "Due Dates" heading but no date). An earlier run printed "0 false alarms on 13 controls", which overstated the test: only 10 controls were ever compared.
 
 **The one false alarm** after deep review is `ukri.org/opportunity/`, a rotating listing of many funding calls rather than one program page. Ultra judged that the stored line had been replaced by a newer set of calls ("superseded"). That is a defensible reading of a listing page, and it is counted as a false alarm here.
 
@@ -89,4 +89,4 @@ The hosted judge board at https://stalecatch.vercel.app runs `app.py` on Vercel 
 
 ## Limits
 
-No real email, chat or calendar sending (outbox and calendar are internal views). Nightly cadence plus a manual button, no real-time monitoring. Only registered donor URLs are fetched.
+No real email, chat or calendar sending (outbox and calendar are internal views). Built for a nightly cadence (no schedule is set up; it ran once as a Job) plus a manual button, no real-time monitoring. Only registered source URLs are fetched.
