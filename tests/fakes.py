@@ -55,7 +55,7 @@ class FakeModels:
             return _resp({"verdict": kind, "field": "deadline", "new_claim": "Deadline: " + new, "new_excerpt": new, "reason": "confirmed" if ok else "no real change"}, 900, 80)
         if "re-derive one item" in system:
             self.calls.append((model, "rederive"))
-            from datetime import timedelta
+            from datetime import date, timedelta
             from donor_lookback.dates import deadline_of
             deadline = deadline_of(re.search(r"NEW excerpt: (.*)", user).group(1).strip())
             kind = re.search(r"ITEM kind: (.*)", user).group(1).strip()
@@ -63,15 +63,20 @@ class FakeModels:
 
             def short(d):
                 return f"{d.strftime('%b')} {d.day}"
+
+            def before(days):
+                # work back from the deadline, but never land on or before today (the date check would reject it)
+                return max(deadline - timedelta(days=days), min(date.today() + timedelta(days=days_floor), deadline))
+            days_floor = 1
             full = f"{deadline.strftime('%B')} {deadline.day}, {deadline.year}"
             if sent:
                 return _resp({"content": "Replaced by correction.",
                               "correction_draft": (f"Hi Sam, the Small Grants deadline is now {short(deadline)}, not Nov 19. Could you send the budget "
-                                                   f"and 990 by {short(deadline - timedelta(days=14))} instead of Nov 10? I'll have the full draft to "
-                                                   f"you by {short(deadline - timedelta(days=7))} instead of Nov 12.")}, 1200, 90)
+                                                   f"and 990 by {short(before(14))} instead of Nov 10? I'll have the full draft to "
+                                                   f"you by {short(before(7))} instead of Nov 12.")}, 1200, 90)
             if kind == "plan":
-                return _resp({"content": (f"Moved earlier: documents by {short(deadline - timedelta(days=14))}, draft by "
-                                          f"{short(deadline - timedelta(days=7))}, submit by {short(deadline - timedelta(days=1))}."),
+                return _resp({"content": (f"Moved earlier: documents by {short(before(14))}, draft by "
+                                          f"{short(before(7))}, submit by {short(before(1))}."),
                               "correction_draft": ""}, 1200, 90)
             return _resp({"content": f"Updated: due {full}.", "correction_draft": ""}, 1200, 90)
         raise AssertionError("unexpected prompt: " + system[:60])

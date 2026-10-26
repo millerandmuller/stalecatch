@@ -360,3 +360,34 @@ const {{ createReplay, playFrames }} = require({json.dumps(str(web))});
 """)
     out = json.loads(subprocess.run([node, str(script)], capture_output=True, text=True, check=True).stdout)
     assert out == {"finished": False, "shown": [1, 2, 9], "ok2": True, "firstOwns": False}
+
+
+def test_run_clicked_mid_replay_stops_the_replay_frames():
+    """board.js runCheck() must take the board back: no replay frame is painted after the click."""
+    import shutil
+    import subprocess
+    node = shutil.which("node")
+    if not node:
+        pytest.skip("node not installed")
+    harness = Path(__file__).resolve().parent / "board_replay_harness.js"
+    out = json.loads(subprocess.run([node, str(harness)], capture_output=True, text=True, check=True, timeout=30).stdout)
+    assert out["errors"] == []
+    assert out["before"][0] == "f1" and len(out["before"]) < 4  # the replay was under way when Run was clicked
+    assert out["replayFramesAfterRun"] == []
+
+
+def test_recording_urls_point_at_the_hosted_board():
+    """data/recorded_run.json carries the hosted demo page paths, not the recording machine's 127.0.0.1."""
+    rec = (Path(__file__).resolve().parent.parent / "data" / "recorded_run.json").read_text()
+    assert "127.0.0.1" not in rec and "localhost" not in rec
+    urls = {d["url"] for f in json.loads(rec)["frames"] for d in f["state"]["donors"]}
+    assert urls == {"https://stalecatch.vercel.app/demo/funder", "https://stalecatch.vercel.app/demo/control"}
+
+
+def test_rewrite_base_swaps_only_the_board_address():
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("record_run", Path(__file__).resolve().parent.parent / "scripts" / "record_run.py")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    assert mod.rewrite_base('{"url": "http://127.0.0.1:8000/demo/funder"}', "http://127.0.0.1:8000/", "https://x.example/") \
+        == '{"url": "https://x.example/demo/funder"}'

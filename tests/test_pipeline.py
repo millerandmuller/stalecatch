@@ -1,3 +1,4 @@
+import re
 from donor_lookback import cascade
 from donor_lookback.fetcher import FetchResult
 from donor_lookback.gateway import GatewayError
@@ -262,7 +263,11 @@ def test_every_rederived_date_falls_on_or_before_the_new_deadline(env):
                 quoted_old = p["correction_draft"] == text and (d.month, d.day) in {(11, 10), (11, 12), (11, 19)}
                 assert d <= deadline or quoted_old, (p["id"], text)
     draft = env.store.get_product("prod_msg")["correction_draft"]
-    assert "still stand" not in draft.lower() and "Oct 26" in draft and "Nov 2" in draft  # earlier dates are proposed
+    assert "still stand" not in draft.lower() and "Nov 2" in draft  # earlier dates are proposed
+    from datetime import date, datetime
+    docs_by = re.search(r"by (\w+ \d+) instead of Nov 10", draft).group(1)
+    docs_date = datetime.strptime(f"{docs_by} 2026", "%b %d %Y").date()
+    assert date.today() < docs_date < date(2026, 11, 10)  # moved earlier than the old date, still after today
 
 
 def test_ultra_update_that_lands_after_the_deadline_is_retried_then_refused(env):
