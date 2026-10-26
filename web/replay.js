@@ -1,12 +1,16 @@
 // Replay ownership: a recorded replay drives the board only until Reset or Run takes it back.
 // Each start() hands out a token; stop() invalidates every token handed out so far.
+// A replay is read-only: "Approve correction" pressed during it is remembered here, never sent to the server,
+// and forgotten when the replay starts again or the board is taken back.
 function createReplay() {
-  let token = 0, active = false;
+  let token = 0, active = false, approved = new Set();
   return {
-    start() { active = true; return ++token; },
-    stop() { token += 1; active = false; },
+    start() { active = true; approved = new Set(); return ++token; },
+    stop() { token += 1; active = false; approved = new Set(); },
     owns(t) { return t === token; },
     isActive() { return active; },
+    approve(productId) { if (active) approved.add(productId); },
+    isApproved(productId) { return active && approved.has(productId); },
   };
 }
 

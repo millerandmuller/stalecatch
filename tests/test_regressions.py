@@ -391,3 +391,33 @@ def test_rewrite_base_swaps_only_the_board_address():
     spec.loader.exec_module(mod)
     assert mod.rewrite_base('{"url": "http://127.0.0.1:8000/demo/funder"}', "http://127.0.0.1:8000/", "https://x.example/") \
         == '{"url": "https://x.example/demo/funder"}'
+
+
+def test_phone_widths_get_a_normal_radius_on_the_pill_surfaces():
+    """Below 640px the header and ticker wrap to several lines; a 999px radius would turn them into an oval."""
+    import re
+    css = (Path(__file__).resolve().parent.parent / "web" / "board.css").read_text()
+    assert re.search(r"\.pill\s*\{\s*border-radius:\s*999px", css)  # wide screens keep the pill
+    phone = re.search(r"@media \(max-width: 640px\)\s*\{(.*)\}", css)
+    assert phone, "no 640px media block"
+    assert re.search(r"\.pill\s*\{\s*border-radius:\s*24px", phone.group(1))
+
+
+def test_public_board_phone_behaviour_visible_reason_and_replay_approve():
+    """Judge mode without credentials: a visible line explains the disabled buttons (phones show no title tooltip),
+    and Approve pressed during a replay greens only the replayed card with no server call (the seed has no draft, so it would 409)."""
+    import shutil
+    import subprocess
+    node = shutil.which("node")
+    if not node:
+        pytest.skip("node not installed")
+    harness = Path(__file__).resolve().parent / "board_phone_harness.js"
+    out = json.loads(subprocess.run([node, str(harness)], capture_output=True, text=True, check=True, timeout=30).stdout)
+    assert out["noteBeforeReplay"] == {"text": "Live checks run locally; this public demo replays a recorded run.", "hidden": False}
+    assert out["before"]["card"] == "card s-changed has-rule" and out["before"]["count"] == "1 needs correction"
+    assert out["approveCalls"] == []
+    assert out["afterCard"] == "card s-rederived has-rule"
+    assert out["afterCount"] == "1 current"
+    assert out["approvedLine"].startswith("✓ Approved.") and out["approvedLine"].endswith("(replay: nothing sent or stored)")
+    assert out["stillHasApproveButton"] is False
+    assert out["approvedAfterStop"] is False  # Reset or Run takes the board back and forgets the replay approval

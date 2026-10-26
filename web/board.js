@@ -126,27 +126,36 @@ function toldLine(p, affected) {
 
 function recipientName(p) { return (p.recipient || "Recipient").replace(/\s*\(.*$/, ""); }
 
+// Approved on the server, or approved inside the current replay (which never touches the server).
+const isApproved = (p) => Boolean(p.correction_approved) || replay.isApproved(p.id);
+
 function recipientCard(p, first) {
   const affected = p.status === "rederived" || p.status === "quarantined";
-  const tone = !affected ? "s-released" : p.status === "quarantined" ? "s-quarantined has-rule" : p.correction_approved ? "s-rederived has-rule" : "s-changed has-rule";
+  const approved = isApproved(p);
+  const tone = !affected ? "s-released" : p.status === "quarantined" ? "s-quarantined has-rule" : approved ? "s-rederived has-rule" : "s-changed has-rule";
   const c = h("div", `card ${tone}`);  // red while the message went out with the old deadline, amber while on hold, green once the correction is approved
   c.dataset.id = p.id;
   c.append(h("span", "rule"));
   if (affected && first) c.append(h("div", "recip-lead", `${toldLine(p, true)} ${S.correctionPrepared}`));
   const top = h("div", "card-top");
   const stateLabel = p.status === "source_unavailable" ? S.productState.source_unavailable
-    : !affected ? S.productState.released : (p.correction_approved ? S.correctionApproved : (p.status === "quarantined" ? S.productState.quarantined : S.sentWithOld));
-  top.append(h("div", "kind", p.recipient || "recipient"), chip(affected && p.status === "rederived" && !p.correction_approved ? "" : "", stateLabel, affected ? (p.status === "quarantined" ? "half" : "full") : ""));
+    : !affected ? S.productState.released : (approved ? S.correctionApproved : (p.status === "quarantined" ? S.productState.quarantined : S.sentWithOld));
+  top.append(h("div", "kind", p.recipient || "recipient"), chip(affected && p.status === "rederived" && !approved ? "" : "", stateLabel, affected ? (p.status === "quarantined" ? "half" : "full") : ""));
   c.append(top, h("div", "title", p.title));
   if (!(affected && first)) c.append(h("div", "told", toldLine(p, affected)));
   c.append(h("div", "body mono", p.sent_content || p.content));
   if (p.correction_draft) {
     const dr = h("div", "draft");
     dr.append(h("div", "label", S.correctionDraft), h("p", "", p.correction_draft));
-    if (p.correction_approved) dr.append(h("div", "approved", `✓ ${S.approved}`));
+    if (approved) dr.append(h("div", "approved", `✓ ${S.approved}${p.correction_approved ? "" : ` ${S.approvedReplay}`}`));
     else {
       const b = h("button", "", S.approve);
-      b.addEventListener("click", async () => { await api(`/api/products/${p.id}/approve`, { method: "POST" }); refresh(); });
+      b.addEventListener("click", async () => {
+        // The replayed card has no draft on the live server (409), so during a replay only this card changes.
+        if (replay.isActive()) { replay.approve(p.id); render(); return; }
+        try { await api(`/api/products/${p.id}/approve`, { method: "POST" }); await refresh(); }
+        catch (err) { setTicker(err.message, "red", "error"); }
+      });
       dr.append(b);
     }
     c.append(dr);
@@ -192,7 +201,7 @@ function renderCounts() {
   const held = products.filter((p) => p.status === "quarantined").length, updated = products.filter((p) => p.status === "rederived").length;
   setCount("countProducts", held ? `${held} on hold` : updated ? `${updated} updated` : `${products.length} current`, held ? "amber" : updated ? "green" : "");
   const rHeld = recips.filter((p) => p.status === "quarantined").length;
-  const rNeeds = recips.filter((p) => p.status === "rederived" && !p.correction_approved).length;
+  const rNeeds = recips.filter((p) => p.status === "rederived" && !isApproved(p)).length;
   const rGone = recips.filter((p) => p.status === "source_unavailable").length;
   setCount("countRecipients", rHeld ? `${rHeld} on hold` : rNeeds ? `${rNeeds} needs correction` : rGone ? `${rGone} source unavailable` : `${recips.length} current`, rHeld ? "amber" : rNeeds ? "red" : "");
 }
@@ -241,6 +250,10 @@ function render() {
   $("runBtn").title = note;
   $("editBtn").disabled = config.judge_mode && !config.live_ready;  // the server refuses edits it cannot follow with a run
   $("editBtn").title = $("editBtn").disabled ? note : "";
+  // Phones never show a title tooltip, so the reason for the disabled buttons is also a visible line under them.
+  const reason = !config.live_ready && config.judge_mode ? S.liveOffPublic : note;
+  $("controlsNote").textContent = reason;
+  $("controlsNote").hidden = !reason;
   $("demoNote").textContent = S.demoNote + (note ? " " + note : "");
 }
 
