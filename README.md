@@ -44,7 +44,7 @@ Nightly check (Nebius Serverless Job) --> re-fetch (Tavily) --> Nano compares --
 ## How we used Nemotron, Token Factory, Serverless Jobs and Tavily
 
 - **Nemotron on Token Factory:** two tiers behind one gateway. Nemotron 3 Nano watches every donor every night; Nemotron 3 Ultra double-checks every Nano alarm and re-derives only quarantined products. Every call logs the API's own usage fields; the cost receipt multiplies them by list prices and shows what "Ultra checks everything" would have cost. Nano answers in about 1.7 s per call with reasoning off (measured; 16 s with reasoning on).
-- **Nebius Serverless Jobs:** the nightly check is a container job (`Dockerfile`, command `python -m donor_lookback.job`). The same code runs from the board button.
+- **Nebius Serverless Jobs:** the nightly check is a container job (`Dockerfile`, command `python -m donor_lookback.job`). Ran as a Nebius Serverless Job on 2026-10-26: 2 sources, 1 changed, 3 items re-derived, $0.0167 (log in `docs/serverless_job_run.md`). The same code runs from the board button.
 - **Tavily:** extract re-fetches public donor URLs; a changed page is what triggers the recall.
 - **Agent shell:** Hermes on NVIDIA NemoClaw calls the memory server over MCP.
 
